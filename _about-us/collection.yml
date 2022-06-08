@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - DSA/.keep
-      - Direct School Admission (DSA) 2022.md
       - Our Staff.md
       - East Zone COE Sports.md
       - School Heritage.md
