@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Corporate Video.md
       - Contact Us.md
       - Announcements.md
       - FAQs.md
