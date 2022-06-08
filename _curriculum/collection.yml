@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - i SCoRe.md
       - Art.md
       - Music.md
       - Malay Language.md
