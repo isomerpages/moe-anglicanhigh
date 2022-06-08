@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - AHSMB/.keep
-      - AHSMB Scholarship Programme.md
       - Character & Citizenship Education.md
