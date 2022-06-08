@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - English Language & Literature.md
       - Chinese Language & Literature.md
       - Chinese Language Elective Programme.md
       - Mathematics.md
