@@ -18,3 +18,16 @@ To encourage students to take the lead in championing environmental-friendly pra
 - Assist in the running of school environmental campaigns. E.g.  AHS E-waste challenge.  
 - Conduct a biodiversity survey of the birds sighted in school using the SGBioAtlas app.
 
+![ea1](/images/Environmental_Ambassadors_01.jpg)
+![ea2](/images/Environmental_Ambassadors_03.jpg)
+![ewaste](/images/E-waste_collection_01.jpg)
+
+### Rain Garden
+The Rain Garden was set up in collaboration with the Public Utilities Board (PUB) in 2016. It provides an outdoor classroom for experiential learning in the Secondary One Geography curriculum. Students learn the purpose and value of the Rain Garden, which acts as a natural filtration method for water, hence reducing resources in purifying water in urban areas.
+
+![garden](/images/garden.png)
+
+### Vertical Farming
+As an extension of the Science curriculum, Secondary One students will have hands-on learning on vertical farming. Students take ownership of the individual plants they grow, from planting, monitoring of water nutrients level to harvesting.
+
+![vf](/images/Vertical_farming_01.jpg)
