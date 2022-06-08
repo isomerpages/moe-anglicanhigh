@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Basic Non Financial Information.md
       - AHS Newsletter.md
       - DSA/Uniform Groups (UG).md
       - DSA/Sports.md
