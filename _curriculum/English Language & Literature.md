@@ -25,4 +25,3 @@ To develop empathetic communicators, discerning readers and creative inquirers o
 "Teaching has to evolve continually. This novelty brings joy to the classroom and keeps monotony at bay. English is replete with inconsistencies and irregularities. Yet these only add to the beauty of the language. Teaching English has filled my entire life with purpose and love that has only multiplied over time."
 
 -- Mrs. Jamuna Mohan Teacher (English)
-
