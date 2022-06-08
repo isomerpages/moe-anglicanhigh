@@ -2,5 +2,6 @@ collections:
   student-development:
     output: true
     order:
+      - AHSMB/AHSMB Scholarship Programme.md
       - AHSMB/.keep
       - Character & Citizenship Education.md
