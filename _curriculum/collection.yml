@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Key Curriculum Approaches.md
       - English Language & Literature.md
       - Chinese Language & Literature.md
       - Chinese Language Elective Programme.md
@@ -13,4 +14,3 @@ collections:
       - Music.md
       - Malay Language.md
       - Physical Education.md
-      - Key Curriculum Approaches.md
