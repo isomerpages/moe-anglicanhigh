@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - DSA/Sports.md
       - DSA/Performing Arts (PA).md
       - DSA/Language.md
       - DSA/Club.md
