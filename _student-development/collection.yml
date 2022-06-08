@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Values in Action.md
       - Appreciation of Chinese Culture.md
       - Environment Education.md
       - Sexuality Education.md
