@@ -2,8 +2,9 @@ collections:
   student-development:
     output: true
     order:
-      - CCA/Co Curricular Activities.md
+      - Character & Citizenship Education.md
       - CCA/.keep
+      - CCA/Co Curricular Activities.md
       - Student Leadership.md
       - Student Well Being.md
       - Values in Action.md
@@ -13,7 +14,6 @@ collections:
       - Overseas Experience.md
       - Learning Technology.md
       - Talent Development.md
+      - AHSMB/.keep
       - AHSMB/Eligibility and Application Process.md
       - AHSMB/AHSMB Scholarship Programme.md
-      - AHSMB/.keep
-      - Character & Citizenship Education.md
