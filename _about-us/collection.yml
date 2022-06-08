@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - DSA/Club.md
       - DSA/Direct School Admission (DSA) 2022.md
       - DSA/.keep
       - Our Staff.md
