@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parents.md
       - Alumni.md
       - Chaplaincy.md
       - Learning & Community Partners.md
