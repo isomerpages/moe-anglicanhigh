@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Anglican House/Fees.md
       - Anglican House/Anglican House.md
       - Anglican House/.keep
