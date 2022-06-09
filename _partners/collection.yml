@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - Anglican House/.keep
       - Anglican House.md
