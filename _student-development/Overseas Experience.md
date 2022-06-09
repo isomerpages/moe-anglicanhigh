@@ -22,7 +22,7 @@ Our signature overseas programmes are:
 
 			“此次的交流活动为中新两国姊妹校提供了一个相互交流、加深了解、增进友谊的平台，同时也为学生提供了一个难得的认识中华文化及学习现代科技的机会。”——叶梦祥主任</p>
 
-“‘读万卷书，不如行万里路’，这次的浸濡活动让我增长了许多书本以外的知识。它教会了我如何照顾好自己和他人，没了父母的陪伴，不仅一种新鲜的体验， 也是一种成长。”——胡涵琪（ 2K）</p>
+“‘读万卷书，不如行万里路’，这次的浸濡活动让我增长了许多书本以外的知识。它教会了我如何照顾好自己和他人，没了父母的陪伴，不仅一种新鲜的体验， 也是一种成长。”——胡涵琪（ 2K）
 <p><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>			
 			</p>
     </div>
@@ -32,11 +32,11 @@ Our signature overseas programmes are:
     <label for="accordion2">The Australian Connection</label>
     <div>
       <p>May 2019</p>
-23 Secondary Three students and three teachers set off for the annual AHS Australian Connection programme, which provides unique opportunities for our Bicultural Scholars to experience cross-cultural communication and develop critical thinking skills. Beyond cultural workshop ice-breakers, the students embarked on a ‘Future Problem-solving with Cultural Intelligence’ project with St. Andrew’s Anglican College.</p>
+<p>23 Secondary Three students and three teachers set off for the annual AHS Australian Connection programme, which provides unique opportunities for our Bicultural Scholars to experience cross-cultural communication and develop critical thinking skills. Beyond cultural workshop ice-breakers, the students embarked on a ‘Future Problem-solving with Cultural Intelligence’ project with St. Andrew’s Anglican College.</p>
 
-Our AHS students engaged their Australian peers in daily debates and collaborated on a presentation (carried out on the last day). They had the opportunity to explore contemporary Singapore issues, comparing these with those in the Australian context to get a better understanding of our local policies. With their refreshed outlook, these sessions helped build our students’ confidence in articulating their points.</p>
+<p>Our AHS students engaged their Australian peers in daily debates and collaborated on a presentation (carried out on the last day). They had the opportunity to explore contemporary Singapore issues, comparing these with those in the Australian context to get a better understanding of our local policies. With their refreshed outlook, these sessions helped build our students’ confidence in articulating their points.</p>
 
-The group experienced diverse aspects of Australia’s culture through various places of interest! Of note, they were thrilled to make the ascent on Mount Coolum; what surfaced were their grit and resilience.</p>
+<p>The group experienced diverse aspects of Australia’s culture through various places of interest! Of note, they were thrilled to make the ascent on Mount Coolum; what surfaced were their grit and resilience.</p>
 
 <p>Tai Wing Xin (3K) &amp; Sie Jin See Valencia (3K):</p>
 I am managed to talk to a few people that I’ve never talked to before this trip and learn more about them. This gives me a sense of accomplishment as one of my goals was to learn to be able to talk more confidently to people even though I am shy. I am also proud that I made the first step to talk to them which I do not usually do.</p>
@@ -53,7 +53,7 @@ I learnt a lot about the importance of being well versed on issues not just in S
     <label for="accordion3">Twinning Programme with Maktab Sultan Abu Bakar (English) College, Johor Bahru, Malaysia</label>
     <div>
       <p>25 July 2019</p>
-It was an opportunity for the Secondary Three students in the Malay Special Programme (MSP) to experience various aspects of culture of our twinning school across the border in Johor, Malaysia. Students were immersed in the classroom setting at MSAB and had the chance to experience how lessons were conducted and see the differences and similarities between both schools. This programme also provided a platform for them to practise their conversations in the Malay language with their buddies.</p>
+<p>It was an opportunity for the Secondary Three students in the Malay Special Programme (MSP) to experience various aspects of culture of our twinning school across the border in Johor, Malaysia. Students were immersed in the classroom setting at MSAB and had the chance to experience how lessons were conducted and see the differences and similarities between both schools. This programme also provided a platform for them to practise their conversations in the Malay language with their buddies.</p>
 
 <p>A Cultural Enrichment Programme was also organised for Secondary Two cohort to be exposed to elements of the Malay culture which are topics covered in the Conversational Malay syllabus. Students played the Kompang (a handheld drum commonly used in wedding festivities), painted on a pre-waxed cloth with Batik designs and tried the basic techniques of Silat (martial arts practised in Malay archipelago).</p>
 
@@ -73,11 +73,11 @@ It was an opportunity for the Secondary Three students in the Malay Special Prog
       <p>November 2019</p>
 <p>Every year, selected student leaders have the opportunity to go to Chiang Mai, Thailand, for an enriching leadership experience on the Overseas Community Involvement Project.</p>
 
-As part of the Servant Leadership programme, these student leaders collaborate with the locals to provide a service to the villagers. As they work on the tasks for the village, they would need to adapt quickly to an unfamiliar environment while looking out for one another and ensuring each other's safety and well-being.</p>
+<p>As part of the Servant Leadership programme, these student leaders collaborate with the locals to provide a service to the villagers. As they work on the tasks for the village, they would need to adapt quickly to an unfamiliar environment while looking out for one another and ensuring each other's safety and well-being.</p>
 
-"I felt that the interaction with the kindergarten children was truly memorable. Through skits in Chinese, I was able to engage and empathise with the children in my class. Mural painting was another meaningful activity which not only added colour to their lives but also helped us give back to the community. OCIP provided me with a unique and enriching platform to expand my views of the world, forcing me to step out of my comfort zone to experience a different way of life." Leong En Hao, 4D 2020</p>
+<p>"I felt that the interaction with the kindergarten children was truly memorable. Through skits in Chinese, I was able to engage and empathise with the children in my class. Mural painting was another meaningful activity which not only added colour to their lives but also helped us give back to the community. OCIP provided me with a unique and enriching platform to expand my views of the world, forcing me to step out of my comfort zone to experience a different way of life." Leong En Hao, 4D 2020</p>
  
-"I clearly remember the road-paving activity. The whole process required much coordination and teamwork from everybody. Despite feeling tired and sore, I reminded myself to persevere.  Other-centredness was one leadership quality that I learnt from OCIP. There were numerous times when teammates placed others before themselves as they empathised with those who felt tired or worn out from the activities that they were engaged in.  Through this activity, I have learnt to take the initiative to help others when they need it, and do the right thing for others." Joseph Wee, 4F 2020</p>
+<p>"I clearly remember the road-paving activity. The whole process required much coordination and teamwork from everybody. Despite feeling tired and sore, I reminded myself to persevere.  Other-centredness was one leadership quality that I learnt from OCIP. There were numerous times when teammates placed others before themselves as they empathised with those who felt tired or worn out from the activities that they were engaged in.  Through this activity, I have learnt to take the initiative to help others when they need it, and do the right thing for others." Joseph Wee, 4F 2020</p>
 			
 <p><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></p>
     </div>
