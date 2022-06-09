@@ -2,10 +2,10 @@ collections:
   partners:
     output: true
     order:
-      - Anglican House/Facilities.md
-      - Anglican House/Check In & Check Out Procedures.md
-      - Anglican House/Rules & Regulations.md
-      - Anglican House/Services.md
-      - Anglican House/Fees.md
-      - Anglican House/Anglican House.md
       - Anglican House/.keep
+      - Anglican House/Anglican House.md
+      - Anglican House/Fees.md
+      - Anglican House/Services.md
+      - Anglican House/Rules & Regulations.md
+      - Anglican House/Check In & Check Out Procedures.md
+      - Anglican House/Facilities.md
