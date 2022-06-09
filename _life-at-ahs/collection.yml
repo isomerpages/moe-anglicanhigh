@@ -2,6 +2,7 @@ collections:
   life-at-ahs:
     output: true
     order:
+      - Camp Engage.md
       - Chinese New Year.md
       - AHS Family Fiesta.md
       - Founders' Day.md
