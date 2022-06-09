@@ -30,6 +30,5 @@ CHAMPS Advocates was set up in 2013 as an offshoot of PSG specially for parents 
 
 
 <img src="/images/champs.png">
-
   
 Our Advocates have ignited the passion in our students by opening up their workplaces on "Bring Your Child to Work Day", and sharing their professional experience with our students on AHS Career Day.
