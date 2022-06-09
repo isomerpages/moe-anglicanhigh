@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Character & Citizenship Education.md
+      - CCA/Chinese Drama.md
       - CCA/Chinese Orchestra.md
       - CCA/Choir.md
       - CCA/Concert Band.md
