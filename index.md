@@ -29,9 +29,18 @@ sections:
       url: /life-at-ahs/chill-at-ahs
       image: /images/square3.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: Broadening Our Horizons
+      button: click here
+      url: /student-development/overseas-experience
+      image: /images/square4.jpg
+  - infopic:
+      title: Our Proud Heritage
+      button: click here
+      url: /about-us/school-heritage
+      image: /images/square5.jpg
+  - infopic:
+      title: The Future Is Now!
+      button: click here
+      url: /student-development/learning-technology
+      image: /images/square6.jpg
 ---
