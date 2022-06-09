@@ -2,6 +2,7 @@ collections:
   life-at-ahs:
     output: true
     order:
+      - National Day.md
       - Teachers’ Day.md
       - Mid Autumn Festival.md
       - Sec 1 Showcase Day.md
