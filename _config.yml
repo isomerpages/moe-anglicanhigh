@@ -2,11 +2,11 @@ title: Anglican High School
 url: ""
 favicon: /images/AHS LOGO.gif
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#1a7323"
+  secondary-color: "#f6f7f8"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#ed4025"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
