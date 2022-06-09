@@ -23,4 +23,15 @@ sections:
       button: click here
       url: /student-development/talent-development
       image: /images/square2.jpg
+  - infopic:
+      title: Life In AHS
+      button: click here
+      url: /life-at-ahs/chill-at-ahs
+      image: /images/square3.jpg
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
