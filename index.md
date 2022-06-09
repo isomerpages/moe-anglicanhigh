@@ -23,25 +23,29 @@ sections:
       button: click here
       url: /student-development/talent-development
       image: /images/square2.jpg
+      alt: Image alt text
   - infopic:
       title: Life In AHS
       button: click here
       url: /life-at-ahs/chill-at-ahs
       image: /images/square3.jpg
+      alt: Image alt text
   - infopic:
       title: Broadening Our Horizons
       button: click here
       url: /student-development/overseas-experience
       image: /images/square4.jpg
+      alt: Image alt text
   - infopic:
       title: Our Proud Heritage
       button: click here
       url: /about-us/school-heritage
       image: /images/square5.jpg
+      alt: Image alt text
   - infopic:
       title: The Future Is Now!
       button: click here
       url: /student-development/learning-technology
       image: /images/square6.jpg
+      alt: Image alt text
 ---
-
