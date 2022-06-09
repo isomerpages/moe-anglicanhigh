@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Character & Citizenship Education.md
+      - CCA/Choir.md
       - CCA/Concert Band.md
       - CCA/English Drama.md
       - CCA/Guitar Ensemble.md
