@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Learning & Community Partners.md
       - Overseas Partners.md
       - Anglican House/.keep
       - Anglican House/Anglican House.md
