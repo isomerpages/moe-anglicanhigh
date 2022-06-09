@@ -18,4 +18,9 @@ sections:
       url: /student-development/co-curricular-activities
       image: /images/square1.jpg
       alt: Image alt text
+  - infopic:
+      title: Soar At AHS
+      button: click here
+      url: /student-development/talent-development
+      image: /images/square2.jpg
 ---
