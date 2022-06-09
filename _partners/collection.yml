@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Overseas Partners.md
       - Anglican House/.keep
       - Anglican House/Anglican House.md
       - Anglican House/Fees.md
