@@ -12,13 +12,14 @@ sections:
         - title: AHS Direcet School Admission 2022
           description: Find out more about DSA @ AHS
           url: /about-us/direct-school-admission-dsa-2022
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Shine at AHS
+      button: Find out more
+      url: /student-development/co-curricular-activities
+  - infopic:
+      title: Shine At AHS
+      button: Click here
+      url: /student-development/co-curricular-activities
+      image: /images/square1.jpg
+      alt: Image alt text
 ---
