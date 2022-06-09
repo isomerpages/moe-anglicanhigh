@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Anglican High School
+description: Anglican High School
+image: /images/AHS LOGO.gif
 permalink: /
 notification: ""
 sections:
@@ -44,3 +44,4 @@ sections:
       url: /student-development/learning-technology
       image: /images/square6.jpg
 ---
+
