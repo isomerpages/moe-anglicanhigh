@@ -2,6 +2,7 @@ collections:
   life-at-ahs:
     output: true
     order:
+      - Chill@AHS.md
       - Camp Engage.md
       - Chinese New Year.md
       - AHS Family Fiesta.md
@@ -12,4 +13,3 @@ collections:
       - Teachers’ Day.md
       - Mid Autumn Festival.md
       - Sec 1 Showcase Day.md
-      - Chill@AHS.md
