@@ -11,7 +11,11 @@ The Secondary One Registration process is entirely online. Please DO NOT come to
 
 Please visit the AHS Sec One Registration site at https://sites.google.com/a/moe.edu.sg/sec-1-registration-december-2021 for information pertaining to Secondary One Registration.
 
-![qr](/images/qr.png)
+
+
+
+<img src="/images/qr.png">
+
 
 Thank you.
 
@@ -22,6 +26,4 @@ If you have any questions regarding Sec 1 Posting and related matters, please em
 
 **Shine@AHS**
 
-Join us for our e-Open House! View our 3D virtual galleries, interact with Student Guides as they bring you around AHS and find out more about AHS through our live Q&A.
-
-
+Join us for our e-Open House! View our 3D virtual galleries, interact with Student Guides as they bring you around AHS and find out more about AHS through our live Q&amp;A.
