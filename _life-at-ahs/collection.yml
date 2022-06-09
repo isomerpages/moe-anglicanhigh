@@ -2,6 +2,7 @@ collections:
   life-at-ahs:
     output: true
     order:
+      - Founders' Day.md
       - Mother Tongue Fortnight.md
       - Student Leaders’ Investiture.md
       - National Day.md
