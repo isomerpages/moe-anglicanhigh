@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Character & Citizenship Education.md
+      - CCA/Harmonica Ensemble.md
       - CCA/Modern Dance.md
       - CCA/.keep
       - CCA/Co Curricular Activities.md
