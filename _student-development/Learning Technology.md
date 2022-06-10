@@ -7,7 +7,7 @@ The AHS Creators’ programme is a 3-year integrated programme where each studen
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion1" type="checkbox">
+    <input type="checkbox" id="accordion1">
     <label for="accordion1">Artificial Intelligence &amp; Python Coding</label>
     <div>
       <p>Our Secondary Two students undergo a semester-long module on Artificial Intelligence (AI) and Python Coding. Through lessons on the history and development of AI, students are better able to appreciate its real-life applications. Not only do they learn the basics of Python coding and apply it to control a virtual car, they also learn how images are processed using key facial detection points  to make animated GIFs.</p>
@@ -17,33 +17,16 @@ The AHS Creators’ programme is a 3-year integrated programme where each studen
 <!-- CSS Code -->
 <style type="text/css">
 img.GeneratedImage {
-width:700px;height:500px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+width:650px;height:500px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
 }
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Learning_Tech/2021_LT_AI_01.JPG">
-
-<p>Proud creators of the completed drone.</p>				
-				
-<!-- Codes by HTML.am -->
-
-<!-- CSS Code -->
-<style type="text/css">
-img.GeneratedImage {
-width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
-}
-</style>
-
-<!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Learning_Tech/Drone_03.jpg">
-
-
-<p>Students posing with their completed drone after testing its flight.</p>
+<img src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Learning_Tech/2021_LT_AI_01.JPG" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
     </div>
   </li>
 	<li>
-    <input id="accordion2" type="checkbox">
+    <input type="checkbox" id="accordion2">
     <label for="accordion2">Making and coding of drones</label>
     <div>
       <p>Students went through the designing, making and programming of drones during the mid-year programme where they are exposed to STEM. Drone designing looks at the creative and human centered application of Mathematics, Science and Technology and provides a platform for students to problem solve so as to address authentic problems. Research has also proven that drone programming significantly improves students’ learning of spatial visualization and sequencing skills.</p>
@@ -58,18 +41,56 @@ width:250px;height:250px;margin:10px;border-width:0px;border-color:#000000;borde
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Learning_Tech/Drone_02.jpg">
+<img src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Learning_Tech/Drone_02.jpg" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
 
 <p>Student assembling the parts of the drone together.</p>
 				
-![drone1](/images/Drone_01.jpg)		
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Learning_Tech/Drone_01.jpg">
+
 <p>An example of a completed drone which is ready to take flight.</p>				
-![drone4](/images/Drone_04.jpg)		
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Learning_Tech/Drone_04.jpg">
+	
+<p>Proud creators of the completed drone.</p>				
+				
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Learning_Tech/Drone_03.jpg" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+
+
+<p>Students posing with their completed drone after testing its flight.</p>
 			<p></p>
     </div>
   </li>
 	<li>
-    <input id="accordion3" type="checkbox">
+    <input type="checkbox" id="accordion3">
     <label for="accordion3">Coding using Microbits</label>
     <div>
       <p>As part of the Creators’ Programme, students also learn how to do block programming via the use of microbits. An argument propounded by Steve Jobs himself said that coding teaches an individual how to think and research has proven that coding can provide students with brain gains in areas such as information processing, logic, problem solving, experimentation and creativity. This is of importance especially when Singapore moves towards transforming into a Smart Nation with digital-literate students as the corner-stone.</p>
@@ -79,7 +100,7 @@ width:250px;height:250px;margin:10px;border-width:0px;border-color:#000000;borde
     </div>
   </li>
 	<li>
-    <input id="accordion4" type="checkbox">
+    <input type="checkbox" id="accordion4">
     <label for="accordion4">Game Design and Development</label>
     <div>
       <p>The “Game Design and Development” workshop is designed for students to gain exposure to online programming and equip them with computational thinking skills. It is programmed by GameMaker Studios 2.0, a tool designed to empower students to make new and innovative games as well as prototype ideas in the fastest and most intuitive way possible across multiple target platforms. It is intended primarily as a tool for making 2D games and comes with a number of tools and editors to help students realise their dreams and ideas, with their final project being ported across multiple platforms from the same initial base resources.</p>
@@ -91,20 +112,42 @@ width:250px;height:250px;margin:10px;border-width:0px;border-color:#000000;borde
     </div>
   </li>
 	<li>
-    <input id="accordion5" type="checkbox">
+    <input type="checkbox" id="accordion5">
     <label for="accordion5">Block programming using Collaborative Robo-Arm</label>
     <div>
       <p>One of the workshops under the Creators’ Programme is the Collaborative Robo-arm workshop which is designed to utilize a fully programmable 6 axis industrial Robotic Arm to give students an understanding of block-based programming and robotic machinery. In this workshop, students learn how the 4th Industrial revolution is impacting our society and they programme a robotic arm as part of the workshop deliverables.</p> 
 			
-![roboarm1](/images/RoboArm_01.jpg)
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Learning_Tech/RoboArm_01.jpg">
+
 <p>Students using block programming to program the movement of the robo-arm.</p>
 				
-![roboarm2](/images/RoboArm_02.jpg)
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Learning_Tech/RoboArm_02.jpg">
+
 <p>Students working in groups and trying out the code for the robo-arm to see its capability.</p>
     </div>
   </li>
 	<li>
-    <input id="accordion6" type="checkbox">
+    <input type="checkbox" id="accordion6">
     <label for="accordion6">Augmented Reality/ Virtual Reality workshop</label>
     <div>
       <p>Augmented/ Virtual reality in education leverages on the use of technology to provide virtual scenarios to simulate situations that might occur in actual settings so as to bring about the desired learning outcomes. EdTech (2019) cited in their study showing that AR and VR can help with memory retention and recall as students learn in an immersive environment. In this workshop, students had a crack in creating their own AR and VR images and were exposed to this evolving technology as they learn for life.</p>
