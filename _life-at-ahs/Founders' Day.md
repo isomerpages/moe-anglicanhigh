@@ -13,6 +13,18 @@ This year, 26 students received medals of commendation for their excellent GCE �
 
 “Seeing the students receiving recognition for their achievements was very touching for me. These students have grown and gained immensely from their education in AHS. I hope they will continue to develop and make the school proud, by making a positive impact and creating value for others.” – Mr Jimmy Tan, Teacher
 
-![fd](/images/Founders_Day.jpg)
+<!-- Codes by HTML.am -->
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:450px;height:600px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Life_AHS/Founders_Day/Founders_Day.jpg">
+
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
