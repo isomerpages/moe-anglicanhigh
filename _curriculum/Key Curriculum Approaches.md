@@ -19,12 +19,13 @@ Fig 1. The Essential Dimensions of Critical Thinking
 <!-- CSS Code -->
 <style type="text/css">
 img.GeneratedImage {
-width:300px;height:400px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+width:750px;height:450px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
 }
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://d33wubrfki0l68.cloudfront.net/d3eb749eb10f919f9a08b41f3dab38a41553849e/638e0/images/fig2_critical_thinking.jpg">
+<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Curriculum/Key_Curriculum_Approaches/Fig2_critical_thinking.jpg">
+
 
 Source: https://www.criticalthinking.org/pages/critical-thinking-where-to-begin/796
 
