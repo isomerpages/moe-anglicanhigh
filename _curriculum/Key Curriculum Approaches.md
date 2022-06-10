@@ -14,7 +14,18 @@ At AHS, students are taught to analyse their thinking by learning how to identif
 Our ultimate goal is for these standards to become infused in the thinking of our students, forming part of their inner voice, guiding them to reason better to become fair-minded critical thinkers.
 
 Fig 1. The Essential Dimensions of Critical Thinking
-![crit think](/images/Fig2_critical_thinking.jpg)
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:300px;height:400px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://d33wubrfki0l68.cloudfront.net/d3eb749eb10f919f9a08b41f3dab38a41553849e/638e0/images/fig2_critical_thinking.jpg">
+
 Source: https://www.criticalthinking.org/pages/critical-thinking-where-to-begin/796
 
 ### Learning with Technology
@@ -28,6 +39,4 @@ The aims of the PDLP includes the following:
 
 Through the PDLP, students will capitalise on technology to achieve subject mastery and apply knowledge in authentic contexts to solve real-world problems. By leveraging on technology, students will be able to interact and learn online with strong focus on collaboration, communication and critical thinking.
 
-![lwt1](/images/Learn_with_tech_01.jpg)
-![lwt2](/images/Learn_with_tech_02.jpg)
-![lwt3](/images/Learn_with_tech_03.jpg)
+![curriculum](/images/curriculum.png)
