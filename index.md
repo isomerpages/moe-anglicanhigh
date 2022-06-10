@@ -14,19 +14,19 @@ sections:
           url: /about-us/direct-school-admission-dsa-2022
       background: /images/ahs banner.gif
   - infopic:
-      title: Shine At AHS
+      title: Shine at AHS
       button: Click here
       url: /student-development/co-curricular-activities
       image: /images/square1.jpg
       alt: Image alt text
   - infopic:
-      title: Soar At AHS
+      title: Soar at AHS
       button: click here
       url: /student-development/talent-development
       image: /images/square2.jpg
       alt: Image alt text
   - infopic:
-      title: Life In AHS
+      title: Life in AHS
       button: click here
       url: /life-at-ahs/chill-at-ahs
       image: /images/square3.jpg
@@ -44,7 +44,7 @@ sections:
       image: /images/square5.jpg
       alt: Image alt text
   - infopic:
-      title: The Future Is Now!
+      title: The Future is Now!
       button: click here
       url: /student-development/learning-technology
       image: /images/square6.jpg
