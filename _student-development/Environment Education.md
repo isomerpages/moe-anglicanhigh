@@ -18,9 +18,42 @@ To encourage students to take the lead in championing environmental-friendly pra
 - Assist in the running of school environmental campaigns. E.g.  AHS E-waste challenge.  
 - Conduct a biodiversity survey of the birds sighted in school using the SGBioAtlas app.
 
-![ea1](/images/Environmental_Ambassadors_01.jpg)
-![ea2](/images/Environmental_Ambassadors_03.jpg)
-![ewaste](/images/E-waste_collection_01.jpg)
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:400px;height:500px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Environment_Edu/Environmental_Ambassadors_01.jpg">
+
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:400px;height:500px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Environment_Edu/Environmental_Ambassadors_03.jpg">
+
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:700px;height:500px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Environment_Edu/E-waste_collection_01.jpg">
+
 
 ### Rain Garden
 The Rain Garden was set up in collaboration with the Public Utilities Board (PUB) in 2016. It provides an outdoor classroom for experiential learning in the Secondary One Geography curriculum. Students learn the purpose and value of the Rain Garden, which acts as a natural filtration method for water, hence reducing resources in purifying water in urban areas.
