@@ -39,10 +39,10 @@ Our signature overseas programmes are:
 <p>The group experienced diverse aspects of Australia’s culture through various places of interest! Of note, they were thrilled to make the ascent on Mount Coolum; what surfaced were their grit and resilience.</p>
 
 <p>Tai Wing Xin (3K) &amp; Sie Jin See Valencia (3K):</p>
-I am managed to talk to a few people that I’ve never talked to before this trip and learn more about them. This gives me a sense of accomplishment as one of my goals was to learn to be able to talk more confidently to people even though I am shy. I am also proud that I made the first step to talk to them which I do not usually do.</p>
+I am managed to talk to a few people that I’ve never talked to before this trip and learn more about them. This gives me a sense of accomplishment as one of my goals was to learn to be able to talk more confidently to people even though I am shy. I am also proud that I made the first step to talk to them which I do not usually do.
 
 <p>Lee En Teng Chloe (3J):</p>
-I learnt a lot about the importance of being well versed on issues not just in Singapore but around the world, so that I can make informed decisions. I think a very good takeaway I had from this trip was that when you put down your phones and enjoy the people and view around you, the experiences and the memories you gain are more meaningful.</p>
+I learnt a lot about the importance of being well versed on issues not just in Singapore but around the world, so that I can make informed decisions. I think a very good takeaway I had from this trip was that when you put down your phones and enjoy the people and view around you, the experiences and the memories you gain are more meaningful.
 			
 <p><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>			
 			</p>
