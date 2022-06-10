@@ -12,7 +12,7 @@ sections:
           description: Find out more about DSA @ AHS
           url: /about-us/direct-school-admission-dsa-2022
       background: /images/ahs banner.gif
-      title: "Every  AHS  Student,         A Leader              "
+      title: "Every  AHS  Student                 A Leader              "
   - infopic:
       title: Shine at AHS
       button: Click here
