@@ -14,7 +14,18 @@ Please visit the AHS Sec One Registration site at https://sites.google.com/a/moe
 
 
 
-<img src="/images/qr.png">
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:200px;height:200px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Pop%20Up/2021_S1_Reg_QR.png">
+
 
 
 Thank you.
