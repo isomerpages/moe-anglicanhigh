@@ -14,6 +14,13 @@ sections:
       background: /images/ahshero.gif
       title: "Every  AHS  Student                 A Leader              "
   - infopic:
+      title: VISIT US AT OUR OPEN HOUSE 2022
+      description: 26 November 2022
+      button: Find out more
+      url: https://sites.google.com/moe.edu.sg/ahsopenhouse2022/home
+      image: /images/2022_AHS_Open House.jpg
+      alt: Image alt text
+  - infopic:
       title: Shine at AHS
       button: Co-Curricular Activites
       url: /student-development/co-curricular-activities
