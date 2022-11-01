@@ -17,7 +17,7 @@ sections:
       title: Shine at AHS
       button: Click here
       url: /student-development/co-curricular-activities
-      image: /images/square1.jpg
+      image: /images/tn2_shine_at_ahs.jpg
       alt: Image alt text
   - infopic:
       title: Soar at AHS
