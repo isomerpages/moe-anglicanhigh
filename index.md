@@ -12,7 +12,7 @@ sections:
           description: Find out more about DSA @ AHS
           url: /about-us/direct-school-admission-dsa-2022
       background: /images/ahshero.gif
-      title: "Every  AHS  Student                 A Leader              "
+      title: "Every  AHS  Student                   A Leader              "
   - infopic:
       title: VISIT US AT OUR OPEN HOUSE 2022
       description: 26 November 2022
