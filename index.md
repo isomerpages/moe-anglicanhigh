@@ -15,13 +15,13 @@ sections:
       title: "Every  AHS  Student                 A Leader              "
   - infopic:
       title: Shine at AHS
-      button: Click here
+      button: Co-Curricular Activites
       url: /student-development/co-curricular-activities
       image: /images/tn2_shine_at_ahs.jpg
       alt: Image alt text
   - infopic:
       title: Soar at AHS
-      button: click here
+      button: Curriculum
       url: /student-development/talent-development
       image: /images/tn1_soar_at_ahs.jpg
       alt: Image alt text
