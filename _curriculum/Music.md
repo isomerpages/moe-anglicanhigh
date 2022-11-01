@@ -1,6 +1,6 @@
 ---
 title: Music
-permalink: /curriculum/music
+permalink: /curriculum/music/
 description: ""
 ---
 ### Vision
@@ -38,6 +38,6 @@ O level secondary 3 students using Garageband to sequence their songs
 ![wmw](/images/World_Music_Workshop.jpg)
 O level students meet at Pasir Ris Crest Secondary School for a Malay and Indian music Workshop experience.
 
--video-
+-video- to be uploaded by school on Youtube
 
 O level Secondary 3 students perform their arrangement of the March-in song for the School Founder’s Day celebration: Ode to Joy.
