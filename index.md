@@ -23,29 +23,29 @@ sections:
       title: Soar at AHS
       button: click here
       url: /student-development/talent-development
-      image: /images/square2.jpg
+      image: /images/tn1_soar_at_ahs.jpg
       alt: Image alt text
   - infopic:
-      title: Life in AHS
-      button: click here
+      title: Serve at AHS
+      button: VIA & Student Leadership
       url: /life-at-ahs/chill-at-ahs
-      image: /images/square3.jpg
+      image: /images/tn3_serve_at_ahs.jpg
       alt: Image alt text
   - infopic:
-      title: Broadening Our Horizons
-      button: click here
+      title: Culture at Care
+      button: Student Wellbeing
       url: /student-development/overseas-experience
-      image: /images/square4.jpg
+      image: /images/tn4_culture_of_care.jpg
       alt: Image alt text
   - infopic:
-      title: Our Proud Heritage
-      button: click here
+      title: Rooted in Tradition
+      button: School Heritage
       url: /about-us/school-heritage
-      image: /images/square5.jpg
+      image: /images/tn5_rooted_in_tradition.jpg
       alt: Image alt text
   - infopic:
-      title: The Future is Now!
-      button: click here
+      title: Driven with Technology
+      button: Learning Technology
       url: /student-development/learning-technology
       image: /images/square6.jpg
       alt: Image alt text
