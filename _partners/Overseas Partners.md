@@ -1,6 +1,6 @@
 ---
 title: Overseas Partners
-permalink: /partners/anglican-house
+permalink: /partners/anglican-house/
 description: ""
 ---
 All our students are encouraged to participate in at least one [overseas learning experience](https://anglicanhigh.moe.edu.sg/student-development/overseas-experience) during their four years at AHS. We believe that an overseas learning experience will allow our students to become world-ready individuals who are sensitive to different cultures, and are confident in speaking and communicating with people from different cultures and backgrounds.
