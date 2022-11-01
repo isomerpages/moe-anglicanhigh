@@ -11,7 +11,7 @@ sections:
         - title: AHS Direcet School Admission 2022
           description: Find out more about DSA @ AHS
           url: /about-us/direct-school-admission-dsa-2022
-      background: /images/ahs banner.gif
+      background: /images/ahshero.gif
       title: "Every  AHS  Student                 A Leader              "
   - infopic:
       title: Shine at AHS
