@@ -1,6 +1,6 @@
 ---
 title: Chaplaincy
-permalink: /partners/chaplaincy
+permalink: /partners/chaplaincy/
 description: ""
 ---
 ### 圣中校牧团队
@@ -15,7 +15,23 @@ description: ""
 
 最后，校牧团队盼望能成为学生们在成长过程中的聆听者与陪伴者，在他们面对各种挑战的时候给予他们及时的关怀和帮助。我们唯愿圣中学子个个都能如鹰展翅上腾，成为那奔跑却不困倦，行走却不疲乏的战士！
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<img src="/images/Chaplaincy_01.jpeg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/Chaplaincy_02.jpeg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/Chaplaincy_03.jpeg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/Chaplaincy_04.jpeg" 
+         style="width:600px"
+	/>
+<br>
+
 
 ![asc cny](/images/2021_ASC_CNY_Poster2.jpg)
 **诸圣堂新春晚会**\
