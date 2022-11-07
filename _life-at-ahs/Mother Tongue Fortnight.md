@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Fortnight
-permalink: /life-at-ahs/mother-tongue-fortnight
+permalink: /life-at-ahs/mother-tongue-fortnight/
 description: ""
 ---
 ### 母语双周活动2019
@@ -11,4 +11,24 @@ description: ""
 
 “母语双周的传统马来舞蹈，节奏生动欢快，使我对马来文化产生了浓厚的兴趣。”——陈徽莹（ 2C）
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+<img src="/images/2019_MT_Fortnight_01.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_MT_Fortnight_02.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_MT_Fortnight_03.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_MT_Fortnight_04.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_MT_Fortnight_05.jpg" 
+         style="width:600px"
+	/>
+<br>
