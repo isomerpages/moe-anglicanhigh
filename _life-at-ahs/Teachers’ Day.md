@@ -1,6 +1,6 @@
 ---
 title: Teachers’ Day
-permalink: /life-at-ahs/teachers-day
+permalink: /life-at-ahs/teachers-day/
 description: ""
 ---
 ### AHS Teachers' Day Celebration 2019
@@ -11,4 +11,4 @@ The Finals of AHS Got Talent was also held during the celebration, and it starte
 
 “This year’s Teachers’ Day celebration has definitely excited students and encouraged them to appreciate our teachers, who have put in their all in guiding us.” - Hannah Goh (2C)
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5gBa_PLtqGsEYcjogUM-XDYBfu_9Vf6lXY9jm8K3PECV7R_HYnTA5GKVfCqJ94nkD9JLRZRvmgcf8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
