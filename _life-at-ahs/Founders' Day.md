@@ -1,6 +1,6 @@
 ---
 title: Founders' Day
-permalink: /life-at-ahs/founders-day
+permalink: /life-at-ahs/founders-day/
 description: ""
 ---
 ### Founder's Day 2020
@@ -26,5 +26,27 @@ width:450px;height:600px;margin:10px;border-width:0px;border-color:#000000;borde
 <img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Life_AHS/Founders_Day/Founders_Day.jpg">
 
 
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<img src="/images/2019_63rd_FD_01.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_63rd_FD_02.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_63rd_FD_03.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_63rd_FD_04.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_63rd_FD_05.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_63rd_FD_06.jpg" 
+         style="width:600px"
+	/>
+<br>
