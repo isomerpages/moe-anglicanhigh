@@ -1,6 +1,6 @@
 ---
 title: Mid Autumn Festival
-permalink: /life-at-ahs/mid-autumn-festival
+permalink: /life-at-ahs/mid-autumn-festival/
 description: ""
 ---
 中秋节庆祝活动 2020
@@ -17,4 +17,4 @@ description: ""
 
 “今年因为冠状病毒，我们不能像以前一样庆祝中秋节。可是的庆祝方式很特别，让我学到了关于中秋节的新知识，而且让我们备考的心情放松，减少了压力。” - 洪嫣嬣 (1G)
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBCNwkYoSRTE2q3k9jvd4BYaUWhxa80FCEGHWZ9bUCizGBZoNXbzQvVxab5qEOlcjtUbN9RWyUJ6Qj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
