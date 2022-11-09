@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Character & Citizenship Education.md
+      - CCA/Entrepreneurship.md
       - CCA/Infocomm Technology (Media Production).md
       - CCA/Robotics Club.md
       - CCA/Debating and Public Speaking.md
