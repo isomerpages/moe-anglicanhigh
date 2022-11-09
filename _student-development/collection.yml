@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Character & Citizenship Education.md
+      - CCA/Netball.md
       - CCA/Basketball.md
       - CCA/Badminton.md
       - CCA/Wushu.md
