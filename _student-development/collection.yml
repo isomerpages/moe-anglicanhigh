@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Character & Citizenship Education.md
+      - CCA/.keep
+      - CCA/Co Curricular Activities.md
       - CCA/Entrepreneurship.md
       - CCA/Infocomm Technology (Media Production).md
       - CCA/Robotics Club.md
@@ -19,8 +21,6 @@ collections:
       - CCA/NCC (Land).md
       - CCA/NPCC.md
       - CCA/St John Brigade.md
-      - CCA/.keep
-      - CCA/Co Curricular Activities.md
       - CCA/Chinese Drama.md
       - CCA/Chinese Orchestra.md
       - CCA/Choir.md
