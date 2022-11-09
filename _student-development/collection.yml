@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Character & Citizenship Education.md
+      - CCA/Girl Guides.md
       - CCA/NCC (Land).md
       - CCA/NPCC.md
       - CCA/St John Brigade.md
