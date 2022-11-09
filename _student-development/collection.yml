@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Character & Citizenship Education.md
+      - CCA/NPCC.md
       - CCA/St John Brigade.md
       - CCA/.keep
       - CCA/Co Curricular Activities.md
