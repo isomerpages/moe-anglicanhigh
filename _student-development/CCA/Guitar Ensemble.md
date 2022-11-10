@@ -1,10 +1,10 @@
 ---
 title: Guitar Ensemble
-permalink: /student-development/co-curricular-activities/performing-arts-groups/guitar-ensemble
+permalink: /student-development/co-curricular-activities/performing-arts-groups/guitar-ensemble/
 description: ""
 third_nav_title: CCA
 ---
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFSs7kwf4v2uJjwPRXsoFN_6QOxtdQR9tfS33iWMMbzJUTwMY-LQG2WfHlgXNRah64DI2xrIGgmR8J/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 1st IC:Mrs Joyce Lockwood
 
