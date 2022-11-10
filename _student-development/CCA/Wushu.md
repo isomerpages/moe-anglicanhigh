@@ -4,6 +4,28 @@ permalink: /student-development/cca/sports/wushu/
 description: ""
 third_nav_title: CCA
 ---
+<img src="/images/2019_Wushu_01.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_Wushu_02.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_Wushu_03.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_Wushu_04.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_Wushu_05.jpg" 
+         style="width:600px"
+	/>
+<br>
+
+
 1st IC: Mr Richard Teo
 
   
