@@ -4,6 +4,8 @@ permalink: /student-development/cca/clubs-and-societies/debating-and-public-spea
 description: ""
 third_nav_title: CCA
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRerWNW6EzRK-u3-6AHOmYpv2kiBNmAP-9DYvfdhd61TrKtA34LpmVWiBaPdYaqbz9VTOCWdb-l6Imw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 ### 1st IC and teachers of CCA
 
   
