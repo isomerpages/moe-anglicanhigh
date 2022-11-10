@@ -4,10 +4,10 @@ permalink: /student-development/cca/sports/table-tennis/
 description: ""
 third_nav_title: CCA
 ---
-1st IC: Mr Lim Ee Chiew
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfoVBcWcV5EMtQu8dMavEp4JKcrH0ZWqwJpJJSMKO-O6-SGI0X48k3Et0GAoFuRQIGItVkc695ywBa/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+### 1st IC: Mr Lim Ee Chiew
 
   
-
 Teachers-in-Charge  
 
 Mr Terry Poh
