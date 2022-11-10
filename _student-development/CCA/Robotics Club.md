@@ -4,23 +4,23 @@ permalink: /student-development/cca/clubs-and-societies/robotics-club/
 description: ""
 third_nav_title: CCA
 ---
-<img src="/images/englit1.png" 
+<img src="/images/2019_Robotics_01.jpg" 
          style="width:600px"
 	/>
 <br>
-<img src="/images/englit1.png" 
+<img src="/images/2019_Robotics_02.jpg" 
          style="width:600px"
 	/>
 <br>
-<img src="/images/englit1.png" 
+<img src="/images/2019_Robotics_03.jpg" 
          style="width:600px"
 	/>
 <br>
-<img src="/images/englit1.png" 
+<img src="/images/2019_Robotics_04.jpg" 
          style="width:600px"
 	/>
 <br>
-<img src="/images/englit1.png" 
+<img src="/images/2019_Robotics_05.jpg" 
          style="width:600px"
 	/>
 <br>
