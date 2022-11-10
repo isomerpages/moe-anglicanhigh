@@ -4,6 +4,8 @@ permalink: /student-development/cca/uniformed-groups/boy-scouts/
 description: ""
 third_nav_title: CCA
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_1XHN95giK_f1zaMCq7GlWGwQUB92Itr5CvG9gVjMc5xPEwB5QEGcu66djitPu-G-ZKjFkUROE-E9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 1st IC: Mr Alaric Leong
 
   
