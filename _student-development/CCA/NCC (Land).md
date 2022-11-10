@@ -4,7 +4,7 @@ permalink: /student-development/cca/uniformed-groups/ncc-land/
 description: ""
 third_nav_title: CCA
 ---
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcwjys16cr1j9bdhckMkDdagJAgyjqn-dN6lqCox7xt4PhAyj4mw97v6czU5OVHD9BtHHKY8ezL4i5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 1st IC: Mr Andrew Gey
 
