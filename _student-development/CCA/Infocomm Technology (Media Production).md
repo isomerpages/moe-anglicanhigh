@@ -4,7 +4,29 @@ permalink: /student-development/cca/clubs-and-societies/infocomm-technology-medi
 description: ""
 third_nav_title: CCA
 ---
-#### 1st IC and teachers of CCA  
+<img src="/images/2019_Info_Comm_01.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_Info_Comm_02.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_Info_Comm_03.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_Info_Comm_04.jpg" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/2019_Info_Comm_05.jpg" 
+         style="width:600px"
+	/>
+<br>
+
+
+#### 1st IC and teachers of CCA   
 
 1st IC: Ms Lim Geok Lian
 
