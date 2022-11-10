@@ -1,11 +1,10 @@
 ---
 title: Chinese Orchestra
-permalink: /student-development/co-curricular-activities/performing-arts-groups/chinese-orchestra
+permalink: /student-development/co-curricular-activities/performing-arts-groups/chinese-orchestra/
 description: ""
 third_nav_title: CCA
 ---
-
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROvcnzmFD2NdTOSyOg3Wl5GzB5B2UOHPQ-CP85MurTuIRsBzFVcHs3JZhQqI4Dw_NXOIEaDMBitWJZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 1st IC: Mr Thomas Goh
 
