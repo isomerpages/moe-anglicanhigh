@@ -4,9 +4,10 @@ permalink: /student-development/sports/badminton/
 description: ""
 third_nav_title: CCA
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRGoHGz0na7C1X5nOmIBYB6uroZmIdCwYSAxX412n2DmdJDdV3owuzwxlr9NceKPeg4xD8Jk91NLR_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 1st IC: Mr Stanley Tan
 
-2nd IC: Mdm Teo Ee Zi
+2nd IC:&nbsp;Mdm Teo Ee Zi
 
   
 
