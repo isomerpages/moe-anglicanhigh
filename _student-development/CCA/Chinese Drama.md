@@ -1,10 +1,10 @@
 ---
 title: Chinese Drama
-permalink: /student-development/co-curricular-activities/performing-arts-groups/chinese-drama
+permalink: /student-development/co-curricular-activities/performing-arts-groups/chinese-drama/
 description: ""
 third_nav_title: CCA
 ---
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRutMXxkhgAmPnVVP_46cfA1C8rDG8atslY8rGK_pbidvKfAFDNbNsQS6FNenpRm_bVzu59damMdkRi/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 1st IC: 冯薪安老师
 
