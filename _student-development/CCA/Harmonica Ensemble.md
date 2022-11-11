@@ -1,10 +1,13 @@
 ---
 title: Harmonica Ensemble
-permalink: /student-development/co-curricular-activities/performing-arts-groups/harmonica-ensemble
+permalink: /student-development/co-curricular-activities/performing-arts-groups/harmonica-ensemble/
 description: ""
 third_nav_title: CCA
 ---
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+# website says error
+
+https://anglicanhigh.moe.edu.sg/student-development/co-curricular-activities/performing-arts-groups/harmonica-orchestra
+
 
 1st IC: Mr Chen Zehou
 
