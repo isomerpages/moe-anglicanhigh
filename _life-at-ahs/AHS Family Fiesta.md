@@ -1,6 +1,6 @@
 ---
 title: AHS Family Fiesta
-permalink: /life-at-ahs/ahs-family-fiesta
+permalink: /life-at-ahs/ahs-family-fiesta/
 description: ""
 ---
 ### AHS Family Fiesta 2019
@@ -10,4 +10,4 @@ For something exciting this year, we involved stakeholders in repainting the sch
 
 Indeed, there was a display of vibrant school spirit through the combined efforts of the different groups of stakeholders whom we are thankful for.
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_55P9IRZyGQ409ud7-k2IS6t7JaxfY-U4jO-pAx3XFS4-WyFRLljXiTsxOTbbKLVE5MOtlM0NVON9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
