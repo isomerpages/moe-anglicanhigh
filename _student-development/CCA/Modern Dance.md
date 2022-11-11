@@ -1,10 +1,10 @@
 ---
 title: Modern Dance
-permalink: /student-development/co-curricular-activities/performing-arts-groups/modern-dance
+permalink: /student-development/co-curricular-activities/performing-arts-groups/modern-dance/
 description: ""
 third_nav_title: CCA
 ---
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREXgRP02_XARvogzIEkrEuMfM7EhDJDapBmuPPO0X49Apc_CcA0y04fw50dVdxUMWsVoJME0pGxEIC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRSqu1OGjQmPqChqpj3VC0hV-M3_-cX7kLmuIaVN0278xMzLCSxEpjw9rH6l_76pOzq1TwRRuSeLgjB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 1st IC: Miss Farahdilla
 
