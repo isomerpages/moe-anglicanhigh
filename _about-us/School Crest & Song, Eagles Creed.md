@@ -1,6 +1,6 @@
 ---
 title: School Crest & Song, Eagles Creed
-permalink: /about-us/school-crest-n-song-eagles-creed
+permalink: /about-us/school-crest-n-song-eagles-creed/
 description: ""
 ---
 School Crest 校徽
@@ -17,9 +17,34 @@ width:200px;height:225px;margin:10px;border-width:0px;border-color:#000000;borde
 <!-- HTML Code -->
 <img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/About%20Us/ahs_logo.gif">
 
+<table style="width:100%">
+ 
+<tr>
+    <th>Shape</th>
+    <th>形状</th>
+   
+  </tr>
+  <tr>
+    <td>Cross - Salvation<br>Shield - God's Protection and Care<br>The Eagles - Mount up with wings like eagles <br><br>Isaiah 40:31<br>"But those who hope in the Lord will renew their strength.<br>They will soar on wings like eagles;<br>They will run and not grow weary,<br>They will walk and not be faint."</td>
+    <td>十字架 - 救恩<br>盾牌 - 上帝的眷顾保护<br>鹰 - 飞得高，看得远<br><br>以赛亚书 40:31<br>“但那等候耶和华的，必从新得力。他们必如鹰展翅上腾，<br>他们奔跑却不困倦，行走却不疲乏。”</td>
+  </tr>
+</table>
 
+<table style="width:100%">
+ 
+<tr>
+    <th>Colours</th>
+    <th>色</th>
+   
+  </tr>
+  <tr>
+    <td>Green - Abundant life<br>White - Holiness<br>Red - Precious blood of Jesus Christ</td>
+    <td>青色 - 丰盛的生命<br>白色 - 圣洁<br>红色 - 耶稣基督的宝血</td>
+    
+  </tr>
+  
+</table>
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 622px" class="tg"><colgroup><col style="width: 245.003906px"><col style="width: 377.003906px"></colgroup><thead><tr><th style="background-color:#DDD;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Shape</span></th><th style="background-color:#DDD;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">形状</span></th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Cross - Salvation<br>Shield - God's Protection and Care<br>The Eagle - Mount up with wings like eagles<br><br>Isaiah 40:31<br>"But those who hope in the Lord will renew their strength.<br>They will soar on wings like eagles;<br>They will run and not grow weary,<br>They will walk and not be faint."</td><td style="background-color:#ffffff;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">十字架 - 救恩<br>盾牌 - 上帝的眷顾保护<br>鹰 - 飞得高，看得远<br><br>以赛亚书　40:31<br>“但那等候耶和华的，必从新得力。他们必如鹰展翅上腾，<br>他们奔跑却不困倦，行走却不疲乏。”<br></td></tr><tr><td style="background-color:#DDD;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Colours</span></td><td style="background-color:#DDD;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">色</span></td></tr><tr><td style="background-color:#ffffff;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Green - Abundant life<br>White - Holiness<br>Red - Precious blood of Jesus Christ</td><td style="background-color:#ffffff;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">青色 - 丰盛的生命<br>白色 - 圣洁<br>红色 - 耶稣基督的宝血</td></tr></tbody></table>
 
 
 ### School Song 校歌
