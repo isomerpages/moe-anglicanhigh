@@ -487,104 +487,109 @@ description: ""
 <table style="width:100%">
  
   <tr>
-    <td>Teacher Name</td>
+    <td>Ms Tan Jie Ning</td>
     <td>4A</td>
-    <td>Email</td>
+    <td>jie_ning_tan@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Teacher Name</td>
+    <td>Ms Wang Fang</td>
     <td>4A</td>
-    <td>Email</td>
+    <td>wang_fang@moe.edu.sg</td>
   </tr>
  <tr>
-    <td>Teacher Name</td>
+    <td>Mr Luke Tan</td>
     <td>4B</td>
-    <td>Email</td>
+    <td>tan_xiu_quan_luke@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Teacher Name</td>
+    <td>Mrs Shirley Koh</td>
     <td>4B</td>
-    <td>Email</td>
+    <td>koh_shieh_ping_shirley@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mr Tan Wei Li</td>
     <td>4C</td>
-    <td>Email</td>
+    <td>tan_wei_li_a@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Teacher Name</td>
+    <td>Ms Sharon Tan</td>
     <td>4C</td>
-    <td>Email</td>
+    <td>tan_li_ern_sharon@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mr Lim Ee Chiew</td>
     <td>4D</td>
-    <td>Email</td>
+    <td>lim_ee_chiew@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Teacher Name</td>
+    <td>Mrs Audrey Tan</td>
     <td>4D</td>
-    <td>Email</td>
+    <td>tan_shu-hui_audrey@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Ms Loe Zi Ying</td>
+    <td>4D</td>
+    <td>loe_zi_ying@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mr Clement Xiao</td>
     <td>4E</td>
-    <td>Email</td>
+    <td>xiao_yongda_clement@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Teacher Name</td>
+    <td>Mdm Chia Cher Eng</td>
     <td>4E</td>
-    <td>Email</td>
+    <td>chia_cher_eng@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mdm Justine Ang</td>
     <td>4F</td>
-    <td>Email</td>
+    <td>ang_siok_eng_justine@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Teacher Name</td>
+    <td>Mr Alaric Leong</td>
     <td>4F</td>
-    <td>Email</td>
+    <td>leong_keng_wah_alaric@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mdm Farahdilla</td>
     <td>4G</td>
-    <td>Email</td>
+    <td>farahdilla_mohd_ariff@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Teacher Name</td>
+    <td>Mr Stanley Tan</td>
     <td>4G</td>
-    <td>Email</td>
+    <td>tan_eng_soon_stanley@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mdm Tay Keng Wei</td>
     <td>4H</td>
-    <td>Email</td>
+    <td>tay_keng_wei@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Teacher Name</td>
+    <td>Mr Amos Koh</td>
     <td>4H</td>
-    <td>Email</td>
+    <td>koh_chit_boon@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mr Teo Yi Sheng</td>
     <td>4J</td>
-    <td>Email</td>
+    <td>teo_yi_sheng@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Teacher Name</td>
+    <td>Mdm Noriff</td>
     <td>4J</td>
-    <td>Email</td>
+    <td>noriff_elyn_mohamed_ariffin@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Teacher Name</td>
+    <td>Ms Amanda Leong</td>
     <td>4K</td>
-    <td>Email</td>
+    <td>leong_minen_amanda@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Teacher Name</td>
+    <td>Mr Jimmy Tan</td>
     <td>4K</td>
-    <td>Email</td>
+    <td>tan_kay_soon_jimmy@moe.edu.sg</td>
   </tr>
 	
 </table>
