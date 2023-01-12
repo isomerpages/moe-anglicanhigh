@@ -196,49 +196,94 @@ description: ""
 <table style="width:100%">
  
   <tr>
-    <td>Teacher Name</td>
+    <td>Mdm Huang Si Hui</td>
     <td>1A</td>
-    <td>Email</td>
+    <td>huang_sihui@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mr Chen Ze Hou</td>
+    <td>1A</td>
+    <td>chen_ze_hou@moe.edu.sg</td>
   </tr>
  <tr>
-    <td>Teacher Name</td>
+    <td>Mdm Lur Bee Cheng</td>
     <td>1B</td>
-    <td>Email</td>
+    <td>lur_bee_cheng@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mr Chua Song Guan</td>
+    <td>1B</td>
+    <td>chua_song_guan@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Ms Stephanie Tan</td>
     <td>1C</td>
-    <td>Email</td>
+    <td>tan_jing_jing_stephanie@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mr Tan Kah Wee</td>
+    <td>1C</td>
+    <td>tan_kah_wee@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Ms Foong Shin Ann</td>
     <td>1D</td>
-    <td>Email</td>
+    <td>foong_shin_ann@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mr Azmi</td>
+    <td>1D</td>
+    <td>azmi_a_rashid@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Ms Kok Ker Wei</td>
     <td>1E</td>
-    <td>Email</td>
+    <td>kok_ker_wei@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mdm Tan Lay Kuan</td>
+    <td>1E</td>
+    <td>tan_lay_kuan@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mdm Nurhidaya</td>
     <td>1F</td>
-    <td>Email</td>
+    <td>nurhidaya_omar@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Ms Shahirah</td>
+    <td>1F</td>
+    <td>shahirah_bibi_mohamed_ikram@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Mr Shahid</td>
     <td>1G</td>
-    <td>Email</td>
+    <td>noor_shahid_noorahman@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Ms Michelle Lim</td>
+    <td>1G</td>
+    <td>lim_mei_yu_michelle@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mdm Teo Ee Zi</td>
     <td>1H</td>
-    <td>Email</td>
+    <td>teo_ee_zi@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mdm Grace Cheng</td>
+    <td>1H</td>
+    <td>cheng_leng_tuan_grace@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mr Yeo Meng Han</td>
     <td>1J</td>
-    <td>Email</td>
+    <td>yeo_meng_han@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Ms Esther</td>
+    <td>1J</td>
+    <td>esther_jaichandar@moe.edu.sg</td>
   </tr>
 	
 </table>
@@ -403,4 +448,3 @@ description: ""
   </tr>
 	
 </table>
-
