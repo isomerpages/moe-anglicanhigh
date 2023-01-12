@@ -71,9 +71,9 @@ CCE 2023 Theme: Making Choices
 
 10.	Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexual%20Education/GY_Parent_Opt-Out_form_Sec_2023.pdf). The completed form is to be submitted by 10/02/2022.
+11.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexual%20Education/GY_Parent_Opt-Out_form_Sec_2023.pdf). The completed form is to be submitted by 10/02/2023.
 
-12.	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 14/07/2022.
+12.	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 14/07/2023.
 
 13.	Parents can contact the school at 62414866 for discussion or to seek clarification about the school's sexuality education programme. 
 
