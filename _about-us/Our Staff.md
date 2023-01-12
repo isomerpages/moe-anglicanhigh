@@ -390,49 +390,94 @@ description: ""
 <table style="width:100%">
  
   <tr>
-    <td>Teacher Name</td>
+    <td>Ms Priyanka</td>
     <td>3A</td>
-    <td>Email</td>
+    <td>basu_roy_priyanka@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Mr Poh Seng Kiat</td>
+    <td>3A</td>
+    <td>poh_seng_kiat@moe.edu.sg</td>
   </tr>
  <tr>
-    <td>Teacher Name</td>
+    <td>Mdm Song Jumei</td>
     <td>3B</td>
-    <td>Email</td>
+    <td>song_ju_mei@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mr Richard Teo</td>
+    <td>3B</td>
+    <td>teo_seok_thian@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mr Gan Chin Koon</td>
     <td>3C</td>
-    <td>Email</td>
+    <td>gan_chin_koon@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Ms Chua Pei Tzeun</td>
+    <td>3C</td>
+    <td>chua_pei_tzeun@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mr Ben Cheah</td>
     <td>3D</td>
-    <td>Email</td>
+    <td>cheah_chien_lead@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mdm Jocelyn Chew</td>
+    <td>3D</td>
+    <td>chew_li_ling_jocelyn@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mr Teo Guang Long</td>
     <td>3E</td>
-    <td>Email</td>
+    <td>teo_guang_long@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Ms Trina Lin</td>
+    <td>3E</td>
+    <td>trina_lin@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mdm Rahayu</td>
     <td>3F</td>
-    <td>Email</td>
+    <td>rahayu_abdul_rahman@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mr Shen Yu Hung</td>
+    <td>3F</td>
+    <td>shen_yu_hung@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mdm Sim Oi Leng</td>
     <td>3G</td>
-    <td>Email</td>
+    <td>sin_oi_leng@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mdm Peng Li Rui</td>
+    <td>3G</td>
+    <td>peng_li_rui@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mr Kwek Jun Song</td>
     <td>3H</td>
-    <td>Email</td>
+    <td>kwek_jun_song@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mdm Evelyn Choo</td>
+    <td>3H</td>
+    <td>choo_li-_fang_evelyn@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mr David Khoo</td>
     <td>3J</td>
-    <td>Email</td>
+    <td>khoo_sheng_li_david@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Mdm Nuraishah</td>
+    <td>3J</td>
+    <td>nuraishah_kapoor@moe.edu.sg</td>
   </tr>
 	
 </table>
@@ -446,7 +491,17 @@ description: ""
     <td>4A</td>
     <td>Email</td>
   </tr>
+	<tr>
+    <td>Teacher Name</td>
+    <td>4A</td>
+    <td>Email</td>
+  </tr>
  <tr>
+    <td>Teacher Name</td>
+    <td>4B</td>
+    <td>Email</td>
+  </tr>
+	<tr>
     <td>Teacher Name</td>
     <td>4B</td>
     <td>Email</td>
@@ -456,7 +511,17 @@ description: ""
     <td>4C</td>
     <td>Email</td>
   </tr>
+	<tr>
+    <td>Teacher Name</td>
+    <td>4C</td>
+    <td>Email</td>
+  </tr>
 	 <tr>
+    <td>Teacher Name</td>
+    <td>4D</td>
+    <td>Email</td>
+  </tr>
+	<tr>
     <td>Teacher Name</td>
     <td>4D</td>
     <td>Email</td>
@@ -466,7 +531,17 @@ description: ""
     <td>4E</td>
     <td>Email</td>
   </tr>
+	<tr>
+    <td>Teacher Name</td>
+    <td>4E</td>
+    <td>Email</td>
+  </tr>
 	 <tr>
+    <td>Teacher Name</td>
+    <td>4F</td>
+    <td>Email</td>
+  </tr>
+	<tr>
     <td>Teacher Name</td>
     <td>4F</td>
     <td>Email</td>
@@ -476,7 +551,17 @@ description: ""
     <td>4G</td>
     <td>Email</td>
   </tr>
+	<tr>
+    <td>Teacher Name</td>
+    <td>4G</td>
+    <td>Email</td>
+  </tr>
 	 <tr>
+    <td>Teacher Name</td>
+    <td>4H</td>
+    <td>Email</td>
+  </tr>
+	<tr>
     <td>Teacher Name</td>
     <td>4H</td>
     <td>Email</td>
@@ -484,6 +569,16 @@ description: ""
 	 <tr>
     <td>Teacher Name</td>
     <td>4J</td>
+    <td>Email</td>
+  </tr>
+	<tr>
+    <td>Teacher Name</td>
+    <td>4J</td>
+    <td>Email</td>
+  </tr>
+	<tr>
+    <td>Teacher Name</td>
+    <td>4K</td>
     <td>Email</td>
   </tr>
 	<tr>
