@@ -293,59 +293,94 @@ description: ""
 <table style="width:100%">
  
   <tr>
-    <td>Teacher Name</td>
+    <td>Mr Thomas Goh</td>
     <td>2A</td>
-    <td>Email</td>
+    <td>goh_wee_hong_thomas@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Teacher Name</td>
+    <td>Mdm Li Yilian</td>
     <td>2A</td>
-    <td>Email</td>
+    <td>lee_yilian@moe.edu.sg</td>
   </tr>
  <tr>
-    <td>Teacher Name</td>
+    <td>Mdm Norliza</td>
     <td>2B</td>
-    <td>Email</td>
+    <td>norliza_adnan@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mr Terry Poh</td>
     <td>2B</td>
-    <td>Email</td>
+    <td>terry_abriel_poh@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Ms Vinnie Goh</td>
     <td>2C</td>
-    <td>Email</td>
+    <td>vinnie_goh_mei_yin@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mdm Zahira</td>
+    <td>2C</td>
+    <td>nur_zahira_a@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mdm Nur Hidayah</td>
     <td>2D</td>
-    <td>Email</td>
+    <td>nur_hidayah_mohd_ismail@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mr Jasbir</td>
+    <td>2D</td>
+    <td>jasbir_singh_a@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mr Song Yonghui</td>
     <td>2E</td>
-    <td>Email</td>
+    <td>song_yonghui@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Ms Lim Geok Lian</td>
+    <td>2E</td>
+    <td>lim_geok_lian_a@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Ms Koh Jia Feng</td>
     <td>2F</td>
-    <td>Email</td>
+    <td>	jia_feng_koh@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mdm Luisa Teng</td>
+    <td>2F</td>
+    <td>teng_mei_fong@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Ms Raihan</td>
     <td>2G</td>
-    <td>Email</td>
+    <td>raihan_mohamed_yusoff@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Ms Joanne Tan</td>
+    <td>2G</td>
+    <td>joanne_tan_mei_jing@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Mr Andrew Gey</td>
     <td>2H</td>
-    <td>Email</td>
+    <td>gey_meng_kiah_andrew@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mdm Wang Jian Ping</td>
+    <td>2H</td>
+    <td>wang_jianping@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Teacher Name</td>
+    <td>Ms Ng Puay Khim</td>
     <td>2J</td>
-    <td>Email</td>
+    <td>Ms Ng Puay Khim</td>
+  </tr>
+	<tr>
+    <td>Mdm Goh Yu Jie</td>
+    <td>2J</td>
+    <td>goh_yu_jie@moe.edu.sg</td>
   </tr>
 	
 </table>
