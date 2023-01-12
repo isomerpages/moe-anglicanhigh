@@ -3,11 +3,11 @@ title: AHS Family Fiesta
 permalink: /life-at-ahs/ahs-family-fiesta/
 description: ""
 ---
-### AHS Family Fiesta 2019
+### AHS Family Fiesta 2022
 
-The AHS Family Fiesta took place on 16 March and we saw the school spirit lighting up the school compound as key stakeholders put together a myriad of activities that bring joy and laughter to all who came to visit! Game stalls set up by the different CCAs were teeming with creative ideas to attract customers to patronise the stalls. The All Saints’ Church, AHS Parents’ Support Group and school canteen vendors generously donated food for the carnival. All food sold that day did not go to waste and were appreciated by students. The main attraction was the Dunking Machine. For a small price, students get to try their luck at getting their teachers wet. Thanks to our brave and willing teachers who sat on the ‘hot seat’!
-For something exciting this year, we involved stakeholders in repainting the school’s graffiti wall and now, it is sporting a brand new look! We also invited our school’s ex-sportsmen to have friendly matches at the training ground they used to know and have fun pitting their skills against current school sports players.
+AHS Family Fiesta is back! 
 
-Indeed, there was a display of vibrant school spirit through the combined efforts of the different groups of stakeholders whom we are thankful for.
+After a two-year hiatus due to COVID-19, our AHS family could finally gather to have some fun on 27 May 2022. Like past AHS Family Fiestas, all students and staff started the morning with our AHS 早操 and iLoveAHS walk around our neighbourhood. Teachers and students enjoyed a morning of fun and fellowship with each other as they participated in the interclass games and creative carnival game booths set up by the Sec 3 CCA leaders.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_55P9IRZyGQ409ud7-k2IS6t7JaxfY-U4jO-pAx3XFS4-WyFRLljXiTsxOTbbKLVE5MOtlM0NVON9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+We are truly thankful that we are able to gather together again to celebrate God's goodness in guiding our school!
+
