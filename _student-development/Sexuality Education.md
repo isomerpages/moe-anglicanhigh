@@ -35,25 +35,25 @@ You may click here for more information on MOE Sexuality Education.
 
 7.	Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At Anglican High School, the following lessons from the Sexuality Education Programme will be taught in 2022:**
+**At Anglican High School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
 
 SECONDARY 1
-CCE 2021 Theme: Making Choices
+CCE 2023 Theme: Making Choices
 
 ![mc](/images/2022_S1_Making_Choice.jpg)
 
 SECONDARY 2
-CCE 2021 Theme: Making Choices
+CCE 2023 Theme: Making Choices
 
 ![mc2](/images/2022_S2_Making_Choice.jpg)
 
 SECONDARY 3
-CCE 2021 Theme: Making Choices
+CCE 2023 Theme: Making Choices
 
 ![mc3](/images/2022_S3_Making_Choice.jpg)
 
 SECONDARY 4
-CCE 2021 Theme: Making Choices
+CCE 2023 Theme: Making Choices
 
 ![mc4](/images/2022_S4_Making_Choice.jpg)
 
@@ -63,7 +63,7 @@ CCE 2021 Theme: Making Choices
 
 9.	Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At Anglican High School, the eTeens programme will be implemented as follows in 2022:**
+**At Anglican High School, the eTeens programme will be implemented as follows in 2023:**
 
 ![eteens](/images/eTeens_Programme.jpg)
 
@@ -71,7 +71,7 @@ CCE 2021 Theme: Making Choices
 
 10.	Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 10/02/2022.
+11.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexual%20Education/GY_Parent_Opt-Out_form_Sec_2023.pdf). The completed form is to be submitted by 10/02/2022.
 
 12.	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 14/07/2022.
 
