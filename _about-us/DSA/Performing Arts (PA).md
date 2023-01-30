@@ -1,6 +1,6 @@
 ---
 title: Performing Arts (PA)
-permalink: /about-us/direct-school-admission-dsa-2022/performing-arts-pa
+permalink: /about-us/direct-school-admission-dsa-2022/performing-arts-pa/
 description: ""
 third_nav_title: DSA
 ---

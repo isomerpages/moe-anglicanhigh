@@ -1,6 +1,6 @@
 ---
 title: Overseas Experience
-permalink: /student-development/overseas-experience
+permalink: /student-development/overseas-experience/
 description: ""
 ---
 AHS students are encouraged to participate in at least one overseas learning experience during their four years at AHS. We believe that an overseas learning experience will allow our students to be global citizens who navigates across cultures confidently.

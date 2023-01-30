@@ -1,6 +1,6 @@
 ---
 title: FAQs
-permalink: /about-us/faq
+permalink: /about-us/faq/
 description: ""
 ---
 ### General Questions

@@ -1,6 +1,6 @@
 ---
 title: Principal’s Message
-permalink: /about-us/principal-s-message
+permalink: /about-us/principal-s-message/
 description: ""
 ---
 ### Our Students, Our Future

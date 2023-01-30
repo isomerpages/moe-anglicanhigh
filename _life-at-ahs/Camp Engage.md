@@ -1,6 +1,6 @@
 ---
 title: Camp Engage
-permalink: /life-at-ahs/camp-engage
+permalink: /life-at-ahs/camp-engage/
 description: ""
 ---
 The first day of school is always a nervewrecking experience for our New Secondary 1 students. AHS welcomes our new students into our AHS Family through Camp Engage.

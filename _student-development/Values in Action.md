@@ -1,6 +1,6 @@
 ---
 title: Values in Action
-permalink: /student-development/values-in-action
+permalink: /student-development/values-in-action/
 description: ""
 ---
 AHS Cares is a concerted school effort to contribute to the community. Students plan and execute community projects by a model advocating the process of ‘Awareness-Action-Actualisation-Advocacy’.

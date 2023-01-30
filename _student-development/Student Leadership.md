@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /student-development/student-leadership
+permalink: /student-development/student-leadership/
 description: ""
 ---
 In Anglican High School, every student is a leader - a servant leader.

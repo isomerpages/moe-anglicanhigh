@@ -1,6 +1,6 @@
 ---
 title: Learning & Community Partners
-permalink: /partners/learning-n-community-partners
+permalink: /partners/learning-n-community-partners/
 description: ""
 ---
 Learning takes place beyond the walls of our classrooms. At Anglican High, we actively seek to forge partnerships with various learning and community organisations to provide opportunities for our students to stretch their learning in the six domains of holistic education - Cognitive (智), Headship (领), Aesthetics (美), Moral (德), Physical (体), and Social (群).  
