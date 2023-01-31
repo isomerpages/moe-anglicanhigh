@@ -1,6 +1,6 @@
 ---
 title: Anglican House
-permalink: /partners/anglican-house
+permalink: /partners/anglican-house/
 description: ""
 third_nav_title: Anglican House
 ---

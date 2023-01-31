@@ -49,7 +49,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-anglicanhigh-staging.netlify.app
-prod: https://moe-anglicanhigh-prod.netlify.app
+staging: https://staging.d3vsminw9npwq2.amplifyapp.com/
+prod: https://master.d3vsminw9npwq2.amplifyapp.com/
 shareicon: /images/AHS LOGO.gif
 is_government: false

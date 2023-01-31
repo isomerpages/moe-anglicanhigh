@@ -1,6 +1,6 @@
 ---
 title: Talent Development
-permalink: /student-development/talent-development
+permalink: /student-development/talent-development/
 description: ""
 ---
 At Anglican High School (AHS), we seek to develop a diverse mix of talents who create value for others.

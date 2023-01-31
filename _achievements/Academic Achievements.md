@@ -1,6 +1,6 @@
 ---
 title: Academic Achievements
-permalink: /achievements/academic-achievements
+permalink: /achievements/academic-achievements/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">

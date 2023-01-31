@@ -1,6 +1,6 @@
 ---
 title: Student Well Being
-permalink: /student-development/student-well-being
+permalink: /student-development/student-well-being/
 description: ""
 ---
 At AHS, we are proud of our strong culture of care. Our dedicated team of caring and competent teachers and staff work closely together to ensure that our students feel safe and cared for, have a sense of belonging and feel connected to the school.

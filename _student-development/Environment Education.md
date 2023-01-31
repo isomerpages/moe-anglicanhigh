@@ -1,6 +1,6 @@
 ---
 title: Environment Education
-permalink: /student-development/environment-education
+permalink: /student-development/environment-education/
 description: ""
 ---
 ### Environment Education

@@ -1,6 +1,6 @@
 ---
 title: Chinese New Year
-permalink: /life-at-ahs/chinese-new-year
+permalink: /life-at-ahs/chinese-new-year/
 description: ""
 ---
 ### 圣中喜迎鼠年

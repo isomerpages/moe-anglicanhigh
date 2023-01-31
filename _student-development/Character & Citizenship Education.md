@@ -1,6 +1,6 @@
 ---
 title: Character & Citizenship Education
-permalink: /student-development/character-n-citizenship-education
+permalink: /student-development/character-n-citizenship-education/
 description: ""
 ---
 Our philosophy for Character and Citizenship Education (CCE) is 'To inspire our students to be upright and useful citizens who embody Christian values and contribute positively to the society through the practice of servant leadership'.

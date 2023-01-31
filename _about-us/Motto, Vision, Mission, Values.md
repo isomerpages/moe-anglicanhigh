@@ -1,6 +1,6 @@
 ---
 title: Motto, Vision, Mission, Values
-permalink: /about-us/motto-vision-mission-values
+permalink: /about-us/motto-vision-mission-values/
 description: ""
 ---
 ### 校训 Motto

@@ -1,6 +1,6 @@
 ---
 title: Appreciation of Chinese Culture
-permalink: /student-development/appreciation-of-chinese-culture
+permalink: /student-development/appreciation-of-chinese-culture/
 description: ""
 ---
 作为一所特选中学，圣公会中学在语文的学习、文化的传承、价值观的灌输上，让学生具有全面的学习体验。随着中国的崛起，“中国通”课程让学生洞悉中国的历史和文化，并了解当前的局势，使他们在未来能更好地推进中新的关系。

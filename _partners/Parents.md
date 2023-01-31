@@ -1,6 +1,6 @@
 ---
 title: Parents
-permalink: /partners/parents
+permalink: /partners/parents/
 description: ""
 ---
 Our students do best when schools and parents work hand in hand to support them. As part of our school-home partnership, our Parent Support Group plays a key role in inspiring and guiding parents who wish to contribute to the school’s efforts, coordinating their time and effort effectively to give our students the best educational experience.&nbsp;

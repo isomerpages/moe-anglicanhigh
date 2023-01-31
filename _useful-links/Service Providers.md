@@ -1,6 +1,6 @@
 ---
 title: Service Providers
-permalink: /useful-links/service-providers
+permalink: /useful-links/service-providers/
 description: ""
 ---
 ### Bookshop (Pacific Bookstore)

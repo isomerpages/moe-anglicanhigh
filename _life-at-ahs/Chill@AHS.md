@@ -1,6 +1,6 @@
 ---
 title: Chill@AHS
-permalink: /life-at-ahs/chill-at-ahs
+permalink: /life-at-ahs/chill-at-ahs/
 description: ""
 ---
 School is about making memories and good times with friends that will last forever.
