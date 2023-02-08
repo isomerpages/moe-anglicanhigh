@@ -30,5 +30,3 @@ The strategies that the COE for Sports would employ are:
 **Facilities and resources**
 * To provide facilities for students to have competitive and recreational games; 
 * To provide facilities for training and development of teachers.
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4O2cxMOFz6v4_gLGRdpidQhTxwJjl5jlNVAFqUUrV9ya2CUQHWhlO3TbnH4ocb4gKlFMJ5YZkKWrR/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
