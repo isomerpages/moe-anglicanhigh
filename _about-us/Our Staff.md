@@ -298,7 +298,7 @@ description: ""
     <td>goh_wee_hong_thomas@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mdm Li Yilian</td>
+    <td>Mdm Lee Yilian</td>
     <td>2A</td>
     <td>lee_yilian@moe.edu.sg</td>
   </tr>
