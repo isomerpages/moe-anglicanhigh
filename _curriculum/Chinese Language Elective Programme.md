@@ -38,4 +38,3 @@ Sim Shu Yue - Silver award (Group Category) in the National Essay Reading Compet
 
 “身为语特学生，我最大的收获就是通过老师的言传身教，以及各种讲座、活动，切身感受文字的力量。文学让我看见了不一样的世界，从更广阔的视角看待事物；我们在文学中体验到了形形色色的人生，感受了不同人的不同命运，收获了思想、创造力，以及对生活的热忱，这些会让我们走得很远，很久。”
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRiUAC6mtEzaunC6Tmo3ndg375J8Clan2v_W0iUuoRtqzE3BKtksBHhXRbHzaHm-t-_tOaTBu0_5oPF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
