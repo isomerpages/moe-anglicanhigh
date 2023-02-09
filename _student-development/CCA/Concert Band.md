@@ -4,8 +4,6 @@ permalink: /student-development/co-curricular-activities/performing-arts-groups/
 description: ""
 third_nav_title: CCA
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTiovkjoCEm782wZKw4X2GV6RmjG-5ApPiy9fNb746YS1Y57dsAz9qhIupsKLDkH4zVBXAddyKJlyhJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
 1st IC: Mrs Yap Cher Eng
 
 Teachers-in-Charge
