@@ -4,8 +4,6 @@ permalink: /student-development/co-curricular-activities/performing-arts-groups/
 description: ""
 third_nav_title: CCA
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRutMXxkhgAmPnVVP_46cfA1C8rDG8atslY8rGK_pbidvKfAFDNbNsQS6FNenpRm_bVzu59damMdkRi/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
 1st IC: 冯薪安老师
 
 负责老师
