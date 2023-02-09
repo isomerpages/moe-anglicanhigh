@@ -3,7 +3,7 @@ title: Service Providers
 permalink: /useful-links/service-providers/
 description: ""
 ---
-### Bookshop (Pacific Bookstore)
+##### Bookshop (Pacific Bookstore)
 Operating Hours (during school term)
 Monday to Friday
 9.00am to 11.30am
@@ -13,11 +13,11 @@ Tel: 64433385
 https://www.pacificbookstores.com 
 
 
-### School Uniform (Shanghai Uniform)
+##### School Uniform (Shanghai Uniform)
 https://shanghai-uniforms.com
 
 
-### Cafe Forty31
+##### Cafe Forty31
 Operating Hours (during school term)
 Monday to Friday
 7.00am to 5.00pm
