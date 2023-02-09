@@ -31,11 +31,3 @@ description: ""
          style="width:600px"
 	/>
 <br>
-
-
-![asc cny](/images/2021_ASC_CNY_Poster2.jpg)
-**诸圣堂新春晚会**\
-ASC Chinese New Year Celebration\
-日期:2 月 20 日(周六)\
-时间:7:45-9:30pm  \
-直播链接:&nbsp;[https://www.asc.org.sg/cny2021-live](https://www.asc.org.sg/cny2021-live)
