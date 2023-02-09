@@ -11,9 +11,6 @@ sections:
         - title: Secondary One Registration
           description: Click here to find out more
           url: /about-us/announcements/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: sss
       background: /images/ahshero.gif
       title: "Every  AHS  Student                   A Leader              "
   - infopic:
