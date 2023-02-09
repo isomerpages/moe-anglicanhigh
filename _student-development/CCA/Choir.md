@@ -4,7 +4,6 @@ permalink: /student-development/co-curricular-activities/performing-arts-groups/
 description: ""
 third_nav_title: CCA
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTN1eeQ8PBCwV0ZfGVswsBqYVedr1KMLgMFvQf3jsm5XAeUBQWCfTYDx8hP0zkjIlw_kL5Y9trwqXRx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 1st IC: Ms Cheryl Tan
 
 Teachers-in-Charge
