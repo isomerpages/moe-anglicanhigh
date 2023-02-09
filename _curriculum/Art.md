@@ -20,5 +20,3 @@ To expand the imagination and creativity of AHS students, building in them the c
 I enjoy going through the processes of art-making with them and guiding them towards creating their own unique artworks. I feel a sense of fulfilment upon seeing the students’ faces light up when they succeed in translating their vision into art pieces.  
 
 --Mdm Ismalina Ismail, Teacher (Art)
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRbdsNZD4N2yZjfp-ASPEbSmhdw3sKZhuONokJBB8Tmtk4Zdr16x7LvzUkrq01oKjh1x-Le2pHTFkHN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
