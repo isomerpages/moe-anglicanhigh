@@ -4,8 +4,6 @@ permalink: /student-development/co-curricular-activities/performing-arts-groups/
 description: ""
 third_nav_title: CCA
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROvcnzmFD2NdTOSyOg3Wl5GzB5B2UOHPQ-CP85MurTuIRsBzFVcHs3JZhQqI4Dw_NXOIEaDMBitWJZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
 1st IC: Mr Thomas Goh
 
 Teachers-in-Charge
