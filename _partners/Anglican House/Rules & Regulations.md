@@ -4,7 +4,7 @@ permalink: /partners/Anglican-House/rules-and-regulations/
 description: ""
 third_nav_title: Anglican House
 ---
-### 1 CONDUCT
+##### 1 CONDUCT
   
 1.1 Boarders shall at all times respect the rights and privacy of other residents.
 
@@ -27,8 +27,6 @@ third_nav_title: Anglican House
 
 1.21 Boarders shall attend all briefings and meetings when notified by the hostel office.
 
-  
-
 1.3 Boarders are prohibited from engaging in conduct which poses a threat to the rights or well-being of other person.
 
 1.31 Gambling, smoking, consumption of alcohol and habit-forming drugs as well as anti-social behaviours such as spitting and littering are strictly prohibited in the hostel.
@@ -46,10 +44,8 @@ third_nav_title: Anglican House
 1.37 Boarders are strictly prohibited from entering the school compound after school operating hours. This excludes the Friday sports sessions, whereby access to the sporting facilities is allowed.
 
 1.38 Boarders who persistently violate the Rules and Regulations of the hostel will be asked to leave the hostel with deposit and balance of hostel fees forfeited.
-
   
-### 2 COMMUNAL SAFETY
-  
+##### 2 COMMUNAL SAFETY
 
 2.1 Boarders are prohibited from activating, without reasonable cause, fire alarms, thereby producing false alarms, or damaging any fire-safety equipment or discharging or tampering with fire safety equipment without a fire or the reasonable threat of a fire being present.
 
@@ -65,17 +61,11 @@ third_nav_title: Anglican House
 
 2.7 Boarders shall not throw objects from windows, balconies, fire escapes or other exterior parts of the hostel.
 
-  
-
-### 3 CARE OF ROOM, FACILITIES AND COMMON AREAS
-
-  
+##### 3 CARE OF ROOM, FACILITIES AND COMMON AREAS 
 
 3.1 Boarders are responsible for keeping the room safe, clean and tidy, and taking care of the contents in the room. Boarders who violate the above rules may be fined up to $10-$15.
 
 3.12 Shoes must be kept neatly on the shoe racks provided.
-
-  
 
 3.2 Boarders are prohibited from removing any appliance, furniture, furnishing, fitting or fixture from the room and the common areas of the hostel.
 
@@ -85,13 +75,9 @@ third_nav_title: Anglican House
 
 3.23 Any damage to the facilities of common areas caused by the carelessness, negligence or improper conduct of the boarders or visitors, the boarders shall be responsible for the cost of such repair, repainting, rectification or replacement.
 
-  
-
 3.3 No boarders may paint, put nails or screws, drill holes on the walls, change the arrangements of the furniture in the room and any other part of the hostel.
 
 3.31 Boarders shall not post or hang signs, notices, posters, banners, and etc on the walls, or in areas not designated by the hostel office for such a purpose, unless prior permission has been obtained from the office.
-
-  
 
 3.4 Boarders shall not change the room allocated to him or her without the approval of the hostel office.
 
@@ -101,11 +87,7 @@ third_nav_title: Anglican House
 
 3.7 Loss or damage of hostel keys shall be reported to the hostel office within 24 hours or the next working day. The cost of replacing the hostel keys and lock shall be borne by the boarders.
 
-  
-
-### 4 ROOM INSPECTION & REPAIRS  
-
-  
+##### 4 ROOM INSPECTION & REPAIRS  
 
 4.1 The hostel office reserves the right for its authorised representatives to enter and inspect any room in the interests of health, safety of the hostel, or to carry out any cleaning, repair, installation, maintenance, or improvement works without prior notice to the boarder.
 
@@ -117,11 +99,7 @@ third_nav_title: Anglican House
 
 4.2.3 There is a breach of any provision of this Rules and Regulations.
 
-  
-
-### 5 VISITOR POLICY
-
-  
+##### 5 VISITOR POLICY
 
 5.1 Non-resident visitors must leave the hostel premises by 9pm on the day of visit. They are strictly prohibited from staying overnight in the hostel.
 
@@ -135,13 +113,7 @@ third_nav_title: Anglican House
 
 5.6 The staff of Anglican House reserve the right to request any visitor, if deemed unwelcomed, to leave the hostel premises.
 
-  
-
-  
-
-### 6 ACCOUNTABILITY DURING HOSTEL STAY  
-
-  
+##### 6 ACCOUNTABILITY DURING HOSTEL STAY  
 
 6.1 Boarders who are not scholars must be medically insured by their parents or join the hostel’s group insurance scheme. The premium of medical insurance will vary yearly depending on the number of boarders in need of the scheme for that particular year.
 
