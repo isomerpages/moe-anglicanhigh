@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: AHS Direcet School Admission 2022
-          description: Find out more about DSA @ AHS
-          url: /about-us/direct-school-admission-dsa-2022
+        - title: Secondary One Registration
+          description: Click here to find out more
+          url: /about-us/announcements/
       background: /images/ahshero.gif
       title: "Every  AHS  Student                   A Leader              "
   - infopic:
