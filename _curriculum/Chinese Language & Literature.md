@@ -46,5 +46,3 @@ width:250px;height:400px;margin:10px;border-width:0px;border-color:#000000;borde
 身为一个华文老师，我最大的喜乐和骄傲就是看到学生在四年学习华文期间，渐渐地喜欢上华文并在生活中学而用之，贯彻书本中的知识和人生道理。
 
 -- Mr Shen Yu Hung 沈育弘 Teacher (Chinese)
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQG2Hu5YaCct9IgtaRLU4bKLEs0FutAazBGUVXievFyJQhaG216kORFeFlW-AQYYE42oNVG7PxIwHfC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
