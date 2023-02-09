@@ -4,7 +4,7 @@ permalink: /partners/Anglican-House/facilities/
 description: ""
 third_nav_title: Anglican House
 ---
-### Hostel Facilities
+##### Hostel Facilities
 
 *   4 stories of accommodation for 116 boarders.
 *   48 units of air-conditioned two-bedded rooms with attached toilets.
