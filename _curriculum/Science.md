@@ -47,5 +47,3 @@ width:250px;height:400px;margin:10px;border-width:0px;border-color:#000000;borde
 Being the one to elucidate scientific phenomena and elevating students to a certain level of enlightenment, gives me great pride and joy as a Science educator.
 
 -- Mr Azmi A. Rashid Teacher (Science)
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnxbSKfRV1GL9y74FZ8VgDu9ipX-9l5c7o8L9PVMER6_ctRbydEl5uRX5itwb4F5ZI5x90zluhj82m/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
