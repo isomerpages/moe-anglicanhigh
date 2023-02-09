@@ -28,4 +28,4 @@ Nearest MRT station: Tanah Merah MRT
 Buses: Nos. 2, 9, 12, 14, 24, 31, 35, 38 and 45
 
 ##### Application Form
-Please [click here](https://anglicanhigh-moe-edu-sg-admin.cwp.sg/qql/slot/u373/Partners/Anglican%20House/Anglican_House_Application_Form.pdf) to download the application form.
+Please [click here](/files/Partners/Anglican%20House/Anglican_House_Application_Form.pdf)to download the application form.
