@@ -9,13 +9,13 @@ All our students are encouraged to participate in at least one overseas learning
 
 Apart from sending our students out into the world, we also welcome international visitors to our school, giving our students the opportunity to play host and learn from their peers in other countries.
 
-### Hosting our Visitors from Gyeong-An Girls' School, South Korea
+##### Hosting our Visitors from Gyeong-An Girls' School, South Korea
 
 On 30 August 2019, Anglican High School hosted a group of visitors from Gyeong-An Girls' School, South Korea. The group consisted of the Principal, two teachers and 23 students. Each Korean student was paired up with our Secondary Three student leader. The students went on a school tour, participated in classroom lessons, and had a fruitful time interacting with each other over a meal at the school canteen.
 
 ![sk](/images/sk.png)
 
-### Hosting our Visitors from Haikou City Haijing School and Wuyuanhe School, China
+##### Hosting our Visitors from Haikou City Haijing School and Wuyuanhe School, China
 
 On 17 July 2019, we hosted 3 teachers and 29 students from Haikou City Haijing School and Wuyuanhe School, China.
 
