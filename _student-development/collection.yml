@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Zhu Yin 竹音.md
       - Character & Citizenship Education.md
       - CCA/.keep
       - CCA/Co Curricular Activities.md
