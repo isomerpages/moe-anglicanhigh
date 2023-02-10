@@ -1,32 +1,52 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Anglican High School
+description: Anglican High School
+image: /images/AHS LOGO.gif
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      key_highlights:
+        - title: Secondary One Registration
+          description: Click here to find out more
+          url: /about-us/announcements/
+      background: /images/ahshero.gif
+      title: "Every  AHS  Student                   A Leader              "
+  - infopic:
+      title: Soar at AHS
+      button: Curriculum
+      url: /student-development/talent-development
+      image: /images/tn1_soar_at_ahs.jpg
+      alt: Image alt text
+  - infopic:
+      title: Shine at AHS
+      button: Co-Curricular Activites
+      url: /student-development/co-curricular-activities
+      image: /images/tn2_shine_at_ahs.jpg
+      alt: Image alt text
+  - infopic:
+      title: Serve at AHS
+      button: VIA & Student Leadership
+      url: /life-at-ahs/chill-at-ahs
+      image: /images/tn3_serve_at_ahs.jpg
+      alt: Image alt text
+  - infopic:
+      title: Culture at Care
+      button: Student Wellbeing
+      url: /student-development/overseas-experience
+      image: /images/tn4_culture_of_care.jpg
+      alt: Image alt text
+  - infopic:
+      title: Rooted in Tradition
+      button: School Heritage
+      url: /about-us/school-heritage
+      image: /images/tn5_rooted_in_tradition.jpg
+      alt: Image alt text
+  - infopic:
+      title: Driven with Technology
+      button: Learning Technology
+      url: /student-development/learning-technology
+      image: /images/square6.jpg
+      alt: Image alt text
 ---
-

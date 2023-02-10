@@ -1,0 +1,23 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal’s Message.md
+      - Motto, Vision, Mission, Values.md
+      - School Crest & Song, Eagles Creed.md
+      - School Heritage.md
+      - East Zone COE Sports.md
+      - Our Staff.md
+      - DSA/.keep
+      - DSA/Direct School Admission (DSA) 2022.md
+      - DSA/Uniform Groups (UG).md
+      - DSA/Sports.md
+      - DSA/Performing Arts (PA).md
+      - DSA/Language.md
+      - DSA/Club.md
+      - AHS Newsletter.md
+      - Basic Non Financial Information.md
+      - FAQs.md
+      - Announcements.md
+      - Contact Us.md
+      - School Corporate Video.md

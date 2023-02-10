@@ -1,0 +1,16 @@
+collections:
+  partners:
+    output: true
+    order:
+      - Parents.md
+      - Alumni.md
+      - Chaplaincy.md
+      - Learning & Community Partners.md
+      - Overseas Partners.md
+      - Anglican House/.keep
+      - Anglican House/Anglican House.md
+      - Anglican House/Fees.md
+      - Anglican House/Services.md
+      - Anglican House/Rules & Regulations.md
+      - Anglican House/Check In & Check Out Procedures.md
+      - Anglican House/Facilities.md
