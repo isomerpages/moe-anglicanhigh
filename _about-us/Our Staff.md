@@ -348,7 +348,7 @@ description: ""
     <td>	jia_feng_koh@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Luisa Teng</td>
+    <td>Miss Luisa Teng</td>
     <td>2F</td>
     <td>teng_mei_fong@moe.edu.sg</td>
   </tr>
