@@ -450,7 +450,7 @@ description: ""
     <td>shen_yu_hung@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Sim Oi Leng</td>
+    <td>Mdm Sin Oi Leng</td>
     <td>3G</td>
     <td>sin_oi_leng@moe.edu.sg</td>
   </tr>
