@@ -20,7 +20,7 @@ description: ""
   </tr>
 </table>
 
-<table style="width:100%"> 
+<table style="width:85%"> 
 <tr>
     <th>Colours</th>
     <th>色</th>
