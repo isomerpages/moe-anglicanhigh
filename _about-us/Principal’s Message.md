@@ -3,6 +3,13 @@ title: Principal’s Message
 permalink: /about-us/principal-s-message/
 description: ""
 ---
+
+
+
+![Principal](/images/About%20us/Principal_Mr_Khoo.jpg)
+
+
+
 ### Our Students, Our Future
 Anglican High School will be celebrating 65 years of excellence and the legacy in nurturing future leaders who are honourable and of fine character in 2021. Our strong heritage as an SAP school, mission institution of learning, strong alumni partnership, and rich bi-cultural heritage enable us to inculcate in our students a strong sense of pride in the school culture and ethos.
 
