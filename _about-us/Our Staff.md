@@ -186,7 +186,12 @@ description: ""
   <tr>
     <td>Miss Tan Yu Jiao Priscilia</td>
     <td>陈玉娇</td>
-    <td>Learning Coach (AED/ LBS)</td>
+    <td>Special Education Needs Officer (SENO)</td>
+  </tr>
+	 <tr>
+    <td>Mr Darren Lim Zhong Juinn</td>
+    <td>-</td>
+    <td>Education and Career Guidance (ECG) Counsellor</td>
   </tr>
 	
 </table>
