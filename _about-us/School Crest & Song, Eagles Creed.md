@@ -3,19 +3,9 @@ title: School Crest & Song, Eagles Creed
 permalink: /about-us/school-crest-n-song-eagles-creed/
 description: ""
 ---
-School Crest 校徽
+#### School Crest 校徽
 
-<!-- Codes by HTML.am -->
-
-<!-- CSS Code -->
-<style type="text/css">
-img.GeneratedImage {
-width:200px;height:225px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
-}
-</style>
-
-<!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/About%20Us/ahs_logo.gif">
+![](/images/About%20us/ahs%20crest%20(Small)%20160x160.png)
 
 <table style="width:100%">
  
@@ -30,21 +20,16 @@ width:200px;height:225px;margin:10px;border-width:0px;border-color:#000000;borde
   </tr>
 </table>
 
-<table style="width:100%">
- 
+<table style="width:100%"> 
 <tr>
     <th>Colours</th>
     <th>色</th>
-   
   </tr>
   <tr>
     <td>Green - Abundant life<br>White - Holiness<br>Red - Precious blood of Jesus Christ</td>
     <td>青色 - 丰盛的生命<br>白色 - 圣洁<br>红色 - 耶稣基督的宝血</td>
-    
   </tr>
-  
 </table>
-
 
 
 ### School Song 校歌
