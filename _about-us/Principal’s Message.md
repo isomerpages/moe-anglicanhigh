@@ -6,7 +6,7 @@ description: ""
 <!-- CSS Code -->
 <style type="text/css">
 img.GeneratedImage {
-width:750px;height:450px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+width:600px;height:900px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
 }
 </style>
 <!-- HTML Code -->
