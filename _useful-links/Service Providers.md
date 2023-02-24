@@ -4,12 +4,12 @@ permalink: /useful-links/service-providers/
 description: ""
 ---
 ##### Bookshop (Pacific Bookstore)
-Operating Hours (during school term)
-Monday to Friday
-9.00am to 11.30am
-12.30pm to 3.00pm
-Closed on Saturday, Sunday & Public Holidays
-Tel: 64433385
+Operating Hours (during school term)<br>
+Monday to Friday<br>
+9.00am to 11.30am<br>
+12.30pm to 3.00pm<br>
+Closed on Saturday, Sunday & Public Holidays<br>
+Tel: 64433385<br>
 https://www.pacificbookstores.com 
 
 
@@ -18,8 +18,8 @@ https://shanghai-uniforms.com
 
 
 ##### Cafe Forty31
-Operating Hours (during school term)
-Monday to Friday
-7.00am to 5.00pm
+Operating Hours (during school term)<br>
+Monday to Friday<br>
+7.00am to 5.00pm<br>
 
 ![cafe](/images/Cafe_forty31.jpg)
