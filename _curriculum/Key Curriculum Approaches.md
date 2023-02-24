@@ -13,19 +13,6 @@ At AHS, students are taught to analyse their thinking by learning how to identif
 
 Our ultimate goal is for these standards to become infused in the thinking of our students, forming part of their inner voice, guiding them to reason better to become fair-minded critical thinkers.
 
-Fig 1. The Essential Dimensions of Critical Thinking
-<!-- Codes by HTML.am -->
-
-<!-- CSS Code -->
-<style type="text/css">
-img.GeneratedImage {
-width:750px;height:450px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
-}
-</style>
-
-<!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Curriculum/Key_Curriculum_Approaches/Fig2_critical_thinking.jpg">
-
 
 Source: https://www.criticalthinking.org/pages/critical-thinking-where-to-begin/796
 
