@@ -18,4 +18,3 @@ Thank you.
 
 Dear Parents,
 If you have any questions regarding Sec 1 Posting and related matters, please email to Sec1Posting@ahs.edu.sg
-
