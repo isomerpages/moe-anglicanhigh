@@ -5,7 +5,15 @@ description: ""
 ---
 #### School Crest 校徽
 
-![](/images/About%20us/sch_crest.jpg)
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:210px;height:215px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+<!-- HTML Code -->
+<img class="GeneratedImage" src="/images/About%20us/sch_crest.jpg">
+
 
 <table style="width:100%">
  
