@@ -21,29 +21,29 @@ To develop empathetic communicators, discerning readers and creative inquirers o
 <!-- CSS Code -->
 <style type="text/css">
 img.GeneratedImage {
-width:250px;height:400px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+width:448px;height:672px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
 }
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Curriculum/Staff/Cheryl_Tan.JPG">
+<img class="GeneratedImage" src="/images/Curriculum/EL/Cheryl_Tan.jpg">
 
-"I see the teaching of the English Language as a vehicle to empower my students to make social change. I wish to leave behind students with a heart for society, the downtrodden, marginalized, and those who fall through the cracks. What I can do as an individual is minuscule compared to the impact that a whole transformed generation can make."
-
--- Ms Cheryl Tan Jie Ning, Teacher (English)
+<p align="justify">
+"I see the teaching of the English Language as a vehicle to empower my students to make social change. I wish to leave behind students with a heart for society, the downtrodden, marginalized, and those who fall through the cracks. What I can do as an individual is minuscule compared to the impact that a whole transformed generation can make."<br>
+-- Ms Cheryl Tan Jie Ning, Teacher (English)</p>
 
 <!-- Codes by HTML.am -->
 
 <!-- CSS Code -->
 <style type="text/css">
 img.GeneratedImage {
-width:250px;height:400px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+width:448px;height:672px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
 }
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Curriculum/Staff/Jamuna_Mohan.JPG">
+<img class="GeneratedImage" src="/images/Curriculum/EL/Jamuna.jpg">
 
-"Teaching has to evolve continually. This novelty brings joy to the classroom and keeps monotony at bay. English is replete with inconsistencies and irregularities. Yet these only add to the beauty of the language. Teaching English has filled my entire life with purpose and love that has only multiplied over time."
-
--- Mrs. Jamuna Mohan Teacher (English)
+<p align="justify">
+"Teaching has to evolve continually. This novelty brings joy to the classroom and keeps monotony at bay. English is replete with inconsistencies and irregularities. Yet these only add to the beauty of the language. Teaching English has filled my entire life with purpose and love that has only multiplied over time."<br>
+-- Mrs. Jamuna Mohan Teacher (English)</p>
