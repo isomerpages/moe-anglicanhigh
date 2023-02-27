@@ -4,7 +4,7 @@ permalink: /partners/Anglican-House/fees/
 description: ""
 third_nav_title: Anglican House
 ---
-##### Accommodation Types and Rates (with effect from 1 January2023 
+##### Accommodation Types and Rates (with effect from 1 January 2023) 
   
 **Long-term stay (by school terms or weeks):**
 
