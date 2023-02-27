@@ -10,7 +10,7 @@ width:360px;height:540px;margin:10px;border-width:0px;border-color:#000000;borde
 }
 </style>
 <!-- HTML Code -->
-<img class="GeneratedImage" src="/images/About%20us/Principal_Mr_Khoo.jpg">
+<img class="GeneratedImage" src="/images/About%20us/P_Mr_Khoo.jpg">
 
 
 ### Our Students, Our Future
