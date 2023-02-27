@@ -5,7 +5,7 @@ description: ""
 ---
 #### School Crest 校徽
 
-![](/images/About%20us/ahs%20crest%20(Small)%20160x160.png)
+![](/images/About%20us/sch_crest.jpg)
 
 <table style="width:100%">
  
