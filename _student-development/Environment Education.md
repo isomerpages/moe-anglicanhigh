@@ -3,64 +3,47 @@ title: Environment Education
 permalink: /student-development/environment-education/
 description: ""
 ---
-### Environment Education
-At Anglican High School, we envision our students as leaders who lead honourably, learn for life and create value for others. Through our environmental education programme, our students not only learn about sustainability and the environment, they also put into practice the good habits to care for our environment, and champion for causes that will create a better living enviroment.
+#### Environment Education
+<p align="justify">
+At Anglican High School, we envision our students as leaders who lead honourably, learn for life and create value for others. Through our environmental education programme, our students not only learn about sustainability and the environment, they also put into practice the good habits to care for our environment, and champion for causes that will create a better living enviroment.</p>
+<p align="justify">
+To reinforce the values of responsibility and respect for the environment, the school collaborates with government agencies (e.g. PUB and NEA), industry parters (e.g. ASTAR) and community partners (e.g. South East CDC and Fengshan CC). These partnerships are valuable to provide our students with: </p>
 
-To reinforce the values of responsibility and respect for the environment, the school collaborates with government agencies (e.g. PUB and NEA), industry parters (e.g. ASTAR) and community partners (e.g. South East CDC and Fengshan CC). These partnerships are valuable to provide our students with:  
-- authentic learning experiences to learn about our local natural resources and environmental issues
-- opportunities to practice environment-friendly habits such as reducing, reusing and recycling waste
-- platforms to lead and influence change for eco-friendly practices.
+* authentic learning experiences to learn about our local natural resources and environmental issues
+* opportunities to practice environment-friendly habits such as reducing, reusing and recycling waste
+* platforms to lead and influence change for eco-friendly practices.
 
-### Environmental Ambassadors
-To encourage students to take the lead in championing environmental-friendly practices, every class has two environmental ambassadors who:
-- Take charge of the duty roster, ensuring that the classroom is clean and conducive for learning. 
-- Promote environmentally friendly practices within the class. 
-- Assist in the running of school environmental campaigns. E.g.  AHS E-waste challenge.  
-- Conduct a biodiversity survey of the birds sighted in school using the SGBioAtlas app.
+#### Environmental Ambassadors
+<p align="justify">
+To encourage students to take the lead in championing environmental-friendly practices, every class has two environmental ambassadors who:</p>
 
-<!-- Codes by HTML.am -->
-
-<!-- CSS Code -->
-<style type="text/css">
-img.GeneratedImage {
-width:400px;height:500px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
-}
-</style>
-
-<!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Environment_Edu/Environmental_Ambassadors_01.jpg">
+* Take charge of the duty roster, ensuring that the classroom is clean and conducive for learning. 
+* Promote environmentally friendly practices within the class. 
+* Assist in the running of school environmental campaigns. E.g.  AHS E-waste challenge.  
+* Conduct a biodiversity survey of the birds sighted in school using the SGBioAtlas app.
+* 
 
 <!-- Codes by HTML.am -->
 
 <!-- CSS Code -->
 <style type="text/css">
 img.GeneratedImage {
-width:400px;height:500px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+width:730px;height:383px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
 }
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Environment_Edu/Environmental_Ambassadors_03.jpg">
-
-<!-- Codes by HTML.am -->
-
-<!-- CSS Code -->
-<style type="text/css">
-img.GeneratedImage {
-width:700px;height:500px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
-}
-</style>
-
-<!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Student_Development/Environment_Edu/E-waste_collection_01.jpg">
+<img class="GeneratedImage" src="/images/Student%20Development/Environment%20Education/Environmental_Ambassador.jpg">
 
 
-### Rain Garden
-The Rain Garden was set up in collaboration with the Public Utilities Board (PUB) in 2016. It provides an outdoor classroom for experiential learning in the Secondary One Geography curriculum. Students learn the purpose and value of the Rain Garden, which acts as a natural filtration method for water, hence reducing resources in purifying water in urban areas.
+#### Rain Garden
+<p align="justify">
+The Rain Garden was set up in collaboration with the Public Utilities Board (PUB) in 2016. It provides an outdoor classroom for experiential learning in the Secondary One Geography curriculum. Students learn the purpose and value of the Rain Garden, which acts as a natural filtration method for water, hence reducing resources in purifying water in urban areas.</p>
 
 ![garden](/images/garden.png)
 
-### Vertical Farming
-As an extension of the Science curriculum, Secondary One students will have hands-on learning on vertical farming. Students take ownership of the individual plants they grow, from planting, monitoring of water nutrients level to harvesting.
+#### Vertical Farming
+<p align="justify">
+As an extension of the Science curriculum, Secondary One students will have hands-on learning on vertical farming. Students take ownership of the individual plants they grow, from planting, monitoring of water nutrients level to harvesting.</p>
 
 ![vf](/images/Vertical_farming_01.jpg)
