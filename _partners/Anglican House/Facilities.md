@@ -24,7 +24,7 @@ width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;borde
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Partners/Anglican%20House/01_Study_Room.jpg">
+<img class="GeneratedImage" src="/images/Partners/Anglican%20House/01_Study_Room.jpg">
 
 Study Room
 
@@ -38,7 +38,7 @@ width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;borde
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Partners/Anglican%20House/02_Computer_Room.jpg">
+<img class="GeneratedImage" src="/images/Partners/Anglican%20House/02_Computer_Room.jpg">
 
 Computer Room
 
@@ -52,7 +52,7 @@ width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;borde
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Partners/Anglican%20House/03_2-bedded%20room.jpg">
+<img class="GeneratedImage" src="/images/Partners/Anglican%20House/03_2-bedded%20room.jpg">
 
 2-Bedded Room
 
@@ -66,7 +66,7 @@ width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;borde
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Partners/Anglican%20House/04_4-bedded%20room.jpg">
+<img class="GeneratedImage" src="/images/Partners/Anglican%20House/04_4-bedded%20room.jpg">
 
 4-Bedded Room
 
@@ -80,7 +80,7 @@ width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;borde
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Partners/Anglican%20House/05_6-bedded%20room.jpg">
+<img class="GeneratedImage" src="/images/Partners/Anglican%20House/05_6-bedded%20room.jpg">
 
 6-Bedded Room
 
@@ -94,7 +94,7 @@ width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;borde
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Partners/Anglican%20House/06_TV%20room.jpg">
+<img class="GeneratedImage" src="/images/Partners/Anglican%20House/06_TV%20room.jpg">
 
 TV Room
 
@@ -108,7 +108,7 @@ width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;borde
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Partners/Anglican%20House/07_Dinning%20Hall.jpg">
+<img class="GeneratedImage" src="/images/Partners/Anglican%20House/07_Dinning%20Hall.jpg">
 
 Dining Hall
 
@@ -122,7 +122,7 @@ width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;borde
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Partners/Anglican%20House/08_Gym.jpg">
+<img class="GeneratedImage" src="/images/Partners/Anglican%20House/08_Gym.jpg">
 
 Gym
 
@@ -136,7 +136,7 @@ width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;borde
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Partners/Anglican%20House/09_Music%20Room.jpg">
+<img class="GeneratedImage" src="/images/Partners/Anglican%20House/09_Music%20Room.jpg">
 
 Music Room
 
@@ -150,7 +150,7 @@ width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;borde
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Partners/Anglican%20House/10_Infotaiment%20Room.jpg">
+<img class="GeneratedImage" src="/images/Partners/Anglican%20House/10_Infotaiment%20Room.jpg">
 
 Infotainment Room
 
@@ -164,7 +164,7 @@ width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;borde
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Partners/Anglican%20House/11_Snooker%20Room.jpg">
+<img class="GeneratedImage" src="/images/Partners/Anglican%20House/11_Snooker%20Room.jpg">
 
 Snooker Room
 
@@ -178,6 +178,6 @@ width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;borde
 </style>
 
 <!-- HTML Code -->
-<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://anglicanhigh.moe.edu.sg/qql/slot/u373/Partners/Anglican%20House/12_Tea%20Room.jpg">
+<img class="GeneratedImage" src="/images/Partners/Anglican%20House/12_Tea%20Room.jpg">
 
 Tea Room
