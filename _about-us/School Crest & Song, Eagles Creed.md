@@ -5,10 +5,18 @@ description: ""
 ---
 #### School Crest 校徽
 
-![](/images/About%20us/ahs%20crest%20(Small)%20160x160.png)
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:210px;height:215px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+<!-- HTML Code -->
+<img class="GeneratedImage" src="/images/About%20us/sch_crest.jpg">
+
+
 
 <table style="width:100%">
- 
 <tr>
     <th>Shape</th>
     <th>形状</th>

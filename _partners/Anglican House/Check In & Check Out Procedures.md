@@ -8,9 +8,7 @@ third_nav_title: Anglican House
 
 Check-in time: 2 pm—3.30 pm  
 
-**Step 1:** Boarders shall present the following original documents to the hostel office
-
-for the check-in:
+**Step 1:** Boarders shall present the following original documents to the hostel office for the check-in:
 
 \- NRIC/FIN<br>
 \- Passport for international students
