@@ -13,6 +13,7 @@ At AHS, students are taught to analyse their thinking by learning how to identif
 Our ultimate goal is for these standards to become infused in the thinking of our students, forming part of their inner voice, guiding them to reason better to become fair-minded critical thinkers.
 </p>
 
+![](/images/Curriculum/Critical%20Thinking/The_Essential_Dimensions_of_CT.jpg)
 
 Source: https://www.criticalthinking.org/pages/critical-thinking-where-to-begin/796
 
