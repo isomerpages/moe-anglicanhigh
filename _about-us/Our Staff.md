@@ -3,7 +3,7 @@ title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
 ---
-<h3>School Leaders 学校领导</h3>
+#### School Leaders 学校领导
 
 <table style="width:100%">
  
@@ -24,7 +24,7 @@ description: ""
   </tr>
 </table>
 
-<h3>Key Personnel (Head of Department) 部门主任</h3>
+#### Key Personnel (Head of Department) 部门主任
 
 <table style="width:100%">
  
@@ -95,7 +95,7 @@ description: ""
   </tr>
 </table>
 
- <h3>Key Personnel (Subject Head) 科目主任</h3>
+####  Key Personnel (Subject Head) 科目主任
 
 <table style="width:100%">
  
@@ -137,7 +137,7 @@ description: ""
 	
 </table>
 
- <h3>Lead Teachers/ Senior Teachers 主导教师/ 高级教师</h3>
+####  Lead Teachers/ Senior Teachers 主导教师/ 高级教师
 
 <table style="width:100%">
  
@@ -174,7 +174,7 @@ description: ""
 	
 </table>
 
- <h3>Counselling & Learning Support 心理咨询与学习援助</h3>
+####  Counselling & Learning Support 心理咨询与学习援助
 
 <table style="width:100%">
  
@@ -196,7 +196,7 @@ description: ""
 	
 </table>
 
-<h3>Sec 1 Form Teachers 中一级任老师</h3>
+#### Sec 1 Form Teachers 中一级任老师
 
 <table style="width:100%">
  
@@ -293,7 +293,7 @@ description: ""
 	
 </table>
 
-<h3>Sec 2 Form Teachers 中二级任老师</h3>
+#### Sec 2 Form Teachers 中二级任老师
 
 <table style="width:100%">
  
@@ -390,7 +390,7 @@ description: ""
 	
 </table>
 
-<h3>Sec 3 Form Teachers 中三级任老师</h3>
+#### Sec 3 Form Teachers 中三级任老师
 
 <table style="width:100%">
  
@@ -487,7 +487,7 @@ description: ""
 	
 </table>
 
-<h3>Sec 4 Form Teachers 中四级任老师</h3>
+#### Sec 4 Form Teachers 中四级任老师
 
 <table style="width:100%">
  
