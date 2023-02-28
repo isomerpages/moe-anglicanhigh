@@ -3,7 +3,7 @@ title: FAQs
 permalink: /about-us/faq/
 description: ""
 ---
-### General Questions
+#### General Questions
 
 **Q: Does Anglican High School offer the six-year Integrated Programme?**
 
@@ -18,7 +18,7 @@ A:	There is a wide range of CCAs - Sports, Performing Arts, Uniformed Groups and
 A:	Anglican High School is served by a number of bus services. They are 2, 9, 12, 14, 24, 25, 31, 35, 38, 45, 46, 47, 48, 222 and 506. Tanah Merah MRT Station is the train station that is nearest to the school.
  	 
   
-### Admission-related questions
+#### Admission-related questions
 
 **Q:	What is the cut-off point for Anglican High School?**
 
@@ -41,7 +41,7 @@ A:	No. Our students come from diverse background and religion. All MOE schools a
 A:	Anglican High School is affiliated to Saint Andrew Junior College (SAJC). Secondary 4 graduands have 2 bonus points for entry to SAJC.
  	 
  
-### Higher Chinese Eligibility
+#### Higher Chinese Eligibility
 
 **Q:	Can I get my child to offer Higher Chinese as an examination subject in Anglican High?**
 
@@ -49,4 +49,4 @@ A:	Students posted to Anglican High can offer Higher Chinese as an examinable su
  	 
 **Q:	Can my child offer Higher Chinese if he/she is not given a letter by MOE?**
 
-A:	Your child will be assessed on his/her performance in Chinese in secondary one. If he/she has done exceptionally well in Chinese, he/she will be offered to do Higher Chinese in Secondary Two with the recommendation from his/her Chinese teacher. 
+A:	Your child will be assessed on his/her performance in Chinese in secondary one. If he/she has done exceptionally well in Chinese, he/she will be offered to do Higher Chinese in Secondary Two with the recommendation from his/her Chinese teacher.
