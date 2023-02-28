@@ -31,4 +31,4 @@ width:269px;height:403px;margin:10px;border-width:0px;border-color:#000000;borde
 <img class="GeneratedImage" src="/images/Curriculum/Math/Martin_Yong.jpg">
 
 <p align="justify">
-Success only comes when you persevere. Seeing a struggling Math student suddenly experience an "a-ha!" moment, and from then on, go whole heartedly into tackling one problem after another, that's my pride and joy. <br>-- Mr Martin Yong, Subject Head (Student Leadership/Student Management)</p>
+Success only comes when you persevere. Seeing a struggling Math student suddenly experience an "a-ha!" moment, and from then on, go whole heartedly into tackling one problem after another, that's my pride and joy. <br>-- Mr Martin Yong, HOD/ Student Leadership and Management</p>
