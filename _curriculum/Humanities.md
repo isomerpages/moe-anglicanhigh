@@ -22,7 +22,7 @@ To nurture humanities learners who are concerned global citizens who are curious
 <!-- CSS Code -->
 <style type="text/css">
 img.GeneratedImage {
-width:448px;height:672px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+width:269px;height:403px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
 }
 </style>
 
