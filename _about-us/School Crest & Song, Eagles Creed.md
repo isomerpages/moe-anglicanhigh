@@ -39,46 +39,39 @@ width:210px;height:215px;margin:10px;border-width:0px;border-color:#000000;borde
   </tr>
 </table>
 
+#### School Song 校歌
 
-### School Song 校歌
+浩荡圣中气象雄 如鹰展翅岛中<br>
+圣洁公义我尊崇 远近嘉名号圣公<br>
+治学立业须谦恭 师友爱乐融融<br>
+把握今天勤用功 创造锦绣之前程<br>
+进德修业树校风 向着标杆力冲<br>
+永为基督之精兵 永为邦国之忠臣<br>
 
-浩荡圣中气象雄 如鹰展翅岛中
+#### Eagles Creed
 
-圣洁公义我尊崇 远近嘉名号圣公
+As students of Anglican High,<br>
+We aspire towards Holiness and Righteousness<br>
+With God's strength and help<br>
+We aim to be creative thinkers,<br>
+Lifelong learners and compassionate leaders.<br>
+We uphold integrity and<br>
+Show love and respect for others.<br>
+We will be responsible, disciplined and dedicated<br>
+Persevering in all challenges we face.<br>
+We shall continue to strive and<br>
+Let our talents soar.<br>
+We value our legacy and<br>
+Pledge our loyalty to our school and nation.<br>
 
-治学立业须谦恭 师友爱乐融融
+#### 翔鹰誓约
 
-把握今天勤用功 创造锦绣之前程
-
-进德修业树校风 向着标杆力冲
-
-永为基督之精兵 永为邦国之忠臣
-
-
-### Eagles Creed
-
-As students of Anglican High,
-We aspire towards Holiness and Righteousness
-With God's strength and help
-We aim to be creative thinkers,
-Lifelong learners and compassionate leaders.
-We uphold integrity and
-Show love and respect for others.
-We will be responsible, disciplined and dedicated
-Persevering in all challenges we face.
-We shall continue to strive and
-Let our talents soar.
-We value our legacy and
-Pledge our loyalty to our school and nation.
-
-### 翔鹰誓约
-
-身为圣公会中学的学生
-凭借上帝的力量和帮助
-我们致力于成为拥有圣洁公义品质的人
-我们立志达致创意思维
-终身学习并成为富同情心的领导人
-我们誓要维护正义，敬重、友爱他人
-面对困难，我们将竭力不懈，培养责任感、自律能力与投入的精神。
-我们将不断努力进步，以求人尽其才
-我们尊重传统并忠于学校和国家
+身为圣公会中学的学生<br>
+凭借上帝的力量和帮助<br>
+我们致力于成为拥有圣洁公义品质的人<br>
+我们立志达致创意思维<br>
+终身学习并成为富同情心的领导人<br>
+我们誓要维护正义，敬重、友爱他人<br>
+面对困难，我们将竭力不懈，培养责任感、自律能力与投入的精神。<br>
+我们将不断努力进步，以求人尽其才<br>
+我们尊重传统并忠于学校和国家<br>
