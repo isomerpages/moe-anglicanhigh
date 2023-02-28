@@ -3,12 +3,14 @@ title: Principal’s Message
 permalink: /about-us/principal-s-message/
 description: ""
 ---
+<!-- Codes by HTML.am -->
+
 <!-- CSS Code -->
 <style type="text/css">
 img.GeneratedImage {
-width:360px;height:540px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
-}
-</style>
+width:288px;height:432px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}</style>
+
 <!-- HTML Code -->
 <img class="GeneratedImage" src="/images/About%20us/P_Mr_Khoo.jpg">
 
