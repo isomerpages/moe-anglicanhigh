@@ -3,6 +3,9 @@ title: Principal’s Message
 permalink: /about-us/principal-s-message/
 description: ""
 ---
+
+#####
+
 <!-- Codes by HTML.am -->
 
 <!-- CSS Code -->
@@ -14,7 +17,6 @@ width:288px;height:432px;margin:10px;border-width:0px;border-color:#000000;borde
 
 <!-- HTML Code -->
 <img class="GeneratedImage" src="/images/About%20us/P_Mr_Khoo.jpg">
-
 
 #### Our Students, Our Future
 <p align="justify">
