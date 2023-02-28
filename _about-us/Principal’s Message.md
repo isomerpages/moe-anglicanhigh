@@ -9,7 +9,8 @@ description: ""
 <style type="text/css">
 img.GeneratedImage {
 width:288px;height:432px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
-}</style>
+}
+</style>
 
 <!-- HTML Code -->
 <img class="GeneratedImage" src="/images/About%20us/P_Mr_Khoo.jpg">
