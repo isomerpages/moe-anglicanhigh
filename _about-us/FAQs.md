@@ -22,7 +22,7 @@ A:	Anglican High School is served by a number of bus services. They are 2, 9, 12
 
 **Q:	What is the cut-off point for Anglican High School?**
 
-A:	The cut-off point varies year by year. Anglican High School is a choice school with 10 full secondary one classes every year. For enquires, please call the school at 6241 4866.
+A:	The cut-off point varies year by year. Anglican High School is a choice school with 9 full secondary one classes every year. For enquires, please call the school at 6241 4866.
  	 
 **Q:	Does the cut-off point include the Higher Chinese (HCL) scores?**
 
