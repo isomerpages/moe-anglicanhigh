@@ -13,11 +13,19 @@ At AHS, students are taught to analyse their thinking by learning how to identif
 Our ultimate goal is for these standards to become infused in the thinking of our students, forming part of their inner voice, guiding them to reason better to become fair-minded critical thinkers.
 </p>
 
-![](/images/Curriculum/Critical%20Thinking/The_Essential_Dimensions_of_CT.jpg)
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:309px;height:309px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img class="GeneratedImage" src="/images/Curriculum/Critical%20Thinking/The_Essential_Dimensions_of_CT.jpg">
 
 Source: https://www.criticalthinking.org/pages/critical-thinking-where-to-begin/796
 
-### Learning with Technology
+#### Learning with Technology
 <p align="justify">
 Anglican High School piloted the use of Chromebooks as our learning device in 2018, starting with one class and progressing to eight classes in 2020. Starting 2021, all Secondary One to Three students will have their own personal learning devices under the Personalised Digital Learning Programme (PDLP) by MOE as part of the National Digital Literacy Programme.</p>
 
