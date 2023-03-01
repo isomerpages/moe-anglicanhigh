@@ -3,7 +3,7 @@ title: Founders' Day
 permalink: /life-at-ahs/founders-day/
 description: ""
 ---
-### Founder's Day 2020
+#### Founder's Day
 
 The school welcomed back the outstanding Secondary 4 students of 2019 on 22 July 2020. Bright, sunny weather delightfully greeted these Secondary 4 students who returned back to the AHS campus after graduating from the school.
 
