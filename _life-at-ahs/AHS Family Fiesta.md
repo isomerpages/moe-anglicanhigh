@@ -12,3 +12,11 @@ After a two-year hiatus due to COVID-19, our AHS family could finally gather to 
 </p>
 <p align="justify">
 We are truly thankful that we are able to gather together again to celebrate God's goodness in guiding our school!</p>
+
+![](/images/Life%20at%20AHS/Family%20Fiesta/2022_Family_Fiesta_01.jpg)
+
+![](/images/Life%20at%20AHS/Family%20Fiesta/2022_Family_Fiesta_02.jpg)
+
+![](/images/Life%20at%20AHS/Family%20Fiesta/2022_Family_Fiesta_03.jpg)
+
+![](/images/Life%20at%20AHS/Family%20Fiesta/2022_Family_Fiesta_04.jpg)
