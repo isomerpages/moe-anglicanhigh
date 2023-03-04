@@ -8,7 +8,6 @@ description: ""
 All AHS students to be critical thinkers and competent problem solvers who appreciate how Mathematics is applied in the real world</p>
 
 #### Mission
-
 <p align="justify">To develop competent problem solvers with an understanding of how mathematics is used in the real world. We achieve our objectives through effective professional development, quality teaching and learning. We provide a differentiated academic curriculum within a learner-centred environment whilst harnessing the strengths of ICT and curriculum innovations.</p>
 
 #### Subjects Offered:

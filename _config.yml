@@ -3,7 +3,7 @@ url: https://www.anglicanhigh.moe.edu.sg
 favicon: /images/AHS LOGO.gif
 colors:
   primary-color: "#1d4b3e"
-  secondary-color: "#ed4025"
+  secondary-color: "#1d4b3e"
   media-colors:
     - title: media-color-one
       color: "#ffffff"
