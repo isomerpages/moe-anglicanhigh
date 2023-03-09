@@ -23,3 +23,7 @@ third_nav_title: CCA
    2018年三场戏剧演出门票全部售罄，三场共吸引了9百名观众前来观赏，其中包括过去几届校友热情回巢，给予学弟妹们大力支持。 
 
    2019年第一季，圣中中文戏剧学会积极筹备与排练让人耳目一新的另一原创剧《星空下》，以期在今年的青年艺术节呈献更精彩的演出。
+	 
+![](/images/Student%20Development/CCA/Chinese%20Drama/2022_Chinese_Drama_01.jpg)
+
+![](/images/Student%20Development/CCA/Chinese%20Drama/2022_Chinese_Drama_02.jpg)
