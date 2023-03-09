@@ -4,13 +4,12 @@ permalink: /student-development/co-curricular-activities/performing-arts-groups/
 description: ""
 third_nav_title: CCA
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRSqu1OGjQmPqChqpj3VC0hV-M3_-cX7kLmuIaVN0278xMzLCSxEpjw9rH6l_76pOzq1TwRRuSeLgjB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
 1st IC: Miss Farahdilla
 
-Teachers-in-Charge
-Mdm Haryati
-Mrs Shirley Koh
+Teachers-in-Charge:<br>
+Mrs Shirley Koh Shieh Ping<br>
+Mdm Lur Bee Cheng
+
 
 “Being in the Modern Dance has produced my brightest and most favourite moments in AHS!” - Melody Yeo, 3K
 
@@ -24,3 +23,7 @@ Ng Xue Ying, 4G
 
 2018 was yet another intense year for the AHS Dance Society which comprised of excitement and several performances that consisted of evocative and artistic choreography. The dancers' sharp technique and perseverance were commended in the various performances they put up in school. They have displayed exemplary proficiency through partaking in various styles of dance, ranging from the elegance and clean movements required in contemporary-ballet and complimenting the heavy and bold accents of the music in hip hop. The dancers also took great pride in performing the unique repertoire that was self-choreographed dedicated to the teachers on Teacher's Day.
 The dancers are putting in their best effort as they train for the upcoming SYF performance in April 2019.
+
+![](/images/Student%20Development/CCA/Modern%20Dance/2022_Modern_Dance_02.jpg)
+
+![](/images/Student%20Development/CCA/Modern%20Dance/2022_Modern_Dance_01.jpg)
