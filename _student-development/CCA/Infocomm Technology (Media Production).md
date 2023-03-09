@@ -4,58 +4,22 @@ permalink: /student-development/cca/clubs-and-societies/infocomm-technology-medi
 description: ""
 third_nav_title: CCA
 ---
-<img src="/images/2019_Info_Comm_01.jpg" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/2019_Info_Comm_02.jpg" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/2019_Info_Comm_03.jpg" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/2019_Info_Comm_04.jpg" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/2019_Info_Comm_05.jpg" 
-         style="width:600px"
-	/>
-<br>
-
-
-#### 1st IC and teachers of CCA   
-
 1st IC: Ms Lim Geok Lian
 
-  
-
-Teachers-in-Charge  
-
-Mr Poh Seng Kiat
-
+Teachers-in-Charge: <br>
+Mr Poh Seng Kiat<br>
 Mr Khoo Sheng Li David
-
-  
 
 “I get to learn skills that I have always wanted to learn, and I also get to enjoy learning and having fun with my friends.” – by Carla Grecia Sanjaya, 3F
 
-  
-
 “I enjoy getting to bond with my batch mates.” – by Hannah Lim Yunxi, 3C
-
-  
-
-  
 
 Marc Ribaud, a French photographer, once said “Taking pictures is savoring life intensely, every hundredth of a second.” This is what was on the minds of our Infocomm students when they went to Chinatown to capture the festive moods of our Chinese New Year in the year of the Roaster. It was a lucky day for us because It didn’t rain and we made it to Chinatown to be soaked in the festive mood of the lunar new year. Our members were able to apply what they learned in photography to capture those moments.
 
-  
-
 We are a service-oriented club and we render help to take photographs or videos at school events. Our members are also on duty daily during the morning assemblies.
 
-  
-
 The SDMA is an annual competition organised by the Educational Technology Division, Ministry of Education and the School Film and Media Studies, Ngee Ann Polytechnic. It provides a platform for students to express themselves through visual media such as videos and photo essays. It also helps to develop students’ creativity and hone their critical thinking skills which are in line with our school teaching model.
+
+![](/images/Student%20Development/CCA/Infocomm/2022_Infocomm_02.jpg)
+
+![](/images/Student%20Development/CCA/Infocomm/2022_Infocomm_01.jpg)
