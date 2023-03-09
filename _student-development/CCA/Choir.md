@@ -23,3 +23,7 @@ Some highlights in the choir calendar would include:
 Choral Concert 2018, Quispium Novus: Held in November 2018 at Victoria Concert Hall, the well-received concert centred around the theme of remembering. The choir performed a series of moving repertoires including Christus Factus Est and Listen to the Lambs. They were also joined by choir alumni, who served as a fitting reminder of what it meant to remember one’s origins, in their continued contribution to the choir. The many months of hard work culminated in an ethereal performance and a night to remember for both the choir and audience alike.
 
 Singapore Youth Festival 2019: The choir was awarded the Certificate of Distinction at the Singapore Youth Festival Central Judging held in April 2019. Preparing for the SYF was an intense learning experience that not only gave the choir the opportunity to hone their skills, but also drove home the importance of hard work in creating harmony and music that inspires.
+
+![](/images/Student%20Development/CCA/Choir/2022_Choir_02.jpg)
+
+![](/images/Student%20Development/CCA/Choir/2022_Choir_01.jpg)
