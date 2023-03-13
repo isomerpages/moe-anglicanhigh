@@ -3,7 +3,6 @@ title: Basic Non Financial Information
 permalink: /about-us/basic-non-financial-information/
 description: ""
 ---
-
 **Name of School:** Anglican High School<br>
 **Address:** 600 Upper Changi Road, Singapore 487012<br>
 **Telephone Number:** 6241 4866<br>
@@ -19,7 +18,7 @@ description: ""
 **Mission:** To nurture creative thinkers, lifelong learners, and compassionate leaders who uphold tradition and aspire towards holiness and righteousness. <br><br>
 **Objectives:** <br>To create a nurturing and challenging environment.<br> To develop well-rounded individuals who are effectively bilingual, appreciate Chinese culture and value diversity. <br>To build a learning community of active and responsible citizens of sound character imbibed with values based on Christian teachings. <br>To develop talents and leadership qualities. <br><br>
 **Patron:** Nil <br>
-**Board Members:** <br>
+<b><u>Board Members:</b></u> <br>
 **Chairman:** Mr Alden Tan Siang Hin <br>
 **Vice-Chairman:** Mr Loh Wah Kay <br>
 **Secretary:** Mr Khoo Tse Horng <br>
@@ -47,7 +46,3 @@ To develop students to be fair-minded thinkers and future-ready leaders who upho
 * AHS Artificial Intelligence Course. <br>
 * Renovation of Chinese Tea Room as Chinese Tea Room cum CLEP Room. <br>
 * Renovation of AHS iSpace to double up as performance space - a black box theatre. <br>
-
-
-
-
