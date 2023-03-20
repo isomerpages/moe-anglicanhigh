@@ -7,7 +7,7 @@ third_nav_title: CCA
 1st IC: Mr Kwek Jun Song
  
 <b>Teachers-in-Charge:</b><br>
-Ms Tay Keng Wei><br>
+Ms Tay Keng Wei<br>
 Ms Lee Yilian<br>
 Mr Shen Yu Hung<br>
 
