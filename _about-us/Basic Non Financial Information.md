@@ -18,7 +18,7 @@ description: ""
 **Mission:** To nurture creative thinkers, lifelong learners, and compassionate leaders who uphold tradition and aspire towards holiness and righteousness. <br><br>
 **Objectives:** <br>To create a nurturing and challenging environment.<br> To develop well-rounded individuals who are effectively bilingual, appreciate Chinese culture and value diversity. <br>To build a learning community of active and responsible citizens of sound character imbibed with values based on Christian teachings. <br>To develop talents and leadership qualities. <br><br>
 **Patron:** Nil <br>
-<b><u>Board Members:</b></u> <br>
+**Board Members:** <br>
 **Chairman:** Mr Alden Tan Siang Hin <br>
 **Vice-Chairman:** Mr Loh Wah Kay <br>
 **Secretary:** Mr Khoo Tse Horng <br>
