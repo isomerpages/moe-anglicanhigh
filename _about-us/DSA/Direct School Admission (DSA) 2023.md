@@ -50,3 +50,14 @@ Shortlisted students will be notified through emails latest by 23 June 2023 of t
 
 **Contact Details**
 For further enquiries, please email us at ahs_dsa@moe.edu.sg
+
+
+
+
+| S/N | DSA Main Category | DSA Talent Area |
+| -------- | -------- | -------- |
+| 1     | Sports and Games     | Basketball (Girls and Boys)    |
+| 2     | Sports and Games     | Basketball (Girls and Boys)    |
+| 3     | Sports and Games     | Basketball (Girls and Boys)    |
+| 4     | Sports and Games     | Basketball (Girls and Boys)    |
+
