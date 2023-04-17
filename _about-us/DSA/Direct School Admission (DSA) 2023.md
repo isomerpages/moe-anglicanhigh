@@ -56,7 +56,7 @@ For further enquiries, please email us at ahs_dsa@moe.edu.sg
 
 | S/N | DSA Main Category | DSA Talent Area |
 | -------- | -------- | -------- |
-| 1     | Sports and Games     | [Basketball (Girls and Boys)](/about-us/principal-s-message/)    |
+| 1     | Sports and Games     | [Basketball (Girls and Boys)]([Direct School Admission (DSA) 2022 (moe.edu.sg)](https://www.anglicanhigh.moe.edu.sg/about-us/direct-school-admission-dsa-2022/))    |
 | 2     | Sports and Games     | Basketball (Girls and Boys)    |
 | 3     | Sports and Games     | Basketball (Girls and Boys)    |
 | 4     | Sports and Games     | Basketball (Girls and Boys)    |
