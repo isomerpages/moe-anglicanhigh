@@ -56,7 +56,7 @@ For further enquiries, please email us at ahs_dsa@moe.edu.sg
 
 | S/N | DSA Main Category | DSA Talent Area |
 | -------- | -------- | -------- |
-| 1     | Sports and Games     | [Basketball (Girls and Boys)](/about-us/direct-school-admission-dsa-2023/sports/)    |
+| 1     | Sports and Games     | [Basketball (Girls and Boys)](/about-us/principal-s-message/)    |
 | 2     | Sports and Games     | Basketball (Girls and Boys)    |
 | 3     | Sports and Games     | Basketball (Girls and Boys)    |
 | 4     | Sports and Games     | Basketball (Girls and Boys)    |
