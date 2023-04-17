@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: AHS – DIRECT SCHOOL ADMISSION 2023
+        - title: AHS DIRECT SCHOOL ADMISSION 2023
           description: Click here to find out more
           url: /about-us/direct-school-admission-dsa-2023/
       background: /images/ahshero.gif
