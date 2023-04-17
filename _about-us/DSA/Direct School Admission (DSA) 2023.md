@@ -4,7 +4,7 @@ permalink: /about-us/direct-school-admission-dsa-2023/
 description: ""
 third_nav_title: DSA
 ---
-Anglican High School (AHS) is a Mission, Special Assistance Plan (SAP) and Autonomous school guided by its core values: Holiness, Righteousness, Respect, Loyalty, Responsibility &amp; Perseverance. It is the school’s vision to be a vibrant learning community where we endeavor to develop **Every AHS Student to be a Leader – Leading Honourably, Learning for Life, Creating Values for Others.** 
+Anglican High School (AHS) is a Mission, Special Assistance Plan (SAP) and Autonomous school guided by its core values: Holiness, Righteousness, Respect, Loyalty, Responsibility &amp; Perseverance. It is the school’s vision to be a vibrant learning community where we endeavor to develop <b>Every AHS Student to be a Leader – Leading Honourably, Learning for Life, Creating Values for Others.</b><br>
 
 For DSA 2023, Anglican High School will offer these talents for Primary 6 students.
 
@@ -44,13 +44,13 @@ If you are currently studying in a Singapore Primary School or equivalent, pleas
 
 - Anglican High School is a Special-Assistance Plan (SAP) school. All students enrolled must offer Higher Chinese# / Chinese as their Mother Tongue Language. 
 
-###### Note - Only students who receives MOE letter may opt to offer Higher Chinese.
+<i>#Note - Only students who receives MOE letter may opt to offer Higher Chinese.</i><br>
 
 Shortlisted students will be notified through emails latest by 23 June 2023 of the date and time to attend the selection tests/auditions/interviews held in Anglican High School. These tests/auditions/interviews will be conducted from 26 June to 11 September. The DSA-Sec schools will be conducting in-person selection for all DSA talent areas for 2023 DSA-Sec.
 
 - Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-- Successful DSA-Sec candidates **will not be eligible** to participate in the S1 Posting Exercise. To honour the commitment to the posted DSA school for the duration of the programme admitted to, successful candidates **will not be allowed** to transfer to another school after the release of the PSLE results.
+- Successful DSA-Sec candidates <b>will not be eligible</b> to participate in the S1 Posting Exercise. To honour the commitment to the posted DSA school for the duration of the programme admitted to, successful candidates <b>will not be allowed</b> to transfer to another school after the release of the PSLE results.
 
 <b><u>Notification of Results</u></b>
 
@@ -70,8 +70,3 @@ Shortlisted students will be notified through emails latest by 23 June 2023 of t
 
 <b><u>Contact Details</u></b><br>
 For further enquiries, please email us at ahs_dsa@moe.edu.sg
-
-
-
-
-
