@@ -18,7 +18,7 @@ For DSA 2023, Anglican High School will offer these talents for Primary 6 studen
 | 4 | Sports and Games     | Wushu (Girls and Boys)|
 | 5 | Language and Humanities     | Chinese Language (Girls and Boys)|
 | 6 | Leadership and Uniformed Groups     | Boys' Brigade (Boys)|
-| 7 | Leadership and Uniformed Groups     | Girls' Brigade (Boys)|
+| 7 | Leadership and Uniformed Groups     | Girls' Brigade (Girls)|
 | 8 | Performing Arts     | Modern Dance (Girls)|
 | 9 | Performing Arts     | Chinese Drama (Girls and Boys)|
 | 10 | Performing Arts     | English Drama (Girls and Boys)|
