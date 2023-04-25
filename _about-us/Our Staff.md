@@ -7,7 +7,7 @@ description: ""
 
 <table style="width:100%">
  
-  <tr>
+  <tbody><tr>
     <td>Mr Khoo Tse Horng</td>
     <td>辜泽鸿</td>
     <td>Principal</td>
@@ -22,13 +22,13 @@ description: ""
     <td>谢添雄</td>
     <td>Vice-Principal (Administration)</td>
   </tr>
-</table>
+</tbody></table>
 
 #### Key Personnel (Head of Department) 部门主任
 
 <table style="width:100%">
  
-  <tr>
+  <tbody><tr>
     <td>Ms Chan Chui Leng</td>
     <td>陈翠铃</td>
     <td>School Staff Developer (SSD)</td>
@@ -86,20 +86,20 @@ description: ""
 	 <tr>
     <td>Mr William Tong</td>
     <td>董俊永</td>
-    <td>HOD/ PE & CCA</td>
+    <td>HOD/ PE &amp; CCA</td>
   </tr>
 	 <tr>
     <td>Mr Yeow Yong Keng</td>
     <td>廖永敬</td>
-    <td>HOD/ Character & Citizenship Education (CCE)</td>
+    <td>HOD/ Character &amp; Citizenship Education (CCE)</td>
   </tr>
-</table>
+</tbody></table>
 
 ####  Key Personnel (Subject Head) 科目主任
 
 <table style="width:100%">
  
-  <tr>
+  <tbody><tr>
     <td>Ms Chua Pei Tzeun</td>
     <td>蔡佩君</td>
     <td>SH/ Biology</td>
@@ -107,7 +107,7 @@ description: ""
   <tr>
     <td>Mr Alaric Leong Keng Wah</td>
     <td>梁景华</td>
-    <td>SH/ NE & VIA</td>
+    <td>SH/ NE &amp; VIA</td>
   </tr>
   <tr>
     <td>Mr Lim Ee Chiew </td>
@@ -135,13 +135,13 @@ description: ""
     <td>SH/ Mathematics</td>
   </tr>
 	
-</table>
+</tbody></table>
 
 ####  Lead Teachers/ Senior Teachers 主导教师/ 高级教师
 
 <table style="width:100%">
  
-  <tr>
+  <tbody><tr>
     <td>Mrs Chua Shu-Hui Audrey</td>
     <td>陈淑慧</td>
     <td>LT/ Chemistry</td>
@@ -172,13 +172,13 @@ description: ""
     <td>ST/ Mathematics</td>
   </tr>
 	
-</table>
+</tbody></table>
 
-####  Counselling & Learning Support 心理咨询与学习援助
+####  Counselling &amp; Learning Support 心理咨询与学习援助
 
 <table style="width:100%">
  
-  <tr>
+  <tbody><tr>
     <td>Mdm Lim Hui Leng Doreen</td>
     <td>林惠玲</td>
     <td>Life Coach (Senior School Counsellor)</td>
@@ -194,13 +194,13 @@ description: ""
     <td>Education and Career Guidance (ECG) Counsellor</td>
   </tr>
 	
-</table>
+</tbody></table>
 
 #### Sec 1 Form Teachers 中一级任老师
 
 <table style="width:100%">
  
-  <tr>
+  <tbody><tr>
     <td>Mdm Huang Si Hui</td>
     <td>1A</td>
     <td>huang_sihui@moe.edu.sg</td>
@@ -291,13 +291,13 @@ description: ""
     <td>esther_jaichandar@moe.edu.sg</td>
   </tr>
 	
-</table>
+</tbody></table>
 
 #### Sec 2 Form Teachers 中二级任老师
 
 <table style="width:100%">
  
-  <tr>
+  <tbody><tr>
     <td>Mr Thomas Goh</td>
     <td>2A</td>
     <td>goh_wee_hong_thomas@moe.edu.sg</td>
@@ -380,7 +380,7 @@ description: ""
 	 <tr>
     <td>Ms Ng Puay Khim</td>
     <td>2J</td>
-    <td>Ms Ng Puay Khim</td>
+    <td>ng_puay_khim@moe.edu.sg</td>
   </tr>
 	<tr>
     <td>Mdm Goh Yu Jie</td>
@@ -388,13 +388,13 @@ description: ""
     <td>goh_yu_jie@moe.edu.sg</td>
   </tr>
 	
-</table>
+</tbody></table>
 
 #### Sec 3 Form Teachers 中三级任老师
 
 <table style="width:100%">
  
-  <tr>
+  <tbody><tr>
     <td>Ms Priyanka</td>
     <td>3A</td>
     <td>basu_roy_priyanka@moe.edu.sg</td>
@@ -485,13 +485,13 @@ description: ""
     <td>nuraishah_kapoor@moe.edu.sg</td>
   </tr>
 	
-</table>
+</tbody></table>
 
 #### Sec 4 Form Teachers 中四级任老师
 
 <table style="width:100%">
  
-  <tr>
+  <tbody><tr>
     <td>Ms Tan Jie Ning</td>
     <td>4A</td>
     <td>jie_ning_tan@moe.edu.sg</td>
@@ -597,4 +597,4 @@ description: ""
     <td>tan_kay_soon_jimmy@moe.edu.sg</td>
   </tr>
 	
-</table>
+</tbody></table>
