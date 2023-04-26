@@ -48,7 +48,7 @@ If you are currently studying in a Singapore Primary School or equivalent, pleas
 <i>#Note - Only students who receives MOE letter may opt to offer Higher Chinese.</i><br>
 
 <p align="justify">
-Shortlisted students will be notified through emails latest by 23 June 2023 of the date and time to attend the selection tests/auditions/interviews held in Anglican High School. These tests/auditions/interviews will be conducted from 26 June to 11 September. The DSA-Sec schools will be conducting in-person selection for all DSA talent areas for 2023 DSA-Sec.</p>
+Shortlisted students will be notified through emails latest by 23 June 2023 of the date and time to attend the selection tests/auditions/interviews held in Anglican High School. The DSA-Sec schools will be conducting in-person selection for all DSA talent areas for 2023 DSA-Sec.</p>
 
 - Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
@@ -66,7 +66,7 @@ Shortlisted students will be notified through emails latest by 23 June 2023 of t
 |  |  |
 | -------- | -------- | 
 | Online DSA Application (for Sports, Language, Uniformed Groups, Performing Arts and Club) | 4 May 2023 to 31 May 2023     | 
-| Sports, Language, Uniformed Groups, Performing Arts and Club audition and interview | 26 Jun 2023 to 11 Sep 2023) <br>(Only <b><u>shortlisted applicants</u></b> will be notified of the date and time to attend the selection tests/auditions/interviews in person) | 
+| Sports, Language, Uniformed Groups, Performing Arts and Club audition and interview | (Only <b><u>shortlisted applicants</u></b> will be notified of the date and time to attend the selection tests/auditions/interviews in person) | 
 
 
 <b><u>Contact Details</u></b><br>
