@@ -2,7 +2,7 @@ collections:
   useful-links:
     output: true
     order:
-      - School Canteen.md
       - Students.md
       - Parents.md
       - Service Providers.md
+      - School Canteen.md
