@@ -97,7 +97,9 @@ AHS has high aspirations for our players. We constantly strive to seek a good ba
 
 <p align="justify">
 More information regarding application procedures is available now on our DSA webpage. </p>
-To sign up for our DSA Basketball, Badminton and Table-Tennis Zoom session, [please click here](https://docs.google.com/forms/d/e/1FAIpQLSdeaUDJFpBED2EXtnklbOKcykpKjTbBhm3TmyNFX_6Jonip5Q/viewform?usp=pp_url)
+
+To sign up for our DSA Basketball, Badminton and Table-Tennis Zoom session, please use this link
+[https://docs.google.com/forms/d/e/1FAIpQLSdeaUDJFpBED2EXtnklbOKcykpKjTbBhm3TmyNFX_6Jonip5Q/viewform?usp=pp_url](https://docs.google.com/forms/d/e/1FAIpQLSdeaUDJFpBED2EXtnklbOKcykpKjTbBhm3TmyNFX_6Jonip5Q/viewform?usp=pp_url)
 
 
 <p align="justify">
