@@ -101,6 +101,6 @@ To sign up for our DSA Basketball, Badminton and Table-Tennis Zoom session, [ple
 
 
 <p align="justify">
-	sss
-	sss
+or scan the QR code below to sign up on the Google Form. Details of the Zoom link will be sent at a later date
 </p>
+
