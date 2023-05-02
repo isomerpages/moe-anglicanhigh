@@ -73,10 +73,10 @@ Students who are interested to apply for Direct School Admission to Anglican Hig
 
 <b><u>Contact Details</u></b><br>
 For further enquiries, please email us at ahs_dsa@moe.edu.sg
-
+<br><br>
 
 <p align="justify">
-	Invitation to Anglican High School (AHS) Direct School Admission (DSA) Basketball, Badminton and Table-Tennis Talk and Trial
+<b><u>Invitation to Anglican High School (AHS) Direct School Admission (DSA) Basketball, Badminton and Table-Tennis Talk and Trial</u></b>
 </p>
 
 <p align="justify">
