@@ -41,10 +41,11 @@ If you are currently studying in a Singapore Primary School or equivalent, pleas
 
 - Students who are not studying in MOE mainstream primary schools have to obtain a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Schools may refer them to MOE website at: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
 
-- An applicant can indicate up to three choices. Each choice consists of a secondary school and a talent area offered by that secondary school. Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
+- An applicant can indicate <u>up to three choices.</u> Each choice consists of a secondary school and a talent area offered by that secondary school. Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
 
-- Anglican High School is a Special-Assistance Plan (SAP) school. All students enrolled must offer Higher Chinese# / Chinese as their Mother Tongue Language. (#Note - Only students who receives MOE letter may opt to offer Higher Chinese.)
-- Anglican High School only offers Posting Group 3 for student enrolment.
+- Anglican High School is a Special-Assistance Plan (SAP) school. All students enrolled must offer Higher Chinese# / Chinese as their Mother Tongue Language. <i>(#Note - Only students who receives MOE letter may opt to offer Higher Chinese.)</i>
+
+- Anglican High School only offers <u>Posting Group 3</u> for student enrollment.
 
 
 <p align="justify">
