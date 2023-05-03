@@ -12,3 +12,4 @@ We are looking for Primary Six pupils who have a deep passion and interest in Ro
 
 ![](/images/About%20us/DSA/club1.jpg)
 
+![](/images/About%20us/DSA/club2.jpg)
