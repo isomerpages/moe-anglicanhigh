@@ -41,14 +41,15 @@ If you are currently studying in a Singapore Primary School or equivalent, pleas
 
 - Students who are not studying in MOE mainstream primary schools have to obtain a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Schools may refer them to MOE website at: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
 
-- An applicant can indicate up to three choices. Each choice consists of a secondary school and a talent area offered by that secondary school. Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
+- An applicant can indicate <u>up to three choices.</u> Each choice consists of a secondary school and a talent area offered by that secondary school. Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
 
-- Anglican High School is a Special-Assistance Plan (SAP) school. All students enrolled must offer Higher Chinese# / Chinese as their Mother Tongue Language. 
+- Anglican High School is a Special-Assistance Plan (SAP) school. All students enrolled must offer Higher Chinese# / Chinese as their Mother Tongue Language. <i>(#Note - Only students who receives MOE letter may opt to offer Higher Chinese.)</i>
 
-<i>#Note - Only students who receives MOE letter may opt to offer Higher Chinese.</i><br>
+- Anglican High School only offers <u>Posting Group 3</u> for student enrollment.
+
 
 <p align="justify">
-	Shortlisted students will be notified through emails latest by <b>23 June 2023</b> of the date and time to attend the selection tests/auditions/interviews held in Anglican High School. These tests/auditions/interviews will be conducted from 26 June to 11 September. The DSA-Sec schools will be conducting in-person selection for all DSA talent areas for 2023 DSA-Sec.</p>
+	Shortlisted students will be notified through email latest by <b>23 June 2023</b> of the date and time to attend the selection tests/auditions/interviews held in Anglican High School. These tests/auditions/interviews will be conducted from 26 June to 11 September. The DSA-Sec schools will be conducting in-person selection for all DSA talent areas for 2023 DSA-Sec.</p>
 
 - Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
@@ -74,4 +75,3 @@ Students who are interested to apply for Direct School Admission to Anglican Hig
 <b><u>Contact Details</u></b><br>
 For further enquiries, please email us at ahs_dsa@moe.edu.sg
 <br><br>
-
