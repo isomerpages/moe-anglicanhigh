@@ -28,7 +28,7 @@ For DSA 2023, Anglican High School will offer these talents for Primary 6 studen
 | 14 | Science, Technology, Engineering and Mathematics     | Robotics (Girls and Boys)|
 
 <p align="justify">
-If you are currently studying in a Singapore Primary School or equivalent, please follow the instructions appended below. Prospective students who fit the criteria of our talents are strongly encouraged to apply. </p>
+All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal. Prospective students who fit the criteria of our talents are strongly encouraged to apply. </p>
 
 <b><u>Application Procedures</u></b>
 
