@@ -3,7 +3,12 @@ title: Announcements
 permalink: /about-us/announcements/
 description: ""
 ---
-#### Secondary One Registration
+##### National Bilingual Creative Writing Competition Collection 2022
+
+![](/images/About%20us/Announcement/2022_nbcw_competition_collection.jpeg)
+
+
+##### Secondary One Registration
 
 <p align="justify">
 Congratulations! Your child/ward has been posted to Anglican High School. We look forward to partnering you as we embark on your child's/ward’s secondary education journey together.</p>
