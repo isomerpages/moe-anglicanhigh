@@ -13,7 +13,7 @@ sections:
           url: /about-us/direct-school-admission-dsa-2023/
         - title: 2022年全国双语创意写作比赛作品集
           description: Click here to find out more
-          url: /about-us/announcement
+          url: /about-us/announcements/
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
   - infopic:
