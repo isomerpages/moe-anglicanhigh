@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Stall     | Date     | --    |
+| --     | --     | --    |
 
 **Application Procedure**
 
