@@ -8,7 +8,7 @@ third_nav_title: Anglican House
   
 **Long-term stay (by school terms or weeks):**
 
-![](/images/Partners/Anglican%20House/2023_anglican_house_fee.jpg)
+![](/images/Partners/Anglican%20House/2023_anglicanhouse_fee.png)
 
 
 
