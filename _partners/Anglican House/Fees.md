@@ -42,4 +42,3 @@ Cheque must be made payable to: Anglican High School Co-op Account<br>
 * Charges for photocopying and printing services: $0.20/page for black and white printing and $2-$5 for colour printing.<br>
 * A surcharge of $15/calendar month will be imposed on having additional appliances such as a mini-refrigerator in the room. Such appliances have to be registered with and approved by the hostel office prior to installation. For such approved installation, boarders shall be responsible for its repair and its removal upon checking-out.<br>
 * Request to re-issue of cheque will be charged $50/cheque.<br>
-* For room reservation, a deposit of $400 is required for the confirmation of the reservation. The deposit will not be refunded if the reservation is cancelled.<br>
