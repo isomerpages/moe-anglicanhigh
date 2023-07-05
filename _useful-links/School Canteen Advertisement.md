@@ -20,7 +20,7 @@ description: ""
 - Must be able to operate till 5pm on days whenever there are lessons and CCAs as required by school.<br>
 - Must be able to operate during school holidays for 2 to 3 weeks whenever there are lessons and activities as required by the school.<br>
 - Must be in personal attendance at the stall during operating hours.<br>
-- If successful, stall-holder can commence canteen service from 11 September 2023 onward.<br>
+- If successful, stall-holder can commence canteen service from 11 September 2023 onwards.<br>
 - Financial position of the applicants will be given due consideration upon meeting all of the above criteria.<br>
 
 <b><u>Proposed Menu List</u></b><br>
