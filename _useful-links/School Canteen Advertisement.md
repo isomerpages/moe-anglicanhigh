@@ -21,7 +21,7 @@ description: ""
 - Must be able to operate during school holidays for 2 to 3 weeks whenever there are lessons and activities as required by the school.<br>
 - Must be in personal attendance at the stall during operating hours.<br>
 - If successful, stall-holder can commence canteen service from 11 September 2023 onwards.<br>
-- Financial position of the applicants will be given due consideration upon meeting all of the above criteria.<br>
+- Financial position (if applicable) of the applicants will be given due consideration upon meeting all of the above criteria.<br>
 
 <b><u>Proposed Menu List</u></b><br>
 Grilled Chicken/Fish/Pork, Pasta , Baked Rice, Pizza, garlic bread/mashed potatoe/baked potato,  coleslaw/garden salad; Pad Thai, Pineapple fried rice, Tom Yum Kung, Green Curry, Mango Sticky rice, Vietnamese beef noodle, Vietnamese spring roll, Crispy Baguettes with meat and vegetable filling.<br>
