@@ -5,7 +5,7 @@ description: ""
 ---
 #### School Canteen Advertisement
 
-| Type of Stall | Closing Date | - |
+| Type of Stall | Closing Date | Operational Date |
 | -------- | -------- | -------- |
 |Western/Thai/Vietnamese Food Stall | 17 July 2023 before 5pm    | with effect from 11 September 2023 (preferably) |
 
