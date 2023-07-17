@@ -3,10 +3,10 @@ title: Announcements
 permalink: /about-us/announcements/
 description: ""
 ---
-##### National Bilingual Creative Writing Competition Collection 2022
+##### National Bilingual Creative Writing Competition 2023
 
-![](/images/About%20us/Announcement/2022_nbcw_competition_collection.jpeg)
-
+![](/images/About%20us/Announcement/2023_nbcw_competition.png)
+<b>用清新的文字，来表达你的内心；用平凡的笔墨，书写不平凡的自己；快来参加全国双语创意写作比赛吧！大奖等你拿！</b><br>
 
 ##### Secondary One Registration
 
