@@ -35,8 +35,8 @@ sections:
       image: /images/tn3_serve_at_ahs.jpg
       alt: Image alt text
   - infopic:
-      title: Culture at Care
-      button: Student Wellbeing
+      title: Culture of Care
+      button: Student Well-being
       url: /student-development/overseas-experience
       image: /images/tn4_culture_of_care.jpg
       alt: Image alt text
