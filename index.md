@@ -11,7 +11,7 @@ sections:
         - title: AHS DIRECT SCHOOL ADMISSION 2023
           description: Click here to find out more
           url: /about-us/direct-school-admission-dsa-2023/
-        - title: 2022年全国双语创意写作比赛作品集
+        - title: 2023年全国双语创意写作比赛
           description: Click here to find out more
           url: /about-us/announcements/
       background: /images/ahshero.gif
