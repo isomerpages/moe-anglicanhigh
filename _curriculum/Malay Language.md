@@ -51,5 +51,5 @@ To develop language skills to converse and engage with other races in Singaporeâ
 	</tbody>
 </table>
 
-![m1](/images/Malay_01.jpeg)
-![m2](/images/Malay_02.jpg)
+![](/images/Curriculum/Malay%20Language/Malay_01.jpeg)
+![](/images/Curriculum/Malay%20Language/Malay_02.jpg)
