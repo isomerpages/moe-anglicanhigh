@@ -17,7 +17,7 @@ Our AHS Student Councillors and CCA Leaders, guided by the principle of Servant 
 <p align="justify">
 Our Student Leaders have indeed contributed immensely to the well-being of their peers in school and we are proud of our student leaders who continually strive towards excellence in serving others.</p>
 
-![sl](/images/student_leadership.jpg)
+![](/images/Student%20Development/Student%20Leadership/student_leadership.jpg)
 
 <p align="justify">
 "Having gone through many life-changing leadership experiences in AHS, I am grateful for every opportunity I have been given, not only to lead, but to first serve those around me. It is only through these actions that we can truly be called a leader. Servant Leadership at its core is truly to humble ourselves and serve those who need it, and not just those whom we want to serve. The people make the leader, not the other way round." </p>
