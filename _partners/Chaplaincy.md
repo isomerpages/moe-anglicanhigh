@@ -14,19 +14,11 @@ description: ""
  <p align="justify">
 最后，校牧团队盼望能成为学生们在成长过程中的聆听者与陪伴者，在他们面对各种挑战的时候给予他们及时的关怀和帮助。我们唯愿圣中学子个个都能如鹰展翅上腾，成为那奔跑却不困倦，行走却不疲乏的战士！</p>
 
-<img src="/images/Chaplaincy_01.jpeg" 
-         style="width:600px"
-	/>
+<img src="/images/Partners/Chaplaincy/Chaplaincy_01.jpeg" style="width:600px">
 <br>
-<img src="/images/Chaplaincy_02.jpeg" 
-         style="width:600px"
-	/>
+<img src="/images/Partners/Chaplaincy/Chaplaincy_02.jpeg" style="width:600px">
 <br>
-<img src="/images/Chaplaincy_03.jpeg" 
-         style="width:600px"
-	/>
+<img src="/images/Partners/Chaplaincy/Chaplaincy_03.jpeg" style="width:600px">
 <br>
-<img src="/images/Chaplaincy_04.jpeg" 
-         style="width:600px"
-	/>
+<img src="/images/Partners/Chaplaincy/Chaplaincy_04.jpeg" style="width:600px">
 <br>
