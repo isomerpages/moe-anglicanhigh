@@ -30,8 +30,8 @@ width:269px;height:403px;margin:10px;border-width:0px;border-color:#000000;borde
 <p align="justify">
 Song-writing is a wonderful vehicle to give our children a voice to speak out about things that are hard to talk about. I want to empower students so that they can share good ideas and good feelings to make a better future.<br>-- Mrs Kimberley Sng, Subject Coordinator (Music)</p>
 
-![garageband](/images/Music_Garageband.jpg)
+![](/images/Curriculum/Music/Music_Garageband.jpg)
 O level secondary 3 students using Garageband to sequence their songs
 
-![wmw](/images/World_Music_Workshop.jpg)
+![](/images/Curriculum/Music/World_Music_Workshop.jpg)
 O level students meet at Pasir Ris Crest Secondary School for a Malay and Indian music Workshop experience.
