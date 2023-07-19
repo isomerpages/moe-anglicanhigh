@@ -46,4 +46,4 @@ The Rain Garden was set up in collaboration with the Public Utilities Board (PUB
 <p align="justify">
 As an extension of the Science curriculum, Secondary One students will have hands-on learning on vertical farming. Students take ownership of the individual plants they grow, from planting, monitoring of water nutrients level to harvesting.</p>
 
-![vf](/images/Vertical_farming_01.jpg)
+![](/images/Student%20Development/Environment%20Education/Vertical_farming_01.jpg)
