@@ -19,4 +19,4 @@ The Subject Talent Programme aims to deepen students’ disciplinary grounding a
 <p align="justify">
 The AHS Management Board Scholarship Programme aims to nurture motivated, mission-minded leaders by empowering them with skills for Critical Thinking and Interacting with Others so that their Future Readiness will be ensured. Selected students are equipped to create value for others through additional opportunities for holistic development, with the support of teacher mentors.</p>
 
-![TD](/images/Talent_Dev_01.jpg)
+![](/images/Student%20Development/Talent%20Development/Talent_Dev_01.jpg)
