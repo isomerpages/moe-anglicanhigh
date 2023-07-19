@@ -23,7 +23,7 @@ The exercise to mobilize the school to get supplies to bring cheer to the frontl
 <p align="justify">
 Though the preparation and coordination stage was initially quite tough, but it really struck me to see how the organising team came together quickly and supported each other actively, whether in publicity or designing the stickers and cards, to put together the appreciation boxes for the frontline workers in the shortest time possible. Cadee Lu Xue’Er, 4A</p>
 
-![via1](/images/via1.png)
+![](/images/Student%20Development/VIA/via1.png)
 
 #### Working with Special Needs Community
 <p align="justify">
@@ -32,13 +32,13 @@ The time I spent at the MOE-OBS Inclusive Sailing programme allowed me to learn 
 <p align="justify">
 Through Play Inclusive activity, I changed my perspective on people with disabilities as they have similar interests, hobbies and behaviours like us and are also very kind and compassionate. It was really an enjoyable and memorable time with them. Darren Chua Ming Zhe, 4E</p>
 
-![via2](/images/via2.png)
+![](/images/Student%20Development/VIA/via2.png)
 
-#### Service Learning & Future Problem-Solving Projects
+#### Service Learning &amp; Future Problem-Solving Projects
 <p align="justify">
 Planning for carnival at Bedok Town Square for the Friendly Faces, Lively Place Challenge was a very enriching experience as we learnt how to organise a community activity and learnt how to communicate effectively with both my teammates and the public. We also enjoyed ourselves in the process as we got to work with our friends and made new friends at the same time! Ng Jie Lyn, 4B, Ng Jie Qi, 4C</p>
 
 <p align="justify">
 The RSS-AHS combined camp that my team and I planned for offered me new perspectives and prompted me to communicate my ideas more effectively to others. Isaac Wan Zi Heng, 4K</p>
 
-![via3](/images/via3.png)
+![](/images/Student%20Development/VIA/via3.png)
