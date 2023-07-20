@@ -9,4 +9,4 @@ CCA has traditionally been a stronghold of school life in AHS. CCA plays a signi
 
 Click from the menu to find out more about the CCAs available at AHS.
 
-![cca](/images/CCA.jpg)
+![cca](/images/Student%20Development/CCA/CCA.jpg)

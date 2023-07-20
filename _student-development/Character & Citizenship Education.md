@@ -22,4 +22,4 @@ Active participation in CCAs, VIA, class activities and school events provides o
 We also empower our students through training and the chance to lead in their duties and responsibilties. This increases the sense of ownership and the desire to do their best. In the process, values are internalised and SE competencies enhanced.
 These acquired values and SE competencies will enable our students to achieve our school's vision of leading honourably, learning for life, and creating value for others.</p>
 
-![cce](/images/CCE.jpg)
+![](/images/Student%20Development/CCE/CCE.jpg)
