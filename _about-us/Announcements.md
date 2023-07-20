@@ -3,14 +3,13 @@ title: Announcements
 permalink: /about-us/announcements/
 description: ""
 ---
-
 ![](/images/About%20us/Announcement/2023_nbcw_competition.png)
 <b>用清新的文字，来表达你的内心；用平凡的笔墨，书写不平凡的自己；快来参加全国双语创意写作比赛吧！大奖等你拿！</b><br>
 * 欲知更多详情, 请参见[比赛简章](/files/About%20Us/Announcements/information_sheet_2023.pdf)
 <br>
 * 如有需要, 请点击阅读 [《2022全国双语创意写作比赛获奖文集》](https://drive.google.com/file/d/1Ne42x96Z7ZwA_3b2nDZ6iTIxP01Lv6xc/)
 
-<br>
+<br><br><br><br>
 
 -------------------------------------
 ##### Secondary One Registration
