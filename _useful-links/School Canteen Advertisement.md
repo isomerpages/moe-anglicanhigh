@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Operational Date |
 | -------- | -------- | -------- |
-|Western/Thai/Vietnamese Food Stall | 17 July 2023 before 5pm    | with effect from 11 September 2023 (preferably) |
+|Western/Thai/Vietnamese Food Stall | 10 Aug 2023 before 5pm    | with effect from 11 September 2023 (preferably) |
 
 **Requirements**
 
@@ -24,7 +24,7 @@ description: ""
 - Financial position (if applicable) of the applicants will be given due consideration upon meeting all of the above criteria.<br>
 
 <b><u>Proposed Menu List</u></b><br>
-Grilled Chicken/Fish/Pork, Pasta , Baked Rice, Pizza, garlic bread/mashed potatoe/baked potato,  coleslaw/garden salad; Pad Thai, Pineapple fried rice, Tom Yum Kung, Green Curry, Mango Sticky rice, Vietnamese beef noodle, Vietnamese spring roll, Crispy Baguettes with meat and vegetable filling.<br>
+Grilled Chicken/Fish/Pork, Pasta , Baked Rice, Pizza, garlic bread/mashed potato/baked potato,  coleslaw/garden salad; Pad Thai, Pineapple fried rice, Tom Yum Kung, Green Curry, Mango Sticky rice, Vietnamese beef noodle, Vietnamese spring roll, Crispy Baguettes with meat and vegetable filling.<br>
 
 Food must be served hot.<br><br>
 Interested vendor may propose other western/thai/vietnamese food items subject to approval by the Anglican High School Canteen Committee.<br>
