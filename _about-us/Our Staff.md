@@ -147,11 +147,6 @@ description: ""
     <td>LT/ Chemistry</td>
   </tr>
   <tr>
-    <td>Miss Luisa Teng Mei Fong</td>
-    <td>邓美凤</td>
-    <td>LT/ English Language</td>
-  </tr>
-  <tr>
     <td>Mrs Koh Shieh Ping Shirley</td>
     <td>彭雪冰</td>
     <td>ST/ English Language</td>
@@ -249,6 +244,11 @@ description: ""
     <td>Mdm Tan Lay Kuan</td>
     <td>1E</td>
     <td>tan_lay_kuan@moe.edu.sg</td>
+  </tr>
+		<tr>
+    <td>Miss Nur Amalina</td>
+    <td>1E</td>
+    <td>nur_amalina_noorman@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Mdm Nurhidaya</td>
