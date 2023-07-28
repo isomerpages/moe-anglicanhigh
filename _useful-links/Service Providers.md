@@ -8,13 +8,13 @@ Operating Hours (during school term)<br>
 Monday to Friday<br>
 9.00am to 11.30am<br>
 12.30pm to 3.00pm<br>
-Closed on Saturday, Sunday & Public Holidays<br>
+Closed on Saturday, Sunday &amp; Public Holidays<br>
 Tel: 64433385<br>
-https://www.pacificbookstores.com 
+[https://www.pacificbookstores.com](https://www.pacificbookstores.com)
 
 
 ##### School Uniform (Shanghai Uniform)
-https://shanghai-uniforms.com
+[https://shanghai-uniforms.com](https://shanghai-uniforms.com)
 
 
 ##### Cafe Forty31
