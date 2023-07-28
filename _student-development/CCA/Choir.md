@@ -4,12 +4,13 @@ permalink: /student-development/co-curricular-activities/performing-arts-groups/
 description: ""
 third_nav_title: CCA
 ---
-1st IC: Ms Cheryl Tan
+<b>1st IC:</b> <br>
+Ms Cheryl Tan<br>
 
-Teachers-in-Charge
-Mdm Lur Bee Cheng
-Mrs Justine Seong
-Mrs Jamuna Mohan
+<b>Teachers-in-Charge:</b><br>
+Mdm Lur Bee Cheng<br>
+Mrs Justine Seong<br>
+Mrs Jamuna Mohan<br>
 
 “The AHS Choir is more than just a CCA to me; we are one big family, caring for each other and helping each other improve.” - Koh Si Siang (2B, Tenor)
 
