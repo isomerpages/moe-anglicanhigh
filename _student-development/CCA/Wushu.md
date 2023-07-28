@@ -18,6 +18,8 @@ Ms Goh Yu Jie<br>
 
 The Wushu team under the tutelage of our Head Coach, Mr Fung Jin Jie, has gone from strength to strength over the years. Epitomised by the school core values of Perseverance and Loyalty, the team has trained tirelessly and has brought honour and glory to the school. The team will no doubt continue to excel so keep your eyes on us!
 
+![](/images/Student%20Development/CCA/Wushu/2023_wushu_01.jpg)
+
 ![](/images/Student%20Development/CCA/Wushu/2022_Wushu_01.jpg)
 
 ![](/images/Student%20Development/CCA/Wushu/2022_Wushu_02.jpg)
