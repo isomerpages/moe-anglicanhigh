@@ -7,7 +7,7 @@ third_nav_title: CCA
 1st IC:Mr Chen Zehou
 
 Teachers-in-Charge: 
-Mr Song Yonghui
+Mr Song Yonghui & Mrs Shirley Koh
 
 “Participating in the SYF provided me with a platform to express my love and feelings through music while being able to share them with others.” – by Wong Jia Xi, 4G
 
