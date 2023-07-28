@@ -3,6 +3,8 @@ title: Chill@AHS
 permalink: /life-at-ahs/chill-at-ahs/
 description: ""
 ---
+
+![](/images/Life%20at%20AHS/Chill%20at%20AHS/chill_ahs.jpg)
 <p align="justify">
 School is about making memories and good times with friends that will last forever.</p>
 
