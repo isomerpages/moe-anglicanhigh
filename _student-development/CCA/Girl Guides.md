@@ -4,7 +4,7 @@ permalink: /student-development/cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: CCA
 ---
-<b>1st IC:</b> 
+<b>1st IC:</b><br> 
 Ms Nur Zahira<br>
 
 <b>Teachers-in-Charge:</b><br>
