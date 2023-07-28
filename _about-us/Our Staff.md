@@ -353,9 +353,9 @@ description: ""
     <td>	jia_feng_koh@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Miss Luisa Teng</td>
+    <td>Mr Paul Yuen</td>
     <td>2F</td>
-    <td>teng_mei_fong@moe.edu.sg</td>
+    <td>yuen_weiwen_paul@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Ms Raihan</td>
@@ -463,6 +463,11 @@ description: ""
     <td>Mdm Peng Li Rui</td>
     <td>3G</td>
     <td>peng_li_rui@moe.edu.sg</td>
+  </tr>
+		<tr>
+    <td>Miss Tay Hui Xin</td>
+    <td>3G</td>
+    <td>tay_hui_xin@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Mr Kwek Jun Song</td>
