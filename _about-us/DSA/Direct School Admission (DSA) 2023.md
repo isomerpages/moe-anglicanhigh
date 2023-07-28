@@ -70,7 +70,7 @@ All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal. Pros
 | Sports, Language, Uniformed Groups, Performing Arts and Club audition and interview | 26 Jun 2023 to 11 Sep 2023<br>(Only <b><u>shortlisted applicants</u></b> will be notified of the date and time to attend the selection tests/auditions/interviews in person) 
 
 <p align="justify">
-Students who are interested to apply for Direct School Admission to Anglican High School, please refer to the <b><u>different Domain tabs</u></b> for more information.</p>
+Students who are interested to apply for Direct School Admission to Anglican High School, please refer to the <b><u>different domain tabs</u></b> for more information.</p>
 
 <b><u>Contact Details</u></b><br>
 For further enquiries, please email us at ahs_dsa@moe.edu.sg
