@@ -4,10 +4,12 @@ permalink: /student-development/co-curricular-activities/performing-arts-groups/
 description: ""
 third_nav_title: CCA
 ---
-1st IC:Mr Chen Zehou
+1st IC:<br>
+Mr Chen Zehou<br>
 
-Teachers-in-Charge: 
-Mr Song Yonghui & Mrs Shirley Koh
+Teachers-in-Charge:<br>
+Mr Song Yonghui<br>
+Mrs Shirley Koh<br>
 
 “Participating in the SYF provided me with a platform to express my love and feelings through music while being able to share them with others.” – by Wong Jia Xi, 4G
 
