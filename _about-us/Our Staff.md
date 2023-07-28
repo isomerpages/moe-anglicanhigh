@@ -147,11 +147,6 @@ description: ""
     <td>LT/ Chemistry</td>
   </tr>
   <tr>
-    <td>Miss Luisa Teng Mei Fong</td>
-    <td>邓美凤</td>
-    <td>LT/ English Language</td>
-  </tr>
-  <tr>
     <td>Mrs Koh Shieh Ping Shirley</td>
     <td>彭雪冰</td>
     <td>ST/ English Language</td>
@@ -249,6 +244,11 @@ description: ""
     <td>Mdm Tan Lay Kuan</td>
     <td>1E</td>
     <td>tan_lay_kuan@moe.edu.sg</td>
+  </tr>
+		<tr>
+    <td>Miss Nur Amalina</td>
+    <td>1E</td>
+    <td>nur_amalina_noorman@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Mdm Nurhidaya</td>
@@ -353,9 +353,9 @@ description: ""
     <td>	jia_feng_koh@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Miss Luisa Teng</td>
+    <td>Mr Paul Yuen</td>
     <td>2F</td>
-    <td>teng_mei_fong@moe.edu.sg</td>
+    <td>yuen_weiwen_paul@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Ms Raihan</td>
@@ -463,6 +463,11 @@ description: ""
     <td>Mdm Peng Li Rui</td>
     <td>3G</td>
     <td>peng_li_rui@moe.edu.sg</td>
+  </tr>
+		<tr>
+    <td>Miss Tay Hui Xin</td>
+    <td>3G</td>
+    <td>tay_hui_xin@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Mr Kwek Jun Song</td>

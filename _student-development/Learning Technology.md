@@ -3,6 +3,8 @@ title: Learning Technology
 permalink: /student-development/learning-technology/
 description: ""
 ---
+![](/images/Student%20Development/Learning%20Technology/learning_tech_microbit.jpg)
+
 <p align="justify">
 The AHS Creators’ programme is a 3-year integrated programme where each student will go through minimally 50 hours of computational and design thinking during their secondary school journey in Anglican High School. Equipping students with technological skills will enable them to have future-ready dispositions and become value-creators, both for themselves and for others in the community.</p>
 

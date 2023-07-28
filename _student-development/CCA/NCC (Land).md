@@ -4,12 +4,12 @@ permalink: /student-development/cca/uniformed-groups/ncc-land/
 description: ""
 third_nav_title: CCA
 ---
-1st IC: Mr Andrew Gey
+<b>1st IC:</b> <br>
+Mr Andrew Gey<br>
 
-Teachers-in-Charge:<br>
+<b>Teachers-in-Charge:</b><br>
 Mr Azmi<br>
-Mr Noor Shahid<br>
-Mr Amos Koh
+Mr Amos Koh<br>
 
 “Being in the NCC has taught me that there is no substitute for hard work in order to achieve one’s goals.’ Zhang Ziqi 4A
 

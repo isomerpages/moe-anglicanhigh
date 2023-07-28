@@ -4,11 +4,12 @@ permalink: /student-development/co-curricular-activities/performing-arts-groups/
 description: ""
 third_nav_title: CCA
 ---
-1st IC: Mr Thomas Goh
+<b>1st IC:</b> <br>
+Mr Thomas Goh
 
-Teachers-in-Charge
-Miss Vinnie Goh
-Mdm Wang Jianping
+<b>Teachers-in-Charge:</b><br>
+Miss Vinnie Goh<br>
+Mdm Wang Jianping<br>
 
 “Chinese Music makes me feel closer to home.” <br>
 “A world without Chinese Orchestra is like a string quartet without violins.” <br>

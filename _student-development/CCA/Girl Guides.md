@@ -4,11 +4,13 @@ permalink: /student-development/cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: CCA
 ---
-1st IC: Ms Nur Zahira
+<b>1st IC:</b><br> 
+Ms Nur Zahira<br>
 
-Teachers-in-Charge:<br>
+<b>Teachers-in-Charge:</b><br>
 Miss Lim Mei Yu Michelle<br>
-Miss Huang Sihui
+Miss Huang Sihui<br>
+Miss Nur Amalina<br>
 
 “Being in the Girl Guides has allowed me to strengthen my leadership abilities and build my confidence as a compassionate leader!” Jacynta He (3J)
 

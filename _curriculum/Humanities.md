@@ -30,4 +30,4 @@ width:269px;height:403px;margin:10px;border-width:0px;border-color:#000000;borde
 <img class="GeneratedImage" src="/images/Curriculum/Humanities/Daryl_Tan.jpg">
 
 <p align="justify">
-I find it very edifying when students realise from the study of history that they too have their part to play in this great story of the human race. It gives me great pride and joy when some students realise that they too, can make a difference now.<br>-- Mr Daryl Tan Yong Leng, Head of Department (Humanities)</p>
+I find it very edifying when students realise from the study of history that they too have their part to play in this great story of the human race. It gives me great pride and joy when some students realise that they too, can make a difference now.<br>-- Mr Daryl Tan Yong Leng, Year Head (Upper Secondary)/History &amp; Social Studies teacher</p>
