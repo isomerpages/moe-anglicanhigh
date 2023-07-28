@@ -4,12 +4,12 @@ permalink: /student-development/cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: CCA
 ---
-1st IC: Mr Ben Cheah
+<b>1st IC:</b><br> 
+Mr Ben Cheah<br>
 
-Teachers-in-Charge :<br>
+<b>Teachers-in-Charge:</b><br>
 Miss Stephanie Tan<br>
 Miss Nurhidaya<br>
-Miss Trina Lin
 
 “My 3 years in NPCC have enabled me to understand the importance of, and to adopt, many values such as punctuality, initiative, commitment, positive attitude, responsibility and discipline.” – SGT Chong Xiu Wen, 3H
 
