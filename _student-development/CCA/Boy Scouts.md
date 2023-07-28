@@ -4,11 +4,14 @@ permalink: /student-development/cca/uniformed-groups/boy-scouts/
 description: ""
 third_nav_title: CCA
 ---
-1st IC: Mr Alaric Leong
+<b>1st IC:</b><br> 
+Mr Alaric Leong<br>
 
-Teachers-in-Charge: <br>
+<b>Teachers-in-Charge: </b><br>
 Mr Jimmy Tan<br>
-Mr Teo Yi Sheng
+Mr Teo Yi Sheng<br>
+Mr Teo Guan Long<br>
+Mr Paul Yuen<br>
 
 “I will always cherish the bonds I have forged with my batchmates.” - Chew Yue Yang 4D, Mitchel Lee 4B and Lim Cheng Kiat 4B
 
