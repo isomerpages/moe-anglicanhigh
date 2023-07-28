@@ -17,7 +17,7 @@ width:210px;height:215px;margin:10px;border-width:0px;border-color:#000000;borde
 
 
 <table style="width:100%">
-<tr>
+<tbody><tr>
     <th>Shape</th>
     <th>形状</th>
    
@@ -26,10 +26,10 @@ width:210px;height:215px;margin:10px;border-width:0px;border-color:#000000;borde
     <td>Cross - Salvation<br>Shield - God's Protection and Care<br>The Eagles - Mount up with wings like eagles <br><br>Isaiah 40:31<br>"But those who hope in the Lord will renew their strength.<br>They will soar on wings like eagles;<br>They will run and not grow weary,<br>They will walk and not be faint."</td>
     <td>十字架 - 救恩<br>盾牌 - 上帝的眷顾保护<br>鹰 - 飞得高，看得远<br><br>以赛亚书 40:31<br>“但那等候耶和华的，必从新得力。他们必如鹰展翅上腾，<br>他们奔跑却不困倦，行走却不疲乏。”</td>
   </tr>
-</table>
+</tbody></table>
 
 <table style="width:85%"> 
-<tr>
+<tbody><tr>
     <th>Colours</th>
     <th>色</th>
   </tr>
@@ -37,7 +37,7 @@ width:210px;height:215px;margin:10px;border-width:0px;border-color:#000000;borde
     <td>Green - Abundant life<br>White - Holiness<br>Red - Precious blood of Jesus Christ</td>
     <td>青色 - 丰盛的生命<br>白色 - 圣洁<br>红色 - 耶稣基督的宝血</td>
   </tr>
-</table>
+</tbody></table>
 
 #### School Song 校歌
 
@@ -47,6 +47,11 @@ width:210px;height:215px;margin:10px;border-width:0px;border-color:#000000;borde
 把握今天勤用功 创造锦绣之前程<br>
 进德修业树校风 向着标杆力冲<br>
 永为基督之精兵 永为邦国之忠臣<br>
+<br>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Z6rYP4Lh1C0" height="315" width="560"></iframe>
+
+<br>
 
 #### Eagles Creed
 
