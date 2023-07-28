@@ -30,5 +30,8 @@ width:269px;height:403px;margin:10px;border-width:0px;border-color:#000000;borde
 <p align="justify">
 Sports is a great way for people to build resilience in themselves and push boundaries they never thought they can achieve. I often tell my classes to pursue sports that they really enjoy doing and that they will keep on doing it for life.<br>-- Mr William Tong, Head of Department (PE &amp; CCA)</p>
 
+![](/images/Curriculum/PE/2023_pe_03.jpg)
+
 ![](/images/Curriculum/PE/PE_02.jpg)
+
 ![](/images/Curriculum/PE/PE_01.jpg)
