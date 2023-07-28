@@ -4,6 +4,8 @@ permalink: /about-us/direct-school-admission-dsa-2023/
 description: ""
 third_nav_title: DSA
 ---
+##### Direct School Admission
+
 <p align="justify">
 Anglican High School (AHS) is a Mission, Special Assistance Plan (SAP) and Autonomous school guided by its core values: Holiness, Righteousness, Respect, Loyalty, Responsibility &amp; Perseverance. It is the school’s vision to be a vibrant learning community where we endeavor to develop <b>Every AHS Student to be a Leader – Leading Honourably, Learning for Life, Creating Values for Others.</b><br></p>
 
