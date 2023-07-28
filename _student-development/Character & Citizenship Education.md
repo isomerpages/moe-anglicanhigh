@@ -3,6 +3,9 @@ title: Character & Citizenship Education
 permalink: /student-development/character-n-citizenship-education/
 description: ""
 ---
+
+![](/images/Student%20Development/CCE/CCE.jpg)
+
 <p align="justify">
 Our philosophy for Character and Citizenship Education (CCE) is 'To inspire our students to be upright and useful citizens who embody Christian values and contribute positively to the society through the practice of servant leadership'.</p>
 
@@ -21,5 +24,3 @@ Besides explicit teaching in curriculum and co-curriculum programmes, students a
 Active participation in CCAs, VIA, class activities and school events provides opportunities for the students to put into practice the values and social emotional (SE) competencies they have been taught. 
 We also empower our students through training and the chance to lead in their duties and responsibilties. This increases the sense of ownership and the desire to do their best. In the process, values are internalised and SE competencies enhanced.
 These acquired values and SE competencies will enable our students to achieve our school's vision of leading honourably, learning for life, and creating value for others.</p>
-
-![](/images/Student%20Development/CCE/CCE.jpg)
