@@ -5,9 +5,13 @@ description: ""
 ---
 #### School Canteen Advertisement
 
-| Type of Stall | Closing Date | Operational Date |
-| -------- | -------- | -------- |
-|Western/Thai/Vietnamese Food Stall | 10 Aug 2023 before 5pm    | with effect from 11 September 2023 (preferably) |
+
+
+|Type of Stall|Closing Date|Operational Date|Proposed Menu|
+| -------- | -------- | -------- |-------- |
+| Western/ Thai/ Vietnamese Food Stall|10 Aug 2023 before 5pm| with effect from 11 September 2023 (preferably) |Grilled Chicken/ Fish/ Pork, Pasta, Baked Rice, Pizza, garlic bread/ mashed potato/ baked potato, coleslaw/ garden salad; Pad Thai, Pineapple fried rice, Tom Yum Kung, Green Curry, Mango Sticky rice, Vietnamese beef noodle, Vietnamese spring roll, Crispy Baguettes with meat and vegetable filling.|
+| Muslim Food Stall (Rice/ Noodle/ Snacks) | 14 August 2023 before 5pm| with effect from 11 September 2023 (preferably) |<u>Rice:</u> <br>Nasi Briyani, Lontong, Nasi Lemak, Nasi Ayam, Nasi Pattaya, Malay Mixed Rice, Nasi Sambal Goreng.<br><br><u>Noodles:</u> Mee Soto, Mee Goreng, Mee Rebus, Mee Siam, Fried Bee Hoon, Mee Hokkien.  |
+
 
 **Requirements**
 
@@ -20,14 +24,11 @@ description: ""
 - Must be able to operate till 5pm on days whenever there are lessons and CCAs as required by school.<br>
 - Must be able to operate during school holidays for 2 to 3 weeks whenever there are lessons and activities as required by the school.<br>
 - Must be in personal attendance at the stall during operating hours.<br>
-- If successful, stall-holder can commence canteen service from 11 September 2023 onwards.<br>
+- If successful, stall-holder can commence canteen service from the above stated operational date onwards.<br>
 - Financial position (if applicable) of the applicants will be given due consideration upon meeting all of the above criteria.<br>
+- Food must be served hot.<br>
+- The above proposed menu list is negotiable and is subject to change by the Anglican High School Canteen Committee.<br>
 
-<b><u>Proposed Menu List</u></b><br>
-Grilled Chicken/Fish/Pork, Pasta , Baked Rice, Pizza, garlic bread/mashed potato/baked potato,  coleslaw/garden salad; Pad Thai, Pineapple fried rice, Tom Yum Kung, Green Curry, Mango Sticky rice, Vietnamese beef noodle, Vietnamese spring roll, Crispy Baguettes with meat and vegetable filling.<br>
-
-Food must be served hot.<br><br>
-Interested vendor may propose other western/thai/vietnamese food items subject to approval by the Anglican High School Canteen Committee.<br>
 
 
 **Application and Submission**
