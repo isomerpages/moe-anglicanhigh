@@ -445,9 +445,7 @@ description: ""
     <td>trina_lin@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Rahayu</td>
-    <td>3F</td>
-    <td>rahayu_abdul_rahman@moe.edu.sg</td>
+   
   </tr>
 	<tr>
     <td>Mr Shen Yu Hung</td>
