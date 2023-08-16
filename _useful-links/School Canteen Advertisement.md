@@ -9,8 +9,8 @@ description: ""
 
 |Type of Stall|Closing Date|Operational Date|Proposed Menu|
 | -------- | -------- | -------- |-------- |
-| Western/ Thai/ Vietnamese Food Stall|10 Aug 2023 before 5pm| with effect from 11 September 2023 (preferably) |Grilled Chicken/ Fish/ Pork, Pasta, Baked Rice, Pizza, garlic bread/ mashed potato/ baked potato, coleslaw/ garden salad; Pad Thai, Pineapple fried rice, Tom Yum Kung, Green Curry, Mango Sticky rice, Vietnamese beef noodle, Vietnamese spring roll, Crispy Baguettes with meat and vegetable filling.|
-| Muslim Food Stall (Rice/ Noodle/ Snacks) | 14 August 2023 before 5pm| with effect from 11 September 2023 (preferably) |<u>Rice:</u> <br>Nasi Briyani, Lontong, Nasi Lemak, Nasi Ayam, Nasi Pattaya, Malay Mixed Rice, Nasi Sambal Goreng.<br><br><u>Noodles:</u> Mee Soto, Mee Goreng, Mee Rebus, Mee Siam, Fried Bee Hoon, Mee Hokkien.  |
+| Western/ Thai/ Vietnamese Food Stall|30 Aug 2023 before 5pm| 02 Oct 2023 (preferably) |Grilled Chicken/ Fish/ Pork, Pasta, Baked Rice, Pizza, garlic bread/ mashed potato/ baked potato, coleslaw/ garden salad; <br>Pad Thai, Pineapple fried rice, Tom Yum Kung, Green Curry, Mango Sticky rice;<br> Vietnamese beef noodle, Vietnamese spring roll, Crispy Baguettes with meat and vegetable filling.|
+| Muslim Food Stall (Rice/ Noodle/ Snacks) | 30 Aug 2023 before 5pm| 02 Oct 2023 (preferably) |<u>Rice:</u> <br>Nasi Briyani, Lontong, Nasi Lemak, Nasi Ayam, Nasi Pattaya, Malay Mixed Rice, Nasi Sambal Goreng.<br><br><u>Noodles:</u> <br>Mee Soto, Mee Goreng, Mee Rebus, Mee Siam, Fried Bee Hoon, Mee Hokkien.  |
 
 
 **Requirements**
