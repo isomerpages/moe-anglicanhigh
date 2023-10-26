@@ -58,4 +58,5 @@ sections:
       button: Click here to find out more
       url: https://go.gov.sg/ahsopenhouse2023
       alt: Image alt text
+      image: /images/open_house_2023.jpg
 ---
