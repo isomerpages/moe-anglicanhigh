@@ -52,4 +52,10 @@ sections:
       url: /student-development/learning-technology
       image: /images/square6.jpg
       alt: Image alt text
+  - infopic:
+      title: AHS Open House
+      id: infopic
+      button: Click here to find out more
+      url: https://go.gov.sg/ahsopenhouse2023
+      alt: Image alt text
 ---
