@@ -12,4 +12,6 @@ Our Computing students represented AHS in various competitions and programmes th
 
 To give our students a broader perspective beyond the ‘O’ level curriculum, we invited alumnus Dylan Alden Kusbiyantoro (Class of 2022) to share his experience pursuing H2 Computing at Victoria Junior College. Mr Eric Chia (Class of 1993), CEO of Advocado, was invited to join in for our student presentations on their game development project. His feedback for the students provided valuable insights from the industry perspective, sharpening our students’ thinking. Eric also mentored the Splash Awards team in their app development idea, with the team making it to the top 24 pre-tertiary teams in Singapore!
 
+![](/images/Curriculum/AI%20Computing/2023_AI_Computing_10.jpg)
+
 
