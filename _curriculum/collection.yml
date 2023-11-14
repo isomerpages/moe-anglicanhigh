@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Computing & AI.md
       - Key Curriculum Approaches.md
       - English Language & Literature.md
       - Chinese Language & Literature.md
