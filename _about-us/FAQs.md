@@ -2,6 +2,7 @@
 title: FAQs
 permalink: /about-us/faq/
 description: ""
+variant: markdown
 ---
 #### General Questions
 
@@ -22,11 +23,17 @@ A:	Anglican High School is served by a number of bus services. They are 2, 9, 12
 
 **Q:	What is the cut-off point for Anglican High School?**
 
-A:	The cut-off point varies year by year. Anglican High School is a choice school with 9 full secondary one classes every year. For enquires, please call the school at 6241 4866.
- 	 
-**Q:	Does the cut-off point include the Higher Chinese (HCL) scores?**
+A: The cut-off point varies from year to year. The PSLE score range is 6(M) – 14(P) for the 2023 Sec One cohort.
 
-A:	Yes. The cut-off point for Anglican High includes the bonus points for HCL as Anglican High is a Special-Assistance Plan (SAP) school. 
+Note: Higher Chinese Language Grade: (D) = Distinction (M) = Merit (P) = Pass
+Hence, for our 2023 Sec 1 cohort, the first student admitted had an AL of 6 with a Merit in HCL, and the last student admitted had an AL of 14 with a Pass in HCL. 
+ 	 
+**Q:	Do students taking Higher Chinese Language (HCL) have priority for admission to Anglican High School during posting?**
+
+A: Students who obtained Distinction/Merit/Pass in HCL and a PSLE score of 14 or better (i.e. PSLE score ≤ 14) will be eligible for posting advantage when applying to SAP schools, such as Anglican High School.
+If multiple students with the same PSLE score apply for places in the same SAP school, those with better HCL grades will be allocated a place ahead of other students. This applies before the tie-breakers for S1 posting.
+
+Note: Nevertheless, students with better PSLE scores will be posted first, even if they did not take HCL.
  	 
 **Q:	Can students offering other Mother Tongue languages apply to the school?**
 
