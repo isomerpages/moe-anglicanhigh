@@ -24,15 +24,6 @@ Our students made new friends as they collaborated with their peers at Wollondil
 
 ![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_13.jpg)
 
-##### China Immersion Programme 圣中中国浸濡
-This year, our students had the opportunity to interact with students from 南京师范大学附属中学 and 昆山娄江实验中学 despite the pandemic restrictions. 
-###### 一、苏州半日游——探索苏州的文化之旅
-![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_01.jpg)
-
-
-
-
-
 <p align="justify">
 Subsequently, we had the privilege and honour to host our friends from Wollondilly Anglican College (WAC) who visited us from 29th June to 6th July 2023, where our students and teachers had a fulfilling week interacting with them.</p>
 <p align="justify">
@@ -46,9 +37,31 @@ You can view more photos at our [Instagram page](https://www.instagram.com/ahsau
 
 ![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_12.jpg)
 
+##### China Immersion Programme 圣中中国浸濡
+This year, our students had the opportunity to interact with students from 南京师范大学附属中学 and 昆山娄江实验中学 despite the pandemic restrictions. 
 
+###### 一、苏州半日游——探索苏州的文化之旅
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_01.jpg)
 
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_02.jpg)
 
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_03.jpg)
+
+###### 二、南京师范大学附属中学学生来访我校开展交流活动
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_04.jpg)
+
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_05.jpg)
+
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_06.jpg)
+
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_07.jpg)
+
+###### 三、我校与昆山娄江实验中学的线上交流活动
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_08.jpg)
+
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_09.jpg)
+
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_10.jpg)
 			
 ##### Twinning Programme with Maktab Sultan Abu Bakar (English) College, Johor Bahru, Malaysia
   
