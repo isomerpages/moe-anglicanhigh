@@ -20,6 +20,7 @@ Our partner school is Wollondilly Anglican College, a premier school in New Sout
 
 <p align="justify">
 Our students made new friends as they collaborated with their peers at Wollondilly Anglican College on Future Problem-Solving Projects, and engaged in intellectually challenging debates witth them during the nightly Contemporary Issues Forum. They broke the ice with a cultural sharing on Singapore, and bonded over activities such as dance lessons and the learning journey to Symbio Wildlife Park. This allowed our students to not only learn more about the Australian culture, but also be ambassadors of AHS and Singapore.</p>
+
 ![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_11.jpg)
 
 ![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_13.jpg)
