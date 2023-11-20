@@ -25,6 +25,10 @@ Our students made new friends as they collaborated with their peers at Wollondil
 ![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_13.jpg)
 
 ##### China Immersion Programme 圣中中国浸濡
+This year, our students had the opportunity to interact with students from 南京师范大学附属中学 and 昆山娄江实验中学 despite the pandemic restrictions. 
+
+###### 一、苏州半日游——探索苏州的文化之旅
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_01.jpg)
 
 
 
@@ -42,6 +46,9 @@ You can view more photos at our [Instagram page](https://www.instagram.com/ahsau
 ![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_14.jpg)
 
 ![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_12.jpg)
+
+
+
 
 			
 ##### Twinning Programme with Maktab Sultan Abu Bakar (English) College, Johor Bahru, Malaysia
