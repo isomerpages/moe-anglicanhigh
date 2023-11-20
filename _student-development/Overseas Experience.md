@@ -24,6 +24,12 @@ Our students made new friends as they collaborated with their peers at Wollondil
 
 ![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_13.jpg)
 
+##### China Immersion Programme 圣中中国浸濡
+
+
+
+
+
 <p align="justify">
 Subsequently, we had the privilege and honour to host our friends from Wollondilly Anglican College (WAC) who visited us from 29th June to 6th July 2023, where our students and teachers had a fulfilling week interacting with them.</p>
 <p align="justify">
@@ -33,6 +39,9 @@ The students visited many tourist attractions such as Haji Lane, and Gardens by 
 
 You can view more photos at our [Instagram page](https://www.instagram.com/ahsausconnect/?igshid=OGQ5ZDc2ODk2ZA%3D%3D) @ahsausconnect
 
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_14.jpg)
+
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_12.jpg)
 
 			
 ##### Twinning Programme with Maktab Sultan Abu Bakar (English) College, Johor Bahru, Malaysia
