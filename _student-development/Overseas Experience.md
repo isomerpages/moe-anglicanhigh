@@ -2,11 +2,11 @@
 title: Overseas Experience
 permalink: /student-development/overseas-experience/
 description: ""
+variant: markdown
 ---
+#### Global Classroom 
 <p align="justify">
-AHS students are encouraged to participate in at least one overseas learning experience during their four years at AHS. We believe that an overseas learning experience will allow our students to be global citizens who navigates across cultures confidently.</p>
-<p align="justify">
-Our students become aware and grow in confident in speaking and communicating with people from different cultures and backgrounds. They also learn about the global and cultural perspectives that impact the environmental, social, cultural, political, and economic relations between countries.</p>
+At AHS, we believe that an overseas learning experience will allow our students to be global citizens who are confident in communicating with people from different cultures and backgrounds. They will also learn about the global and cultural perspectives that impact the environmental, social, cultural, political, and economic relations between countries.</p>
 
 Our signature overseas programmes are:
 * China Immersion Programme
@@ -14,39 +14,57 @@ Our signature overseas programmes are:
 * Twinning school, Malaysia
 * Overseas service learning projects
 
-#### China Immersion Programme 中华文化浸濡活动
-
-**June 2019**
+##### The Australian Connection
 <p align="justify">
-身为特选中学，培养双语双文化人才是我校的重要使命。作为我校选项目的重要活动之一，中二中国文化浸濡之旅于6月圆满结束。今年的文化浸濡之旅共遴选了120名华文成绩优秀的中二学生参与为期一周的浸濡之旅开拓了学生们的视野，增长了他们的见闻，他们不仅感受了中华文化之魅力，也惊叹于中国科技发展之神速，很多同学也因此立下了为打造智慧国贡献自己一份力量的宏愿。</p>
+Our partner school is Wollondilly Anglican College, a premier school in New South Wales, Australia. This year, our students had an enriching Australian Connection from 24 May to 2 June 2023. Teachers and students were immensely enriched in the different domains of their Cultural Quotients via cultural tours to the Sydney Zoo, Sydney Opera House, Art Galleries, Nature Trails, Beach Walks and the school experience. </p>
 
 <p align="justify">
-“此次的交流活动为中新两国姊妹校提供了一个相互交流、加深了解、增进友谊的平台，同时也为学生提供了一个难得的认识中华文化及学习现代科技的机会。”——叶梦祥主任</p>
+Our students made new friends as they collaborated with their peers at Wollondilly Anglican College on Future Problem-Solving Projects, and engaged in intellectually challenging debates witth them during the nightly Contemporary Issues Forum. They broke the ice with a cultural sharing on Singapore, and bonded over activities such as dance lessons and the learning journey to Symbio Wildlife Park. This allowed our students to not only learn more about the Australian culture, but also be ambassadors of AHS and Singapore.</p>
+
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_11.jpg)
+
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_13.jpg)
 
 <p align="justify">
-“‘读万卷书，不如行万里路’，这次的浸濡活动让我增长了许多书本以外的知识。它教会了我如何照顾好自己和他人，没了父母的陪伴，不仅一种新鲜的体验， 也是一种成长。”——胡涵琪(2K)</p>
-
-#### The Australian Connection
-
-**May 2019**
+Subsequently, we had the privilege and honour to host our friends from Wollondilly Anglican College (WAC) who visited us from 29th June to 6th July 2023, where our students and teachers had a fulfilling week interacting with them.</p>
 <p align="justify">
-23 Secondary Three students and three teachers set off for the annual AHS Australian Connection programme, which provides unique opportunities for our Bicultural Scholars to experience cross-cultural communication and develop critical thinking skills. Beyond cultural workshop ice-breakers, the students embarked on a ‘Future Problem-solving with Cultural Intelligence’ project with St. Andrew’s Anglican College.</p>
-
+From taking them on cultural trails planned by our students, to showing them around AHS, and working on their future-problem solving projects together, the students definitely bonded more and grew closer to each other.</p>
 <p align="justify">
-Our AHS students engaged their Australian peers in daily debates and collaborated on a presentation (carried out on the last day). They had the opportunity to explore contemporary Singapore issues, comparing these with those in the Australian context to get a better understanding of our local policies. With their refreshed outlook, these sessions helped build our students’ confidence in articulating their points.</p>
+The students visited many tourist attractions such as Haji Lane, and Gardens by the Bay. Wollondilly's talented students even performed a dance to an Australian song and two musical pieces during our morning assembly. Our students also joined them in dancing and singing to "Home Among the Gumtrees", which they learnt during their visit to WAC in June this year.</p>
 
-<p align="justify">
-The group experienced diverse aspects of Australia’s culture through various places of interest! Of note, they were thrilled to make the ascent on Mount Coolum; what surfaced were their grit and resilience.</p>
+You can view more photos at our [Instagram page](https://www.instagram.com/ahsausconnect/?igshid=OGQ5ZDc2ODk2ZA%3D%3D) @ahsausconnect
 
-**Tai Wing Xin (3K) &amp; Sie Jin See Valencia (3K):**
-<p align="justify">
-I am managed to talk to a few people that I’ve never talked to before this trip and learn more about them. This gives me a sense of accomplishment as one of my goals was to learn to be able to talk more confidently to people even though I am shy. I am also proud that I made the first step to talk to them which I do not usually do.</p>
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_14.jpg)
 
-**Lee En Teng Chloe (3J):**
-<p align="justify">
-I learnt a lot about the importance of being well versed on issues not just in Singapore but around the world, so that I can make informed decisions. I think a very good takeaway I had from this trip was that when you put down your phones and enjoy the people and view around you, the experiences and the memories you gain are more meaningful.</p>
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_12.jpg)
+
+##### China Immersion Programme 圣中中国浸濡
+This year, our students had the opportunity to interact with students from 南京师范大学附属中学 and 昆山娄江实验中学 despite the pandemic restrictions. 
+
+###### 一、苏州半日游——探索苏州的文化之旅
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_01.jpg)
+
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_02.jpg)
+
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_03.jpg)
+
+###### 二、南京师范大学附属中学学生来访我校开展交流活动
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_04.jpg)
+
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_05.jpg)
+
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_06.jpg)
+
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_07.jpg)
+
+###### 三、我校与昆山娄江实验中学的线上交流活动
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_08.jpg)
+
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_09.jpg)
+
+![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_10.jpg)
 			
-#### Twinning Programme with Maktab Sultan Abu Bakar (English) College, Johor Bahru, Malaysia
+##### Twinning Programme with Maktab Sultan Abu Bakar (English) College, Johor Bahru, Malaysia
   
 **25 July 2019**
 <p align="justify">
@@ -63,7 +81,7 @@ A Cultural Enrichment Programme was also organised for Secondary Two cohort to b
 
 <p>“I think such programmes are beneficial and necessary as they allow for cultural exchange and understanding of one another, which I personally feel is very important in today's political climate.” – Joshua Tan Kai, 3E</p>
 				
-#### Overseas Community Involvement Project
+##### Overseas Community Involvement Project
       
 **November 2019**
 <p align="justify">
