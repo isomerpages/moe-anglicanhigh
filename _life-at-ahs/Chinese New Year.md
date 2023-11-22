@@ -4,7 +4,7 @@ permalink: /life-at-ahs/chinese-new-year/
 description: ""
 variant: markdown
 ---
-### 2023年玉兔喜迎锦绣年
+#### 2023年玉兔喜迎锦绣年
 
 <p align="justify">
 虎去雄风在，兔来喜气浓。我校双文化小组、语特学生、华文DSA学生协同筹划组织了一系列的欢庆活动喜迎癸卯兔年。在校工的协助下，校园内处处张贴着圣中师生挥笔写就的春联、“福”字，营造了浓浓的节日氛围。</p>
