@@ -15,4 +15,9 @@ The day commenced with the official opening of AHS’ newest performing arts ven
 <p align="justify">
 The Founders’ Day ceremony kicked off with a majestic march-in led by representatives from our 22 Co-Curricular Activities (CCAs), each proudly displaying their respective CCA colours. Our Principal, Mr Khoo, delivered an uplifting address on our vision of nurturing honourable leaders committed to creating value for others. Our Guest-of-Honour, Reverend David Lee, also gave an inspiring speech that encouraged our students to continue serving with love, humility and empathy.
 </p>
+<p align="justify">
+Our AHS Modern Dance performed a number titled ‘Yellow Moon’, portraying the struggles and aspirations of the Samsui women.  Our school Choir serenaded everyone with ‘Credo’, a beautiful Latin piece that serves as a reminder of God's love for us.</p>
+<p align="justify">
+The celebration concluded with a prize presentation ceremony to recognise the hard work and contributions of our students and teachers.  It was truly a day where the AHS family came together to celebrate our journey, with participation of staff, students, parents and partners. All glory to God!</p>
+
 
