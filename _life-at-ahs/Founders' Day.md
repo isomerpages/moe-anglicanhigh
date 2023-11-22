@@ -2,25 +2,17 @@
 title: Founders' Day
 permalink: /life-at-ahs/founders-day/
 description: ""
+variant: markdown
 ---
-#### Founder's Day
+#### 67th Founders’ Day
 
 <p align="justify">
-The school welcomed back the outstanding Secondary 4 students of 2019 on 22 July 2020. Bright, sunny weather delightfully greeted these Secondary 4 students who returned back to the AHS campus after graduating from the school.</p>
+On 19 May 2023, Anglican High School celebrated its 67th Founders’ Day with the theme ‘Creating Value for Others’. We give thanks for God’s grace, which has allowed our school to flourish and grow stronger over the past 67 years!  </p>
 
 <p align="justify">
-Each student received the award from the Principal, Mr Khoo and took a photograph with Mr Khoo in front of “我爱圣中” monument, depicting their love and four years of fond memories for the school. </p>
+The day commenced with the official opening of AHS’ newest performing arts venue, the Glory Performing Studio (荣耀艺术工作室), by our Guest-of-Honour, Reverend David Lee, Chairman of the Education Board Diocese of Singapore, who is also an alumnus. Together with the other guests, he was welcomed by our Sec 4 Music students, who performed a lively percussion piece titled ‘Carefree 童乐’ composed by Singaporean composer Benjamin Boo.  </p>
 
 <p align="justify">
-This year, 26 students received medals of commendation for their excellent GCE ‘O’ level 2019 results. 6 students received Siow Miow Yew Humanities Award. 4 students received Outstanding Students Awards. The highlight of the ceremony was Ang Soo Hui of 4C who awarded with AHS Student of the Year.</p>
+The Founders’ Day ceremony kicked off with a majestic march-in led by representatives from our 22 Co-Curricular Activities (CCAs), each proudly displaying their respective CCA colours. Our Principal, Mr Khoo, delivered an uplifting address on our vision of nurturing honourable leaders committed to creating value for others. Our Guest-of-Honour, Reverend David Lee, also gave an inspiring speech that encouraged our students to continue serving with love, humility and empathy.
+</p>
 
-<p align="justify">
-“Seeing the students receiving recognition for their achievements was very touching for me. These students have grown and gained immensely from their education in AHS. I hope they will continue to develop and make the school proud, by making a positive impact and creating value for others.” – Mr Jimmy Tan, Teacher</p>
-
-![](/images/Life%20at%20AHS/Founders%20Day/2022_Founders_Day_01.jpg)
-
-![](/images/Life%20at%20AHS/Founders%20Day/2022_Founders_Day_02.jpg)
-
-![](/images/Life%20at%20AHS/Founders%20Day/2022_Founders_Day_04.jpg)
-
-![](/images/Life%20at%20AHS/Founders%20Day/2022_Founders_Day_03.jpg)
