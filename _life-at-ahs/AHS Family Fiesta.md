@@ -15,3 +15,16 @@ We continued having the inter-class Captain’s Ball competition for the differe
 <p align="justify">
 Once again, we demonstrated a strong school spirit through the combined efforts of the AHS family and we look forward to AHS Family Fiesta 2024! </p>
 
+![](/images/Life%20at%20AHS/Family%20Fiesta/2023_Fiesta_01.jpg)
+
+![](/images/Life%20at%20AHS/Family%20Fiesta/2023_Fiesta_02.jpg)
+
+![](/images/Life%20at%20AHS/Family%20Fiesta/2023_Fiesta_03.jpg)
+
+![](/images/Life%20at%20AHS/Family%20Fiesta/2023_Fiesta_04.jpg)
+
+![](/images/Life%20at%20AHS/Family%20Fiesta/2023_Fiesta_05.jpg)
+
+![](/images/Life%20at%20AHS/Family%20Fiesta/2023_Fiesta_06.jpg)
+
+![](/images/Life%20at%20AHS/Family%20Fiesta/2023_Fiesta_07.jpg)
