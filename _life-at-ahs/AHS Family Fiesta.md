@@ -2,21 +2,16 @@
 title: AHS Family Fiesta
 permalink: /life-at-ahs/ahs-family-fiesta/
 description: ""
+variant: markdown
 ---
-#### AHS Family Fiesta 2022
-
-AHS Family Fiesta is back! 
+#### AHS Family Fiesta 2023
 
 <p align="justify">
-After a two-year hiatus due to COVID-19, our AHS family could finally gather to have some fun on 27 May 2022. Like past AHS Family Fiestas, all students and staff started the morning with our AHS 早操 and iLoveAHS walk around our neighbourhood. Teachers and students enjoyed a morning of fun and fellowship with each other as they participated in the interclass games and creative carnival game booths set up by the Sec 3 CCA leaders.
-</p>
+The whole school gathered alongside our various stakeholders on Saturday, 11th March 2023, for our all-time favourite AHS Family Fiesta. We started the day with a whole school 早操 at the school field, followed by a walk around the Fengshan neighbourhood. The school buzzed with energy when we launched the Fiesta’s food and game booths, organised by the CCAs, PSG and canteen vendors. Students were seen queuing up for bubble tea, engaging in lively chats with their friends and showcasing their skills at the Dunk Basket, where they attempted to dunk their teachers.</p>
+
 <p align="justify">
-We are truly thankful that we are able to gather together again to celebrate God's goodness in guiding our school!</p>
+We continued having the inter-class Captain’s Ball competition for the different levels at the ISH where students and teachers cheered their hearts out for their respective classes.</p>
 
-![](/images/Life%20at%20AHS/Family%20Fiesta/2022_Family_Fiesta_01.jpg)
+<p align="justify">
+Once again, we demonstrated a strong school spirit through the combined efforts of the AHS family and we look forward to AHS Family Fiesta 2024! </p>
 
-![](/images/Life%20at%20AHS/Family%20Fiesta/2022_Family_Fiesta_02.jpg)
-
-![](/images/Life%20at%20AHS/Family%20Fiesta/2022_Family_Fiesta_03.jpg)
-
-![](/images/Life%20at%20AHS/Family%20Fiesta/2022_Family_Fiesta_04.jpg)
