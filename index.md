@@ -8,12 +8,12 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: AHS Open House
+          description: Click here to find out more
+          url: https://go.gov.sg/ahsopenhouse2023
         - title: AHS DIRECT SCHOOL ADMISSION 2023
           description: Click here to find out more
           url: /about-us/direct-school-admission-dsa-2023/
-        - title: 2023年全国双语创意写作比赛
-          description: Click here to find out more
-          url: /about-us/announcements/
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
   - infopic:
