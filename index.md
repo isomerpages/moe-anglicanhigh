@@ -13,7 +13,7 @@ sections:
           url: https://go.gov.sg/ahsopenhouse2023
         - title: AHS DIRECT SCHOOL ADMISSION 2023
           description: Click here to find out more
-          url: /about-us/direct-school-admission-dsa-2023/
+          url: /about-us/dsa-2023/
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
   - infopic:
