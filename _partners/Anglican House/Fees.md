@@ -9,9 +9,9 @@ variant: markdown
   
 **Long-term stay (by school terms or weeks):**
 
-![](/images/Partners/Anglican%20House/2024_anglicanhouse_fee_1.jpg)
+![](/images/Partners/Anglican%20House/2024_AnglicanHouse_Fee_1.jpg)
 
-![](/images/Partners/Anglican%20House/2024_anglicanhouse_fee_2.jpg)
+![](/images/Partners/Anglican%20House/2024_AnglicanHouse_Fee_2.jpg)
 
 
 
