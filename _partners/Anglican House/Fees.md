@@ -3,8 +3,9 @@ title: Fees
 permalink: /partners/Anglican-House/fees/
 description: ""
 third_nav_title: Anglican House
+variant: markdown
 ---
-##### Accommodation Types and Rates (with effect from 1 June 2023) 
+##### Accommodation Types and Rates (with effect from 1 January 2024) 
   
 **Long-term stay (by school terms or weeks):**
 
@@ -20,7 +21,7 @@ third_nav_title: Anglican House
 ##### Payment Methods
 
 * Full payment must be made when checking in to the hostel.<br>
-* A non-refundable registration fee of $50/$200 and a deposit of $400 are required for new applicant. The deposit will be refunded when the boarder leaves the hostel.<br>
+* A non-refundable registration fee of $50 for Uni/Poly student and $200 for Secondary student and a deposit of $400 are required for new applicant. The deposit will be refunded when the boarder leaves the hostel.<br>
 * For room reservation, a deposit of $400 is required for the confirmation of the reservation. The deposit will not be refunded if the reservation is cancelled.<br>
 * A reminder will be sent for late payment of fees---7 days after the invoice is issued. $30 will be levied for each reminder sent.<br>
 * Fees paid are non-refundable.<br>
