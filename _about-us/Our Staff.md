@@ -2,6 +2,7 @@
 title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
+variant: markdown
 ---
 #### School Leaders 学校领导
 
@@ -99,11 +100,7 @@ description: ""
 
 <table style="width:100%">
  
-  <tbody><tr>
-    <td>Ms Chua Pei Tzeun</td>
-    <td>蔡佩君</td>
-    <td>SH/ Biology</td>
-  </tr>
+  <tbody>
   <tr>
     <td>Mr Alaric Leong Keng Wah</td>
     <td>梁景华</td>

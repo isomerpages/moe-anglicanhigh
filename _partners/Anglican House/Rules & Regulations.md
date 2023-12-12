@@ -3,6 +3,7 @@ title: Rules & Regulations
 permalink: /partners/Anglican-House/rules-and-regulations/
 description: ""
 third_nav_title: Anglican House
+variant: markdown
 ---
 ##### 1 CONDUCT
   
@@ -18,12 +19,12 @@ third_nav_title: Anglican House
 
 1.15 Boarders shall not trespass into another resident’s room or any area of the hostel which they are not authorized to enter.
 
-1.16 Boarders are prohibited from sleeping in the common areas (eg. TV room).
+1.16 Boarders are prohibited from sleeping in the common areas.
 
 1.17 Boarders are to be appropriately attired when in the common areas.
 
   
-1.2 Boarders shall at all times respect the hostel staff and mentors.
+1.2 Boarders shall be in study room from 7.45pm to 9.30pm from Sunday to Thursday.
 
 1.21 Boarders shall attend all briefings and meetings when notified by the hostel office.
 
@@ -37,19 +38,17 @@ third_nav_title: Anglican House
 
 1.34 The possession of undesirable print or non-print materials, which are deemed unsuitable to be in the possession of boarders, is prohibited.
 
-1.35 Secondary school boarders are not allowed to use their laptops in their rooms after 11pm. JC and university students are exempted from this rule.
+1.35 Anglican High School boarders are not allowed to return to the hostel during curriculum time including recesses.
 
-1.36 Anglican High School boarders are not allowed to return to the hostel during curriculum time including recesses.
+1.36 Boarders are strictly prohibited from entering the school compound after school operating hours. This excludes the Friday sports sessions, whereby access to the sporting facilities is allowed.
 
-1.37 Boarders are strictly prohibited from entering the school compound after school operating hours. This excludes the Friday sports sessions, whereby access to the sporting facilities is allowed.
-
-1.38 Boarders who persistently violate the Rules and Regulations of the hostel will be asked to leave the hostel with deposit and balance of hostel fees forfeited.
+1.37 Boarders who persistently violate the Rules and Regulations of the hostel will be asked to leave the hostel with deposit and balance of hostel fees forfeited.
   
 ##### 2 COMMUNAL SAFETY
 
 2.1 Boarders are prohibited from activating, without reasonable cause, fire alarms, thereby producing false alarms, or damaging any fire-safety equipment or discharging or tampering with fire safety equipment without a fire or the reasonable threat of a fire being present.
 
-2.2 Cooking or the use of naked flames, fire, incense sticks, candles, mosquito coils and sparklers is not permitted in the room. Preparation of food is strictly restricted to the tea room provided. Boarders shall not leave any cooking or microwaving unattended in the tea room.
+2.2 Cooking or the use of naked flames, fire, incense sticks, candles, mosquito coils and sparklers are not permitted in the room. Preparation of food is strictly restricted to the tea room provided. Boarders shall not leave any cooking or microwaving unattended in the tea room.
 
 2.3 Any kind of dangerous/hazardous activities are strictly prohibited.
 
@@ -57,13 +56,13 @@ third_nav_title: Anglican House
 
 2.5 All boarders are required to attend all fire drills conducted in a swift and orderly manner.
 
-2.6 Boarders are prohibited from placing any garbage, trash, bicycles or other articles (e.g. shoes, slippers, shoe racks, laundry, clothes racks, bags, receptacles, detergent, potted plants, etc.) in the common areas. These areas include stairs, passageways, ledges, balconies, etc. of the hostel. The hostel office reserves the right to remove or discard any item or article stored or placed in the common areas in violation of this clause. Such item or article will not be returned to a claimant without satisfactory proof of ownership and payment of all expenses incurred for its removal and/or storage.
+2.6 Boarders are prohibited from placing any garbage, trash, bicycles or other articles (e.g. shoes, slippers, shoe racks, laundry, clothes racks, bags, receptacles, detergent, potted plants, etc.) in the common areas. These areas include stairs, passageways, ledges, balconies, etc. of the hostel. The hostel office reserves the right to remove or discard any item or article stored or placed in the common areas in violation of this clause. Payment of all expenses incurred for its removal is to be borne by boarder.
 
 2.7 Boarders shall not throw objects from windows, balconies, fire escapes or other exterior parts of the hostel.
 
 ##### 3 CARE OF ROOM, FACILITIES AND COMMON AREAS 
 
-3.1 Boarders are responsible for keeping the room safe, clean and tidy, and taking care of the contents in the room. Boarders who violate the above rules may be fined up to $10-$15.
+3.1 Boarders are responsible for keeping the room safe, clean and tidy, and taking care of the contents in the room. Boarders who violate the above rules may be fined from $30 - $400.
 
 3.12 Shoes must be kept neatly on the shoe racks provided.
 
@@ -87,7 +86,7 @@ third_nav_title: Anglican House
 
 3.7 Loss or damage of hostel keys shall be reported to the hostel office within 24 hours or the next working day. The cost of replacing the hostel keys and lock shall be borne by the boarders.
 
-##### 4 ROOM INSPECTION & REPAIRS  
+##### 4 ROOM INSPECTION &amp; REPAIRS  
 
 4.1 The hostel office reserves the right for its authorised representatives to enter and inspect any room in the interests of health, safety of the hostel, or to carry out any cleaning, repair, installation, maintenance, or improvement works without prior notice to the boarder.
 
@@ -129,7 +128,7 @@ third_nav_title: Anglican House
 
 6.3.3 During the term time, permission must be obtained from the warden personally to leave the hostel after 9pm, except on Saturday or on the eve of public holidays.
 
-6.3.4 Boarders who cannot return by his or her respective curfew time must inform the wardens by submitting an excuse form three working days in advance.
+6.3.4 Boarders who cannot return by his or her respective curfew time must inform the wardens by submitting an excuse form one working day in advance.
 
 6.3.5 Boarders who wish to stay overnight at other places must:
 
@@ -143,7 +142,7 @@ d) Boarders who breaks the sign-in and sign-out rule will be given demerit point
 
   
 
-6.3.6 Boarders’ passports must be submitted to the hostel office for safekeeping. Should boarders require to retrieve their passports, they must:
+6.3.6 Boarders’ passports must be submitted to the hostel office for safekeeping. Should boarders require to retrieve their passports for leaving Singapore, they must:
 
 a) Submit a letter from parent or guardian in advance;
 
