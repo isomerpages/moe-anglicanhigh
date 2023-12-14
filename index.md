@@ -11,9 +11,9 @@ sections:
         - title: AHS Open House
           description: Click here to find out more
           url: https://go.gov.sg/ahsopenhouse2023
-        - title: AHS DIRECT SCHOOL ADMISSION 2023
+        - title: Secondary One Registration
           description: Click here to find out more
-          url: /about-us/dsa-2023/
+          url: https://go.gov.sg/ahssec1reg
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
   - infopic:
