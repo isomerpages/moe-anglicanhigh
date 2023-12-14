@@ -300,14 +300,14 @@ variant: markdown
     <td>trina_lin@moe.edu.sg</td>
   </tr>
  <tr>
-    <td>Mdm Norliza</td>
+    <td>Mr Chua Song Guan</td>
     <td>2B</td>
-    <td>norliza_adnan@moe.edu.sg</td>
+    <td>chua_song_guan@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mr Terry Poh</td>
+    <td>Mdm Nurhidaya</td>
     <td>2B</td>
-    <td>terry_abriel_poh@moe.edu.sg</td>
+    <td>nurhidaya_omar@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Ms Vinnie Goh</td>
