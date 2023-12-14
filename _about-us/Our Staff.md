@@ -233,14 +233,14 @@ variant: markdown
     <td>ny_puay_khim@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Ms Kok Ker Wei</td>
+    <td>Ms Raihan</td>
     <td>1E</td>
-    <td>kok_ker_wei@moe.edu.sg</td>
+    <td>raihan_mohamed_yusoff@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mdm Tan Lay Kuan</td>
+    <td>Ms Tay Hui Xin</td>
     <td>1E</td>
-    <td>tan_lay_kuan@moe.edu.sg</td>
+    <td>tay_hui_xin@moe.edu.sg</td>
   </tr>
 		<tr>
     <td>Miss Nur Amalina</td>
