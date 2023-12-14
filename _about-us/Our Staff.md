@@ -275,12 +275,12 @@ variant: markdown
 	 <tr>
     <td>Ms Vinne Goh</td>
     <td>1J</td>
-    <td>yeo_meng_han@moe.edu.sg</td>
+    <td>vinnie_goh_mei_yin@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Ms Esther</td>
+    <td>Mdm Haryati</td>
     <td>1J</td>
-    <td>esther_jaichandar@moe.edu.sg</td>
+    <td>haryati_hajar_yusop@moe.edu.sg</td>
   </tr>
 	
 </tbody></table>
