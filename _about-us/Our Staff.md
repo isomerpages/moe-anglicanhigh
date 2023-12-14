@@ -392,24 +392,24 @@ variant: markdown
 <table style="width:100%">
  
   <tbody><tr>
-    <td>Ms Priyanka</td>
+    <td>Ms Loe Zi Ying</td>
     <td>3A</td>
-    <td>basu_roy_priyanka@moe.edu.sg</td>
+    <td>loe_zi_ying@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mr Poh Seng Kiat</td>
+    <td>Mr Song Yong Huit</td>
     <td>3A</td>
-    <td>poh_seng_kiat@moe.edu.sg</td>
+    <td>song_yonghui@moe.edu.sg</td>
   </tr>
  <tr>
-    <td>Mdm Song Jumei</td>
+    <td>Mr Tan Wei Li</td>
     <td>3B</td>
-    <td>song_ju_mei@moe.edu.sg</td>
+    <td>tan_wei_li_ai@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mr Richard Teo</td>
+    <td>Ms Wang Fang</td>
     <td>3B</td>
-    <td>teo_seok_thian@moe.edu.sg</td>
+    <td>wang_fang@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Mr Gan Chin Koon</td>
