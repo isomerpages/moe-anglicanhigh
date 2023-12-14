@@ -242,20 +242,15 @@ variant: markdown
     <td>1E</td>
     <td>tay_hui_xin@moe.edu.sg</td>
   </tr>
-		<tr>
-    <td>Miss Nur Amalina</td>
-    <td>1E</td>
-    <td>nur_amalina_noorman@moe.edu.sg</td>
+	 <tr>
+    <td>Ms Zahira</td>
+    <td>1F</td>
+    <td>nur_zahira_a@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Nurhidaya</td>
+    <td>Ms Koh Jia Feng</td>
     <td>1F</td>
-    <td>nurhidaya_omar@moe.edu.sg</td>
-  </tr>
-	 <tr>
-    <td>.</td>
-    <td>1F</td>
-    <td>.</td>
+    <td>jia_fen_koh@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Mr Shahid</td>
