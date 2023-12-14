@@ -290,14 +290,14 @@ variant: markdown
 <table style="width:100%">
  
   <tbody><tr>
-    <td>Mr Thomas Goh</td>
+    <td>Mr Chen Ze Hou</td>
     <td>2A</td>
-    <td>goh_wee_hong_thomas@moe.edu.sg</td>
+    <td>chen_ze_hou@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mdm Lee Yilian</td>
+    <td>Ms Trina Lin</td>
     <td>2A</td>
-    <td>lee_yilian@moe.edu.sg</td>
+    <td>trina_lin@moe.edu.sg</td>
   </tr>
  <tr>
     <td>Mdm Norliza</td>
