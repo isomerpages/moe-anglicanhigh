@@ -528,70 +528,56 @@ variant: markdown
     <td>4D</td>
     <td>cheah_chien_lead@moe.edu.sg</td>
   </tr>
-	<tr>
-    <td>Ms Loe Zi Ying</td>
-    <td>4D</td>
-    <td>loe_zi_ying@moe.edu.sg</td>
-  </tr>
 	 <tr>
-    <td>Mr Clement Xiao</td>
+    <td>Mr Teo Guang Long</td>
     <td>4E</td>
-    <td>xiao_yongda_clement@moe.edu.sg</td>
+    <td>teo_guang_long@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mdm Chia Cher Eng</td>
+    <td>Ms Sharon Tan Li Ern</td>
     <td>4E</td>
-    <td>chia_cher_eng@moe.edu.sg</td>
+    <td>tan_li_ern_sharon@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Justine Ang</td>
+    <td>Mr Shen Yu Hung</td>
     <td>4F</td>
-    <td>ang_siok_eng_justine@moe.edu.sg</td>
+    <td>shen_yu_hung@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Ms Lily Koh</td>
+    <td>4F</td>
+    <td>koh_lily@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Mdm Sin Oi Leng</td>
+    <td>4G</td>
+    <td>sin_oi_leng@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mdm Peng Li Rui</td>
+    <td>4G</td>
+    <td>peng_li_rui@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Mr Stanley Tan</td>
+    <td>4H</td>
+    <td>tan_eng_soon_stanley@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mdm Farahdilla</td>
+    <td>4H</td>
+    <td>farahdilla_mohd_ariff@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Mdm Nuraishah</td>
+    <td>4J</td>
+    <td>nuraishah_kapoor@moe.edu.sg</td>
   </tr>
 	<tr>
     <td>Mr Alaric Leong</td>
-    <td>4F</td>
+    <td>4J</td>
     <td>leong_keng_wah_alaric@moe.edu.sg</td>
   </tr>
-	 <tr>
-    <td>Mdm Farahdilla</td>
-    <td>4G</td>
-    <td>farahdilla_mohd_ariff@moe.edu.sg</td>
-  </tr>
-	<tr>
-    <td>Mr Stanley Tan</td>
-    <td>4G</td>
-    <td>tan_eng_soon_stanley@moe.edu.sg</td>
-  </tr>
-	 <tr>
-    <td>Mdm Tay Keng Wei</td>
-    <td>4H</td>
-    <td>tay_keng_wei@moe.edu.sg</td>
-  </tr>
-	<tr>
-    <td>Mr Amos Koh</td>
-    <td>4H</td>
-    <td>koh_chit_boon@moe.edu.sg</td>
-  </tr>
-	 <tr>
-    <td>Mr Teo Yi Sheng</td>
-    <td>4J</td>
-    <td>teo_yi_sheng@moe.edu.sg</td>
-  </tr>
-	<tr>
-    <td>Mdm Noriff</td>
-    <td>4J</td>
-    <td>noriff_elyn_mohamed_ariffin@moe.edu.sg</td>
-  </tr>
-	<tr>
-    <td>Ms Amanda Leong</td>
-    <td>4K</td>
-    <td>leong_minen_amanda@moe.edu.sg</td>
-  </tr>
-	<tr>
-    <td>Mr Jimmy Tan</td>
-    <td>4K</td>
-    <td>tan_kay_soon_jimmy@moe.edu.sg</td>
-  </tr>
+
 	
 </tbody></table>
