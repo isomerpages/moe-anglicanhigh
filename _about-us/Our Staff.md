@@ -310,24 +310,24 @@ variant: markdown
     <td>nurhidaya_omar@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Ms Vinnie Goh</td>
+    <td>Mr Kwek Jun Song</td>
     <td>2C</td>
-    <td>vinnie_goh_mei_yin@moe.edu.sg</td>
+    <td>kwek_jun_song@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mdm Zahira</td>
+    <td>Mdm Hidayah</td>
     <td>2C</td>
-    <td>nur_zahira_a@moe.edu.sg</td>
-  </tr>
-	 <tr>
-    <td>Mdm Nur Hidayah</td>
-    <td>2D</td>
     <td>nur_hidayah_mohd_ismail@moe.edu.sg</td>
   </tr>
-	<tr>
-    <td>.</td>
+	 <tr>
+    <td>Mr Azmi</td>
     <td>2D</td>
-    <td>.</td>
+    <td>azmi_a_rashid@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Ms Foong Shin Ann</td>
+    <td>2D</td>
+    <td>foong_shin_ann</td>
   </tr>
 	 <tr>
     <td>Mr Song Yonghui</td>
