@@ -365,24 +365,24 @@ variant: markdown
     <td>lim_mei_yu_michelle@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mr Andrew Gey</td>
+    <td>Mdm Grae Cheng</td>
     <td>2H</td>
-    <td>gey_meng_kiah_andrew@moe.edu.sg</td>
+    <td>cheng_leng_tuan_grace@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mdm Wang Jian Ping</td>
+    <td>Mdm Teo Ee Zi</td>
     <td>2H</td>
-    <td>wang_jianping@moe.edu.sg</td>
+    <td>teo_ee_zi@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Ms Ng Puay Khim</td>
+    <td>Mr Yeo Meng Han</td>
     <td>2J</td>
-    <td>ng_puay_khim@moe.edu.sg</td>
+    <td>yeo_meng_han@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mdm Goh Yu Jie</td>
+    <td>Ms Esther</td>
     <td>2J</td>
-    <td>goh_yu_jie@moe.edu.sg</td>
+    <td>esther_jaichandar@moe.edu.sg</td>
   </tr>
 	
 </tbody></table>
