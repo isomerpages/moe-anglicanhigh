@@ -198,9 +198,9 @@ variant: markdown
     <td>huang_sihui@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mr Chen Ze Hou</td>
+    <td>Mdm Lur Bee Cheng</td>
     <td>1A</td>
-    <td>chen_ze_hou@moe.edu.sg</td>
+    <td>lur_bee_cheng@moe.edu.sg</td>
   </tr>
  <tr>
     <td>Mdm Lur Bee Cheng</td>
