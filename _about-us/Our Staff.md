@@ -263,14 +263,14 @@ variant: markdown
     <td>tan_kah_wee@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Teo Ee Zi</td>
+    <td>Ms Stephanie Tan</td>
     <td>1H</td>
-    <td>teo_ee_zi@moe.edu.sg</td>
+    <td>tan_jing_jing_stephanie@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mdm Grace Cheng</td>
+    <td>Mdm Lee Yilian</td>
     <td>1H</td>
-    <td>cheng_leng_tuan_grace@moe.edu.sg</td>
+    <td>lee_yilian@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Mr Yeo Meng Han</td>
