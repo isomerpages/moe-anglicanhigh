@@ -273,7 +273,7 @@ variant: markdown
     <td>lee_yilian@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mr Yeo Meng Han</td>
+    <td>Ms Vinne Goh</td>
     <td>1J</td>
     <td>yeo_meng_han@moe.edu.sg</td>
   </tr>
