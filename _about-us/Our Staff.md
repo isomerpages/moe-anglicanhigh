@@ -345,24 +345,24 @@ variant: markdown
     <td>terry_abriel_poh@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Ms Koh Jia Feng</td>
+    <td>Mdm Norliza</td>
     <td>2F</td>
-    <td>	jia_feng_koh@moe.edu.sg</td>
+    <td>norliza_adnan@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mr Paul Yuen</td>
+    <td>Mr Andrew Gey</td>
     <td>2F</td>
-    <td>yuen_weiwen_paul@moe.edu.sg</td>
+    <td>gey_meng_kiah_andrew@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Ms Raihan</td>
+    <td>Mr Shahid</td>
     <td>2G</td>
-    <td>raihan_mohamed_yusoff@moe.edu.sg</td>
+    <td>noor_shahid_noorahman@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Ms Joanne Tan</td>
+    <td>Ms Michelle Lim</td>
     <td>2G</td>
-    <td>joanne_tan_mei_jing@moe.edu.sg</td>
+    <td>lim_mei_yu_michelle@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Mr Andrew Gey</td>
