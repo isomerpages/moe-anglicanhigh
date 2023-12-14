@@ -9,8 +9,8 @@ variant: markdown
 <table style="width:100%">
  
   <tbody><tr>
-    <td>Mr Khoo Tse Horng</td>
-    <td>辜泽鸿</td>
+    <td>Mr Lim Hock Chuan Alvin</td>
+    <td> </td>
     <td>Principal</td>
   </tr>
   <tr>
