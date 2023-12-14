@@ -427,9 +427,9 @@ variant: markdown
     <td>xiao_yongda_clement@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td></td>
+    <td>Ms Sharon Tan Hwee Ling</td>
     <td>3D</td>
-    <td>@moe.edu.sg</td>
+    <td>tan_hwee_ling_sharon@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Mdm Noriff</td>
