@@ -131,6 +131,11 @@ variant: markdown
     <td>李忆莲</td>
     <td>SH/ Mathematics</td>
   </tr>
+			<tr>
+    <td>Mdm Vera Chng</td>
+    <td></td>
+    <td>SH/ English Literature</td>
+  </tr>
 	
 </tbody></table>
 
