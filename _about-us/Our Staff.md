@@ -442,12 +442,14 @@ variant: markdown
     <td>yuen_weiwen_paul@moe.edu.sg</td>
   </tr>
 	 <tr>
-   
+ <td>Mr Lim Ee Chiew</td>
+    <td>3F</td>
+    <td>lim_ee_chiew@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mr Shen Yu Hung</td>
+    <td>Mdm Audrey Tan</td>
     <td>3F</td>
-    <td>shen_yu_hung@moe.edu.sg</td>
+    <td>tan_shu-hui_audrey@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Mdm Sin Oi Leng</td>
