@@ -203,24 +203,24 @@ variant: markdown
     <td>lur_bee_cheng@moe.edu.sg</td>
   </tr>
  <tr>
-    <td>Mdm Lur Bee Cheng</td>
+    <td>Mr Thomas Goh</td>
     <td>1B</td>
-    <td>lur_bee_cheng@moe.edu.sg</td>
+    <td>goh_wee_hong_thomas@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mr Chua Song Guan</td>
+    <td>Mdm Wang Jian Ping</td>
     <td>1B</td>
-    <td>chua_song_guan@moe.edu.sg</td>
+    <td>wang_jianping@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Ms Stephanie Tan</td>
+    <td>Ms Amalina</td>
     <td>1C</td>
-    <td>tan_jing_jing_stephanie@moe.edu.sg</td>
+    <td>nur_amalina_noorman@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mr Tan Kah Wee</td>
+    <td>Ms Joanne Tan</td>
     <td>1C</td>
-    <td>tan_kah_wee@moe.edu.sg</td>
+    <td>joanne_tan_mei_jing@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Ms Foong Shin Ann</td>
