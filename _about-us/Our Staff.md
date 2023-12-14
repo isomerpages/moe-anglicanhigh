@@ -223,14 +223,14 @@ variant: markdown
     <td>joanne_tan_mei_jing@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Ms Foong Shin Ann</td>
+    <td>Mdm Goh Yu Jie</td>
     <td>1D</td>
-    <td>foong_shin_ann@moe.edu.sg</td>
+    <td>goh_yu_jie@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mr Azmi</td>
+    <td>Ms Ng Puay Khim</td>
     <td>1D</td>
-    <td>azmi_a_rashid@moe.edu.sg</td>
+    <td>ny_puay_khim@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Ms Kok Ker Wei</td>
