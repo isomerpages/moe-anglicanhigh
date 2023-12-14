@@ -441,50 +441,45 @@ variant: markdown
     <td>3E</td>
     <td>yuen_weiwen_paul@moe.edu.sg</td>
   </tr>
-	 <tr>
+<tr>
  <td>Mr Lim Ee Chiew</td>
-    <td>3F</td>
-    <td>lim_ee_chiew@moe.edu.sg</td>
-  </tr>
-	<tr>
+ <td>3F</td>
+ <td>lim_ee_chiew@moe.edu.sg</td>
+ </tr>
+<tr>
     <td>Mdm Audrey Tan</td>
     <td>3F</td>
     <td>tan_shu-hui_audrey@moe.edu.sg</td>
-  </tr>
-	 <tr>
-    <td>Mdm Sin Oi Leng</td>
+</tr>
+<tr>
+    <td>Mdm Chia Cher Eng</td>
     <td>3G</td>
-    <td>sin_oi_leng@moe.edu.sg</td>
-  </tr>
-	<tr>
-    <td>Mdm Peng Li Rui</td>
+    <td>chia_cher_eng@moe.edu.sg</td>
+</tr>
+<tr>
+    <td>Mr Richard Teo</td>
     <td>3G</td>
-    <td>peng_li_rui@moe.edu.sg</td>
-  </tr>
-		<tr>
-    <td>Miss Tay Hui Xin</td>
-    <td>3G</td>
-    <td>tay_hui_xin@moe.edu.sg</td>
-  </tr>
-	 <tr>
-    <td>Mr Kwek Jun Song</td>
+    <td>teo_seok_thian@moe.edu.sg</td>
+</tr>
+<tr>
+    <td>Mr David Khoo</td>
     <td>3H</td>
-    <td>kwek_jun_song@moe.edu.sg</td>
+    <td>khoo_sheng_li_david@moe.edu.sg</td>
   </tr>
 	<tr>
+    <td>Mdm Vera Chngo</td>
+    <td>3H</td>
+    <td>vera_chng@moe.edu.sg</td>
+  </tr>
+	 <tr>
     <td>Mdm Evelyn Choo</td>
-    <td>3H</td>
+    <td>3J</td>
     <td>choo_li-_fang_evelyn@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mr David Khoo</td>
+    <td>Mr Teo Yi Sheng</td>
     <td>3J</td>
-    <td>khoo_sheng_li_david@moe.edu.sg</td>
-  </tr>
-	 <tr>
-    <td>Mdm Nuraishah</td>
-    <td>3J</td>
-    <td>nuraishah_kapoor@moe.edu.sg</td>
+    <td>teo_yi_sheng@moe.edu.sg</td>
   </tr>
 	
 </tbody></table>
