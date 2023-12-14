@@ -17,12 +17,12 @@ sections:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
   - infopic:
-      title: AHS Open House
+      title: Secondary One Registration
       id: infopic
       button: Click here to find out more
-      url: https://go.gov.sg/ahsopenhouse2023
-      alt: Image alt text
-      image: /images/open_house_2023.jpg
+      url: https://go.gov.sg/ahssec1reg
+      alt: https://go.gov.sg/ahssec1reg
+      image: /images/About us/2023_S1Posting.png
   - infopic:
       title: Soar at AHS
       button: Curriculum
