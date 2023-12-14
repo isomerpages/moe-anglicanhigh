@@ -489,44 +489,44 @@ variant: markdown
 <table style="width:100%">
  
   <tbody><tr>
-    <td>Ms Tan Jie Ning</td>
+    <td>Ms Priyanka</td>
     <td>4A</td>
+    <td>basu_roy_priyanka@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mr Poh Seng Kiat</td>
+    <td>4A</td>
+    <td>poh_seng_kiat@moe.edu.sg</td>
+  </tr>
+ <tr>
+    <td>Mdm Tay keng Wei</td>
+    <td>4B</td>
+    <td>tay_keng_wei@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Mdm Song Jumei</td>
+    <td>4B</td>
+    <td>song_ju_mei@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Ms Tan Jie Ning</td>
+    <td>4C</td>
     <td>jie_ning_tan@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Ms Wang Fang</td>
-    <td>4A</td>
-    <td>wang_fang@moe.edu.sg</td>
-  </tr>
- <tr>
-    <td>Mr Luke Tan</td>
-    <td>4B</td>
-    <td>tan_xiu_quan_luke@moe.edu.sg</td>
-  </tr>
-	<tr>
-    <td>Mrs Shirley Koh</td>
-    <td>4B</td>
-    <td>koh_shieh_ping_shirley@moe.edu.sg</td>
+    <td>Mr Gan Chin Koon</td>
+    <td>4C</td>
+    <td>gan_chin_koon@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mr Tan Wei Li</td>
-    <td>4C</td>
-    <td>tan_wei_li_a@moe.edu.sg</td>
+    <td>Mdm Jocelyn Chew</td>
+    <td>4D</td>
+    <td>chew_li_ling_jocelyn@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Ms Sharon Tan</td>
-    <td>4C</td>
-    <td>tan_li_ern_sharon@moe.edu.sg</td>
-  </tr>
-	 <tr>
-    <td>Mr Lim Ee Chiew</td>
+    <td>Mr Ben Cheah</td>
     <td>4D</td>
-    <td>lim_ee_chiew@moe.edu.sg</td>
-  </tr>
-	<tr>
-    <td>Mrs Audrey Tan</td>
-    <td>4D</td>
-    <td>tan_shu-hui_audrey@moe.edu.sg</td>
+    <td>cheah_chien_lead@moe.edu.sg</td>
   </tr>
 	<tr>
     <td>Ms Loe Zi Ying</td>
