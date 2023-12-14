@@ -330,14 +330,19 @@ variant: markdown
     <td>foong_shin_ann</td>
   </tr>
 	 <tr>
-    <td>Mr Song Yonghui</td>
+    <td>Ms Kok Ker Wei</td>
     <td>2E</td>
-    <td>song_yonghui@moe.edu.sg</td>
+    <td>kok_ker_wei@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Ms Lim Geok Lian</td>
+    <td>Mr Jimmy Tan</td>
     <td>2E</td>
-    <td>lim_geok_lian_a@moe.edu.sg</td>
+    <td>tan_kay_soon_jimmy@moe.edu.sg</td>
+  </tr>
+		<tr>
+    <td>Mr Terry Poh</td>
+    <td>2E</td>
+    <td>terry_abriel_poh@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Ms Koh Jia Feng</td>
