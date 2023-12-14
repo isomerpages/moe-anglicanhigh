@@ -412,34 +412,34 @@ variant: markdown
     <td>wang_fang@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mr Gan Chin Koon</td>
+    <td>Mr Luke Tan</td>
     <td>3C</td>
-    <td>gan_chin_koon@moe.edu.sg</td>
+    <td>tan_xiu_quan_luke@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Ms Chua Pei Tzeun</td>
+    <td>Mrs Shirley Koh</td>
     <td>3C</td>
-    <td>chua_pei_tzeun@moe.edu.sg</td>
+    <td>koh_shieh_ping_shirley@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mr Ben Cheah</td>
+    <td>Mr Clement Xiao</td>
     <td>3D</td>
-    <td>cheah_chien_lead@moe.edu.sg</td>
+    <td>xiao_yongda_clement@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mdm Jocelyn Chew</td>
+    <td></td>
     <td>3D</td>
-    <td>chew_li_ling_jocelyn@moe.edu.sg</td>
+    <td>@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mr Teo Guang Long</td>
+    <td>Mdm Noriff</td>
     <td>3E</td>
-    <td>teo_guang_long@moe.edu.sg</td>
+    <td>noriff_elyn_mohamed_ariffin@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Ms Trina Lin</td>
+    <td>Mr Paul Yuen</td>
     <td>3E</td>
-    <td>trina_lin@moe.edu.sg</td>
+    <td>yuen_weiwen_paul@moe.edu.sg</td>
   </tr>
 	 <tr>
    
