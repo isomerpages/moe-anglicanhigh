@@ -193,6 +193,9 @@ variant: markdown
 	
 </tbody></table>
 
+<!-- temporary commented the FTs list
+
+
 #### Sec 1 Form Teachers 中一级任老师
 
 <table style="width:100%">
@@ -585,3 +588,5 @@ variant: markdown
   </tr>
 	
 </tbody></table>
+
+ to delete the comment syntax -->
