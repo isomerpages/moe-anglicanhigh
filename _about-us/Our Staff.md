@@ -159,11 +159,6 @@ variant: markdown
     <td>陈淑慧</td>
     <td>LT/ Chemistry</td>
   </tr>
-  <tr>
-    <td>Mrs Koh Shieh Ping Shirley</td>
-    <td>彭雪冰</td>
-    <td>ST/ English Language</td>
-  </tr>
 	<tr>
     <td>Mdm Noriff Elyn Mohd Ariffin</td>
     <td>-</td>
@@ -173,6 +168,11 @@ variant: markdown
     <td>Mdm Wang Jianping</td>
     <td>王剑平</td>
     <td>ST/ Chinese Literature</td>
+  </tr>
+  <tr>
+    <td>Mrs Koh Shieh Ping Shirley</td>
+    <td>彭雪冰</td>
+    <td>ST/ English Language</td>
   </tr>
 	<tr>
     <td>Mr Yeo Meng Han</td>
