@@ -9,7 +9,7 @@ variant: markdown
 <table style="width:100%">
  
   <tbody><tr>
-    <td>Mr Lim Hock Chuan Alvin</td>
+    <td>Mr Alvin Lim Hock Chuan</td>
     <td> </td>
     <td>Principal</td>
   </tr>
@@ -34,20 +34,60 @@ variant: markdown
     <td>陈翠铃</td>
     <td>School Staff Developer (SSD)</td>
   </tr>
-  <tr>
-    <td>Mr Chan Wai Seon</td>
-    <td>陈威信</td>
-    <td>HOD/ Mathematics </td>
+	<tr>
+    <td>Mr Daryl Tan Yong Leng</td>
+    <td>陈永龙</td>
+    <td>Year Head (Upper Secondary) </td>
   </tr>
-  <tr>
+		<tr>
+    <td>Mr Lee Jie Han </td>
+    <td>李杰翰</td>
+    <td>Year Head (Lower Secondary) </td>
+  </tr>
+		 <tr>
+    <td>Ms Ng Wei Qi</td>
+    <td>黄玮琪</td>
+    <td>HOD/ Aesthetics &amp; Applied Learning</td>
+  </tr>
+ <tr>
+    <td>Mr Yeow Yong Keng</td>
+    <td>廖永敬</td>
+    <td>HOD/ Character &amp; Citizenship Education (CCE)</td>
+  </tr>
+	 <tr>
+    <td>Mr Teo Yi Sheng</td>
+    <td>张贻胜</td>
+    <td>HOD/ Chinese Language (Covering)</td>
+  </tr>
+	<tr>
+    <td>Ms Lily Koh</td>
+    <td>许丽丽</td>
+    <td>HOD/ English Language</td>
+  </tr>
+	 <tr>
     <td>Ms Carin Tham Kian Wen</td>
     <td>谭健雯</td>
     <td>HOD/ Humanities</td>
   </tr>
 	<tr>
-    <td>Mr Daryl Tan Yong Leng</td>
-    <td>陈永龙</td>
-    <td>Year Head (Upper Secondary) </td>
+    <td>Mr Tay Kian Leng Patrick</td>
+    <td>郑健龙</td>
+    <td>HOD/ Information Communication Technology</td>
+  </tr>
+  <tr>
+    <td>Mr Chan Wai Seon</td>
+    <td>陈威信</td>
+    <td>HOD/ Mathematics </td>
+  </tr>
+ <tr>
+    <td>Mr William Tong</td>
+    <td>董俊永</td>
+    <td>HOD/ PE &amp; CCA</td>
+  </tr>
+	<tr>
+    <td>Mr Joseph Tam</td>
+    <td>谭永文</td>
+    <td>HOD/ Science</td>
   </tr>
 	<tr>
     <td>Mr Heok Boon Siang</td>
@@ -55,45 +95,11 @@ variant: markdown
     <td>HOD/ Special Projects (SAP)</td>
   </tr>
 	<tr>
-    <td>Mr Lee Jie Han </td>
-    <td>李杰翰</td>
-    <td>Year Head (Lower Secondary) </td>
-  </tr>
-	<tr>
-    <td>Ms Lily Koh</td>
-    <td>许丽丽</td>
-    <td>HOD/ English Language</td>
-  </tr>
-	<tr>
     <td>Mr Martin Yong Guanghui</td>
     <td>杨光辉</td>
     <td>HOD/ Student Leadership and Management</td>
   </tr>
-	 <tr>
-    <td>Ms Ng Wei Qi</td>
-    <td>黄玮琪</td>
-    <td>HOD/ Aesthetics</td>
-  </tr>
-	 <tr>
-    <td>Mr Joseph Tam</td>
-    <td>谭永文</td>
-    <td>HOD/ Science</td>
-  </tr>
-	 <tr>
-    <td>Mr Tay Kian Leng Patrick</td>
-    <td>郑健龙</td>
-    <td>HOD/ Information Communication Technology</td>
-  </tr>
-	 <tr>
-    <td>Mr William Tong</td>
-    <td>董俊永</td>
-    <td>HOD/ PE &amp; CCA</td>
-  </tr>
-	 <tr>
-    <td>Mr Yeow Yong Keng</td>
-    <td>廖永敬</td>
-    <td>HOD/ Character &amp; Citizenship Education (CCE)</td>
-  </tr>
+		
 </tbody></table>
 
 ####  Key Personnel (Subject Head) 科目主任
@@ -102,39 +108,44 @@ variant: markdown
  
   <tbody>
   <tr>
-    <td>Mr Alaric Leong Keng Wah</td>
-    <td>梁景华</td>
-    <td>SH/ NE &amp; VIA</td>
-  </tr>
-  <tr>
     <td>Mr Lim Ee Chiew </td>
     <td>林一丘</td>
     <td>Assistant Year Head/ Upper Secondary</td>
   </tr>
 	<tr>
+    <td>Mrs Han Ee Zi</td>
+    <td>张艺姿</td>
+    <td>Assistant Year Head / Lower Secondary</td>
+  </tr>
+		<tr>
     <td>Mr Tan Kay Soon Jimmy</td>
     <td>陈家顺</td>
     <td>LH/ Science (Lower Sec)</td>
   </tr>
-	<tr>
-    <td>Mr Teo Yi Sheng</td>
-    <td>张贻胜</td>
-    <td>LH/ Chinese Language</td>
-  </tr>
-	<tr>
+		<tr>
     <td>Mr Chua Song Guan</td>
     <td>蔡松源</td>
     <td>SH/ Biculturalism</td>
   </tr>
+		<tr>
+    <td>Ms Cheryl Tan Jie Ning</td>
+    <td>陈洁宁</td>
+    <td>SH/ English Language</td>
+  </tr>
+		<tr>
+    <td>Ms Farahdilla Mohd Ariff</td>
+    <td>-</td>
+    <td>SH/ Geography (Covering)</td>
+  </tr>
 	<tr>
-    <td>Mdm Lee Yilian</td>
+    <td>Ms Lee Yilian</td>
     <td>李忆莲</td>
     <td>SH/ Mathematics</td>
   </tr>
-			<tr>
-    <td>Mdm Vera Chng</td>
-    <td></td>
-    <td>SH/ English Literature</td>
+  <tr>
+    <td>Mr Alaric Leong Keng Wah</td>
+    <td>梁景华</td>
+    <td>SH/ NE &amp; VIA</td>
   </tr>
 	
 </tbody></table>
@@ -156,7 +167,7 @@ variant: markdown
 	<tr>
     <td>Mdm Noriff Elyn Mohd Ariffin</td>
     <td>-</td>
-    <td>ST/ Social Studies</td>
+    <td>LT/ Social Studies</td>
   </tr>
 	<tr>
     <td>Mdm Wang Jianping</td>
