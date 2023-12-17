@@ -11,6 +11,4 @@ variant: markdown
 We are looking for Primary Six pupils who are proven to be proficient in the Higher Chinese Language to embark on a four-year journey in Anglican High School. He or she must have a deep passion for the Chinese language and its culture. Applicant should have good overall academic performance for P5 Year-End Examinations and P6 Assessments. He or she should possess good leadership and communication skills. 
 </p>
 
-![](/images/About%20us/DSA/Language1.jpg)
-
-![](/images/About%20us/DSA/Language2.jpg)
+![](/images/About%20us/DSA/2023_DSA_Language_1.JPG)
