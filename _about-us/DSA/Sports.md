@@ -3,16 +3,17 @@ title: Sports
 permalink: /about-us/direct-school-admission-dsa-2022/sports/
 description: ""
 third_nav_title: DSA
+variant: markdown
 ---
 ##### AHS SPORTS TALENT PROGRAMME
 
 <p align="justify">
-This programme focuses on providing talented student athletes with a holistic approach to sport. There are 2 support structures that enable student athletes to maximize their potential and excel to the best of their abilities.
+This programme focuses on providing talented student athletes with a holistic approach to sport. There are 2 support structures that enable student athletes to maximise their potential and excel to the best of their abilities.
 </p>
 
 | Academic | Sports Science|
 | -------- | -------- | 
-| Rigorous and comprehensive 4 year ‘O’ level programme.<br><br>	Teacher mentors assigned to small groups of sports students.<br><br>Learning support for DSA students.    | Customised curriculum that incorporates skills/sports science trainings such as Mental Strength, Nutritional Knowledge, Exercise Physiology and more.     |
+| Rigorous and comprehensive 4 year ‘O’ level programme.<br><br>	Teacher mentors assigned to small groups of sports students.<br><br>Learning support for DSA students.    | Customised curriculum that incorporates skills/sports science trainings such as Mental Strength, Nutrition Knowledge, Exercise Physiology and more.     |
 
 <b><u>ADDITIONAL INFORMATION ON AHS SPORTS TALENT PROGRAMME</u></b>
 (1). The school, with its strong Sports Talent Programme, has consistently achieved <b>top placings in the Zonal / National Inter-School Championships.</b><br><br>
