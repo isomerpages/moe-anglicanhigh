@@ -3,12 +3,9 @@ title: Infocomm Technology (Media Production)
 permalink: /student-development/cca/clubs-and-societies/infocomm-technology-media-production/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-1st IC: Ms Lim Geok Lian
 
-Teachers-in-Charge: <br>
-Mr Poh Seng Kiat<br>
-Mr Khoo Sheng Li David
 
 “I get to learn skills that I have always wanted to learn, and I also get to enjoy learning and having fun with my friends.” – by Carla Grecia Sanjaya, 3F
 
