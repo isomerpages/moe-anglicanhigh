@@ -2,6 +2,7 @@
 title: Student Well Being
 permalink: /student-development/student-well-being/
 description: ""
+variant: markdown
 ---
 <p align="justify">
 At AHS, we are proud of our strong culture of care. Our dedicated team of caring and competent teachers and staff work closely together to ensure that our students feel safe and cared for, have a sense of belonging and feel connected to the school.</p>
@@ -13,9 +14,9 @@ At AHS, we are proud of our strong culture of care. Our dedicated team of caring
 ![](/images/Student%20Development/Student%20Well%20Being/Student_Well-Being_01.jpg)
 
 <p align="justify">
-As a PSL, I have learnt to be empathetic towards others. Reflecting on my past experiences have helped me to better understand the circumstances other people are in. When my classmates need a listening ear, I am there for them. I share with them how I have gotten out of my own difficult circumstances. Although it might not seem much at first, I am glad that I have helped them. I have also learnt leadership skills as a PSL, from taking the initiative to buy sweets for the class to working with other PSLs to do something for the level.</p>
-Kevin Chua (Peer Support Leader, 2F, 2020)<br>
+Through the PSL training, I have learnt ways to phrase my questions to subtly encourage others to open up and comfortably share their worries and feelings. I have also learnt the importance of timing, sensing the situation and deciding whether or not it is appropriate to have a heart-to-heart talk. Personally, I dislike the feeling of knowing about a friend’s difficult situation, yet doing nothing to help. It is my personal goal to cheer a friend up or be a listening ear to them.</p>
+- Goh Jing Jing (Peer Support Leader, 2H 2023)<br>
 
 <p align="justify">
-This year was a rollercoaster ride as many people faced different problems, especially during the circuit breaker. Many of my peers came to me for advice as they felt cooped up and isolated from the outside world. Some felt stressed about how they were going to readjust to the new norm. I was glad that I could be their listening ear, and to apply the skills from the courses I have attended to better communicate with them. This year may not have been the best year but I am glad that I was able to be more responsible and help my friends whenever I can.</p>
-Marcus Chia Wei Xuan (Peer Support Leader, 3J 2020)<br>
+As students, we may face difficult times that are hard to shoulder alone. This is why peer support is important for those going through tough times. As a Peer Support Leader, I have learnt how crucial it is to have a compassionate and open mindset when comforting others. I have learnt to put myself in others’ shoes and imagine their experience as though it were my own. This deep sense of empathy allows me to identify with their problems to better provide them with moral support.</p>
+- Ian Boon Jian Li (Peer Support Leader, 4A 2023) <br>
