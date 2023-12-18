@@ -3,14 +3,9 @@ title: Choir
 permalink: /student-development/co-curricular-activities/performing-arts-groups/choir/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-<b>1st IC:</b> <br>
-Ms Cheryl Tan<br>
 
-<b>Teachers-in-Charge:</b><br>
-Mdm Lur Bee Cheng<br>
-Mrs Justine Seong<br>
-Mrs Jamuna Mohan<br>
 
 “The AHS Choir is more than just a CCA to me; we are one big family, caring for each other and helping each other improve.” - Koh Si Siang (2B, Tenor)
 
