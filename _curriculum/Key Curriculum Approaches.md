@@ -41,4 +41,4 @@ The aims of the PDLP includes the following:
 <p align="justify">
 Through the PDLP, students will capitalise on technology to achieve subject mastery and apply knowledge in authentic contexts to solve real-world problems. By leveraging on technology, students will be able to interact and learn online with strong focus on collaboration, communication and critical thinking.</p>
 
-![curriculum](/images/curriculum.png)
+![](/images/Curriculum/Key%20Curriculum%20Approach/Key_Curriculum_Approach.png)
