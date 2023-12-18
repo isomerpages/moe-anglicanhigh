@@ -23,8 +23,8 @@ width:309px;height:309px;margin:10px;border-width:0px;border-color:#000000;borde
 }
 </style>
 
-<!-- HTML Code -->
-<img class="GeneratedImage" src="/images/Curriculum/Critical%20Thinking/The_Essential_Dimensions_of_CT.jpg">
+![](/images/Curriculum/Key%20Curriculum%20Approach/Curriculum_ACTS_Poster.png)
+
 
 Source: https://www.criticalthinking.org/pages/critical-thinking-where-to-begin/796
 
