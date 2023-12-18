@@ -45,24 +45,13 @@ Click here[here](https://youtu.be/pLsypLGLXq4) to view the camp highlights!
 <p align="justify">
 The Sec 4s went on Learning Journeys to different organisations, and had a taste of different career options and the significance of these industries to our nation. They also participated in activities of their choice such as kickboxing and Rubik’s Cube art. In addition, the Sec 4s also headed out to the neighbouring housing estate to collect clothes for recycling, with the proceeds donated to St Andrew’s Autism Centre.</p>
 
+![](/images/Life%20at%20AHS/Camp%20Engage/2023_Camp_Engage_06.jpg)
 
+![](/images/Life%20at%20AHS/Camp%20Engage/2023_Camp_Engage_09.jpg)
 
+![](/images/Life%20at%20AHS/Camp%20Engage/2023_Camp_Engage_11.jpg)
 
+![](/images/Life%20at%20AHS/Camp%20Engage/2023_Camp_Engage_12.jpg)
 
-
-<p align="justify">
-The first day of school is always a nervewrecking experience for our New Secondary 1 students. AHS welcomes our new students into our AHS Family through Camp Engage.</p>
-
-<p align="justify">
-Every year, the AHS Family prepares fun and engaging activities for our Secondary 1 students.</p>
-
-<p align="justify">
-My biggest takeaway is to be able to make new friends and most importantly to build strong relationships with my friends and family.</p>
-
-<p align="justify">
-I'm glad that the Secondary 1s were able to know each other better and grow comfortable around each other. It was very heart warming seeing them working together to complete the games. - Alice Ang Chee Suan 4F</p>
-
-<p align="justify">
-I had a senior who helped make my school life easier. Once, when I was lost while trying to find my class, a senior stepped in to help me. She further encouraged me to speak up and talk more to others. This helped me to adjust to secondary school life.   - Lee Enn 1J</p>
 
 ![engage](/images/engage.png)
