@@ -13,6 +13,32 @@ Held in the first week of school, Camp Engage aims to welcome our Sec 1s to 4s b
 <p align="justify">
 The Sec 1s embarked on a fun-filled orientation organised by the Student Council. Themed “Mission Impossible”, the activities were designed for the Sec 1s to bond with their new classmates, venture beyond their comfort zone, and progress to Mission: I’m Possible! </p>
 
+![](/images/Life%20at%20AHS/Camp%20Engage/2023_Camp_Engage_04.jpg)
+
+![](/images/Life%20at%20AHS/Camp%20Engage/2023_Camp_Engage_05.jpg)
+
+<b>Secondary Two</b>
+<p align="justify">
+	学习有法，学无定法，贵在得法。
+The Sec 2s attended a study skills workshop where they learnt to develop a growth mindset, and were empowered with study strategies that align with their learning styles and attributes. </p>
+
+![](/images/Life%20at%20AHS/Camp%20Engage/2023_Camp_Engage_07.jpg)
+
+![](/images/Life%20at%20AHS/Camp%20Engage/2023_Camp_Engage_08.jpg)
+
+
+<b>Secondary Three</b>
+<p align="justify">
+The Sec 3s attended a 3D2N camp in school that focused on building group dynamics, leadership skills and positive communication through challenges such as Human Entanglement and Night Walk. They also experienced outdoor skills like tent-pitching and outdoor cooking. It was indeed a journey of self-discovery as they bonded with their new classmates. </p>
+
+Click here[here](https://youtu.be/pLsypLGLXq4) to view the camp highlights!
+
+![](/images/Life%20at%20AHS/Camp%20Engage/2023_Camp_Engage_02.JPG)
+
+![](/images/Life%20at%20AHS/Camp%20Engage/2023_Camp_Engage_01.jpg)
+
+![](/images/Life%20at%20AHS/Camp%20Engage/2023_Camp_Engage_03.JPG)
+
 
 <p align="justify">
 The first day of school is always a nervewrecking experience for our New Secondary 1 students. AHS welcomes our new students into our AHS Family through Camp Engage.</p>
