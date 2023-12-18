@@ -52,6 +52,3 @@ The Sec 4s went on Learning Journeys to different organisations, and had a taste
 ![](/images/Life%20at%20AHS/Camp%20Engage/2023_Camp_Engage_11.jpg)
 
 ![](/images/Life%20at%20AHS/Camp%20Engage/2023_Camp_Engage_12.jpg)
-
-
-![engage](/images/engage.png)
