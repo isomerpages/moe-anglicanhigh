@@ -3,12 +3,8 @@ title: Entrepreneurship
 permalink: /student-development/cca/clubs-and-societies/entrepreneurship/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-1st IC: Mdm Jocelyn Chew
-  
-Teachers-in-Charge:<br>
-Mdm Ng Wei Qi<br>
-Miss Lin Wanli Trina
   
 
 “Being in Entrepreneurship has equipped me with better creative thinking skills to come up with original and innovative ideas.” Wang Yu Yun, 2G.
