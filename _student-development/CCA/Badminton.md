@@ -3,15 +3,9 @@ title: Badminton
 permalink: /student-development/sports/badminton/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-<b>1st IC:</b><br>
-Mr Stanley Tan<br>
 
-<b>Teachers-in-Charge:</b><br>
-Ms Loe Zi Ying<br>
-Mr Tan Kah Wee<br>
-Mr Gan Chin Koon<br>
-Mdm Teo Ee Zi<br>
 
 “Being in Badminton has helped us to understand the importance of teamwork. Through hard work and perseverance lead the road to success.” Song Renxu 3A  
 
