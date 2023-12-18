@@ -3,13 +3,9 @@ title: Girls' Brigade
 permalink: /student-development/cca/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-1st IC: Miss Amanda Leong
 
-Teachers-in-Charge:<br>
-Mdm Evelyn Choo Li Fang<br>
-Ms Ng Puay Khim<br>
-Mdm Cheng Leng Tuan Grace
 
 "GB has certainly made a big impact on my life, empowering me to exercise greater discipline and responsibility in my school and personal life" – Yeo Jia Yun (3K)
 
@@ -26,4 +22,3 @@ In all, this has been a wonderful year in enabling our girls to take part in Bri
 ![](/images/Student%20Development/CCA/Girls%20Brigade/2022_Girl_Brigade_01.jpg)
 
 ![](/images/Student%20Development/CCA/Girls%20Brigade/2022_Girl_Brigade_02.jpeg)
-
