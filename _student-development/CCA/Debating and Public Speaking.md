@@ -3,11 +3,9 @@ title: Debating and Public Speaking
 permalink: /student-development/cca/clubs-and-societies/debating-and-public-speaking/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-1st IC: Miss Sharon Tan 
 
-Teachers-in-Charge:<br>
-Mr Jasbir Singh
 
 “Debating and Public Speaking has allowed me to enhance my growth as an individual, to stand up for what I believe in, and also opened my eyes to many of the issues in the world today.” – Daphne Tan, 3H
 
