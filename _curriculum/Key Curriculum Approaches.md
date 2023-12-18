@@ -2,7 +2,10 @@
 title: Key Curriculum Approaches
 permalink: /curriculum/key-curriculum-approaches/
 description: ""
+variant: markdown
 ---
+
+![](/images/Curriculum/Key%20Curriculum%20Approach/Curriculum_Page_Banner.jpg)
 #### Critical Thinking
 <p align="justify">
 AHS Students have strong talents and high aspirations. The school seeks to design a curriculum that is catered to the students' ability, interests, talents and aspirations to enable them to be future-ready. We aim to enable each student to be critical thinkers so that they can honorable leaders that can learn for life and create value for others.
