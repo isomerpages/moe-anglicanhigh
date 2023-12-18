@@ -39,6 +39,16 @@ Click here[here](https://youtu.be/pLsypLGLXq4) to view the camp highlights!
 
 ![](/images/Life%20at%20AHS/Camp%20Engage/2023_Camp_Engage_03.JPG)
 
+![](/images/Life%20at%20AHS/Camp%20Engage/2023_Camp_Engage_10.JPG)
+
+<b>Secondary Four</b>
+<p align="justify">
+The Sec 4s went on Learning Journeys to different organisations, and had a taste of different career options and the significance of these industries to our nation. They also participated in activities of their choice such as kickboxing and Rubik’s Cube art. In addition, the Sec 4s also headed out to the neighbouring housing estate to collect clothes for recycling, with the proceeds donated to St Andrew’s Autism Centre.</p>
+
+
+
+
+
 
 <p align="justify">
 The first day of school is always a nervewrecking experience for our New Secondary 1 students. AHS welcomes our new students into our AHS Family through Camp Engage.</p>
