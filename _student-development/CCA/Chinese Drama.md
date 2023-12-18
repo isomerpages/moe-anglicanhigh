@@ -3,14 +3,9 @@ title: Chinese Drama
 permalink: /student-development/co-curricular-activities/performing-arts-groups/chinese-drama/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-<b>1st IC:</b><br>
-冯薪安老师<br>
 
-<b>负责老师:</b><br>
-宋菊梅老师<br>
-彭利瑞老师<br>
-王芳老师<br>
 
 苏慧欣, 4J：“中文戏剧学会让我学会了什么是坚持不懈的精神，我在这四年来学会了专心一致、不轻言放弃，也培养了耐心。”
 
