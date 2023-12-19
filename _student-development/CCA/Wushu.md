@@ -3,13 +3,8 @@ title: Wushu
 permalink: /student-development/cca/sports/wushu/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-<b>1st IC:</b><br>
-Mr Richard Teo<br>
-
-<b>Teachers-in-Charge:</b><br>
-Ms Joanne Tan<br>
-Ms Goh Yu Jie<br>
 
 
 “I have learnt new moves, new techniques and ways to improve during Wushu training sessions.”&nbsp; – Sean Ruiyang (1G)

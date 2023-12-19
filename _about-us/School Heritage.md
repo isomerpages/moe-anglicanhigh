@@ -2,6 +2,7 @@
 title: School Heritage
 permalink: /about-us/school-heritage/
 description: ""
+variant: markdown
 ---
 <p align="justify">
 Anglican High School was founded in 1956 by the Chinese speaking congregations of the Anglican Churches in Singapore. It was the only Anglican school which had Chinese as its medium of instruction. All other schools of the Anglican Church were English schools.</p>
@@ -12,6 +13,16 @@ Anglican High School was founded in 1956 by the Chinese speaking congregations o
 When Anglican High School was formally opened in January 1956, it had one Principal, three Chinese teachers, three English teachers, and 123 male students. Lessons were conducted in several classrooms at St Andrew's Secondary School (Francis Thomas Drive). It acquired the present Upper Changi Road site and erected the first school building in 1960 which comprised of 16 classrooms, 3 science laboratories, an administration-cum-staff room, an assembly hall and the symbolic clock-tower.</p>
 
 圣公会中学办校初期，拥有 1 位校长，3 位华文老师，3 位英文老师及123 位男学生，并借用圣安德烈学校的课室上课。在校董的积极寻觅下，圣中得以在樟宜路上段安家。 1960 年校舍竣工，包括16 间课室、3 间科学实验室、教职员办公室、礼堂及钟楼。
+
+![](/images/About%20us/School%20Heritage/Sch_Heritage_1968.jpg)
+
+![](/images/About%20us/School%20Heritage/Sch_Heritage_1.jpg)
+
+![](/images/About%20us/School%20Heritage/Sch_Heritage_1986.jpg)
+
+![](/images/About%20us/School%20Heritage/Sch_Heritage_1987.jpg)
+
+![](/images/About%20us/School%20Heritage/Sch_Heritage_1993.jpg)
 
 ![ahs buildings](/images/ahs1.jpg)
 

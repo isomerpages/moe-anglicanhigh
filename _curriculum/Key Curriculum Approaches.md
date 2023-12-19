@@ -2,7 +2,10 @@
 title: Key Curriculum Approaches
 permalink: /curriculum/key-curriculum-approaches/
 description: ""
+variant: markdown
 ---
+
+![](/images/Curriculum/Key%20Curriculum%20Approach/Curriculum_Page_Banner.jpg)
 #### Critical Thinking
 <p align="justify">
 AHS Students have strong talents and high aspirations. The school seeks to design a curriculum that is catered to the students' ability, interests, talents and aspirations to enable them to be future-ready. We aim to enable each student to be critical thinkers so that they can honorable leaders that can learn for life and create value for others.
@@ -20,8 +23,8 @@ width:309px;height:309px;margin:10px;border-width:0px;border-color:#000000;borde
 }
 </style>
 
-<!-- HTML Code -->
-<img class="GeneratedImage" src="/images/Curriculum/Critical%20Thinking/The_Essential_Dimensions_of_CT.jpg">
+![](/images/Curriculum/Key%20Curriculum%20Approach/Curriculum_ACTS_Poster.png)
+
 
 Source: https://www.criticalthinking.org/pages/critical-thinking-where-to-begin/796
 
@@ -38,4 +41,4 @@ The aims of the PDLP includes the following:
 <p align="justify">
 Through the PDLP, students will capitalise on technology to achieve subject mastery and apply knowledge in authentic contexts to solve real-world problems. By leveraging on technology, students will be able to interact and learn online with strong focus on collaboration, communication and critical thinking.</p>
 
-![curriculum](/images/curriculum.png)
+![](/images/Curriculum/Key%20Curriculum%20Approach/Key_Curriculum_Approach.png)

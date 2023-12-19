@@ -3,13 +3,8 @@ title: Robotics Club
 permalink: /student-development/cca/clubs-and-societies/robotics-club/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-<b>1st IC:</b><br>
-Mdm Nur Hidayah<br>
-
-<b>Teachers-in-Charge:</b><br>
-Mrs Lim Oi Leng<br>
-Mr Noor Shahid<br>
 
 
 “Robotics – where creativity is unleashed.” – by Wang Junqiang, 3A

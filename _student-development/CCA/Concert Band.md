@@ -3,13 +3,8 @@ title: Concert Band
 permalink: /student-development/co-curricular-activities/performing-arts-groups/concert-band/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-1st IC: Miss Koh Jia Feng
-
-Teachers-in-Charge
-Ms Chia Cher Eng<br>
-Ms Priyanka Basu Loy<br>
-Ms Tham Kian Wen Carin<br>
 
 
 "The past two years in AHBand have been enriching and exciting. I am thankful for the AHBand family who are always there to encourage me and allow me to have the confidence to constantly strive for better results!” - Claire Ching 3D

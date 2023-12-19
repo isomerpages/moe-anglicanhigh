@@ -2,10 +2,28 @@
 title: Sec 1 Showcase Day
 permalink: /life-at-ahs/sec-1-showcase-day/
 description: ""
+variant: markdown
 ---
 #### Sec 1 Showcase Day
 
 <p align="justify">
-The school believes that Every Student has Talent, and Every Student can Excel. We provide an annual platform for our Sec One students to showcase their achievements, and to celebrate and affirm the good work accomplished by our students in their first year with us. All students get the opportunity to present their work to their parents and other visitors at their booths, while honing their communication skills at the same time. There was a wide variety of works presented, including Music Rendition of Self-Composed Songs, Live Cooking, Chinese Flute, Chinese Painting, Science models, Geographical and Historical Investigative Projects, Poetry Slams, Mathematics Matching Game, Travel Scrapbooks, and Coding. Parents commented that they appreciated the hard work and efforts put in by the students, and were impressed with the enthusiasm of our students. Good Job Sec Ones!</p>
+Sec One Showcase Day is an annual platform for our Sec One students to showcase their achievements, and to celebrate and affirm the good work they have done in their first year with us. </p>
 
-![s1](/images/s1.png)
+<p align="justify">
+Themed ‘A Celebration of Learning’, every Sec One student has the opportunity to showcase and present his/her proudest learning experience to his/her classmates and parents. Parents beamed with pride as they watched their child present confidently what they have learnt in their first year of secondary school. </p>
+
+<p align="justify">
+Apart from showcasing their learning, the event also culminated in a significant segment where students and parents presented cards of appreciation and affirmation respectively to each other. It was a heartwarming moment to see the happy faces of parents receiving the card from their child and the sheer sense of affirmation when students received the letter of affirmation from their parents.</p>
+
+<p align="justify">
+It was indeed a lovely evening on the last day of the academic year as the AHS family came together to celebrate and affirm our Sec One students’ efforts to Soar, Shine and Serve!</p>
+
+![](/images/Life%20at%20AHS/Sec1%20Showcase/2023_S1_Showcase_04.jpg)
+
+![](/images/Life%20at%20AHS/Sec1%20Showcase/2023_S1_Showcase_05.jpg)
+
+![](/images/Life%20at%20AHS/Sec1%20Showcase/2023_S1_Showcase_01.jpg)
+
+![](/images/Life%20at%20AHS/Sec1%20Showcase/2023_S1_Showcase_02.jpg)
+
+![](/images/Life%20at%20AHS/Sec1%20Showcase/2023_S1_Showcase_03.jpg)

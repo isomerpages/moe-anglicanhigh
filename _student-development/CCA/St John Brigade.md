@@ -3,12 +3,9 @@ title: St John Brigade
 permalink: /student-development/cca/uniformed-groups/st-john-brigade/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-<b>1st IC:</b><br>Miss Kok Ker Wei<br>
 
-<b>Teachers-in-Charge:</b><br>
-Miss Shahirah<br>
-Miss Tay Hui Xin<br>
 
 “The opportunities from being a member of St. John have helped me become a more confident leader.” - Nathaniel Kan, 3G
 

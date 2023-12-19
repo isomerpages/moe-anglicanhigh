@@ -2,6 +2,7 @@
 title: Principal’s Message
 permalink: /about-us/principal-s-message/
 description: ""
+variant: markdown
 ---
 .
 
@@ -14,8 +15,8 @@ width:288px;height:432px;margin:10px;border-width:0px;border-color:#000000;borde
 }
 </style>
 
-<!-- HTML Code -->
-<img class="GeneratedImage" src="/images/About%20us/P_Mr_Khoo.jpg">
+<!-- To replace principal photo -->
+<!-- <img src="/images/About%20us/P_Mr_Khoo.jpg" class="GeneratedImage">   -->
 
 #### Our Students, Our Future
 <p align="justify">
@@ -46,7 +47,7 @@ Fundamentally, a well-balanced education is essential.  We endeavour to provide 
 AHS students have proven that they have the enthusiasm, energy and verve to follow that rainbow and the talents and skills to ride the waves of the future.</p>
 
 Principal<br>
-Mr Khoo Tse Horng<br>
+<!-- Mr Khoo Tse Horng<br>  -->
 
 Proverbs 22:6 “Train up a child in the way he should go and when he is old he will not depart from it.”
 
@@ -80,6 +81,6 @@ Proverbs 22:6 “Train up a child in the way he should go and when he is old he 
 圣中的学子们已经证明，他们的热情、活力和魄力足以让他们追随生命的彩虹，他们的天赋与才华必让他们成为时代的弄潮儿。
 
 校长<br>
-辜泽鸿先生<br>
+<!-- 辜泽鸿先生 -->
 
 箴言第22.6“教养孩童，使他走当行的道，就是到老他也不偏离。”

@@ -2,6 +2,7 @@
 title: Student Leadership
 permalink: /student-development/student-leadership/
 description: ""
+variant: markdown
 ---
 In Anglican High School, every student is a leader - a servant leader.
 
@@ -20,9 +21,9 @@ Our Student Leaders have indeed contributed immensely to the well-being of their
 ![](/images/Student%20Development/Student%20Leadership/student_leadership.jpg)
 
 <p align="justify">
-"Having gone through many life-changing leadership experiences in AHS, I am grateful for every opportunity I have been given, not only to lead, but to first serve those around me. It is only through these actions that we can truly be called a leader. Servant Leadership at its core is truly to humble ourselves and serve those who need it, and not just those whom we want to serve. The people make the leader, not the other way round." </p>
-- Warrant Officer Joseph Wee, 4F (Company Sergeant Major, Boys' Brigade 2020)<br>
+"The leadership journey I embarked on was truly an enriching experience that ignited my personal growth. It has fostered my empathy and unwavering compassion for others. Through these experiences and opportunities, I gained a deeper understanding of Servant Leadership and the responsibility that comes with being a leader. Over the years, serving others has honed my ability to think holistically and be more proactive in serving the AHS family." </p>
+- Nicholas Goh Khai Qin, 4C (2023), 56th Student Council President<br>
 
 <p align="justify">
-"In serving the school as the Vice President of the Student Council, I was blessed with many opportunities to grow as a leader. I learnt to engage and influence different personalities using different communication styles so as to work towards our common goal of organising a successful school event. I also learnt how to function well under pressure and be adaptable in all situations. In our culture of Servant Leadership in AHS, I developed the habit of learning through reflection so that I’m constantly growing to be a better leader." </p>
-- Audrey Ng, 4K (Vice-President of Student Council 2020)<br>
+"Through my leadership experience in AHS, I have developed into a leader who prioritises serving others and making a positive impact. This transformation is the result of the opportunities given to me that allowed me to step out of my comfort zone and embrace challenges. As a CCA Leader, I have learned the importance of humility, empathy and other-centredness in leadership." </p>
+- Valerie Ng Yee Qi, 4C (2023), Badminton Girls' Captain<br>

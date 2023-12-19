@@ -3,12 +3,8 @@ title: Modern Dance
 permalink: /student-development/co-curricular-activities/performing-arts-groups/modern-dance/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-1st IC: Miss Farahdilla
-
-Teachers-in-Charge:<br>
-Mrs Shirley Koh Shieh Ping<br>
-Mdm Lur Bee Cheng
 
 
 “Being in the Modern Dance has produced my brightest and most favourite moments in AHS!” - Melody Yeo, 3K

@@ -3,15 +3,9 @@ title: Basketball
 permalink: /student-development/cca/sports/basketball/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-<b>1st IC:</b><br>
-Mr Kwek Jun Song<br>
- 
-<b>Teachers-in-Charge:</b><br>
-Ms Tay Keng Wei<br>
-Ms Lee Yilian<br>
-Mr Shen Yu Hung<br>
-Mr Hoo Boon Hock<br>
+
 
 <p align="justify">
 AHS Basketball has a rich tradition of sporting excellence since 1983. AHS was then under the leadership of Mr Moo Soon Chong (AHS Principal, 1983 – 2001), who went on to start the Singapore Sports School.</p>

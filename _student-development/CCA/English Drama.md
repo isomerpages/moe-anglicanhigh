@@ -3,11 +3,9 @@ title: English Drama
 permalink: /student-development/co-curricular-activities/performing-arts-groups/english-drama/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-1st IC: Mdm Norliza
 
-Teachers-in-Charge:
-Miss Sharon Tan
 
 “Being in English Drama gave me a wonderful group of friends over the four years in CCA.” – by  Sean Ng Jia Hao, 4A
 
