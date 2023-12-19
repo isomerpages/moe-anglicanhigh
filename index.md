@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: AHS Open House
-          description: Click here to find out more
-          url: https://go.gov.sg/ahsopenhouse2023
         - title: Secondary One Registration
           description: Click here to find out more
           url: https://go.gov.sg/ahssec1reg
