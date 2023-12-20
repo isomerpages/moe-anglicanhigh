@@ -20,6 +20,9 @@ sections:
       url: https://go.gov.sg/ahssec1reg
       alt: https://go.gov.sg/ahssec1reg
       image: /images/About us/2023_S1Posting.png
+      description: >
+        The designated primary contact of your child will receive a notification
+        on Parents Gateway (PG) from Thursday, 21 December or an email from AHS.
   - infopic:
       title: Soar at AHS
       button: Curriculum
