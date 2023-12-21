@@ -19,7 +19,7 @@ sections:
       button: Click here to find out more
       url: https://go.gov.sg/ahssec1reg
       alt: https://go.gov.sg/ahssec1reg
-      image: /images/About us/IMG_5601.jpeg
+      image: /images/About us/2023_Sec1_Reg.jpg
   - infopic:
       title: Soar at AHS
       button: Curriculum
