@@ -204,8 +204,6 @@ variant: markdown
 	
 </tbody></table>
 
-<!-- temporary commented the FTs list
-
 
 #### Sec 1 Form Teachers 中一级任老师
 
@@ -600,4 +598,3 @@ variant: markdown
 	
 </tbody></table>
 
- to delete the comment syntax -->
