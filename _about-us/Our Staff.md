@@ -62,7 +62,7 @@ variant: markdown
 	<tr>
     <td>Ms Lily Koh</td>
     <td>许丽丽</td>
-    <td>HOD/ English Language</td>
+    <td>HOD/ English Language &amp; Literature</td>
   </tr>
 	 <tr>
     <td>Ms Carin Tham Kian Wen</td>
@@ -90,11 +90,6 @@ variant: markdown
     <td>HOD/ Science</td>
   </tr>
 	<tr>
-    <td>Mr Heok Boon Siang</td>
-    <td>叶梦祥</td>
-    <td>HOD/ Special Projects (SAP)</td>
-  </tr>
-	<tr>
     <td>Mr Martin Yong Guanghui</td>
     <td>杨光辉</td>
     <td>HOD/ Student Leadership and Management</td>
@@ -120,7 +115,7 @@ variant: markdown
 		<tr>
     <td>Mr Tan Kay Soon Jimmy</td>
     <td>陈家顺</td>
-    <td>LH/ Science (Lower Sec)</td>
+    <td>LH/ Science</td>
   </tr>
 		<tr>
     <td>Mr Chua Song Guan</td>
@@ -131,6 +126,11 @@ variant: markdown
     <td>Ms Cheryl Tan Jie Ning</td>
     <td>陈洁宁</td>
     <td>SH/ English Language</td>
+  </tr>
+		<tr>
+    <td>Ms Vera Chng</td>
+    <td></td>
+    <td>SH/ English Literature</td>
   </tr>
 		<tr>
     <td>Ms Farahdilla Mohd Ariff</td>
@@ -597,4 +597,3 @@ variant: markdown
   </tr>
 	
 </tbody></table>
-
