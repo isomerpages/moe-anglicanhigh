@@ -382,7 +382,7 @@ variant: markdown
     <td>lim_mei_yu_michelle@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Grae Cheng</td>
+    <td>Mdm Grace Cheng</td>
     <td>2H</td>
     <td>cheng_leng_tuan_grace@moe.edu.sg</td>
   </tr>
@@ -414,7 +414,7 @@ variant: markdown
     <td>loe_zi_ying@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mr Song Yong Huit</td>
+    <td>Mr Song Yong Hui</td>
     <td>3A</td>
     <td>song_yonghui@moe.edu.sg</td>
   </tr>
@@ -484,7 +484,7 @@ variant: markdown
     <td>khoo_sheng_li_david@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Mdm Vera Chngo</td>
+    <td>Mdm Vera Chng</td>
     <td>3H</td>
     <td>vera_chng@moe.edu.sg</td>
   </tr>
@@ -516,7 +516,7 @@ variant: markdown
     <td>poh_seng_kiat@moe.edu.sg</td>
   </tr>
  <tr>
-    <td>Mdm Tay keng Wei</td>
+    <td>Mdm Tay Keng Wei</td>
     <td>4B</td>
     <td>tay_keng_wei@moe.edu.sg</td>
   </tr>
