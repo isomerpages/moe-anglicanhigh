@@ -2,8 +2,11 @@
 title: Chaplaincy
 permalink: /partners/chaplaincy/
 description: ""
+variant: markdown
 ---
 #### 圣中校牧团队
+
+![](/images/Partners/Chaplaincy/Partner_Chaplaincy.JPG)
 
 <p align="justify">
 自40多年前成立以来，诸圣堂就与圣中建立并维持着密不可分的伙伴关系，携手培育一代又一代的圣中学子。历年来的校牧团队，大多数都是由圣中的校友所组成。我们怀着满满的爱校情怀，回到当年培育我们的母校，陪伴学弟学妹们度过四年的中学生涯。</p>

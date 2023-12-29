@@ -2,9 +2,9 @@ collections:
   partners:
     output: true
     order:
+      - Chaplaincy.md
       - Parents.md
       - Alumni.md
-      - Chaplaincy.md
       - Learning & Community Partners.md
       - Overseas Partners.md
       - Anglican House/.keep
