@@ -123,6 +123,11 @@ variant: markdown
     <td>SH/ Biculturalism</td>
   </tr>
 		<tr>
+    <td>Ms Haryati</td>
+    <td>-</td>
+    <td>SH/ Curriculum Innovation</td>
+  </tr>
+		<tr>
     <td>Ms Cheryl Tan Jie Ning</td>
     <td>陈洁宁</td>
     <td>SH/ English Language</td>
