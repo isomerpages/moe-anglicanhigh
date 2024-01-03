@@ -134,7 +134,7 @@ variant: markdown
   </tr>
 		<tr>
     <td>Ms Vera Chng</td>
-    <td></td>
+    <td>庄佳玉</td>
     <td>SH/ English Literature</td>
   </tr>
 		<tr>
@@ -349,7 +349,7 @@ variant: markdown
 	<tr>
     <td>Ms Foong Shin Ann</td>
     <td>2D</td>
-    <td>foong_shin_ann</td>
+    <td>foong_shin_ann@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Ms Kok Ker Wei</td>
