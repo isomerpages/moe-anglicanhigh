@@ -15,7 +15,7 @@ With its foundations soundly set on cherished traditions, AHS actively has an ey
 <p align="justify">
 Ultimately, we believe that every AHS student has the potential to succeed in a large variety of fields. With the right challenge and nurturing from the entire community, they are capable of achieving great things and doing the “wonderful works” (Ephesians 2:10) that God has prepared for them in advance to do. At the same time, we also provide an environment where students feel accepted, loved and a sense of belonging, not because of what they achieve in life, but because they are God’s creation, “fearfully and wonderfully made” (Psalm 139:14) first and foremost. In such a school, students feel safe to grow by learning from mistakes, picking themselves up from failures as these setbacks do not define them, but are rather part and parcel of the process of learning and growing.</p>
 <p align="justify">
-hope that our website gives you a good sense of life and learning at Anglican High School!
+Hope that our website gives you a good sense of life and learning at Anglican High School!
 Aspiring Towards Holiness and Righteousness</p>
 <p align="justify">
 热烈欢迎您来到圣公会中学！不久后，圣中即将迈入第七十个年头，同时得以延续将华族传统价值观和基督信仰根植于圣中学子之中的伟业，打造一个活跃的学习社群，我心存感恩。圣公会中学于1956年由圣公会新加坡教区的五间华文堂会创办，逐年成长，如今已成为一所提供全方位优质教育的顶尖学府。圣中是新加坡唯一一所基督教新教的特别辅助计划学校，其独特的身份也对塑造圣中价值观起到正面、积极的作用。</p>
