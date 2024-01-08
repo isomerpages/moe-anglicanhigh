@@ -9,7 +9,7 @@ variant: markdown
 At AHS, we believe that an overseas learning experience will allow our students to be global citizens who are confident in communicating with people from different cultures and backgrounds. They will also learn about the global and cultural perspectives that impact the environmental, social, cultural, political, and economic relations between countries.</p>
 
 Our signature overseas programmes are:
-* China Immersion Programme
+* Chinese Immersion Programme
 * The Australian Connection
 * Twinning school, Malaysia
 * Overseas service learning projects
@@ -38,7 +38,7 @@ You can view more photos at our [Instagram page](https://www.instagram.com/ahsau
 
 ![](/images/Student%20Development/Overseas%20Experience/2023_Chinese_Immersion_12.jpg)
 
-##### China Immersion Programme 圣中中国浸濡
+##### Chinese Immersion Programme 圣中中国浸濡
 This year, our students had the opportunity to interact with students from 南京师范大学附属中学 and 昆山娄江实验中学 despite the pandemic restrictions. 
 
 ###### 一、苏州半日游——探索苏州的文化之旅
