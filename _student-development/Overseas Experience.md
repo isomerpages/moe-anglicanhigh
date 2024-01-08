@@ -9,7 +9,7 @@ variant: markdown
 At AHS, we believe that an overseas learning experience will allow our students to be global citizens who are confident in communicating with people from different cultures and backgrounds. They will also learn about the global and cultural perspectives that impact the environmental, social, cultural, political, and economic relations between countries.</p>
 
 Our signature overseas programmes are:
-* China Immersion Programme
+* Chinese Immersion Programme
 * The Australian Connection
 * Twinning school, Malaysia
 * Overseas service learning projects
