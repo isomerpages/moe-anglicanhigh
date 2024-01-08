@@ -9,8 +9,3 @@ Please be reminded that photograph(s) or video image(s) of students, their paren
 _________________________________________________________________________________________
 
 
-##### Secondary One Registration
-
-![](/images/About%20us/2023_Sec1_Reg.jpg)
-
-[https://go.gov.sg/ahssec1reg](https://go.gov.sg/ahssec1reg)
