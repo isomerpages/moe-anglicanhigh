@@ -252,7 +252,7 @@ variant: markdown
 	<tr>
     <td>Ms Ng Puay Khim</td>
     <td>1D</td>
-    <td>ny_puay_khim@moe.edu.sg</td>
+    <td>ng_puay_khim@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Ms Raihan</td>
