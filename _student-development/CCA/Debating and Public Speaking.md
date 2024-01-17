@@ -14,8 +14,11 @@ Besides participating in debate competitions and Model United Nations, members h
 <hr>
 <p align="justify">
 <i>Involvement in several Debate competitions has provided me with ample opportunities to explore, try and fail. Through these, I have seen how each decision I made led to different results – successes and failures. The competitions have taught me, beyond valuing my own growth, to respect the hard work of others. I better understand the importance of thinking critically, especially where my actions can impact others and vice versa. I am extremely grateful to have been given the chance to participate in these competitions as they have allowed me to grow as a person and to be able to think more analytically.</i></p>
-
 Poh Jingxi, 4C (2024)<br>
 President
 
+![](/images/Student%20Development/CCA/Debate/2024_Debate_01.jpg)
 
+![](/images/Student%20Development/CCA/Debate/2024_Debate_02.jpg)
+
+![](/images/Student%20Development/CCA/Debate/2024_Debate_03.jpg)
