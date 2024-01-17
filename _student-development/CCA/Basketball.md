@@ -15,4 +15,8 @@ Developing all-rounded student-athletes remains the very core of our sports cult
 Anchel Chai Xuan Wen, 4A (2023)<br>
 Captain
 
+![](/images/Student%20Development/CCA/Basketball/2024_Basketball_01.jpg)
 
+![](/images/Student%20Development/CCA/Basketball/2024_Basketball_02.jpg)
+
+![](/images/Student%20Development/CCA/Basketball/2024_Basketball_03.jpg)
