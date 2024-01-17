@@ -6,7 +6,7 @@ third_nav_title: CCA
 variant: markdown
 ---
 <p align="justify">
-AHS Concert Band serves as a platform for music education and artistic expression while developing social skills for personal growth. Students are given opportunities to improve their proficiency in playing instruments, reading music scores and understanding music theory. </p>
+AHS Concert Band serves as a platform for music education and artistic expression while developing social skills for personal growth. Students are given opportunities to improve their proficiency in playing instruments, reading music scores and understanding music theory.</p>
 <p align="justify">
 Our students’ participation in internal and external events such as the National Day Celebrations and Singapore Youth Festival Arts Presentation respectively, is a testament of their growth as performers in their time in the CCA. AHS Band successfully fosters a sense of camaraderie and a community of teachers, instructors, executive committee members and peers through events like Secondary One CCA Orientation programme, Band Bonding Day, external performances and Exchange programmes with other schools.</p>
 <hr>
