@@ -14,7 +14,9 @@ Moving forward, the AHS Guitar Ensemble aims to promote a greater love for guita
 <hr>
 <p align="justify">
 <i>As Guitar Ensemble’s President, I have had the privilege of watching how our performances and practice sessions have helped hone our members’ resilience and musical talents. As we share knowledge and encourage one another, we have grown not only as skilled guitarists but also as leaders and team players. Our CCA has provided us with various platforms to nurture our skills through effective communication as well as foster a supportive environment for all our members. I hope to further encourage our members to take on leadership positions and the responsibility for organising events and coordinating more performances!</i></p>
-
 Tara Sim Yue, 4E (2024)<br>
 President
 
+![](/images/Student%20Development/CCA/Guitar%20Ensemble/2024_Guitar_01.jpg)
+
+![](/images/Student%20Development/CCA/Guitar%20Ensemble/2024_Guitar_02.jpg)
