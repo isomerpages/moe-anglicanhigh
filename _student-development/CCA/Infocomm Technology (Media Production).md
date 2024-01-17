@@ -14,8 +14,13 @@ Members also pick up useful IT skills such as coding to enrich their repertoire 
 <hr>
 <p align="justify">
 <i>Our trip to Haji Lane has trained me to be more responsible as I was assigned to be a group leader. It also exposed me to a different type of photography and gave me the chance to connect with my juniors. I feel that this outing has not only allowed us to hone our skills, but also created stronger bonds within the CCA. I look forward to participating in more of such activities in the future!</i></p>
-
 Yuvis Chan Hwee, 4B (2024)<br>
 Secretary
 
+![](/images/Student%20Development/CCA/Infocomm/2024_Infocomm_01.jpg)
 
+![](/images/Student%20Development/CCA/Infocomm/2024_Infocomm_02.jpg)
+
+![](/images/Student%20Development/CCA/Infocomm/2024_Infocomm_03.jpg)
+
+![](/images/Student%20Development/CCA/Infocomm/2024_Infocomm_04.jpg)
