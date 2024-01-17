@@ -18,3 +18,8 @@ The journey of AHS Modern Dance is studded with achievements and accolades that 
 Cleo Hong Jun Ling, 4A (2024)<br>
 Executive Committee Member
 
+![](/images/Student%20Development/CCA/Modern%20Dance/2024_Dance_01.jpg)
+
+![](/images/Student%20Development/CCA/Modern%20Dance/2024_Dance_02.JPG)
+
+![](/images/Student%20Development/CCA/Modern%20Dance/2024_Dance_03.JPG)
