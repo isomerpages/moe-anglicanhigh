@@ -5,7 +5,6 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-
 中文戏剧学会的日常训练不仅仅有形体训练、口语表达训练、舞台表演训练，还有道具制作、音效制作等，全方位地让学生了解戏剧艺术，发掘学生的潜能，培养他们各方面的能力。每年年底举办的戏剧营让学生提升团队合作能力，加强了团队凝聚力。
 
 中文戏剧学会涉猎的表演形式有：相声、舞台剧、广播剧等。
@@ -20,3 +19,11 @@ Welcome to the vibrant world of the Chinese Drama Society at AHS! Our training s
 
 邱子芩，Khoo Ze Qin, 4J (2024)<br>
 戏剧执委/ Executive Committee Member
+
+![](/images/Student%20Development/CCA/Chinese%20Drama/2024_CD_01.jpg)
+
+![](/images/Student%20Development/CCA/Chinese%20Drama/2024_CD_02.jpg)
+
+![](/images/Student%20Development/CCA/Chinese%20Drama/2024_CD_03.jpg)
+
+![](/images/Student%20Development/CCA/Chinese%20Drama/2024_CD_04.jpg)
