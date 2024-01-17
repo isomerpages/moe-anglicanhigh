@@ -19,3 +19,7 @@ myself. Though there is still much for me to learn, I have definitely improved f
 Joni Lai Xin Yu, 2E (2023)<br>
 Member
 
+![](/images/Student%20Development/CCA/Wushu/2024_Wushu_01.jpg)
+
+![](/images/Student%20Development/CCA/Wushu/2024_Wushu_02.JPG)
+
