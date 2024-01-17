@@ -5,15 +5,15 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
+<p align="justify">
+AHS Concert Band serves as a platform for music education and artistic expression while developing social skills for personal growth. Students are given opportunities to improve their proficiency in playing instruments, reading music scores and understanding music theory. </p>
+<p align="justify">
+Our students’ participation in internal and external events such as the National Day Celebrations and Singapore Youth Festival Arts Presentation respectively, is a testament of their growth as performers in their time in the CCA. AHS Band successfully fosters a sense of camaraderie and a community of teachers, instructors, executive committee members and peers through events like Secondary One CCA Orientation programme, Band Bonding Day, external performances and Exchange programmes with other schools.</p>
+<hr>
+<p align="justify"><i>
+Looking back at my Secondary One self, it struck me that my CCA has brought me to where I currently am, from a timid little girl who was too afraid to speak up to now, a leader in my CCA. I believe that my CCA has definitely served a vital role in shaping me into a better leader and person. It has enriched me with life lessons, values and skills, such as respect, perseverance, teamwork, and effective communication. One of the values I have learnt through my CCA is the humility to learn. Each person can only hold a finite amount of knowledge, with much more to discover and learn. Having the humility to learn has empowered me with the strength to embrace my weaknesses and grow to become a better version of myself every day. Additionally, it was only through my enriching CCA experiences that I found out what being a true leader is, enabling me to continue striving towards my goal of being a perfect servant leader.</i></p>
+
+Inez Ho Xuan, 4C (2024)<br>
+Band Major
 
 
-"The past two years in AHBand have been enriching and exciting. I am thankful for the AHBand family who are always there to encourage me and allow me to have the confidence to constantly strive for better results!” - Claire Ching 3D
- 
-“AHBand has allowed me to form friendships with seniors, juniors and batch mates who constantly encourage me. I have also learnt so much through the efforts of our conductors!” - Ray Ng 3D
-
-In 2015, Anglican High School Concert Band was invited to perform for the first time on 16 Feb 2015 as part of a Limelight Series organized by the Esplanade. The concert band performed to a full house of audience, playing light-hearted audience favourite pieces like 'Mama Mia' and 'Mambo No. 5'. The percussion section also did a solo Funky Buckets item with recycled buckets. The performance was well-received by the audience and positive feedback was given.
-The Concert Band also participated in the 2015 SYF Arts Presentation and through the hard work of teachers and students, we managed to achieve a Certificate of Accomplishment for all our efforts. For the second half of the year in 2015, many performances and showcases, such as the annual National Day celebrations, Teachers’ Day celebrations and the Secondary One recital, have also been put together by the band to increase their exposure in music making and making every band member a great musician. Indeed all this will not be possible without the support of our Principals, teachers, friends and families who provided us with great support and care from the preparation stage all the way up to the actual performance. To quote from Howard Cosell, a sports journalist, he had once said: “The ultimate victory in competition is derived from the inner satisfaction of knowing that you have done your best and that you have gotten the most out of what you had to give.” The Anglican High School Concert Band will continue to strive to do our best in all we do; to God be the glory.
-
-![](/images/Student%20Development/CCA/Concert%20Band/2022_Concert_Band_01.jpg)
-
-![](/images/Student%20Development/CCA/Concert%20Band/2022_Concert_Band_02.jpg)
