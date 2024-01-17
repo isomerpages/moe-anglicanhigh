@@ -12,8 +12,11 @@ Our students’ participation in internal and external events such as the Nation
 <hr>
 <p align="justify"><i>
 Looking back at my Secondary One self, it struck me that my CCA has brought me to where I currently am, from a timid little girl who was too afraid to speak up to now, a leader in my CCA. I believe that my CCA has definitely served a vital role in shaping me into a better leader and person. It has enriched me with life lessons, values and skills, such as respect, perseverance, teamwork, and effective communication. One of the values I have learnt through my CCA is the humility to learn. Each person can only hold a finite amount of knowledge, with much more to discover and learn. Having the humility to learn has empowered me with the strength to embrace my weaknesses and grow to become a better version of myself every day. Additionally, it was only through my enriching CCA experiences that I found out what being a true leader is, enabling me to continue striving towards my goal of being a perfect servant leader.</i></p>
-
 Inez Ho Xuan, 4C (2024)<br>
 Band Major
 
+![](/images/Student%20Development/CCA/Concert%20Band/2024_CB_01.jpg)
 
+![](/images/Student%20Development/CCA/Concert%20Band/2024_CB_02.jpg)
+
+![](/images/Student%20Development/CCA/Concert%20Band/2024_CB_03.jpg)
