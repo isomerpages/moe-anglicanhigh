@@ -14,8 +14,9 @@ In 2023, the English Drama cast captivated audiences with their remarkable perfo
 <hr>
 <p align="justify">
 <i>My involvement in English Drama has allowed me to improve my communication skills, time management, teamwork and problem-solving abilities. Through my participation in acting and directing roles, I have had the opportunity to learn effective strategies on collaborating with others and leading teams, and valuable skills such as the flexibility to solve complex problems. In addition, my interactions with both my juniors and seniors have helped me to develop empathy, a growth mindset and a desire to make a positive impact in my CCA. All these skills and values are essential in my daily life, not only for academic success but also for personal growth and development.</i></p>
-
 Sarah Chan Yating, 4F (2024)<br>
 President
 
+![](/images/Student%20Development/CCA/English%20Drama/2024_ED_01.jpg)
 
+![](/images/Student%20Development/CCA/English%20Drama/2024_ED_02.jpg)
