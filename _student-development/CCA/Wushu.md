@@ -23,3 +23,4 @@ Member
 
 ![](/images/Student%20Development/CCA/Wushu/2024_Wushu_02.JPG)
 
+![](/images/Student%20Development/CCA/Wushu/2022_Wushu_01.jpg)
