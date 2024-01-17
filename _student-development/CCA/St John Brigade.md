@@ -5,20 +5,13 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
+<p align="justify">
+Through a list of comprehensive and fun-filled programs such as first aid courses, drills, camps and outdoor activities, the CCA aims to develop cadets into independent young adults, who are capable of serving the public and the nation using their skills and first aid knowledge. These enriching programs will also be a great help towards their character development, uncover their strength and leadership potential while instilling lifelong values.</p>
+<p align="justify">
+AHSJB has been scaling greater heights and improving our first aid skills so as to serve the Nation and our school better. Our cadets will have interactive and enjoyable courses, allowing the Corps to foster strong bonding. Aspiring towards our motto - For the Service of Mankind, our cadets are actively involved in public duties, walkathons, flag days, as well as hospital duties to bridge the gaps between the community and their medical needs.</p>
+<hr>
+<p align="justify">
+<i>Being a member of SJB has provided me with an opportunity to grow as a servant leader. I first made contact with servant leadership during BNCO when I was introduced to various leadership styles. I then chose to lead by serving others. I committed myself to the growth of my juniors, which is one of the pillars of servant leadership. As such, during CCA training sessions, I often exposed my juniors to new challenges, and based on my observations of how they overcame them, I would give them constructive feedback so that they could work on their areas of improvement. Through this, I have come to understand that servant leadership is not just about ‘serving’ others, but it is also about assisting with our cadets’ growth and development, inspiring them to become the next servant leaders.</i></p>
+Chin Shu Qi, 4C (2024)<br>
+Overall in-Charge
 
-
-“The opportunities from being a member of St. John have helped me become a more confident leader.” - Nathaniel Kan, 3G
-
-“Being a member of St. John has helped me become a more mature and stronger leader.” – Tian Kai Yang, 3A
-
-The St John's Ambulance Brigade of Anglican High School went through an exciting and enriching year. Our cadets benefitted a great deal from our programs, which aims to nurture and develop them into responsible and able leaders of tomorrow.
-
-Through a list of comprehensive and fun-filled programs such as hiking, first aid courses, drills and camps, the CCA aims to develop cadets into independent young adults, who are capable of serving the public and the nation using their skills and first aid knowledge. These enriching programs will also be a great help towards their character development while allowing them to have fun and lead a youthful and energetic life.
-
-Aspiring towards our motto - For the Service of Mankind, our cadets are actively involved in public duties, walkathons, flag days, as well as hospital duties. Our achievement of sustaining the Zonal championship in the public duty and the walkathon sector is the best testimony for our dedication towards the service of mankind. We are also proud to announce that our Corps has again attained the Gold Award in the Corps Achievement Award, a round of applause to our dedicated teachers and students! In addition, we have done exceptionally well in the Annual Inter-Corps First Aid and Home Nursing Competition in 2010, with our Ambulance Cadets and Nursing Adults attaining the First Placing in the competition.
-
-With a dedicated team of teachers and students, the AHSJAB will continue to scale greater heights and improve our First Aid skills so as to serve the Nation and our school better. Our cadets will have interactive and enjoyable programs, allowing the Corps to foster strong bonding. AHSJAB has done well again!
-
-![](/images/Student%20Development/CCA/SJAB/2022_SJAB_01.jpg)
-
-![](/images/Student%20Development/CCA/SJAB/2022_SJAB_02.jpg)
