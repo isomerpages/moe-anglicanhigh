@@ -5,16 +5,13 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
+<p align="justify">
+AHS Chinese Orchestra comprises four main sections, namely wind, percussion, strings and plucked-strings. The orchestra has been unwavering in its aim to spread the passion for Chinese music and culture. It is always aspiring to reach greater heights by exploring different types of music. As such, the orchestra plays a plethora of music genres, ranging from Chinese Classical Songs to Modern Chinese Pop Songs.</p>
+<p align="justify">
+For many years, AHS Chinese Orchestra has obtained the highest award of Distinction at the Singapore Youth Festival, and is frequently involved in school and public performances and concerts.</p>
+<hr>
+<p align="justify">
+<i>Even though the Chinese Orchestra is split into different sections, fellow members always work together to resolve problems, allowing us to forge lasting friendships. Members from different sections also often encourage one another and practice together, especially in the preparation for performances or SYF. This strengthens the ties among members and creates an enjoyable and fun environment for all.</i></p>
+Tang Yi Xuan Charlize, 4B (2024)<br>
+President
 
-
-“Chinese Music makes me feel closer to home.” <br>
-“A world without Chinese Orchestra is like a string quartet without violins.” <br>
-“If Chinese Music be the food of love; play on.” – by Mr Thomas Goh<br>
-
-圣中华乐团成立于1984年，当年的教练是杨票敬先生，最初的成员只有24名，由一支笛子队起步，经过29年不断的努力，现已成为一支完整的乐队，由林向彬老师领导，希望通过华乐的陶冶，让团员进一步体会华族乐器的优美。
-
-每年校内的迎新会，新春佳节，校庆，中秋节等，都少不了华乐团的助兴。对外也在邻里民众俱乐部的欢庆活动中演出，于此同时也组团出国观摩演出，并在新加坡青年节华乐比赛中获奖。
-
-![](/images/Student%20Development/CCA/Chinese%20Orchestra/2022_Chinese_Orchestra_02.jpg)
-
-![](/images/Student%20Development/CCA/Chinese%20Orchestra/2022_Chinese_Orchestra_01.jpg)
