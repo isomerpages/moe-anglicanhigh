@@ -15,3 +15,8 @@ AHSJB has been scaling greater heights and improving our first aid skills so as 
 Chin Shu Qi, 4C (2024)<br>
 Overall in-Charge
 
+![](/images/Student%20Development/CCA/SJAB/2024_SJB_01.jpg)
+
+![](/images/Student%20Development/CCA/SJAB/2024_SJB_02.jpg)
+
+![](/images/Student%20Development/CCA/SJAB/2024_SJB_03.jpg)
