@@ -5,16 +5,11 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-“I get to learn skills that I have always wanted to learn, and I also get to enjoy learning and having fun with my friends.” – by Carla Grecia Sanjaya, 3F
+<p align="justify">
+The Anglican High School Infocomm Club is the ideal place for students who show interest in digital photography and have an inclination for learning useful IT skills. Members are taught the craft of taking good photographs, using up-to-date camera equipment. They are then given opportunities to put their skills to good use by providing photo coverage for important school events such as Chinese New Year celebrations, Founders’ Day, National Day celebrations, to name a few.</p>
+<p align="justify">
+They also provide photography and videography support to cover a broad spectrum of school activities such as sports competitions, uniformed group training, stage performances and day-to-day school programmes, thus helping to provide a record of our vibrant school life. CCA Outings are organised once every semester for members to hone their skills further on interesting subjects outside the school campus.</p>
+<p align="justify">
+Members also pick up useful IT skills such as coding to enrich their repertoire of knowledge to be future ready for a technology-driven world.</p>
 
-“I enjoy getting to bond with my batch mates.” – by Hannah Lim Yunxi, 3C
 
-Marc Ribaud, a French photographer, once said “Taking pictures is savoring life intensely, every hundredth of a second.” This is what was on the minds of our Infocomm students when they went to Chinatown to capture the festive moods of our Chinese New Year. It was a lucky day for us because It didn’t rain and we made it to Chinatown to be soaked in the festive mood of the lunar new year. Our members were able to apply what they learned in photography to capture those moments.
-
-We are a service-oriented club and we render help to take photographs or videos at school events. Our members are also on duty daily during the morning assemblies.
-
-The SDMA is an annual competition organised by the Educational Technology Division, Ministry of Education and the School Film and Media Studies, Ngee Ann Polytechnic. It provides a platform for students to express themselves through visual media such as videos and photo essays. It also helps to develop students’ creativity and hone their critical thinking skills which are in line with our school teaching model.
-
-![](/images/Student%20Development/CCA/Infocomm/2022_Infocomm_02.jpg)
-
-![](/images/Student%20Development/CCA/Infocomm/2022_Infocomm_01.jpg)
