@@ -5,21 +5,16 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
+<p align="justify">
+AHS Modern Dance emerges as a vibrant and dynamic CCA that not only promotes physical well-being but also fosters creativity, teamwork and self-expression.</p>
+<p align="justify">
+Our dancers learn to think outside the box, experiment with movements and express their emotions through the language of dance. This fosters a sense of individuality and encourages students to embrace their creative instincts. Our CCA programme also emphasises the importance of teamwork and collaboration. Group performances require synchronisation, coordination and a shared commitment to creating a cohesive and visually appealing routine. The collaborative nature of dance instils valuable life skills, teaching participants the significance of working together to achieve a common goal.</p>
+<p align="justify">
+The journey of AHS Modern Dance is studded with achievements and accolades that speak to the dedication and talent of its members. Whether winning competitions or captivating audiences at events, the AHS Modern Dance has left an indelible mark on the dance landscape.</p>
+<hr>
+<p align="justify">
+<i>In Modern Dance, there is only “us”. In order to achieve a common goal, dancers are provided with an environment, where we are comfortable to go above and beyond to help one another, embodying team spirit. This has enabled my team members and me to improve collectively and perform a perfect piece to the best of our abilities. We tide through difficulties together during performances and training, sharing fond memories and forging friendships. Through learning from one another, we are able to develop strong trust and create deeper connections as a community of dancers, staying united in facing any challenges that may come our way!</i></p>
 
+Cleo Hong Jun Ling, 4A (2024)<br>
+Executive Committee Member
 
-“Being in the Modern Dance has produced my brightest and most favourite moments in AHS!” - Melody Yeo, 3K
-
-“A safe, encouraging environment to not only grow as a dancer but also to forge lifetime friendships.” - Chan Hui Si 3K
-
-“Dance showed me the potential I never knew I had.” - Rheanne Tan 3K
-
-“Being in the Dance Society has empowered me to express myself, and has also given me many opportunities to build my confidence.” - 
-Ng Xue Ying, 4G
-
-
-2018 was yet another intense year for the AHS Dance Society which comprised of excitement and several performances that consisted of evocative and artistic choreography. The dancers' sharp technique and perseverance were commended in the various performances they put up in school. They have displayed exemplary proficiency through partaking in various styles of dance, ranging from the elegance and clean movements required in contemporary-ballet and complimenting the heavy and bold accents of the music in hip hop. The dancers also took great pride in performing the unique repertoire that was self-choreographed dedicated to the teachers on Teacher's Day.
-The dancers are putting in their best effort as they train for the upcoming SYF performance in April 2019.
-
-![](/images/Student%20Development/CCA/Modern%20Dance/2022_Modern_Dance_02.jpg)
-
-![](/images/Student%20Development/CCA/Modern%20Dance/2022_Modern_Dance_01.jpg)
