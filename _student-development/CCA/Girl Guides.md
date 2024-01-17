@@ -5,18 +5,15 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
+<p align="justify">
+In Girl Guides, we believe that sisterhood brings us together, connecting like-minded girls hailing from various backgrounds. We partake in various activities to uphold our motto, “Be Prepared”, which serves as the cornerstone of our collective journey. Activities such as first aid courses, camps, and outdoor cooking help to enhance our practical skills, as well as teach us important values that permeate every aspect of our lives such as perseverance and confidence.</p>
+<p align="justify">
+With the mindset to always give our all, Anglican High Girl Guides has been able to achieve various awards. One worth mentioning is the Puan Noor Aishah Award (Gold), the highest recognition a Girl Guides Company can attain. During the annual East Division Day celebrations, our Guides have excelled in the areas of cheerleading, dancing, and drawing.</p>
+<p align="justify">
+In Girl Guides, young girls evolve into strong women. We foster friendships that last even after our time as a Guide.</p>
+<hr>
+<p align="justify">
+<i>Through the Mental Health Advocacy Programme organised by Girl Guides HQ, I had the opportunity to interact with professionals as well as students from other schools to learn more about the importance of mental health. This inspired my fellow Guides and me to kickstart our own Mental Health Social Action Project where we educated our friends on how to better take care of their mental well-being. It helped me to be more self-aware and be more equipped to look out for others around me. I am extremely grateful for this experience!</i></p>
 
-
-“Being in the Girl Guides has allowed me to strengthen my leadership abilities and build my confidence as a compassionate leader!” Jacynta He (3J)
-
-“I have developed a greater sense of urgency and have grown to understand more about sisterhood and learning how to care for others deeply.” Neo Rui En (3K)
-
-Girl guides, where friendships and sisterhood are fostered. We strongly believe in high self-discipline and the importance of strength in unity. Anglican High Girl Guides comprise of a tight-knit sisterhood who is up for anything, following our motto of “Be Prepared”. We strive to achieve top-notch results in both academics and CCA, while having fun on the way to success! We focus on three main aspects, endure, explore, excel , enduring all challenges that come our way with a big smile, having a curious mind, and striving for the best in everything we do. Being an all-rounded CCA, Girl Guides takes part in an array of outdoor activities such as kayaking, outdoor cooking, orienteering, tent pitching, rock climbing, gadget tying, camping, and many more – just almost everything that is fun and exciting!
-
-Anglican High Girl Guides has once again cinched glory for the school by achieving various successes in different fields. We have obtained the highly prestigious Puan Noor Aisha (GOLD) Award, the highest recognition a Guides Company can achieve. During the annual East Division Day, our Guides have, through weeks of blood, sweat and tears, achieved third in both dance and cheer. In addition, Guides also strongly believe in giving back to the community. Hence, Anglican High Girl Guides have also been enthusiastically participating in activities organised by Girl Guides Singapore, such as Project Empathy, where our Sec 3 batch actively collaborated with Brownies from primary schools to organise a fundraiser to help the less fortunate. We have also successfully launched our annual Guides Cookie Sale campaign, selling more than a whopping number of 1000 boxes of cookies in the time span of a week. Being curious learners, Guides also assay to acquire new recreational skills. Therefore, we primarily organise enriching Unit Initiatives, acquiring skills such as air rifle firing, and origami.
-
-All in all, Girl Guides is a CCA that aims to maximise the potential in each and every Guide. We seek to attain greater heights together as one company, while enjoying each other’s company at the same time. Once A Guide, Always A Guide!
-
-![](/images/Student%20Development/CCA/Girl%20Guides/2022_Girl_Guides_01.jpg)
-
-![](/images/Student%20Development/CCA/Girl%20Guides/2022_Girl_Guides_02.jpg)
+Tan Yi En, 4C (2024)<br>
+Patrol Leader
