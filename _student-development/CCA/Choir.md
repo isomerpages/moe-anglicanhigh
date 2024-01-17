@@ -16,3 +16,6 @@ President<br>
 Bryan Oh Jia Jun, 4H (2024)<br>
 Publicity In-Charge
 
+![](/images/Student%20Development/CCA/Choir/2024_Choir_01.jpg)
+
+![](/images/Student%20Development/CCA/Choir/2024_Choir_02.jpg)
