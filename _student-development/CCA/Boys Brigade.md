@@ -17,3 +17,4 @@ Our boys engage in a wide range of activities, such as Kayaking and First Aid co
 SGT Joel Tay, 4H (2024)<br>
 Company Sergeant Major
 
+![](/images/Student%20Development/CCA/Boys%20Brigade/2024_BB_01.jpg)
