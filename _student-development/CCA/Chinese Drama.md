@@ -22,8 +22,8 @@ Welcome to the vibrant world of the Chinese Drama Society at AHS! Our training s
 
 ![](/images/Student%20Development/CCA/Chinese%20Drama/2024_CD_01.jpg)
 
-![](/images/Student%20Development/CCA/Chinese%20Drama/2024_CD_02.jpg)
+![](/images/Student%20Development/CCA/Chinese%20Drama/2024_CD_02.JPG)
 
-![](/images/Student%20Development/CCA/Chinese%20Drama/2024_CD_03.jpg)
+![](/images/Student%20Development/CCA/Chinese%20Drama/2024_CD_03.JPG)
 
 ![](/images/Student%20Development/CCA/Chinese%20Drama/2024_CD_04.jpg)
