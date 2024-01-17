@@ -17,3 +17,6 @@ Our club is not just about assembling and programming robots; it's a journey tha
 Lim Han Wen Raymus, 4J (2024)<br>
 President
 
+![](/images/Student%20Development/CCA/Robotics/2024_Robotics_01.jpg)
+
+![](/images/Student%20Development/CCA/Robotics/2024_Robotics_02.jpg)
