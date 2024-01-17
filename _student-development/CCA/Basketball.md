@@ -12,7 +12,6 @@ Developing all-rounded student-athletes remains the very core of our sports cult
 <hr>
 <p align="justify">
 <i>The support from the AHS family ensured that I did not give up during tough times. Instead, I learned to find a way to solve the problem and not hide from it. This has made me a more resilient person as a whole, both on and off the court. Not only that, persevering alongside my teammates has allowed us to push through the difficulties we faced, in order to achieve our common goal.</i></p>
-
 Anchel Chai Xuan Wen, 4A (2023)<br>
 Captain
 
