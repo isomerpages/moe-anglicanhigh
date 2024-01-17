@@ -1,8 +1,0 @@
----
-title: Badminton
-permalink: /student-development/sports/badminton/
-description: ""
-third_nav_title: CCA
-variant: tiptap
----
-<p>The AHS Badminton team has a longstanding history of excellence in the sport. Under the care and guidance of our dedicated teachers and experienced coaches, our players strive to hone their skills and footwork to push themselves to achieve their fullest potential.</p><p>Our players are expected to stay committed to the sport and to live up to the school’s vision of ‘Every AHS Student a Leader - Leading Honourably, Learning for Life, Creating Value for Others’. In this team, good effort and attitude are highly valued. The AHS Badminton hopes to develop our players holistically and build character through training and competitions. </p><hr><p>Our experiences nurtured a sense of resilience within the team, accepting defeat and reminding us to stay humble in victory at the same time. Success doesn’t come without failure, and armed with a fighting spirit, we allow failure to propel us to work harder and polish our skills. I realised that victories are earned by the whole team and not individual players. Beyond the games and scores, the season taught me that leadership is all about empathy and resilience. It is about understanding individual strengths, fostering a supportive environment, and continuously learning and adapting. I am grateful for this leadership opportunity given to me, which has shaped me into a better team player. This season has certainly been a memorable one.</p><p>Chloe Chan Shi Qi, 2H (2023)</p><p>C Div Girls’ Captain</p><p></p><p></p>
