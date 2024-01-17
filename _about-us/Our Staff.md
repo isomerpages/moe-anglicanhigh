@@ -272,7 +272,7 @@ variant: markdown
 	 <tr>
     <td>Ms Koh Jia Feng</td>
     <td>1F</td>
-    <td>jia_fen_koh@moe.edu.sg</td>
+    <td>jia_feng_koh@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Ms Lim Geok Lian</td>
