@@ -15,3 +15,8 @@ For many years, AHS Chinese Orchestra has obtained the highest award of Distinct
 Tang Yi Xuan Charlize, 4B (2024)<br>
 President
 
+![](/images/Student%20Development/CCA/Chinese%20Orchestra/2024_CO_01.jpg)
+
+![](/images/Student%20Development/CCA/Chinese%20Orchestra/2024_CO_02.JPG)
+
+![](/images/Student%20Development/CCA/Chinese%20Orchestra/2024_CO_03.JPG)
