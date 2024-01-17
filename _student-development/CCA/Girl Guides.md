@@ -14,6 +14,9 @@ In Girl Guides, young girls evolve into strong women. We foster friendships that
 <hr>
 <p align="justify">
 <i>Through the Mental Health Advocacy Programme organised by Girl Guides HQ, I had the opportunity to interact with professionals as well as students from other schools to learn more about the importance of mental health. This inspired my fellow Guides and me to kickstart our own Mental Health Social Action Project where we educated our friends on how to better take care of their mental well-being. It helped me to be more self-aware and be more equipped to look out for others around me. I am extremely grateful for this experience!</i></p>
-
 Tan Yi En, 4C (2024)<br>
 Patrol Leader
+
+![](/images/Student%20Development/CCA/Girl%20Guides/2024_GG_01.jpg)
+
+![](/images/Student%20Development/CCA/Girl%20Guides/2024_GG_02.jpg)
