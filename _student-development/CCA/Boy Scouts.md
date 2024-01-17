@@ -5,7 +5,6 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-
 In Scouts, we believe in our motto, Be Prepared. 
 <p align="justify">
 As such, we nurture leaders who serve the community by participating actively in the 4 Core Scouting Competencies - Camping, Exploration, Cooking and Pioneering which will culminate in our Unit Scout Leadership Camp, where our Scouts display their leadership abilities and are stretched in terms of their mental and physical abilities. They learn to listen and give instructions confidently.</p>
@@ -21,3 +20,6 @@ The Unit remains a premier choice in Anglican High School with consecutive Frank
 Haydon Tang Kim Jun, 4C (2024)<br>
 Troop Leader
 
+![](/images/Student%20Development/CCA/Scouts/2024_Scouts_01.JPG)
+
+![](/images/Student%20Development/CCA/Scouts/2024_Scouts_02.JPG)
