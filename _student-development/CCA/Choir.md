@@ -5,21 +5,17 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
+<p align="justify">
+Over the years, Anglican High School Choir has established itself as a beacon of musical excellence, captivating audiences with soul-stirring performances that transcend boundaries. From enchanting renditions of classical masterpieces to contemporary interpretations that resonate with modern sensibilities, our choir has consistently pushed the boundaries of artistic expression. With a commitment to precision and a passion for music that knows no bounds, the Anglican High School Choir has garnered accolades and applause at various competitions and Choral concerts such as Quispium Novus 2018 and Limelight 2023. Beyond the stage, our choir members embody teamwork, discipline, and a shared love for the transformative power of music. Under the guidance of their choral conductor, Mr Terrence Toh, the four-section choir (Soprano, Alto, Tenor, Bass) continually seeks to break new ground in their pursuit of excellence. Join us on a journey through the notes and rhythms that define our legacy, and witness firsthand the extraordinary artistry that continues to make the Anglican High School Choir a source of pride for our school community.</p>
+<hr>
+<p align="justify">
+<i>With the hard work and strong commitment of our members, we are extremely happy to see our remarkable achievement in the Singapore Youth Festival, in which we achieved the Certificate of Distinction. It is impossible not to attribute our success to the unwavering perseverance and teamwork of our members. The countless hours of dedicated rehearsals have definitely helped in raising the standards of the choir. We are also grateful for the strong team spirit of the entire choir, which has helped us to deliver many spectacular and captivating performances. It is through these values that we have been able to overcome adversities and accomplish great things as a united choir in Anglican High. We are all truly proud to be a part of this wonderful batch and we are even more grateful to our teachers and our conductor who have supported us immensely in our endeavours.</i></p>
 
+Shermaine Foo Ting Xuan, 4A (2024)<br>
+President<br>
+Bryan Oh Jia Jun, 4H (2024)<br>
+Publicity In-Charge
 
-“The AHS Choir is more than just a CCA to me; we are one big family, caring for each other and helping each other improve.” - Koh Si Siang (2B, Tenor)
+![](/images/Student%20Development/CCA/Choir/2024_Choir_01.jpg)
 
-“Being in the choir has given me immense strength, indescribable emotions and countless opportunities for me to grow as a leader, person and singer.” Chew Kay Yin (4D, Alto)
-
-
-The Anglican High School Choir is made up of singers who are not only passionate about using their voices to make music but who also firmly believe in working together in one accord to reach even greater milestones. Under the guidance of their choral conductor, Mr Terence Toh, the four-section choir (Soprano, Alto, Tenor, Bass) continually seeks to break new ground in their pursuit of excellence.
-
-Some highlights in the choir calendar would include:
-
-Choral Concert 2018, Quispium Novus: Held in November 2018 at Victoria Concert Hall, the well-received concert centred around the theme of remembering. The choir performed a series of moving repertoires including Christus Factus Est and Listen to the Lambs. They were also joined by choir alumni, who served as a fitting reminder of what it meant to remember one’s origins, in their continued contribution to the choir. The many months of hard work culminated in an ethereal performance and a night to remember for both the choir and audience alike.
-
-Singapore Youth Festival 2019: The choir was awarded the Certificate of Distinction at the Singapore Youth Festival Central Judging held in April 2019. Preparing for the SYF was an intense learning experience that not only gave the choir the opportunity to hone their skills, but also drove home the importance of hard work in creating harmony and music that inspires.
-
-![](/images/Student%20Development/CCA/Choir/2022_Choir_02.jpg)
-
-![](/images/Student%20Development/CCA/Choir/2022_Choir_01.jpg)
+![](/images/Student%20Development/CCA/Choir/2024_Choir_02.jpg)

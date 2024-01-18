@@ -5,26 +5,22 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
+<p align="justify">
+In NPCC, cadets undergo a variety of activities like crime prevention, crime scene investigation (CSI), road safety training, shooting, campcraft, footdrill and precision drill, etc.</p>
+<p align="justify">
+Besides the opportunity to represent AHS in the NDP, our cadets also have the opportunity to fire .22 revolvers to attain the Marksmanship badge. They also get to participate in shooting, drill and CSI competitions at NPCC HQ.</p>
+<p align="justify">
+The annual Adventure Camp at Pulau Ubin equips our cadets with basic survival, cooking, canoeing and rafting skills. Some enrichment programs include Air Pistol training, Kayaking, basic First Aid certification and OBS.</p>
+<p align="justify">
+Our cadets have served the community in crime-prevention campaigns and collaborated with charity organisations like YMCA and student care centers.</p>
+<hr>
+<p align="justify">
+<i>A moment that had a significant impact on me would be the Unit Camp 2023. It was my first taste of leadership and I didn’t know how to do a lot of things. There were many things I did wrong and things I could have done better. Nevertheless, I learned from them and made the camp enjoyable to the best of my abilities. All the mistakes made and lessons learnt while managing the camp are priceless experiences that have shaped me as a leader.</i></p>
+Quek Rui Ling Natalie, 4F (2024)<br>
+Chairperson
 
+![](/images/Student%20Development/CCA/NPCC/2024_NPCC_01.jpg)
 
-“My 3 years in NPCC have enabled me to understand the importance of, and to adopt, many values such as punctuality, initiative, commitment, positive attitude, responsibility and discipline.” – SGT Chong Xiu Wen, 3H
+![](/images/Student%20Development/CCA/NPCC/2024_NPCC_02.jpg)
 
-“Getting into the Finals of the NPCC Inter-Unit Drill Competition has given us a huge sense of accomplishment, commitment and a common goal for us to work towards as a unit.” – SGT Yeo Kai Ting Alyssa, 3H
-
-The National Police Cadet Corps (NPCC) formed in 1959, has a membership of about 20,000 cadets. NPCC (Girls) in Anglican High School was set up in 2005 and is the youngest Uniformed Group in Anglican High School.
-
-The Corps seeks to indoctrinate in its members the knowledge of discipline, conscientiousness and a sense of esprit de corps, as well as the importance of serving the community.
-
-In NPCC, cadets undergo a variety of training such as crime prevention, road safety training (which includes interaction with primary school students when they visit the road safety park), campcraft, footdrill, baton drill, precision drill and many more.
-
-One of the major highlights of our CCA is the .22 revolver shooting which is held at Home Team Academy. Cadets are given the opportunity to fire actual .22 revolvers and attain their Marksmanship badge. They also get to compete with other units at the annual .22 revolver shooting competition held by NPCC HQ. Another highlight of our CCA is the chance to take part in camps held at Pulau Ubin, where they get to engage in obstacles like the Flying Fox and overcoming the various ropes challenge. At the same time, they learn basic survival cooking, canoeing and rafting.
-
-Some of the optional enrichment programs that our cadets are given a chance to take part include the .177 Air Rifle training and Air Pistol training, one and two-star kayaking, basic adult first aid certification and OBS. They are also given opportunities to represent the unit in NPCC parades and National Day Parade.
-
-Our cadets have taken part in various competitions, such as the National Campcraft Competition, the Inter-Unit Quiz competition. Our school has also consistently performed well at the annual NUS-NPCC Air Rifle Shooting Championships, acquiring top positions.
-
-In accordance with the school’s student-leadership framework, our cadets have served the community in various ways. Every year, they take part in crime-prevention campaigns both within the school and the community. Our cadets also initiated and participated in projects together with charity organisations such as YMCA and student care centres.
-
-![](/images/Student%20Development/CCA/NPCC/2022_NPCC_01.jpg)
-
-![](/images/Student%20Development/CCA/NPCC/2022_NPCC_02.jpg)
+![](/images/Student%20Development/CCA/NPCC/2024_NPCC_03.jpg)

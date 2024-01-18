@@ -5,15 +5,18 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
+<p align="justify">
+The AHS Guitar Ensemble is a close-knitted community of young passionate musicians. Under the guidance of our established conductor, Mr Shi, we work towards excellence and are exposed to a wide variety of song genres, from classical to modern music. Over the years, members in the Guitar Ensemble have polished our skills well and the 2023 SYF Arts Presentation Certificate of Distinction is a testament to the unyielding spirit and passion for guitar music in us.</p>
+<p align="justify">
+Despite many members having no prior guitar knowledge, the ensemble has always performed commendably not only in the SYF Arts Presentation but in major school events. Its captivating music and powerful group collaborations never fail to draw the attention and support of the audience.</p>
+<p align="justify">
+Moving forward, the AHS Guitar Ensemble aims to promote a greater love for guitar ensemble music so as to promote this art form as an integral part of Singapore’s arts landscape.</p>
+<hr>
+<p align="justify">
+<i>As Guitar Ensemble’s President, I have had the privilege of watching how our performances and practice sessions have helped hone our members’ resilience and musical talents. As we share knowledge and encourage one another, we have grown not only as skilled guitarists but also as leaders and team players. Our CCA has provided us with various platforms to nurture our skills through effective communication as well as foster a supportive environment for all our members. I hope to further encourage our members to take on leadership positions and the responsibility for organising events and coordinating more performances!</i></p>
+Tara Sim Yue, 4E (2024)<br>
+President
 
+![](/images/Student%20Development/CCA/Guitar%20Ensemble/2024_Guitar_01.jpg)
 
-“Participating in the SYF provided me with a platform to express my love and feelings through music while being able to share them with others.” – by Wong Jia Xi, 4G
-
-“There’s immense power when everyone comes together as one, and we would not be able to achieve our desired results without the contribution of every member, and I’m thankful to be part of this fruitful journey.” – by Celest Neo Zi Xuan, 3J
-
-
-The AHS Guitar Ensemble aims to develop young guitarists and hone their skills in playing the instrument by providing our members opportunities to participate in different public or school base performances. These will help to built the confidence of our members and hopefully discover their talents to let it soar. We also encourage our members to compete in the SYF (Singapore Youth Festival) Central Judging held alternate years.
-
-![](/images/Student%20Development/CCA/Guitar%20Ensemble/2022_Guitar_02.jpg)
-
-![](/images/Student%20Development/CCA/Guitar%20Ensemble/2022_Guitar_01.jpg)
+![](/images/Student%20Development/CCA/Guitar%20Ensemble/2024_Guitar_02.jpg)
