@@ -23,10 +23,10 @@ A:	Anglican High School is served by a number of bus services. They are 2, 9, 12
 
 **Q:	What is the cut-off point for Anglican High School?**
 
-A: The cut-off point varies from year to year. The PSLE score range is 6(M) – 14(P) for the 2023 Sec One cohort.
+A: The cut-off point varies from year to year. The PSLE score range is 6(M) – 12(M) for the 2024 Sec 1 cohort. 
 
 Note: Higher Chinese Language Grade: (D) = Distinction (M) = Merit (P) = Pass
-Hence, for our 2023 Sec 1 cohort, the first student admitted had an AL of 6 with a Merit in HCL, and the last student admitted had an AL of 14 with a Pass in HCL. 
+Hence, for our 2024 Sec 1 cohort, the first student admitted had an AL of 6(M) with a Merit in HCL, and the last student admitted had an AL of 12(M) with a Merit in HCL. 
  	 
 **Q:	Do students taking Higher Chinese Language (HCL) have priority for admission to Anglican High School during posting?**
 
