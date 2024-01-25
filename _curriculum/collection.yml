@@ -1,0 +1,17 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Key Curriculum Approaches.md
+      - Art.md
+      - Chinese Language & Literature.md
+      - Chinese Language Elective Programme.md
+      - Computing & AI.md
+      - English Language & Literature.md
+      - Humanities.md
+      - i SCoRe.md
+      - Malay Language.md
+      - Mathematics.md
+      - Music.md
+      - Physical Education.md
+      - Science.md

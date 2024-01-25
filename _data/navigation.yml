@@ -1,0 +1,16 @@
+logo: /images/sch logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Achievements
+    collection: achievements
+  - title: Curriculum
+    collection: curriculum
+  - title: Student Development
+    collection: student-development
+  - title: Life@AHS
+    collection: life-at-ahs
+  - title: Partners
+    collection: partners
+  - title: Useful Links
+    collection: useful-links
