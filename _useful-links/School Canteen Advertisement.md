@@ -15,15 +15,16 @@ variant: markdown
 
 **Requirements**
 
-- Singapore Citizens or Singapore Permanent Residents, applicable to both stall holder and assistant(s). Must be age 21 years old or above.<br>
+- Stallholder(s) and assistant(s) who are Singapore Citizens or Singapore Permanent Residents, aged 21 years old and above.<br>
 - Able to provide good service and quality food at reasonable prices in consultation with the School.<br>
-- Able to observe high standard of food and personal hygiene that meet Singapore Food Agency (SFA) requirements.<br>
-- Has catering experience, preferably with running a stall in a school canteen.<br>
-- Both applicant and stall assistant/s must have completed the WSQ Basic Food Hygiene Course conducted by any of the accredited training providers appointed by WDA (Workforce Development Agency). Upon successful application, the applicant will be required to apply for an operating licence from Singapore Food Agency (SFA).<br> 
+- Food must be served hot.<br>
+- Able to maintain a high standard of food safety, personal hygiene and cleanliness that meet Singapore Food Agency (SFA) requirements.<br>
+- Both applicant and stall assistant/s must possess the WSQ Basic Food Hygiene Certificate.<br>
+- Successful applicant will need to apply for a food stall licence from Singapore Food Agency (SFA).<br>
 - Able to comply with the latest Healthy Meals in Schools Programme (HMSP) guidelines.  For more details please refer HPB’s website @ [HMSP Guidelines](/files/Useful%20Links/School%20Canteen/hmsp_guidelines.pdf)   <br>
 - Must be able to operate till 5pm on days whenever there are lessons and CCAs as required by school.<br>
 - Must be able to operate during school holidays for 2 to 3 weeks whenever there are lessons and activities as required by the school.<br>
-- Must be in personal attendance at the stall during operating hours.<br>
+- Must be able to operate till 5pm on days whenever there are lessons and CCAs as required by school.<br>
 - If successful, stall-holder can commence canteen service from the above stated operational date onwards.<br>
 - Financial position (if applicable) of the applicants will be given due consideration upon meeting all of the above criteria.<br>
 - Food must be served hot.<br>
