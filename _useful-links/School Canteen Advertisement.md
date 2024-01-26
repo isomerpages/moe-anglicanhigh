@@ -23,11 +23,10 @@ variant: markdown
 - Successful applicant will need to apply for a food stall licence from Singapore Food Agency (SFA).<br>
 - Able to comply with the latest Healthy Meals in Schools Programme (HMSP) guidelines.  For more details please refer HPB’s website @ [HMSP Guidelines](/files/Useful%20Links/School%20Canteen/hmsp_guidelines.pdf)   <br>
 - Must be able to operate till 5pm on days whenever there are lessons and CCAs as required by school.<br>
-- Must be able to operate during school holidays for 2 to 3 weeks whenever there are lessons and activities as required by the school.<br>
-- Must be able to operate till 5pm on days whenever there are lessons and CCAs as required by school.<br>
-- If successful, stall-holder can commence canteen service from the above stated operational date onwards.<br>
+- Applicant must be in personal attendance at the stall during operating hours.<br>
 - Financial position (if applicable) of the applicants will be given due consideration upon meeting all of the above criteria.<br>
-- Food must be served hot.<br>
+- Applicants with catering experience or experience operating in a school environment are preferred.<br>
+- Halal certified will be preferred but not mandatory.<br>
 - The above proposed menu list is negotiable and is subject to change by the Anglican High School Canteen Committee.<br>
 
 
