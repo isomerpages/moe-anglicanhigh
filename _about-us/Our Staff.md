@@ -426,7 +426,7 @@ variant: markdown
  <tr>
     <td>Mr Tan Wei Li</td>
     <td>3B</td>
-    <td>tan_wei_li_ai@moe.edu.sg</td>
+    <td>tan_wei_li_a@moe.edu.sg</td>
   </tr>
 	<tr>
     <td>Ms Wang Fang</td>
