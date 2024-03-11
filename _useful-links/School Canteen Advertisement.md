@@ -10,7 +10,7 @@ variant: markdown
 
 |Type of Stall|Closing Date|Operational Date|Proposed Menu|
 | -------- | -------- | -------- |-------- |
-| Muslim Fod Stall (Rice/Noodle/Snacks)|22 Mar 2024 before 5pm| 15 Apr 2024 (preferably) |<b><u>Rice:</u></b><br>Nasi Briyani, Lontong, Nasi Lemak, Nasi Ayam, Nasi Pattaya, Malay Mixed Rice, Nasi Sambal Goreng; <br><b><u>Noodles:</u></b><br>Mee Soto, Mee Goreng, Mee Rebus, Mee Siam, Fried Bee Hoon, Mee Hokkien<br>|
+| Muslim Food Stall (Rice/Noodles/Snacks)|22 Mar 2024 before 5pm| 15 Apr 2024 (preferably) |<b><u>Rice:</u></b><br>Nasi Briyani, Lontong, Nasi Lemak, Nasi Ayam, Nasi Pattaya, Malay Mixed Rice, Nasi Sambal Goreng; <br><b><u>Noodles:</u></b><br>Mee Soto, Mee Goreng, Mee Rebus, Mee Siam, Fried Bee Hoon, Mee Hokkien<br>|
 
 
 **Requirements**
