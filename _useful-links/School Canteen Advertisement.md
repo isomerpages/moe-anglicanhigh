@@ -10,7 +10,7 @@ variant: markdown
 
 |Type of Stall|Closing Date|Operational Date|Proposed Menu|
 | -------- | -------- | -------- |-------- |
-| Western/ Thai/ Vietnamese Food Stall|08 Feb 2024 before 5pm| 18 Mar 2024 (preferably) |<b><u>Western:</u></b><br>Grilled Chicken/ Fish/ Pork, Pasta, Baked Rice, Pizza, garlic bread/ mashed potato/ baked potato, coleslaw/ garden salad; <br><b><u>Thai:</u></b><br>Pad Thai, Pineapple fried rice, Tom Yum Kung, Green Curry, Mango Sticky rice;<br><b><u>Vietnamese:</u></b><br> Vietnamese beef noodle, Vietnamese spring roll, Crispy Baguettes with meat and vegetable filling.|
+| Muslim Food Stall (Rice/Noodles/Snacks)|22 Mar 2024 before 5pm| 15 Apr 2024 (preferably) |<b><u>Rice:</u></b><br>Nasi Briyani, Lontong, Nasi Lemak, Nasi Ayam, Nasi Pattaya, Malay Mixed Rice, Nasi Sambal Goreng <br><b><u>Noodles:</u></b><br>Mee Soto, Mee Goreng, Mee Rebus, Mee Siam, Fried Bee Hoon, Mee Hokkien<br>|
 
 
 **Requirements**
