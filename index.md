@@ -9,6 +9,19 @@ sections:
   - hero:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
+      key_highlights:
+        - title: AHS DSA Sports Open House
+          description: Click here for details
+          url: ""
+  - infopic:
+      title: AHS DSA Sports Open House
+      subtitle: " 6 April 2024 (9am to 11am)"
+      id: infopic
+      description: Passionate about basketball, badminton, table tennis or wushu? Join
+        us for the Anglican High School (AHS) DSA Sports Open House 2024!
+      button: Click Here for details
+      url: https://go.gov.sg/ahs-dsa-sportsopenhouse
+      alt: Image alt text
   - infopic:
       title: Soar at AHS
       button: Curriculum
