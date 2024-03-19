@@ -17,7 +17,8 @@ With top coaches and dedicated teachers who prioritise the holistic growth of ea
 Join us at our DSA Sports Open House to discover how we can support your child's sports journey! Sign up at [https://go.gov.sg/ahs-dsa-sportsopenhouse](https://go.gov.sg/ahs-dsa-sportsopenhouse)
 
 <br><br><br>
-_________________________________________________________________________________________
+
+<hr>
 <p align="justify">
 Please be reminded that photograph(s) or video image(s) of students, their parents/guardians and students’ work may be captured during the different school activities and events. The school may use and publish such photographs and/or video recordings in school publications, website, social media channels, and other communication channels. </p>
-_________________________________________________________________________________________
+<hr>
