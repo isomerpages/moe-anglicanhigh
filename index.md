@@ -22,7 +22,7 @@ sections:
       button: Click Here for details
       url: https://www.anglicanhigh.moe.edu.sg/about-us/announcements/
       alt: Image alt text
-      image: /images/About us/Announcement/2024_DSA_Sports_Open_House_Publicity.jpg
+      image: /images/About us/Announcement/DSA_Sports_Open_House_2024.jpg
   - infopic:
       title: Soar at AHS
       button: Curriculum
