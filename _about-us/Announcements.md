@@ -6,7 +6,7 @@ variant: markdown
 ---
 ##### Invitation to AHS DSA Sports Open House on 6 April 2024 (9am to 11am)
 
-![](/images/About%20us/Announcement/2024_DSA_Sports_Open_House_Publicity.jpg)
+![](/images/About%20us/Announcement/DSA_Sports_Open_House_2024.jpg)
 
 <p align="justify">Passionate about basketball, badminton, table tennis or wushu? Join us for the Anglican High School (AHS) DSA Sports Open House 2024!</p>
 <p align="justify">
