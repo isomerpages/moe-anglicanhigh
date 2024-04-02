@@ -13,6 +13,9 @@ sections:
         - title: AHS DSA Sports Open House
           description: Click here for details
           url: https://www.anglicanhigh.moe.edu.sg/about-us/announcements/
+        - title: 2024全国中小学双语创意写作比赛
+          description: Click here for details
+          url: https://www.anglicanhigh.moe.edu.sg/about-us/announcements/
   - infopic:
       title: AHS DSA Sports Open House
       subtitle: 6 April 2024 (9am to 11am)
