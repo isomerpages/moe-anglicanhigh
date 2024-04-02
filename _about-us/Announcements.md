@@ -52,7 +52,7 @@ Join us at our DSA Sports Open House to discover how we can support your child's
 八、 报名方式：通过https://form.gov.sg/65bc4930d56fe74626498a35
 在线报名或者扫描以下二维码填写相关报名信息完成报名。<br>
 
-<img alt="" width="50%" src="/images/About%20us/Announcement/2024_Writing_Competition_QR_Code.jpg">
+<img alt="" height="60" width="60" src="/images/About%20us/Announcement/2024_Writing_Competition_QR_Code.jpg">
 
 九、 报名时间：即日起至2024年4月22日（星期一）截止。<br>
 十、 若有疑问，请电邮至chua_song_guan@moe.edu.sg，向蔡老师询问有
