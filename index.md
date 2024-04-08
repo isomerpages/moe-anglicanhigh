@@ -10,22 +10,9 @@ sections:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
       key_highlights:
-        - title: AHS DSA Sports Open House
-          description: Click here for details
-          url: https://www.anglicanhigh.moe.edu.sg/about-us/announcements/
         - title: 2024全国中小学双语创意写作比赛
           description: Click here for details
           url: https://www.anglicanhigh.moe.edu.sg/about-us/announcements/
-  - infopic:
-      title: AHS DSA Sports Open House
-      subtitle: 6 April 2024 (9am to 11am)
-      id: infopic
-      description: Passionate about basketball, badminton, table tennis or wushu? Join
-        us for the Anglican High School (AHS) DSA Sports Open House 2024!
-      button: Click Here for details
-      url: https://www.anglicanhigh.moe.edu.sg/about-us/announcements/
-      alt: Image alt text
-      image: /images/About us/Announcement/DSA_Sports_Open_House_2024.jpg
   - infopic:
       title: Soar at AHS
       button: Curriculum
