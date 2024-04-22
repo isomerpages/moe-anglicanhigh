@@ -10,6 +10,9 @@ sections:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
       key_highlights:
+        - title: DSA 2024
+          description: Click here for details
+          url: https://www.anglicanhigh.moe.edu.sg/about-us/dsa-2024/
         - title: 2024全国中小学双语创意写作比赛
           description: Click here for details
           url: https://www.anglicanhigh.moe.edu.sg/about-us/announcements/
