@@ -2,6 +2,7 @@
 title: Sexuality Education
 permalink: /student-development/sexuality-education/
 description: ""
+variant: markdown
 ---
 #### MOE SEXUALITY EDUCATION IN SCHOOLS
 
@@ -24,7 +25,7 @@ description: ""
 	
 You may [click here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
 
-#### OVERVIEW OF ANGLICAN HIGH SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023
+#### OVERVIEW OF ANGLICAN HIGH SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024
 
 <p align="justify">
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.</p>
@@ -44,25 +45,25 @@ You may [click here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 <p align="justify">
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p>
 
-**At Anglican High School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
+**At Anglican High School, the following lessons from the Sexuality Education Programme will be taught in 2024:**
 
 SECONDARY 1<br>
-CCE 2023 Theme: Making Choices
+CCE 2024 Theme: Making Choices
 
 ![mc](/images/2022_S1_Making_Choice.jpg)
 
 SECONDARY 2<br>
-CCE 2023 Theme: Making Choices
+CCE 2024 Theme: Making Choices
 
 ![mc2](/images/2022_S2_Making_Choice.jpg)
 
 SECONDARY 3<br>
-CCE 2023 Theme: Making Choices
+CCE 2024 Theme: Making Choices
 
 ![mc3](/images/2022_S3_Making_Choice.jpg)
 
 SECONDARY 4<br>
-CCE 2023 Theme: Making Choices
+CCE 2024 Theme: Making Choices
 
 ![mc4](/images/2022_S4_Making_Choice.jpg)
 
@@ -74,7 +75,7 @@ CCE 2023 Theme: Making Choices
 <p align="justify">
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
 
-**At Anglican High School, the eTeens programme will be implemented as follows in 2023:**
+**At Anglican High School, the eTeens programme will be implemented as follows in 2024:**
 
 ![eteens](/images/eTeens_Programme.jpg)
 
