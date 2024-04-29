@@ -87,11 +87,11 @@ CCE 2024 Theme: Making Choices
 <p align="justify">
 11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form.</p>
 
-This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexual%20Education/GY_Parent_Opt-Out_form_Sec_2024.pdf). The completed form is to be submitted by 10/02/2023.
+This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexual%20Education/GY_Parent_Opt-Out_form_Sec_2024.pdf). The completed form is to be submitted by 02/02/2024.
 
 
 <p align="justify">
-12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 14/07/2023.</p>
+12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 12/07/2024.</p>
 
 <p align="justify">
 13. Parents can contact the school at 62414866 for discussion or to seek clarification about the school's sexuality education programme. </p>
