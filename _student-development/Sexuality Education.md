@@ -87,7 +87,7 @@ CCE 2024 Theme: Making Choices
 <p align="justify">
 11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form.</p>
 
-This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexual%20Education/GY_Parent_Opt-Out_form_Sec_2023.pdf). The completed form is to be submitted by 10/02/2023.
+This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexual%20Education/GY_Parent_Opt-Out_form_Sec_2024.pdf). The completed form is to be submitted by 10/02/2023.
 
 
 <p align="justify">
