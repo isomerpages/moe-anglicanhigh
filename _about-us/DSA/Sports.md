@@ -23,7 +23,7 @@ This programme focuses on providing talented student athletes with a holistic ap
 <b><u>AHS SPORTS SCHOLARSHIP</u></b><br>
 Students who have performed well in their PSLE and have achieved outstanding sport results will be eligible to apply for the AHS Sports Scholarship in Secondary One.
 
-![](/images/About%20us/DSA/2023_DSA_Sports_1.png)
+![](/images/About%20us/DSA/sports1.jpg)
 <br>
 
 <b><u>ADMISSION CRITERIA</u></b><br>
