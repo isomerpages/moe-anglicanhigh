@@ -2,6 +2,7 @@
 title: Basic Non Financial Information
 permalink: /about-us/basic-non-financial-information/
 description: ""
+variant: markdown
 ---
 **Name of School:** Anglican High School<br>
 **Address:** 600 Upper Changi Road, Singapore 487012<br>
@@ -20,17 +21,18 @@ description: ""
 **Board Members:** <br>
 **Chairman:** Mr Alden Tan Siang Hin <br>
 **Vice-Chairman:** Mr Loh Wah Kay <br>
-**Secretary:** Mr Khoo Tse Horng <br>
-**Treasurer:** Mdm Sylvia Tan Chuan Pei <br>
+**Secretary:** Mr Lim Hock Chuan Alvin <br>
+**Treasurer:** Miss Chew Ee Ling <br>
 **Member:** Mr Au Bok Soon <br>
-**Member:** Mr Chong Kim Cheong Adrian <br>
+**Member:** Mr Ng Wei Xuan <br>
 **Member:** Rev Brandon Loy <br>
 **Member:** Mr Eio Wee Hiong <br>
 **Member:** Mrs Alice Tan <br>
 **Member:** Mr Neo Kok Thye <br>
 **Member:** Mr Ng Sin Ain <br>
-**Member:** Mr Stephen Tan Choon Hua <br>
-**Member:** Mr Teo Keh Lye <br><br>
+**Member:** Dr Chua Joo Wei <br>
+**Member:** Mr Ng Soo Beng <br>
+**Member:** Mr Wong Yew Choy Jason <br><br>
 **Auditor:** Stamford Assurance <br>
 **Financial Information:** https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary <br><br>
 **School's Activities/programmes for the year:**<br>
