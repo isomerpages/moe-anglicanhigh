@@ -24,11 +24,16 @@ Application for the O-Level Music course, which starts in the Secondary 3 academ
 The Selection Exercise consists of two components:<br>
 <i>Component 1 – Recorded performance (online submission)</i> <b><u>due 1st week September 2024</u></b><br>
 
-Perform and video-record two contrasting (e.g. different style, tradition, mood) solo pieces on an instrument or voice, lasting no longer than 5 minutes in total. If the video-recording exceeds 5 minutes, only the first 5 minutes of the submission will be assessed.<br>
-Accompaniment is not required and will not affect the assessment of the performance.<br>
-Video-recording(s) must be made not more than 4 months before the application deadline.<br>
-Submit the link(s) to the video-recording(s) together with the online application for the course.<br>
+* Perform and video-record two contrasting (e.g. different style, tradition, mood) solo pieces on an instrument or voice, lasting no longer than 5 minutes in total. If the video-recording exceeds 5 minutes, only the first 5 minutes of the submission will be assessed.<br>
+* Accompaniment is not required and will not affect the assessment of the performance.<br>
+* Video-recording(s) must be made not more than 4 months before the application deadline.<br>
+* Submit the link(s) to the video-recording(s) together with the online application for the course.<br>
 
+<i>Component 2 – E-listening Test </i> <b><u>16 August 2024 (PM) </u></b><br>
+
+More detailed guidelines regarding the video recording(s) and Listening Test will be provided by the music teacher to the potential applicant during the briefing for the O-Level Music course, which starts in the Secondary 3 academic year. <br>
+
+<b>Applicants <u>must</u> meet the requirements for <u>both Components 1 and 2</u> to qualify for the course.</b><br>
 
 
 <style type="text/css">
