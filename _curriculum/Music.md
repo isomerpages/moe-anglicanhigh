@@ -35,6 +35,14 @@ More detailed guidelines regarding the video recording(s) and Listening Test wil
 
 <b>Applicants <u>must</u> meet the requirements for <u>both Components 1 and 2</u> to qualify for the course.</b><br>
 
+<b><u>Conduct of Lessons</u></b><br>
+Lessons will be held within curriculum time for approximately 175 minutes a week at Anglican High School. Successful applicants will receive an email in late September before the Subject Combination Exercise.<br>
+Successful applicants are advised to continue engaging in the practice of their instrument(s) outside curriculum hours to ensure that there is consistent progress and proficiency.<br>
+For further clarifications, please contact the O-Level Music Coordinator:<br>
+Mrs Kimberley Sng<br>
+foo_ern-i_kimberley@moe.edu.sg<br>
+
+
 
 <style type="text/css">
 img.GeneratedImage {
