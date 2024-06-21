@@ -169,11 +169,6 @@ variant: markdown
     <td>-</td>
     <td>LT/ Social Studies</td>
   </tr>
-	<tr>
-    <td>Mdm Wang Jianping</td>
-    <td>王剑平</td>
-    <td>ST/ Chinese Literature</td>
-  </tr>
   <tr>
     <td>Mrs Koh Shieh Ping Shirley</td>
     <td>彭雪冰</td>
@@ -232,7 +227,7 @@ variant: markdown
 	<tr>
     <td>Mdm Neeta Rajwani</td>
     <td>1B</td>
-    <td>.</td>
+    <td>neeta_ishwardas_rajwani@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Ms Amalina</td>
@@ -494,9 +489,9 @@ variant: markdown
     <td>vera_chng@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Evelyn Choo</td>
+    <td>Mdm Justine Ang</td>
     <td>3J</td>
-    <td>choo_li-_fang_evelyn@moe.edu.sg</td>
+    <td>ang_siok_eng_justine@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Mr Teo Yi Sheng</td>
