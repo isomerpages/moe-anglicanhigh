@@ -12,7 +12,7 @@ locations:
       - days: Mon - Fri
         time: 7.00am - 5.30pm
         description: Closed on Sat, Sun and Public Holidays
-    maps_link: ""
+    maps_link: https://www.anglicanhigh.moe.edu.sg/about-us/contact-us/
     title: Address
 contacts:
   - content:
