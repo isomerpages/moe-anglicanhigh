@@ -356,11 +356,6 @@ variant: markdown
     <td>2E</td>
     <td>tan_kay_soon_jimmy@schools.gov.sg</td>
   </tr>
-		<tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
 	 <tr>
     <td>Mdm Norliza</td>
     <td>2F</td>
