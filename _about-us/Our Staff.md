@@ -357,9 +357,9 @@ variant: markdown
     <td>tan_kay_soon_jimmy@schools.gov.sg</td>
   </tr>
 		<tr>
-    <td>Mr</td>
-    <td>2E</td>
-    <td>@schools.gov.sg</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
   </tr>
 	 <tr>
     <td>Mdm Norliza</td>
