@@ -50,10 +50,10 @@ A:	Anglican High School is affiliated to Saint Andrew Junior College (SAJC). Sec
  
 #### Higher Chinese Eligibility
 
-**Q:	Can I get my child to offer Higher Chinese as an examination subject in Anglican High?**
+**Q:	Can my child offer Higher Chinese as an examination subject in Anglican High?**
 
-A:	Students posted to Anglican High can offer Higher Chinese as an examinable subject if they are given a Higher Chinese eligibility letter by Ministry of Education. As a SAP school, Anglican High School strives to give all our students a bicultural educational experience.
+A:	As a SAP school, Anglican High School strives to give all our students a bicultural educational experience. Students posted to Anglican High can offer Higher Chinese as long as they meet the following criteria: AL1 to AL3 for Chinese or a Pass in Higher Chinese at PSLE.
  	 
 **Q:	Can my child offer Higher Chinese if he/she is not given a letter by MOE?**
 
-A:	Your child will be assessed on his/her performance in Chinese in secondary one. If he/she has done exceptionally well in Chinese, he/she will be offered to do Higher Chinese in Secondary Two with the recommendation from his/her Chinese teacher.
+A:	Yes! Students posted to Anglican High can offer Higher Chinese as long as they meet the following criteria: AL1 to AL3 for Chinese or a Pass in Higher Chinese at PSLE.
