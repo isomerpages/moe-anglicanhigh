@@ -10,9 +10,9 @@ sections:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
       key_highlights:
-        - title: DSA 2024
-          description: Click here for details
-          url: https://www.anglicanhigh.moe.edu.sg/about-us/dsa-2024/
+        - title: AHS Open House
+          description: 23 Nov 2024 (Sat) 9am-1pm
+          url: https://go.gov.sg/ahsopenhouse2024
   - infopic:
       title: AHS Open House
       subtitle: 23 Nov 2024 (Sat) 9am-1pm
