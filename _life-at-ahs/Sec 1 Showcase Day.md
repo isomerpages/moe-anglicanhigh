@@ -18,12 +18,11 @@ Apart from showcasing their learning, the event also culminated in a significant
 <p align="justify">
 It was indeed a lovely evening on the last day of the academic year as the AHS family came together to celebrate and affirm our Sec One students’ efforts to Soar, Shine and Serve!</p>
 
-![](/images/Life%20at%20AHS/Sec1%20Showcase/2023_S1_Showcase_04.jpg)
-
-![](/images/Life%20at%20AHS/Sec1%20Showcase/2023_S1_Showcase_05.jpg)
-
-![](/images/Life%20at%20AHS/Sec1%20Showcase/2023_S1_Showcase_01.jpg)
-
-![](/images/Life%20at%20AHS/Sec1%20Showcase/2023_S1_Showcase_02.jpg)
-
-![](/images/Life%20at%20AHS/Sec1%20Showcase/2023_S1_Showcase_03.jpg)
+![](/images/Life%20at%20AHS/Sec1%20Showcase/2024_S1_Showcase_01.jpg)
+![](/images/Life%20at%20AHS/Sec1%20Showcase/2024_S1_Showcase_02.jpg)
+![](/images/Life%20at%20AHS/Sec1%20Showcase/2024_S1_Showcase_03.jpg)
+![](/images/Life%20at%20AHS/Sec1%20Showcase/2024_S1_Showcase_04.jpg)
+![](/images/Life%20at%20AHS/Sec1%20Showcase/2024_S1_Showcase_05.jpg)
+![](/images/Life%20at%20AHS/Sec1%20Showcase/2024_S1_Showcase_06.jpg)
+![](/images/Life%20at%20AHS/Sec1%20Showcase/2024_S1_Showcase_07.jpg)
+![](/images/Life%20at%20AHS/Sec1%20Showcase/2024_S1_Showcase_08.jpg)
