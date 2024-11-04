@@ -27,3 +27,9 @@ variant: markdown
 <p align="justify">
 在现代戏剧课上，我们学到了丰富的戏剧历史知识，对从古希腊到现代的戏剧发展有了更深入的了解。接龙活动激发了我们的想象力和创造力，使戏剧课更加生动有趣。这种学习方式让我们不仅增长了知识，还在实践中得到了充分的锻炼，大家都收获颇丰。 - [邱子芩，4J]</p>
 
+![](/images/Life%20at%20AHS/MT%20Fortnight/2024_MTFortnight_01.jpg)
+![](/images/Life%20at%20AHS/MT%20Fortnight/2024_MTFortnight_02.jpg)
+![](/images/Life%20at%20AHS/MT%20Fortnight/2024_MTFortnight_03.jpg)
+![](/images/Life%20at%20AHS/MT%20Fortnight/2024_MTFortnight_04.jpg)
+![](/images/Life%20at%20AHS/MT%20Fortnight/2024_MTFortnight_05.jpg)
+
