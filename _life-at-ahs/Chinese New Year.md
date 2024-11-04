@@ -21,5 +21,8 @@ variant: markdown
 
 郭恩琪 KOK ENG CHYI, NATALIE (4B)</p>
 
-
-
+![](/images/Life%20at%20AHS/Chinese%20New%20Year/2024_CNY_01.jpg)
+![](/images/Life%20at%20AHS/Chinese%20New%20Year/2024_CNY_02.jpg)
+![](/images/Life%20at%20AHS/Chinese%20New%20Year/2024_CNY_03.jpg)
+![](/images/Life%20at%20AHS/Chinese%20New%20Year/2024_CNY_04.jpg)
+![](/images/Life%20at%20AHS/Chinese%20New%20Year/2024_CNY_05.jpg)
