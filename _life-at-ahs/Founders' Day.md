@@ -15,5 +15,22 @@ Reflecting on this school year, I am filled with immense gratitude and pride. Be
 <p align="justify">
 Witnessing the students’ development and knowing I play a part in it have been most satisfying. The happiest moments of my career are those spent in the classroom. - [Mrs Koh Shieh Ping Shirley, Long Service Awardee of 30 years]  </p>
 
-
-
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_01.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_02.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_03.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_04.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_05.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_06.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_07.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_08.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_09.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_10.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_11.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_12.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_13.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_14.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_15.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_16.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_17.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_18.jpg)
+![](/images/Life%20at%20AHS/Founders%20Day/2024_FD_19.jpg)
