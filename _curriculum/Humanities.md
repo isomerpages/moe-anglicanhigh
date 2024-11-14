@@ -2,9 +2,13 @@
 title: Humanities
 permalink: /curriculum/humanities/
 description: ""
+variant: markdown
 ---
-#### Vision
-To learn for life and create value for others, leveraging on a holistic humanities experience to develop an inquiring mindset for the 21st Century.
+#### Our Approach
+dedicated to exploring different avenues to enhance the Humanities learning experiences for our students and to apply them in the context of the 21st Century.<br>
+We extend education beyond the confines of the traditional curriculum and classroom setting. Our goal is to ignite a passion for Humanities, nurturing curiosity for the world we live in and fostering critical thinking skills which are important for our students to thrive in the future. Through innovative pedagogical approaches such as Inquiry-Based Learning, Experiential Learning and Differentiated Instructions, we equip students with the necessary tools and knowledge to navigate and influence their surroundings effectively, empowering them to become catalysts for positive change in society.<br>
+We embrace the evolving landscape of education by harnessing the power of educational technology tools and Artificial Intelligence (AI). By integrating these advancements into our teaching practices, we ensure that our students are well-prepared for the demands of the digital age and equipped with the skills necessary to thrive in an ever-changing world.
+
 
 #### Mission
 To nurture humanities learners who are concerned global citizens who are curious thinkers and self-directed learners.
@@ -17,16 +21,16 @@ To nurture humanities learners who are concerned global citizens who are curious
 
 
 
-<!-- Codes by HTML.am -->
 
-<!-- CSS Code -->
+
+
 <style type="text/css">
 img.GeneratedImage {
 width:269px;height:403px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
 }
 </style>
 
-<!-- HTML Code -->
+
 <img class="GeneratedImage" src="/images/Curriculum/Humanities/Daryl_Tan.jpg">
 
 <p align="justify">
