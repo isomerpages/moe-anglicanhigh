@@ -2,8 +2,9 @@
 title: Chinese Language & Literature
 permalink: /curriculum/chinese-language-n-literature/
 description: ""
+variant: markdown
 ---
-#### Vision
+#### 部门工作指导方针 (Our Approach)
 通双语 晓文化 塑品格
 
 #### Mission
@@ -46,16 +47,16 @@ description: ""
 	</tbody>
 </table>
 
-<!-- Codes by HTML.am -->
 
-<!-- CSS Code -->
+
+
 <style type="text/css">
 img.GeneratedImage {
 width:269px;height:403px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
 }
 </style>
 
-<!-- HTML Code -->
+
 <img class="GeneratedImage" src="/images/Curriculum/CL/Teo_Yi_Sheng.jpg">
 <p align="justify">
 人生之路布满荆棘，走起来着实不易，磕磕绊绊。我希望学生做事持之以恒，灵活处理人生中的任何问题，并继续使用华文华语。<br>
@@ -63,7 +64,7 @@ width:269px;height:403px;margin:10px;border-width:0px;border-color:#000000;borde
 
 
 
-<!-- HTML Code -->
+
 <img class="GeneratedImage" src="/images/Curriculum/CL/Shen_Yu_Hung.jpg">
 <p align="justify">
 身为一个华文老师，我最大的喜乐和骄傲就是看到学生在四年学习华文期间，渐渐地喜欢上华文并在生活中学而用之，贯彻书本中的知识和人生道理。<br>-- Mr Shen Yu Hung 沈育弘 Teacher (Chinese)</p>
