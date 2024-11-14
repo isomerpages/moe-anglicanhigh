@@ -23,7 +23,7 @@ variant: markdown
 
 
 
-#### Key Programmes:
+#### 重点特色项目(Key Programmes)
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 804px"><colgroup><col style="width: 186px"><col style="width: 77px"><col style="width: 541px"></colgroup>
 	<thead>
@@ -82,3 +82,23 @@ variant: markdown
 			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">学生有机会参加浸濡之旅，与来自中国和台湾的伙伴学校交流，并结合未来问题解决计划理论 (Future Problem Solving Theory)进行学术讨论，从中以不同视角看待课题，获取新知识。 </span></td></tr>
 	</tbody>
 </table>
+
+#### 增广课程 (Enrichment)
+语文学习并不止于课文及相关技能的教学。部门通过以下平台让学生学以致用，发挥所长：<br>
+
+<u>各项校际比赛、全国比赛、分享会、工作坊</u><br>
+•	为学生提供更多学习平台，以挑战自我，同时继续吸收新知识。平台包括全国华文大比拼、全国课文朗诵比赛、新蕾奖、全国中学及初级学院华语短片制作比赛、《我来报新闻》挑战赛<br>
+•	为学生提供机会开拓视野，通过参加专人分享会、工作坊·以及分享及聚焦小组讨论的方式
+学习新知识，开拓视野。这包括如课程规划与发展司举办的活动、不同华人机构和学校联办的分享会和论坛会等。<br>
+
+<u>学习与华族相关的技艺</u><br>
+•	学生可在中华文史课上亲自动手，尝试一些与华族文化及圣中校园文化息息相关的技艺。这包括中国象棋、水墨画、篆刻及口琴。<br>
+
+<u>学习之旅</u><br>
+•	部门不仅为华文人才培育计划中的学生开办不同性质的兴趣班，同时也适时让学生通过学习之旅的方式了解不同行业的专业人士如何在职场上灵活运用华文华语。
+
+
+
+
+
+
