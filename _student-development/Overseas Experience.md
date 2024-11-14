@@ -45,42 +45,27 @@ Teh Qin Yang 3F, Kiersten Gayle Suryanata 3F, Aw Xin Yu Joy 3F, Tee Tong Yan 3A,
 
 ![](/images/Student%20Development/Overseas%20Experience/2024_GC_CIPSZ_01.jpg)
 
-![](/images/Student%20Development/Overseas%20Experience/2024_GC_CIPSZ_02.jpg)
+![](/images/Student%20Development/Overseas%20Experience/2024_GC_CIPSZ_02.png)
 
 ![](/images/Student%20Development/Overseas%20Experience/2024_GC_CIPSZ_03.jpg)
 
 ![](/images/Student%20Development/Overseas%20Experience/2024_GC_CIPSZ_04.jpg)
 
+##### 中华文化浸濡：台湾
+<p align="justify">
+在台湾，我们体验了独特的风土人情与如诗如画的风景。完成FPS畅想未来专案时，与台湾学生的交流激发了我们从不同角度思考问题，提高了我们的批判性思维和信息处理能力。
 
-			
-##### Twinning Programme with Maktab Sultan Abu Bakar (English) College, Johor Bahru, Malaysia
-  
-**25 July 2019**
-<p align="justify">
-It was an opportunity for the Secondary Three students in the Malay Special Programme (MSP) to experience various aspects of culture of our twinning school across the border in Johor, Malaysia. Students were immersed in the classroom setting at MSAB and had the chance to experience how lessons were conducted and see the differences and similarities between both schools. This programme also provided a platform for them to practise their conversations in the Malay language with their buddies.</p>
+我们也走出课室，参观了新生水厂，了解新加坡应对水资源短缺的措施。除了在校园担任导览员外，我们还在校外向敦中学生介绍土生文化馆的历史与文物。这些经历让我们更自信地表达自己。
 
-<p align="justify">
-A Cultural Enrichment Programme was also organised for Secondary Two cohort to be exposed to elements of the Malay culture which are topics covered in the Conversational Malay syllabus. Students played the Kompang (a handheld drum commonly used in wedding festivities), painted on a pre-waxed cloth with Batik designs and tried the basic techniques of Silat (martial arts practised in Malay archipelago).</p>
+这次的学习之旅让我与好友创造了许多美好回忆，并结识了台湾的新朋友。这些记忆犹如绽放的花朵，永远盛开在我们心中。
 
-<p align="justify">
-“I think such programmes are necessary and important as people from both sides can get to understand their counterpart’s cultures and traditions, so as to not have any tensions between the two countries. This programme is one of many ways to understand life on the other side of the border.” – Chan Hui Si, 3K</p>
+吴欣洳 3D，朱韵颖 3E，林柏安 3J
+</p>
 
-<p align="justify">
-“Twinning programmes with overseas schools provide students like myself with an opportunity to study in a different country and environment, experiencing the history and culture of another country, as well as meeting new friends to enrich their personal development. International exchange programs are also effective to challenge students to develop a global perspective.” – Tan Yih Hao, 3J</p>
+![](/images/Student%20Development/Overseas%20Experience/2024_GC_CIPTPE_01.jpg)
 
-<p>“I think such programmes are beneficial and necessary as they allow for cultural exchange and understanding of one another, which I personally feel is very important in today's political climate.” – Joshua Tan Kai, 3E</p>
-				
-##### Overseas Community Involvement Project
-      
-**November 2019**
-<p align="justify">
-Every year, selected student leaders have the opportunity to go to Chiang Mai, Thailand, for an enriching leadership experience on the Overseas Community Involvement Project.</p>
+![](/images/Student%20Development/Overseas%20Experience/2024_GC_CIPTPE_02.jpg)
 
-<p align="justify">
-As part of the Servant Leadership programme, these student leaders collaborate with the locals to provide a service to the villagers. As they work on the tasks for the village, they would need to adapt quickly to an unfamiliar environment while looking out for one another and ensuring each other's safety and well-being.</p>
+![](/images/Student%20Development/Overseas%20Experience/2024_GC_CIPTPE_03.jpg)
 
-<p align="justify">
-"I felt that the interaction with the kindergarten children was truly memorable. Through skits in Chinese, I was able to engage and empathise with the children in my class. Mural painting was another meaningful activity which not only added colour to their lives but also helped us give back to the community. OCIP provided me with a unique and enriching platform to expand my views of the world, forcing me to step out of my comfort zone to experience a different way of life." Leong En Hao, 4D 2020</p>
- 
-<p align="justify">
-"I clearly remember the road-paving activity. The whole process required much coordination and teamwork from everybody. Despite feeling tired and sore, I reminded myself to persevere.  Other-centredness was one leadership quality that I learnt from OCIP. There were numerous times when teammates placed others before themselves as they empathised with those who felt tired or worn out from the activities that they were engaged in.  Through this activity, I have learnt to take the initiative to help others when they need it, and do the right thing for others." Joseph Wee, 4F 2020</p>
+![](/images/Student%20Development/Overseas%20Experience/2024_GC_CIPTPE_04.jpg)
