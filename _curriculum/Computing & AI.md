@@ -4,13 +4,31 @@ permalink: /curriculum/computing-ai/
 variant: markdown
 description: Computing & AI
 ---
-#### 'O' level Computing
+#### Our Approach 
 <p align="justify">
-In 2023, AHS welcomed our first batch of Sec 3 students taking ‘O’ level Computing. The ‘O’ level Computing syllabus aims to provide students with the foundation to continue with further studies in computing, and the requisite skills to participate in a rapidly changing technological environment. The concepts and skills learnt in this ‘O’ level discipline would also be applicable in other fields that require computing.</p>
-<p align="justify">
-Our Computing students represented AHS in various competitions and programmes that stretched their talents and challenged them to use their programming skills to create value for others in the community. These include Splash Awards, Swift Explorers Singapore, National Digital Explorers, IDE Code Hackers, and stretch programmes by National University of Singapore Centre for Nurturing Computing Excellence.</p>
-<p align="justify">
-To give our students a broader perspective beyond the ‘O’ level curriculum, we invited alumnus Dylan Alden Kusbiyantoro (Class of 2022) to share his experience pursuing H2 Computing at Victoria Junior College. Mr Eric Chia (Class of 1993), CEO of Advocado, was invited to join in for our student presentations on their game development project. His feedback for the students provided valuable insights from the industry perspective, sharpening our students’ thinking. Eric also mentored the Splash Awards team in their app development idea, with the team making it to the top 24 pre-tertiary teams in Singapore!</p>
+With the rapid advancements in Artificial Intelligence (AI), it is crucial to empower our students with the knowledge, skills and right attitudes to use AI for good. Launched in 2021, all Secondary 2 students attend a weekly lesson on AI that is designed and conducted by AHS teachers. Through interactive activities, students learn key AI concepts such as natural language processing, machine learning and the importance of quality training data. Students also engage in discussions on the societal impact of AI applications, such as ChatGPT and deepfake technology.
+	
+In 2023, AHS welcomed our first batch of Sec 3 students taking ‘O’ level Computing. Our key approach lies in computational thinking, where students are taught to break down complex problems, analyse patterns and develop a logical approach to solve the problems in the 21st Century context. 
+</p>
+
+#### Learner Outcomes  
+The AI curriculum aims to foster AI literacy amongst the students in the following areas:
+| |  | 
+| -------- | -------- | 
+| AI Knowledge    | To equip students with knowledge of the core AI concepts and understand their applications in the AI-integrated world.    | 
+| AI Skills    | To equip students with basic programming and computational thinking skills to enable them to function in an AI-integrated society proficiently.     | 
+| AI Attitude     | To enable students to critically evaluate AI, recognise the potential ethical issues of using AI technologies and to use AI for the benefit of humanity.   | 
+
+The ‘O’ level Computing curriculum aims to provide students with the foundation to continue with further studies in computing, and the requisite skills to participate in a rapidly changing technological environment. Students will be able to:<br>
+●	Acquire knowledge and understanding of the computing concepts of logic, algorithms, data analysis, data representation and networking.<br>
+●	Develop and apply computational thinking skills such as abstraction and decomposition to solve real-world problems by designing, writing, testing and debugging programs.<br>
+●	Develop an appreciation of computing as a dynamic and creative field including awareness of recent developments in computer systems.<br>
+●	Develop an understanding of the social, ethical, legal and economic implications of computing.<br>
+●	Develop attitudes and 21CC needed to do well in computing such as inventive thinking, perseverance, collaboration, communication as well as striving for accuracy and thoroughness.<br>
+
+#### Key Programmes
+
+
 
 ![](/images/Curriculum/AI%20Computing/2023_AI_Computing_09a.jpg)
 
