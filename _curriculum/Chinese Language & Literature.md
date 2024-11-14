@@ -2,68 +2,115 @@
 title: Chinese Language & Literature
 permalink: /curriculum/chinese-language-n-literature/
 description: ""
+variant: markdown
 ---
-#### Vision
-通双语 晓文化 塑品格
+#### 部门工作指导方针 (Our Approach)
+圣中学中学欲培育一批可塑造未来的社会领袖，也重视华文华语的学习和接触，让华语深入校园生活。为达到上述两大目标，部门通过以下方式让学生具备相关的技能：<br>
+●	极力推广华文华语及华族文化：结合现有教材（普华、高华、华文文学）以及中华文史课灌输华族价值观，营造文化氛围<br>
+●	 学以致用：扣紧语言的实用性，并结合生活化语境及材料进行教学，在教导“听、说、读、写”的技能<br>
+●	关注时事：通过各类型的阅读材料了解天下事<br>
+●	因材施教：根据学生的语文程度让学生接触校内和校外的语文活动<br>
+●	教育与职业辅导：通过校内活动让学生理解母语与职业和生活密不可分<br>
+●	结合科技：利用多媒体平台辅助教学，以达到理想的学习效果<br>
 
-#### Mission
-为国家与社会培养勤奋正直，精通双语的领袖之才。
 
-#### Subjects Offered:
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 500px"><colgroup><col style="width: 180px"><col style="width: 320px"></colgroup><thead><tr><th style="background-color:#1d4b3e;border-color:#efefef;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#1d4b3e">Level</span></th><th style="background-color:#1d4b3e;border-color:#efefef;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#1d4b3e">Subject</span></th></tr></thead><tbody><tr><td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">Lower Secondary</span></td><td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">高级华文 (Higher Chinese)</span><br></td></tr><tr><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF"> </span></td><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">快捷华文 (Chinese)</span></td></tr><tr><td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9"> </span></td><td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">中华文史 (Appreciation of Chinese Culture)</span></td></tr><tr><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">Upper Secondary</span></td><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">高级华文 (Higher Chinese)</span><br></td></tr><tr><td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9"> </span></td><td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">快捷华文 (Chinese)</span></td></tr><tr><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF"> </span></td><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">华文文学(完整/配对课程) (Literature in Chinese)</span></td></tr></tbody></table>
+#### 学习成果 (Learner Outcomes)
+通过上述指导方针，部门欲培养学生具备以下素质及技能：<br>
+●	精通双语：可利用英语和华语有效地在各种场合与他人进行书面语交流和口语交流<br>
+●	通晓跨国和跨族文化：理解不同族群和不同国家的文化特点，在不同场合和语境中综合各种考量展现自我，表现得体<br>
+●	 知书达理：认识源远流长的华族历史及其优良价值观和人生观，加之运用在生活中，以身作则，言传身教，视为楷模<br>
+●	心系社会：了解社会动态，关心天下事<br>
 
-#### Key Programmes:
+
+
+#### 重点特色项目(Key Programmes)
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 804px"><colgroup><col style="width: 186px"><col style="width: 77px"><col style="width: 541px"></colgroup>
 	<thead>
 		<tr>
-			<th style="background-color:#1d4b3e;border-color:#efefef;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#1d4b3e">Name of Key Programme</span></th>
-			<th style="background-color:#1d4b3e;border-color:#efefef;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#1d4b3e">Level</span></th>
-			<th style="background-color:#1d4b3e;border-color:#efefef;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#1d4b3e">Description</span></th></tr></thead>
+			<th style="background-color:#1d4b3e;border-color:#efefef;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#1d4b3e">项目</span></th>
+			<th style="background-color:#1d4b3e;border-color:#efefef;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#1d4b3e">年级</span></th>
+			<th style="background-color:#1d4b3e;border-color:#efefef;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#1d4b3e">内容</span></th></tr></thead>
 	<tbody>
 		<tr>
-			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px; overflow:hidden; padding:10px 5px;text-align:left; vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">中学华文特选课程</span><br></td>
-			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">中三</span><br><span style="color:#222;background-color:#EDF6F9">中四</span><br></td>
-			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">教育部在2020年开办了中学华文语文特选课程（简称中学语特）。鼓励对华文和华文文学有浓厚兴趣的同学选读。全国共有九所中学开办语特课程，我校即是其中之一。 我校的语特课程名为“竹音”，以播音主持和媒体采编为主要特色，特地邀请专业人士对语特学生进行培训，然后在老师的指导下开办“竹音”校园广播和出版《竹音》校报，以此提高语特学生的语言与文学素养。</span><br></td>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px; overflow:hidden; padding:10px 5px;text-align:left; vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">母语双周 (Mother Tongue Fortnight)</span><br></td>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">全校</span><br></td>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">部门为所有学生设计各种有趣的活动，让学生在欢乐之余意识到华文华语在生活中的实用性和必要性，必不可少。</span><br></td>
 		</tr>
 		<tr>
-			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">母语双周</span><br></td><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">中一</span><br><span style="color:#222;background-color:#FFF">中二</span><br><span style="color:#222;background-color:#FFF">中三</span><br><span style="color:#222;background-color:#FFF">中四</span><br></td>
-			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">我校的母语双周以“学语言，学文化”为主题。围绕这个主题，我们为不同年级设计融文化内涵与趣味为一体的活动与课程。这些课程以华文为媒介语，让学生了解不同种族与地区的一些文化现象，同时积累相关的华语词汇与知识。</span><br></td></tr><tr><td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">校园阅读计划</span><br></td>
-		<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">中一</span><br><span style="color:#222;background-color:#EDF6F9">中二</span><br><span style="color:#222;background-color:#EDF6F9">中三</span><br><span style="color:#222;background-color:#EDF6F9">中四</span><br></td>
-		<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">阅读对于语言学习的重要性不言自明。为了鼓励学生阅读华文书籍与报刊，我校用以下的方式推动阅读计划：</span><br><br>订阅《早报逗号》，并要求学生制作剪报。<br>订阅《少年文摘》，让学生自由阅读。<br>假期功课以“阅读报告”的形式呈现，鼓励学生自主阅读。<br>早会华文分享时段，老师和学生面向全校分享读书心得。</td></tr>
+			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">校园阅读计划</span><br></td><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">全校</span><br></td>
+			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">部门通过老师导读《早报逗号》篇章、独立篇章阅读、语特学生广播录制以及诗歌和课文朗诵等方式营造阅读风气，鼓励学生培养阅读多阅读华文语料。</span><br></td></tr><tr><td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">学生作品集《飞鹰》</span><br></td>
+		<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">全校</span><br></td>
+		<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">《飞鹰》是我校年刊性质的学生华文文集，浓缩了全校学生的优秀作品。这些作品记录了学生们的思想、情感与青春记忆，是他们中学时代的坚实脚印。老师们也可利用这些文章进行写作与阅读的教学，更易引起学生的共鸣。所以这本薄薄的小册子对我校师生是意义非凡的学习成果和教学素材。</span></td></tr>
 		<tr>
-			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">学生作品集《飞鹰》</span><br></td><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">中一</span><br><span style="color:#222;background-color:#FFF">中二</span><br><span style="color:#222;background-color:#FFF">中三</span><br><span style="color:#222;background-color:#FFF">中四</span><br></td>
-			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">《飞鹰》是我校年刊性质的学生华文文集，至今已出版整四十期。这本年刊浓缩了全校学生的优秀作品。这些作品记录了学生们的思想、情感与青春记忆，是他们中学时代的坚实脚印。老师们又可利用这些文章进行写作与阅读的教学，更易引起学生的共鸣。所以这本薄薄的小册子对我校师生却是意义非凡的学习成果和教学素材。</span><br></td></tr>
+			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">校园华文写作及漫画比赛》</span><br></td><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">全校</span><br></td>
+			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">校园华文写作及漫画比赛是一个学生们展示写作与绘画才华的平台，也让这些有特长的学生有机会彼此交流和学习。 我们训练学生用华文思考并创作的能力，培养他们的创意和创新精神。我校也通过这项活动选拔一些特别优秀的学生，给他们提供更多的成长空间与养分。</span><br></td></tr>
 		<tr>
-			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">校园华文写作及漫画比赛 </span></td>
-			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">中一</span><br><span style="color:#222;background-color:#EDF6F9">中二</span><br><span style="color:#222;background-color:#EDF6F9">中三</span><br><span style="color:#222;background-color:#EDF6F9">中四</span><br></td>
-			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">校园华文写作及漫画比赛是一个学生们展示写作与绘画才华的平台，也让这些有特长的学生有机会彼此交流和学习。 我们训练学生用华文思考并创作的能力，培养他们的创意和创新精神。我校也通过这项活动选拔一些特别优秀的学生，给他们提供更多的成长空间与养分。 </span></td></tr>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">华文语文特选课程 (Chinese Language Elective Program) </span></td>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">中三-
+中四
+</span><br></td>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">教育部在2020年开办了中学华文语文特选课程，以鼓励对华文和华文文学有浓厚兴趣的同学选读。全国共有九所中学开办语特课程，我校即是其中之一。 我校的语特课程名为“竹音”，以媒体采编为主要特色，并在老师的指导下出版《竹音》校报，以此提高语特学生的语言与文学素养。 </span></td></tr>
 		<tr>
-			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">全国华语类校际赛事与活动 </span></td>
-			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">中一</span><br><span style="color:#222;background-color:#FFF">中二</span><br><span style="color:#222;background-color:#FFF">中三</span><br><span style="color:#222;background-color:#FFF">中四</span><br></td>
-			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">每年，新加坡的各大文教机构都会举办很多华语相关的校际比赛与活动。这些活动是学生们展示才华的舞台。圣中华文部每年都会根据学生的意愿与特长，精选一些活动派队参加。我校在这些活动中屡获佳绩，但学生们的收获不仅是荣誉，还有能力、自信与魄力的提升。过去几年中，圣中华文部主要参与的全国性比赛如下：</span><br><br>驻校作家<br>文化随意门<br>文学四月天<br>华文大比拼<br>全国中学生编采比赛<br>全国中学生书法比赛<br>全国中小学课文朗读比赛<br>全国中学生微型小说创作比赛<br>全国中学及初级学院华语短片制作比赛<br>全国中学华文创意写作大赛——“新蕾奖”</td>
+			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">华文人才培育计划 (Chinese Talent Development Program)</span></td>
+			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">部分
+学生
+</span><br></td>
+			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">部门为对华文华语感兴趣的学生开办不同性质的语文课程，让他们有更多机会接触华文华语，掌握职场上的重要技能，同时鼓励学生在未来职业规划里视其为考量，在各项生活领域中继续活用华文华语。</span></td>
 		</tr>
+			<tr>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px; overflow:hidden; padding:10px 5px;text-align:left; vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">  </span><br></td>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">  </span><br></td>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9"><b>双文化部门</b></span><br></td>
+		</tr>
+		<tr>
+			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">圣公会中学中华文史课程 (Appreciation of Chinese Culture)</span><br></td><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">中一, 
+中二
+</span><br></td>
+			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">学生可在课程中初步接触历史（古代中国历史、东南亚华人史、新加坡华人历史、圣公会中学校史）、同时也有机会参与如本地新谣、歌词改写等新颖有趣的课堂活动。</span><br></td></tr><tr><td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">全国中小学双语创意写作比赛 (National Bilingual Creative Writing Competition)
+</span><br></td>
+		<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">全校</span><br></td>
+		<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">身处在瞬息万变、信息爆炸的科技年代，掌握双语至关重要。这个一年一度的比赛旨在激发学生的创作热情，培养学生双语创作能力及创造性思维。</span></td></tr>
+		<tr>
+			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">校内华族节日庆祝会
+（农历新年庆祝会、 中秋节晚会）》</span><br></td><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">全校</span><br></td>
+			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">部门老师设计各种与传统华族节日相关的活动，让全校师生感染华族传统佳节的愉悦气息，同时了解这些节日背后的含义。</span><br></td></tr>
+		<tr>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">圣公会中学环球课室课程 :   浸濡之旅 (Anglican High School Global Classroom : Chinese Immersion Program) </span></td>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">中三
+</span><br></td>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">学生有机会参加浸濡之旅，与来自中国和台湾的伙伴学校交流，并结合未来问题解决计划理论 (Future Problem Solving Theory)进行学术讨论，从中以不同视角看待课题，获取新知识。 </span></td></tr>
 	</tbody>
 </table>
 
-<!-- Codes by HTML.am -->
+#### 增广课程 (Enrichment)
+语文学习并不止于课文及相关技能的教学。部门通过以下平台让学生学以致用，发挥所长：<br>
 
-<!-- CSS Code -->
-<style type="text/css">
-img.GeneratedImage {
-width:269px;height:403px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
-}
-</style>
+<u>各项校际比赛、全国比赛、分享会、工作坊</u><br>
+•	为学生提供更多学习平台，以挑战自我，同时继续吸收新知识。平台包括全国华文大比拼、全国课文朗诵比赛、新蕾奖、全国中学及初级学院华语短片制作比赛、《我来报新闻》挑战赛<br>
+•	为学生提供机会开拓视野，通过参加专人分享会、工作坊·以及分享及聚焦小组讨论的方式
+学习新知识，开拓视野。这包括如课程规划与发展司举办的活动、不同华人机构和学校联办的分享会和论坛会等。<br>
 
-<!-- HTML Code -->
-<img class="GeneratedImage" src="/images/Curriculum/CL/Teo_Yi_Sheng.jpg">
-<p align="justify">
-人生之路布满荆棘，走起来着实不易，磕磕绊绊。我希望学生做事持之以恒，灵活处理人生中的任何问题，并继续使用华文华语。<br>
--- Mr Teo Yi Sheng, Level Head (Chinese)</p>
+<u>学习与华族相关的技艺</u><br>
+•	学生可在中华文史课上亲自动手，尝试一些与华族文化及圣中校园文化息息相关的技艺。这包括中国象棋、水墨画、篆刻及口琴。<br>
 
+<u>学习之旅</u><br>
+•	部门不仅为华文人才培育计划中的学生开办不同性质的兴趣班，同时也适时让学生通过学习之旅的方式了解不同行业的专业人士如何在职场上灵活运用华文华语。<br>
 
 
-<!-- HTML Code -->
-<img class="GeneratedImage" src="/images/Curriculum/CL/Shen_Yu_Hung.jpg">
-<p align="justify">
-身为一个华文老师，我最大的喜乐和骄傲就是看到学生在四年学习华文期间，渐渐地喜欢上华文并在生活中学而用之，贯彻书本中的知识和人生道理。<br>-- Mr Shen Yu Hung 沈育弘 Teacher (Chinese)</p>
+.
+母语双周：中一学生成组进行讨论，尝试破解线上密室逃脱游戏中的语文题目。中二学生成组进行“方块精灵”游戏，通过拼凑的方式认识、接触不同汉字。
+
+
+.
+华语文人才培育计划：中一学生参与由推广华语学习委员会举办的推理语文游戏《谁是推理王》。中三学生参与了华语微型电影制作及剪辑工作坊。
+
+
+.
+中华文史课程：除了学习朝代历史、圣中校史以及东南亚华人史，圣中学生也有机会上不同兴趣班，接触并学习不同于华族文化相关的技能。
+
+
+.
+参与比赛及工作坊：圣中学生积极参与各项全国级比赛，例如《新蕾奖》、《华文大比拼》、《青少年双语模拟联合国》等，累计更多课堂以外的指示，增广见闻、开拓视野。
+
+
