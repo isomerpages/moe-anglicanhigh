@@ -58,8 +58,27 @@ variant: markdown
 </span><br></td>
 			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">部门为对华文华语感兴趣的学生开办不同性质的语文课程，让他们有更多机会接触华文华语，掌握职场上的重要技能，同时鼓励学生在未来职业规划里视其为考量，在各项生活领域中继续活用华文华语。</span></td>
 		</tr>
+			<tr>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px; overflow:hidden; padding:10px 5px;text-align:left; vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">  </span><br></td>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">  </span><br></td>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9"><b>双文化部门</b></span><br></td>
+		</tr>
+		<tr>
+			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">圣公会中学中华文史课程 (Appreciation of Chinese Culture)</span><br></td><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">中一, 
+中二
+</span><br></td>
+			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">学生可在课程中初步接触历史（古代中国历史、东南亚华人史、新加坡华人历史、圣公会中学校史）、同时也有机会参与如本地新谣、歌词改写等新颖有趣的课堂活动。</span><br></td></tr><tr><td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">全国中小学双语创意写作比赛 (National Bilingual Creative Writing Competition)
+</span><br></td>
+		<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">全校</span><br></td>
+		<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">身处在瞬息万变、信息爆炸的科技年代，掌握双语至关重要。这个一年一度的比赛旨在激发学生的创作热情，培养学生双语创作能力及创造性思维。</span></td></tr>
+		<tr>
+			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">校内华族节日庆祝会
+（农历新年庆祝会、 中秋节晚会）》</span><br></td><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">全校</span><br></td>
+			<td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FFF">部门老师设计各种与传统华族节日相关的活动，让全校师生感染华族传统佳节的愉悦气息，同时了解这些节日背后的含义。</span><br></td></tr>
+		<tr>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">圣公会中学环球课室课程 :   浸濡之旅 (Anglican High School Global Classroom : Chinese Immersion Program) </span></td>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">中三
+</span><br></td>
+			<td style="background-color:#EDF6F9;border-color:#efefef;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#EDF6F9">学生有机会参加浸濡之旅，与来自中国和台湾的伙伴学校交流，并结合未来问题解决计划理论 (Future Problem Solving Theory)进行学术讨论，从中以不同视角看待课题，获取新知识。 </span></td></tr>
 	</tbody>
 </table>
-
-
-
