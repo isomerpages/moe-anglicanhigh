@@ -9,7 +9,7 @@ We seek to equip our students with 21st Century skills and dispositions of a sci
 
 The key approach is inquiry-based learning (IBL), where students are inquirers and teachers are facilitators as shown by the hands in the MOE science curriculum framework below.
 
-Picture
+![](/images/Curriculum/Science/2024_Science_01.png)
 
 In IBL, we use the 5E instructional model (Engage, Explore, Explain, Elaborate , Evaluate), which provides a structure for students to connect science ideas with their experiences and apply their learning to new contexts.
 
@@ -50,12 +50,8 @@ Secondary Two students learn about food security and experience growing vegetabl
 ##### Enrichment
 Students are given learning experiences beyond the school through various learning journeys and workshops conducted by Institutes of Higher Learning (e.g. NUS, Temasek Poly), Victoria Junior College, Singapore Science Centre, Gardens by the Bay and the National Kidney Foundation.
 
-
+![](/images/Curriculum/Science/2024_Science_02.jpg)
 Participants of the 16th International Science Youth Forum (ISYF) at HCI, Aeryn Ang, Inez Ho and Rachel Lin, at their project booth.
 
-
-
+![](/images/Curriculum/Science/2024_Science_03.jpg)
 Aeryn Ho receiving a plaque on behalf of AHS.
-
-
-
