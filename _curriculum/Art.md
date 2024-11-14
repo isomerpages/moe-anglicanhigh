@@ -82,4 +82,4 @@ This programme allows our students to be immersed in the rich array of art and c
 The Annual Aesthetics Showcase is a celebration of artistic talent and creativity, featuring a curated selection of works by students from all levels. This showcase not only highlights the individual achievements of each student but also fosters a sense of community and appreciation for the arts within our school.
 ![](/images/Curriculum/Art/2024_Art_09.jpg)
 
-For the latest updates on our students’ artworks, competitions and learning experiences, do check out our Instagram page at https://www.instagram.com/ahs.visualarts/ 
+For the latest updates on our students’ artworks, competitions and learning experiences, do check out our Instagram page at https://www.instagram.com/ahs.visualarts/
