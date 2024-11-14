@@ -72,12 +72,14 @@ As part of talent development, our Lower Sec and Upper Sec Art students have par
 
 ![](/images/Curriculum/Art/2024_Art_06.jpg)
 
-![](/images/Curriculum/Art/2024_Art_07.png)
+![](/images/Curriculum/Art/2024_Art_07.jpg)
 
 **Visit to the National Gallery and art exhibitions**<br>
 This programme allows our students to be immersed in the rich array of art and culture at the National Gallery and various art exhibitions. Through curated tours and interactive sessions, students explore diverse artistic styles, historical periods, and thought-provoking themes. 
-
-picture
+![](/images/Curriculum/Art/2024_Art_08.jpg)
 
 **Aesthetics Showcase**<br>
 The Annual Aesthetics Showcase is a celebration of artistic talent and creativity, featuring a curated selection of works by students from all levels. This showcase not only highlights the individual achievements of each student but also fosters a sense of community and appreciation for the arts within our school.
+![](/images/Curriculum/Art/2024_Art_09.jpg)
+
+For the latest updates on our students’ artworks, competitions and learning experiences, do check out our Instagram page at https://www.instagram.com/ahs.visualarts/ 
