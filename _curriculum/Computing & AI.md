@@ -67,23 +67,3 @@ Mr Eric Chia (Class of 1993), CEO of Advocado, was also invited to join in for o
 ![](/images/Curriculum/AI%20Computing/2023_AI_Computing_02.jpg)
 
 ![](/images/Curriculum/AI%20Computing/2023_AI_Computing_01.jpg)
-
-#### Artificial Intelligence
-
-<p align="justify">
-To empower our students with the knowledge, skills and right attitudes in the use of Artificial Intelligence, all Secondary 2 students attend a weekly lesson on A.I. that is specially designed and conducted by AHS teachers. This AI curriculum aims to foster AI literacy amongst the students in the following areas:</p>
-
-
-
-| |  | 
-| -------- | -------- | 
-| AI Knowledge    | To equip students with knowledge of the core AI concepts and understand their applications in the AI-integrated world.     | 
-| AI Skills    | To equip students with basic programming and computational thinking skills to enable them to function in an AI-integrated society proficiently.     | 
-| AI Attitude     | To enable students to critically evaluate AI, recognise the potential ethical issues of using AI technologies and to use AI for the benefit of humanity.    | 
-
-<p align="justify">
-Students have hands-on learning on machine learning concepts and the importance of quality training data, natural language processing and speech recognition. Students also engage in discussions on the pros and cons of AI applications, such as ChatGPT and deepfake technology.</p>
-
-![](/images/Curriculum/AI%20Computing/2023_AI_Computing_05.jpg)
-
-![](/images/Curriculum/AI%20Computing/2023_AI_Computing_07.jpg)
