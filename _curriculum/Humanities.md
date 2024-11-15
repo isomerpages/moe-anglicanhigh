@@ -5,12 +5,13 @@ description: ""
 variant: markdown
 ---
 #### Our Approach
-dedicated to exploring different avenues to enhance the Humanities learning experiences for our students and to apply them in the context of the 21st Century.
+<p align="justify">
+Recognising that learning is a continuous journey, our Humanities educators at AHS are dedicated to exploring different avenues to enhance the Humanities learning experiences for our students and to apply them in the context of the 21st Century.
 
 We extend education beyond the confines of the traditional curriculum and classroom setting. Our goal is to ignite a passion for Humanities, nurturing curiosity for the world we live in and fostering critical thinking skills which are important for our students to thrive in the future. Through innovative pedagogical approaches such as Inquiry-Based Learning, Experiential Learning and Differentiated Instructions, we equip students with the necessary tools and knowledge to navigate and influence their surroundings effectively, empowering them to become catalysts for positive change in society.
 
 We embrace the evolving landscape of education by harnessing the power of educational technology tools and Artificial Intelligence (AI). By integrating these advancements into our teaching practices, we ensure that our students are well-prepared for the demands of the digital age and equipped with the skills necessary to thrive in an ever-changing world.
-
+</p>
 
 #### Learner Outcomes
 •	Engaged and Future-Ready Humanities Learners<br>
