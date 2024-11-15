@@ -5,9 +5,10 @@ description: ""
 variant: markdown
 ---
 #### Our Approach 
+<p align="justify">
 Art has been a valuable mode of human expression throughout history. Art plays many important roles in our lives. It captures memories, communicates ideas, shapes values and evokes emotions. 
 
-At AHS, our key approach lies in the use of differentiated instruction to cater to different students’ readiness, interests and learning profiles. Students will engage in collaborative art-making and art conversations that allow them to deepen their critical, adaptive and inventive thinking skills. Students will also be taught how to use digital tools to create digital illustrations and animations.  
+At AHS, our key approach lies in the use of differentiated instruction to cater to different students’ readiness, interests and learning profiles. Students will engage in collaborative art-making and art conversations that allow them to deepen their critical, adaptive and inventive thinking skills. Students will also be taught how to use digital tools to create digital illustrations and animations.  </p>
 
 
 #### Learner Outcomes 
