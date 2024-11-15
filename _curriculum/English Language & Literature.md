@@ -5,12 +5,13 @@ description: ""
 variant: markdown
 ---
 #### Our Approach 
+<p align="justify">
 The mastery of the English Language in its various components - Listening &amp; Viewing, Writing &amp; Representing, Speaking &amp; Representing and Grammar - is essential in nurturing students to be confident speakers and communicators with the necessary 21st Century Competencies. 
 
 In English Language classrooms, **students explore relevant themes pertaining to Self and Society**, such as Food, Conflict, Artificial Intelligence and more. In addition, students are given opportunities to **create and interact with Multimodal texts, participate in rich discussion and collaborative work**, and **develop Metacognition through critical thinking and reflection**. Through the curriculum, students will learn for life and create value for others, leveraging English Language and Literature competencies to connect with cultural experiences of the world. 
 
 The study of English Literature is particularly crucial in developing 21st Century Competencies such as **Global Awareness** and **Critical and Inventive Thinking**. In Literature classrooms, **students study and discuss texts from different cultures that explore a range of timeless human concerns**. This ranges from local poetry on Singapore landmarks and identity, to global texts centred on essentially human experiences like love, family, and relationships. Students are also **trained to accept ambiguity and multiple perspectives** to help them navigate a world where there are increasingly fewer easy solutions or answers.
-
+</p>
 
 #### Learner Outcomes 
 The English Language Syllabus 2020 and English Literature syllabus seek to develop these competencies in our learners to enable them to be:
@@ -70,8 +71,3 @@ Students being briefed on the National Organ Transplant Unit Essay (NOTU) Compet
 “Participating in the Live On Festival writing competition was truly a revelation for me. I was able to be exposed to the topic of organ donation, a rarely covered yet prominent issue, and got comments and suggestions on how to improve my writing through vetting with the teachers. It was an amazing experience that allowed me to see, grow and learn.” - Caleb Kuah 3A
 
 “The learning journey was an invaluable learning opportunity and chance to take learning out of the classroom. I was able to gain insight into the forethought and process of writers as they pen poetry, the message that they want to convey, and the various forms of techniques that leave readers inspired. There is something memorable about connecting a piece of writing to its source; it instills appreciation for language, and the learning journey was an unparalleled experience to take my literary journey a step further!” - Lam Kai Qi, 4A
-
-
-
-
-
