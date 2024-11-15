@@ -41,50 +41,53 @@ The O-Level Music curriculum aims to enable students to explore music through th
 You can refer to 
 <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/6085_y21_sy.pdf">the link here</a> for more information.
 
+##### Enrichment
+<b><u>Learning beyond the Curriculum</u></b><br>
+At Anglican High School, students are encouraged to pursue their love and interest in music through performing, creating and listening to a variety of music genres. The Music department also organizes talks and workshops for students who are interested<br>
+**Some music memories over the years**
+![](/images/Curriculum/Music/2024_Music_01.jpg)
+Online learning on bandlab with Mr Joel Yeo, 2021<br>
+
+![](/images/Curriculum/Music/2024_Music_02.jpg)
+
+![](/images/Curriculum/Music/2024_Music_03.jpg)
+Drum Circle Music workshop at PRCS, 2022  Percussion workshop with Mr Benjamin Boo, 2022<br>
+
+![](/images/Curriculum/Music/2024_Music_04.jpg)
+
+![](/images/Curriculum/Music/2024_Music_05.jpg)
+
+![](/images/Curriculum/Music/2024_Music_06.jpg)
+Learning Journey to Evergreen Secondary School Gamelan Ensemble, 2023<br>
+
+![](/images/Curriculum/Music/2024_Music_07.jpg)
+
+![](/images/Curriculum/Music/2024_Music_08.jpg)
+DJ Music Workshop with Mr Chawit, 2023<br>
+
+![](/images/Curriculum/Music/2024_Music_09.jpg)
+AHS Career Panel Discussion by Alumni, 2024<br>
+
+![](/images/Curriculum/Music/2024_Music_10.jpg)
+O-Level Music Concert outing to VCH, 2024<br>
+
+![](/images/Curriculum/Music/2024_Music_11.jpg)
+Our Music Teachers Mrs Kimberley Sng and Ms Koh Jia Feng, who believe that music is a universal language that anyone can use to reach out and bring joy to others.<br>
+
+Connect with us through our instagram page **@AHSlovesmusic.**
+
+**More music memories**<br>
+2020 Covid Project - Howl’s Moving Castle <a href="https://youtu.be/29SPH6YfgJo">click here to view</a><br>
+2021 The School Song <a href="https://www.youtube.com/watch?v=Z6rYP4Lh1C0">click here to view</a><br>
+2022 Sec 3 O-Level Music Concert <a href="https://youtu.be/dPA_8cnY2xk">click here to view</a><br>
+2023 Gamelan Exploration @ Evergreen Sec <a href="https://youtu.be/vRvuVVYY-GM">click here to view</a><br>
+2024 Secondary 1 STOMP project (1J) <a href="https://youtu.be/lEfsae_WkEQ">click here to view</a><br>
+2024 Battle of the Bands: Sec 2E <a href="https://youtu.be/3o6P62b2T2g">click here to view</a><br>
+2024 Battle of the Bands: Sec 2G <a href="https://youtu.be/vIvEZb7lWeI">click here to view</a><br>
+2024 Battle of the Bands: Sec 2J <a href="https://youtu.be/8akEAq1vxg0">click here to view</a><br>
 
 
-##### Application for GCE O-Level Music Course (2024)
-Application for the O-Level Music course, which starts in the Secondary 3 academic year, is open to students studying in Secondary 2.<br>
-<b>All applicants are required to complete <u>all components</u> of the selection exercise, regardless of their attainment of certifications by external examination boards.</b><br>
-
-<b><u>Selection Exercise</u></b><br>
-The Selection Exercise consists of two components:<br>
-<i>Component 1 – Recorded performance (online submission)</i> <b><u>due 1st week September 2024</u></b><br>
-
-* Perform and video-record two contrasting (e.g. different style, tradition, mood) solo pieces on an instrument or voice, lasting no longer than 5 minutes in total. If the video-recording exceeds 5 minutes, only the first 5 minutes of the submission will be assessed.<br>
-* Accompaniment is not required and will not affect the assessment of the performance.<br>
-* Video-recording(s) must be made not more than 4 months before the application deadline.<br>
-* Submit the link(s) to the video-recording(s) together with the online application for the course.<br>
-
-<i>Component 2 – E-listening Test </i> <b><u>16 August 2024 (PM) </u></b><br>
-
-More detailed guidelines regarding the video recording(s) and Listening Test will be provided by the music teacher to the potential applicant during the briefing for the O-Level Music course, which starts in the Secondary 3 academic year. <br>
-
-<b>Applicants <u>must</u> meet the requirements for <u>both Components 1 and 2</u> to qualify for the course.</b><br>
-
-<b><u>Conduct of Lessons</u></b><br>
-Lessons will be held within curriculum time for approximately 175 minutes a week at Anglican High School. Successful applicants will receive an email in late September before the Subject Combination Exercise.<br>
-Successful applicants are advised to continue engaging in the practice of their instrument(s) outside curriculum hours to ensure that there is consistent progress and proficiency.<br>
-For further clarifications, please contact the O-Level Music Coordinator:<br>
-Mrs Kimberley Sng<br>
-foo_ern-i_kimberley@moe.edu.sg<br>
 
 
 
-<style type="text/css">
-img.GeneratedImage {
-width:269px;height:403px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
-}
-</style>
 
-
-<img class="GeneratedImage" src="/images/Curriculum/Music/Kimberley_Foo.jpg">
-
-<p align="justify">
-Song-writing is a wonderful vehicle to give our children a voice to speak out about things that are hard to talk about. I want to empower students so that they can share good ideas and good feelings to make a better future.<br>-- Mrs Kimberley Sng, Subject Coordinator (Music)</p>
-
-![](/images/Curriculum/Music/Music_Garageband.jpg)
-O level secondary 3 students using Garageband to sequence their songs
-
-![](/images/Curriculum/Music/World_Music_Workshop.jpg)
-O level students meet at Pasir Ris Crest Secondary School for a Malay and Indian music Workshop experience.
