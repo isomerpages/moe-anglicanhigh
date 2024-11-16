@@ -4,6 +4,5 @@ permalink: /achievements/academic-achievements/
 description: ""
 variant: markdown
 ---
-
-![](/images/Achievements/2023_Academic_Achievements.jpg)
-![](/images/Achievements/Academic/2022_academic_achievements.jpg)
+![](/images/Achievements/Academic/2024_Academic_Achievements_01.jpg)
+![](/images/Achievements/Academic/2024_Academic_Achievements_02.jpg)

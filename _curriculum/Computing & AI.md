@@ -12,12 +12,14 @@ In 2023, AHS welcomed our first batch of Sec 3 students taking ‘O’ level Com
 </p>
 
 #### Learner Outcomes  
-The AI curriculum aims to foster AI literacy amongst the students in the following areas:
-| |  | 
+The AI curriculum aims to foster AI literacy amongst the students in the following areas:<br>
+|. |. | 
 | -------- | -------- | 
-| AI Knowledge    | To equip students with knowledge of the core AI concepts and understand their applications in the AI-integrated world.    | 
-| AI Skills    | To equip students with basic programming and computational thinking skills to enable them to function in an AI-integrated society proficiently.     | 
-| AI Attitude     | To enable students to critically evaluate AI, recognise the potential ethical issues of using AI technologies and to use AI for the benefit of humanity.   | 
+| AI Knowledge    | To equip students with knowledge of the core AI concepts and understand their applications in the AI-integrated world.   | 
+| AI Skills    | To equip students with basic programming and computational thinking skills to enable them to function in an AI-integrated society proficiently.  | 
+| AI Attitude     | To enable students to critically evaluate AI, recognise the potential ethical issues of using AI technologies and to use AI for the benefit of humanity. | 
+|  |  | 
+
 
 The ‘O’ level Computing curriculum aims to provide students with the foundation to continue with further studies in computing, and the requisite skills to participate in a rapidly changing technological environment. Students will be able to:<br>
 ●	Acquire knowledge and understanding of the computing concepts of logic, algorithms, data analysis, data representation and networking.<br>
