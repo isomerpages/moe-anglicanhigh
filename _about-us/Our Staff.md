@@ -587,7 +587,7 @@ variant: markdown
   </tr>
 	<tr>
     <td>Mr Alaric Leong</td>
-    <td>4J</td>
+    <td>4J.</td>
     <td>leong_keng_wah_alaric@schools.gov.sg</td>
   </tr>
 	
