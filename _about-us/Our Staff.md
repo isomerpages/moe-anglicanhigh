@@ -18,6 +18,11 @@ variant: markdown
     <td>陈立强</td>
     <td>Vice-Principal (Curriculum)</td>
   </tr>
+		<tr>
+    <td>Ms Wong Hsien Hui</td>
+    <td></td>
+    <td>Vice-Principal (Curriculum)</td>
+  </tr>
   <tr>
     <td>Mr Seah Thiam Siong</td>
     <td>谢添雄</td>
