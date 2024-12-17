@@ -11,7 +11,7 @@ sections:
       title: Every  AHS  Student                   A Leader
       key_highlights:
         - title: AHS Sec One Registration
-          description: Click here for details
+          description: ""
           url: go.gov.sg/ahssec1reg
   - infopic:
       title: AHS Sec One Registration
