@@ -14,14 +14,11 @@ sections:
           description: Click here for details
           url: go.gov.sg/ahssec1reg
   - infopic:
-      title: AHS Open House
-      subtitle: 23 Nov 2024 (Sat) 9am-1pm
+      title: AHS Sec One Registration
       id: infopic
-      description: Visit our Open House site for more information, including the
-        schedule for the Principal's Talk, Guided Tours, and CCA Performances.
       button: Click Here
-      url: https://go.gov.sg/ahsopenhouse2024
-      image: /images/open_house_2024.jpg
+      url: go.gov.sg/ahssec1reg
+      image: /images/About us/2024_Sec_1_Reg.jpg
       alt: Image alt text
   - infopic:
       title: Soar at AHS
