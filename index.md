@@ -10,9 +10,9 @@ sections:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
       key_highlights:
-        - title: AHS Open House
-          description: 23 Nov 2024 (Sat) 9am-1pm
-          url: https://go.gov.sg/ahsopenhouse2024
+        - title: AHS Sec One Registration
+          description: Click here for details
+          url: go.gov.sg/ahssec1reg
   - infopic:
       title: AHS Open House
       subtitle: 23 Nov 2024 (Sat) 9am-1pm
