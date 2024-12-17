@@ -16,7 +16,7 @@ sections:
   - infopic:
       title: AHS Sec One Registration
       id: infopic
-      button: Click Here
+      button: Click Here for details
       url: go.gov.sg/ahssec1reg
       image: /images/About us/2024_Sec_1_Reg.jpg
       alt: Image alt text
