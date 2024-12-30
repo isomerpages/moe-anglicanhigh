@@ -459,9 +459,9 @@ variant: markdown
     <td>song_ju_mei@schools.gov.sg</td>
 </tr>
 <tr>
-    <td>.</td>
-    <td>.</td>
-    <td>.</td>
+    <td>Mr Philemon Foo</td>
+    <td>3G</td>
+    <td>foo_tze_liang@schools.gov.sg</td>
 </tr>
 <tr>
     <td>Ms Priyanka</td>
