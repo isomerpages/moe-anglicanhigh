@@ -35,8 +35,8 @@ variant: markdown
 <table style="width:100%">
  
   <tbody><tr>
-    <td>Ms Chan Chui Leng</td>
-    <td>陈翠铃</td>
+    <td>Mdm Low Geok Ling</td>
+    <td>-</td>
     <td>School Staff Developer (SSD)</td>
   </tr>
 	<tr>
@@ -97,7 +97,12 @@ variant: markdown
 	<tr>
     <td>Mr Martin Yong Guanghui</td>
     <td>杨光辉</td>
-    <td>HOD/ Student Leadership and Management</td>
+    <td>HOD/ Mathematics</td>
+  </tr>
+			<tr>
+    <td>Mrs Diane Ang</td>
+    <td>-</td>
+    <td>HOD/ Student Management</td>
   </tr>
 		
 </tbody></table>
@@ -327,7 +332,7 @@ variant: markdown
     <td>neeta_ishwardas_rajwani@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Diane Koh</td>
+    <td>Mrs Diane Ang</td>
     <td>2B</td>
     <td>koh_mei_lin_diane@schools.gov.sg</td>
   </tr>
