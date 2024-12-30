@@ -2,6 +2,7 @@
 title: Motto, Vision, Mission, Values
 permalink: /about-us/motto-vision-mission-values/
 description: ""
+variant: markdown
 ---
 #### 校训 Motto
 圣洁公义<br>
@@ -13,7 +14,7 @@ Every AHS Student a Leader - Leading Honourably, Learning for Life, Creating Val
 
 #### 使命 Mission Statement
 培养学生成为尊重传统并立志实践圣洁公义的人才，使他们富有创意，独立思考，好学不倦，具领导才能。<br>
-To nurture creative thinkers, lifelong learners, and compassionate leaders who uphold tradition and aspire towards holiness and righteousness.<br>
+To nurture adaptive thinkers, lifelong learners, and compassionate leaders who uphold tradition and aspire towards holiness and righteousness.<br>
 
 #### 目标 Mission Objectives
 创造良好并具挑战性的学习环境。<br>
