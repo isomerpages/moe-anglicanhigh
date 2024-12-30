@@ -531,7 +531,7 @@ variant: markdown
     <td>xiao_yongda_clement@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Tan Jie Nign</td>
+    <td>Ms Cheryl Tan</td>
     <td>4E</td>
     <td>jie_ning_tan@schools.gov.sg</td>
   </tr>
