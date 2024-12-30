@@ -79,11 +79,6 @@ variant: markdown
     <td>郑健龙</td>
     <td>HOD/ Information Communication Technology</td>
   </tr>
-  <tr>
-    <td>Mr Chan Wai Seon</td>
-    <td>陈威信</td>
-    <td>HOD/ Mathematics </td>
-  </tr>
  <tr>
     <td>Mr William Tong</td>
     <td>董俊永</td>
