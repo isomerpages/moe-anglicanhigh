@@ -225,7 +225,7 @@ variant: markdown
     <td>goh_wee_hong_thomas@schools.gov.sg</td>
   </tr>
  <tr>
-    <td>Mdm Lur</td>
+    <td>Mdm Lur Bee Cheng</td>
     <td>1B</td>
     <td>lur_bee_cheng@schools.gov.sg</td>
   </tr>
