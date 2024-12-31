@@ -36,7 +36,7 @@ variant: markdown
  
   <tbody><tr>
     <td>Mdm Low Geok Ling</td>
-    <td>-</td>
+    <td></td>
     <td>School Staff Developer (SSD)</td>
   </tr>
 	<tr>
@@ -135,11 +135,6 @@ variant: markdown
     <td>Ms Vera Chng</td>
     <td>庄佳玉</td>
     <td>SH/ English Literature</td>
-  </tr>
-		<tr>
-    <td>Ms Farahdilla Mohd Ariff</td>
-    <td>-</td>
-    <td>SH/ Geography (Covering)</td>
   </tr>
 	<tr>
     <td>Ms Lee Yilian</td>
