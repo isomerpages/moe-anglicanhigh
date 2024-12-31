@@ -316,50 +316,25 @@ variant: markdown
     <td>2A</td>
     <td>gavin_goh_cheng_eng@schools.gov.sg</td>
   </tr>
-	<tr>
-    <td>Mdm Teo Ee Zi</td>
-    <td>2A</td>
-    <td>teo_ee_zi@schools.gov.sg</td>
-  </tr>
  <tr>
     <td>Mdm Neeta</td>
     <td>2B</td>
     <td>neeta_ishwardas_rajwani@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Mrs Diane Ang</td>
-    <td>2B</td>
-    <td>koh_mei_lin_diane@schools.gov.sg</td>
-  </tr>
-	 <tr>
     <td>Ms Joanne Tan</td>
     <td>2C</td>
     <td>joanne_tan_mei_jing@schools.gov.sg</td>
-  </tr>
-	<tr>
-    <td>Mr Teo Yi Sheng</td>
-    <td>2C</td>
-    <td>teo_yi_sheng@schools.gov.sg</td>
   </tr>
 	 <tr>
     <td>Mdm Goh Yu Jie</td>
     <td>2D</td>
     <td>goh_yu_jie@schools.gov.sg</td>
   </tr>
-	<tr>
-    <td>Mr William Tong</td>
-    <td>2D</td>
-    <td>william_tong@schools.gov.sg</td>
-  </tr>
 	 <tr>
     <td>Ms Tay Hui Xin</td>
     <td>2E</td>
     <td>tay_hui_xin@schools.gov.sg</td>
-  </tr>
-	<tr>
-    <td>Mr Patrick Tay</td>
-    <td>2E</td>
-    <td>tay_kian_leng@schools.gov.sg</td>
   </tr>
 	 <tr>
     <td>Mr Andrew Gey</td>
@@ -367,39 +342,19 @@ variant: markdown
     <td>gey_meng_kiah_andrew@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Ng Wei Qi</td>
-    <td>2F</td>
-    <td>ng_wei_qi@schools.gov.sg</td>
-  </tr>
-	 <tr>
     <td>Ms Lim Geok Lian</td>
     <td>2G</td>
     <td>lim_geok_lian_a@schools.gov.sg</td>
-  </tr>
-	<tr>
-    <td>Mr Yeow Yong Keng</td>
-    <td>2G</td>
-    <td>yeow_yong_keng@schools.gov.sg</td>
   </tr>
 	 <tr>
     <td>Mdm Esther</td>
     <td>2H</td>
     <td>esther_jaichandar@schools.gov.sg</td>
   </tr>
-	<tr>
-    <td>Mdm Low Geok Ling</td>
-    <td>2H</td>
-    <td>low_geok_ling@schools.gov.sg</td>
-  </tr>
 	 <tr>
     <td>Mdm Hidayah</td>
     <td>2J</td>
     <td>nur_hidayah_mohd_ismail@schools.gov.sg</td>
-  </tr>
-	<tr>
-    <td>Mdm Teo Ee Zi</td>
-    <td>2J</td>
-    <td>teo_ee_zi@schools.gov.sg</td>
   </tr>
 	
 </tbody></table>
