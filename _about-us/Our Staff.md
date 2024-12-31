@@ -20,7 +20,7 @@ variant: markdown
   </tr>
 		<tr>
     <td>Ms Wong Hsien Hui</td>
-    <td></td>
+    <td>王群慧</td>
     <td>Vice-Principal (Curriculum)</td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@ variant: markdown
  
   <tbody><tr>
     <td>Mdm Low Geok Ling</td>
-    <td></td>
+    <td>刘玉玲</td>
     <td>School Staff Developer (SSD)</td>
   </tr>
 	<tr>
@@ -62,7 +62,7 @@ variant: markdown
 	 <tr>
     <td>Mr Teo Yi Sheng</td>
     <td>张贻胜</td>
-    <td>HOD/ Chinese Language (Covering)</td>
+    <td>HOD/ Mother Tongue</td>
   </tr>
 	<tr>
     <td>Ms Lily Koh</td>
@@ -99,6 +99,11 @@ variant: markdown
     <td>-</td>
     <td>HOD/ Student Management</td>
   </tr>
+		  <tr>
+    <td>Mr Alaric Leong Keng Wah</td>
+    <td>梁景华</td>
+    <td>HOD/ NE, VIA and Partnership (Covering)</td>
+  </tr>
 		
 </tbody></table>
 
@@ -122,9 +127,14 @@ variant: markdown
     <td>SH/ Biculturalism</td>
   </tr>
 		<tr>
-    <td>Ms Haryati</td>
+    <td>Ms Haryati Hajar Yusop</td>
     <td>-</td>
     <td>SH/ Curriculum Innovation</td>
+  </tr>
+		<tr>
+    <td>Ms  Farahdilla Mohd Ariff</td>
+    <td>-</td>
+    <td>SH/  Geography (Covering)</td>
   </tr>
 		<tr>
     <td>Ms Cheryl Tan Jie Ning</td>
@@ -141,11 +151,7 @@ variant: markdown
     <td>李忆莲</td>
     <td>SH/ Mathematics</td>
   </tr>
-  <tr>
-    <td>Mr Alaric Leong Keng Wah</td>
-    <td>梁景华</td>
-    <td>SH/ NE &amp; VIA</td>
-  </tr>
+
 	
 </tbody></table>
 
@@ -186,7 +192,7 @@ variant: markdown
 <table style="width:100%">
  
   <tbody><tr>
-    <td>Mdm Lim Hui Leng Doreen</td>
+    <td>Ms Lim Hui Leng Doreen</td>
     <td>林惠玲</td>
     <td>Life Coach (Senior School Counsellor)</td>
   </tr>
