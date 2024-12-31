@@ -108,21 +108,15 @@ variant: markdown
  
   <tbody>
   <tr>
-    <td>Mr Lim Ee Chiew </td>
-    <td>林一丘</td>
+    <td>Mr Tan Kay Soon Jimmy </td>
+    <td>陈家顺</td>
     <td>Assistant Year Head/ Upper Secondary</td>
   </tr>
 	<tr>
     <td>Mrs Han Ee Zi</td>
     <td>张艺姿</td>
     <td>Assistant Year Head / Lower Secondary</td>
-  </tr>
-		<tr>
-    <td>Mr Tan Kay Soon Jimmy</td>
-    <td>陈家顺</td>
-    <td>LH/ Science</td>
-  </tr>
-		<tr>
+		</tr><tr>
     <td>Mr Chua Song Guan</td>
     <td>蔡松源</td>
     <td>SH/ Biculturalism</td>
@@ -184,6 +178,11 @@ variant: markdown
     <td>杨明汉</td>
     <td>ST/ Mathematics</td>
   </tr>
+		<tr>
+    <td>Mr Philemon Foo</td>
+    <td></td>
+    <td>ST/ Learning Needs</td>
+  </tr>
 	
 </tbody></table>
 
@@ -202,8 +201,8 @@ variant: markdown
     <td>Special Education Needs Officer (SENO)</td>
   </tr>
 	 <tr>
-    <td>Mr Darren Lim Zhong Juinn</td>
-    <td>-</td>
+    <td>Ms Stephanie Peylene Goh</td>
+    <td></td>
     <td>Education and Career Guidance (ECG) Counsellor</td>
   </tr>
 	
