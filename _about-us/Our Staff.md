@@ -95,8 +95,8 @@ variant: markdown
     <td>HOD/ Mathematics</td>
   </tr>
 			<tr>
-    <td>Mrs Diane Ang</td>
-    <td>-</td>
+    <td>Ms Koh Mei Lin Diane Jael</td>
+    <td>许梅凌</td>
     <td>HOD/ Student Management</td>
   </tr>
 		  <tr>
@@ -203,7 +203,7 @@ variant: markdown
   </tr>
 	 <tr>
     <td>Ms Stephanie Peylene Goh</td>
-    <td></td>
+    <td>吴佩霖</td>
     <td>Education and Career Guidance (ECG) Counsellor</td>
   </tr>
 	
