@@ -151,7 +151,11 @@ variant: markdown
     <td>李忆莲</td>
     <td>SH/ Mathematics</td>
   </tr>
-
+<tr>
+    <td>Ms Tay Keng Wei</td>
+    <td>郑欣薇</td>
+    <td>SH/ Chemistry (Covering)</td>
+  </tr>
 	
 </tbody></table>
 
@@ -374,7 +378,7 @@ variant: markdown
     <td>chua_ke_xin_estee@schools.gov.sg</td>
   </tr>
  <tr>
-    <td>Mdm Tay keng Wei</td>
+    <td>Ms Tay Keng Wei</td>
     <td>3B</td>
     <td>tay_keng_wei@schools.gov.sg</td>
   </tr>
