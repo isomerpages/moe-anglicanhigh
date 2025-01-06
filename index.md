@@ -10,16 +10,9 @@ sections:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
       key_highlights:
-        - title: AHS Sec One Registration
-          description: ""
-          url: https://go.gov.sg/ahssec1reg
-  - infopic:
-      title: AHS Sec One Registration
-      id: infopic
-      button: go.gov.sg/ahssec1reg
-      url: https://go.gov.sg/ahssec1reg
-      image: /images/About us/2024_Sec_1_Reg.jpg
-      alt: Image alt text
+        - title: Release of 2024 GCE O Level Results
+          description: Click here for details
+          url: /about-us/announcements/
   - infopic:
       title: Soar at AHS
       button: Curriculum
