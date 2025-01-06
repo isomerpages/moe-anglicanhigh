@@ -6,25 +6,34 @@ variant: markdown
 ---
 <p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Principal" src="/images/About us/P_Mr_Alvin_2024.jpg"></div><p></p>
 
+<b>Great are the works of the Lord,</b><br>
+<b>studied by all who delight in them.</b><br>
+<b>Psalm 111:2</b>
+
 <p align="justify">
-	A very warm welcome to Anglican High School (AHS)! As we approach our 70th year of service to society, we are grateful to God for His many blessings to us as a vibrant learning community founded on traditional Chinese values and Christian beliefs.  Set up in 1956 by 5 Chinese speaking congregations of the Anglican Diocese in Singapore, the school has progressed over time to become a leading educational institution providing a quality brand of holistic education for all students passing through its gates. AHS is Singapore’s only Protestant SAP secondary school and this unique identity has indelibly shaped the ethos of the school positively over the years.</p>
+Have you ever marveled at the stunning logic of a mathematics equation, the beauty of geographical features, the intricacies of language patterns or the aesthetics of a landscape painting? Christians believe our God is our Creator, infinitely wise and powerful, and He has created all these for His glory. His intellect and might are on full display each and every day, and we get to study about them in school through classroom lessons! Man is also one of God’s creations and he has devised many amazing technologies and created works of art and science that have made life better for all. As we are made in God’s image, we believe the thoughts and ideas we have are  a gift from God. Hence, knowing ourselves, our personalities and emotions help us to understand God as well. The joy of learning in school is the joy of learning about our creator God who has given us all things to enjoy!</p>
 <p align="justify">
-AHS’s tradition of excellence extends beyond the academic field. With its philosophical approach of 学做人, where students learn what it means to thrive as contributing citizens and purposeful individuals in the 21st century, all the while holding on to sound values and traditions, which ground them for life’s many changes and challenges. In short, AHS seeks to support the development of graduates who shine academically and more importantly, contribute to their families and communities through an outworking of prosocial values. They are accomplished individuals who instinctively seek not their own interests but that of others first, reflecting both Christian servant leadership and the communitarian spirit of Chinese leaders. The Chinese saying ‘取之于社会，用之于社会’ is apt here and best describes the spirit  of our AHS alumni  in wanting to give back.</p>
+In Psalm 111, the psalmist extols and praises the works of God and God himself, encouraging us to fear God and to obey Him, which brings wisdom to those who hear. In this vein, <b>our theme for 2025 is “God’s Good Works” </b> We are privileged to learn and discover them each and every day through our school experiences.</p>
 <p align="justify">
-With its foundations soundly set on cherished traditions, AHS actively has an eye on the future, actively utilising pedagogies that encourage students to acquire and develop 21st century competencies such as adaptive thinking; these are the important competencies that keep our students flourishing both in the present and future ages. In a fast-changing world, our graduates need to be fluent in these areas to thrive and AHS provides the appropriate amount of challenge and support in our Student Development Experiences to prepare them to be so. Our Signature programmes such as ACTSperience, iSCoRe and the AHS Global Classroom, etc are designed to not only stimulate our students cognitively, but also to support their understanding of varying contexts and perspectives and knowing how to customise their actions to suit particular purposes. </p>
+	At AHS, our hope is that all our students know that day to day, they come with the <b>purpose</b> of discovering more about the world around them by studying God’s good works, asking deeper questions of the ideas they encounter each day and growing their sense of marvel of the world our God has made, and by extension, of God Himself. It is this sense of purpose that will drive their learning and sense of care and excellence in all that they do.</p>
 <p align="justify">
-Ultimately, we believe that every AHS student has the potential to succeed in a large variety of fields. With the right challenge and nurturing from the entire community, they are capable of achieving great things and doing the “wonderful works” (Ephesians 2:10) that God has prepared for them in advance to do. At the same time, we also provide an environment where students feel accepted, loved and a sense of belonging, not because of what they achieve in life, but because they are God’s creation, “fearfully and wonderfully made” (Psalm 139:14) first and foremost. In such a school, students feel safe to grow by learning from mistakes, picking themselves up from failures as these setbacks do not define them, but are rather part and parcel of the process of learning and growing.</p>
+	We also hope that they will grow in the love of the <b>people</b> around them. God is love and He has commanded us to love others. We show our love for our school, society and country by finding out more about those around them and serving others’ needs. “What are you doing for others?” remains a clarion reminder for AHS students to go beyond self to serve society around them, using their talents and gifts to make life better for everyone.</p>
 <p align="justify">
-Hope that our website gives you a good sense of life and learning at Anglican High School!
-Aspiring Towards Holiness and Righteousness</p>
+	Lastly, we want them to discover their <b>passion</b> in life. AHS is a busy school, and our students get involved in a wide variety of activities through their academic, CCA, VIA and student leadership journeys with us. Whether their love is grown in a sport, an aesthetic expression, an act of service or an academic pursuit, we invite them to grow that interest and go deeper into their interest, fueled by youthful curiosity and energy to discover and grow. Passion fuels this self-initiated discovery journey and we aspire that all our AHS students have an idea of their life passion  by the time they pass through our gates.</p>
+With these 3 Ps in mind, we hope that all our students will soar on wings like eagles in life this year!
+
+<b>诗篇111:2</b><br>
+<b>“耶和华的作为至大，凡喜悦他的人必寻求考察。”</b><br>
+
 <p align="justify">
-热烈欢迎您来到圣公会中学！不久后，圣中即将迈入第七十个年头，同时得以延续将华族传统价值观和基督信仰根植于圣中学子之中的伟业，打造一个活跃的学习社群，我心存感恩。圣公会中学于1956年由圣公会新加坡教区的五间华文堂会创办，逐年成长，如今已成为一所提供全方位优质教育的顶尖学府。圣中是新加坡唯一一所基督教新教的特别辅助计划学校，其独特的身份也对塑造圣中价值观起到正面、积极的作用。</p>
+您是否曾惊叹于数学方程的精妙逻辑，地理地貌的壮丽，语言模式的复杂性，或山水画的艺术美感？基督徒相信我们的上帝是我们的创造主，具有无限智慧和能力，祂创造这一切都是为了彰显祂的荣耀。祂的智慧和大能每日都在彰显，而我们可以通过课堂学习来研究这些！人类也是上帝的创造，人类发明了许多令人惊叹的技术，创造了使生活更美好。由于我们是按照上帝的形象创造的，我们相信我们所拥有思想和观念是来自上帝的礼物。 因此，了解自己的个性和情感也有助于我们了解上帝。 学校学习的乐趣在于学习关于创造我们的上帝的乐趣，他给了我们一切享受！</p>
 <p align="justify">
-圣中力求卓越的优良传统不限制于学术领域。秉着“学做人”的处事理念，圣中学子学会如何在二十一世纪立足，成为一位有抱负、有目标的人，以及一位为社会做出贡献的公民，同时谨记在人生道路中遇到变化和挑战时可派上用场的传统价值观。简言之，圣中不仅仅培养可在学术领域有优异表现的学生，但更重要的是让学生关心社会，展现出与亲社会价值观相关的行为，从而继续为家庭和社会做出贡献。他们可以有一番作为，同时也应出自于本能先为他人的利益着想。这正好与基督信仰中的服务型领导精神和华人领袖中体恤他人、关爱社会的含义相同。正所谓“取之于社会，用之于社会”，这对圣中的毕业生而言仍有其相关性，时时提醒自己需关爱社会、造福社会、回馈社会。</p>
+	在诗篇111篇中，诗人颂赞上帝的作为和上帝本身，鼓励我们敬畏并顺服上帝，这将带来智慧。本着这种精神，我们2025年的主题是<b>“上帝的美善作为”</b>。 我们有幸通过学校的经历每天学习和发现它们。</p>
 <p align="justify">
-圣中视华族传统价值观为核心，奠定教育基础，同时也不忘着眼未来，积极运用各种教学法，以鼓励学生培养并掌握如适应式学习思维等二十一世纪技能。掌握这些至关重要的技能，有助于让我们的学生在现今与未来发挥所长。在瞬息万变的时代，若要在社会中立足，我们的毕业生需在各领域中有所表现，发挥自如。有鉴于此，圣中秉着因材施教的教学理念，为学生制定一套学习发展课程，如批判性思维体验课程（ACTSperience）、结合食品和消费者教育课程和设计与科技课程的“iSCoRe”综合课程，以及圣中环球课室课程，适度挑战学生。这些专属于圣中的特色项目旨在激发学生的思维，让他们在不同情境中进行换位思考，在满足相关需求的情况下适度调整自己的心态和行为。这皆是为了让圣中的学生做好准备，迎接未来的种种挑战。</p>
+	我们希望所有学生都明白，他们每天来到学校都带着<b>目标</b>，通过研究上帝的美善作为来更多地了解周围的世界，对每天遇到的想法进行更深入的探讨，增进对上帝所创造的世界的惊叹，从而更认识上帝自己。正是这种目标感将推动他们的学习，以及在所做的一切事上保持关怀之心和追求卓越。</p>
 <p align="justify">
-人尽其才，各司所职，我们深信所有圣中学子可在诸多领域中发挥潜能，取得成功。有了社区中诸多合作伙伴的支持，我们的学生有机会挑战自我，茁壮成长，大放异彩，更是如以弗所书第二章第十节中所述的一样，“是神所预备的，让他们有所作为”。与此同时，我们打造了一个让学生感到被接受和被爱的校园环境，让他们有归属感。之所以提供这些资源，并非是因为他们有着辉煌的成就，而正是如诗篇第一百三十九章第十四节所述一样，“是神创造了他们，而这种行为是奇妙可畏的”。身处在这样的校园中，学生有安全感，可从错误中学习，重新出发，继续成长。他们知道这些挫折是学习与成长过程中的必经之路，更不会因此决定他们的一生。</p>
+	我们也希望他们能在对周围<b>人群</b>的爱中成长。上帝就是爱，祂命令我们要爱他人。通过了解并服务他人的需要来表达对学校、社会和国家的爱“你为他人做了什么？”仍然是圣公会学生超越自我，服务于周围社会的明确提醒，运用他们的才能和天赋来改善每个人的生活。</p>
 <p align="justify">
-希望我们的官方网页所提供的信息可让你进一步了解圣中的校园学习生活！</p>
-圣洁公义
+	最后，我们希望他们找到自己的人生<b>热忱</b>。圣公会中学是一所充满活力和机会的学校，学生通过学术、辅助课程、德育和领导力项目积极参与各种活动。无论他们的热忱是在运动、艺术表现、服务行动还是学术追求中成长，我们都邀请他们在好奇心和青春活力的推动下，深化这些兴趣并继续探索成长。热忱推动着这种自主发现之旅，我们希望所有圣公会学生在离开校园时都能找到自己的人生热忱。</p>
+
+怀着这三个"P"（目标Purpose、人群People、热忱Passion），我们希望所有圣公会学生今年都能如鹰展翅高飞！
