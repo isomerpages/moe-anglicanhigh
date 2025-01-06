@@ -9,8 +9,6 @@ sections:
   - hero:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
-  - announcements:
-      id: announcements
   - infopic:
       title: Soar at AHS
       button: Curriculum
