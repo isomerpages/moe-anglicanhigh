@@ -9,6 +9,10 @@ sections:
   - hero:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
+      key_highlights:
+        - title: Release of 2024 GCE O Level Results
+          description: Click here for details
+          url: /about-us/announcements/
   - infopic:
       title: Soar at AHS
       button: Curriculum
