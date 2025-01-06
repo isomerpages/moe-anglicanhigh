@@ -9,17 +9,8 @@ sections:
   - hero:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
-      key_highlights:
-        - title: AHS Sec One Registration
-          description: ""
-          url: https://go.gov.sg/ahssec1reg
-  - infopic:
-      title: AHS Sec One Registration
-      id: infopic
-      button: go.gov.sg/ahssec1reg
-      url: https://go.gov.sg/ahssec1reg
-      image: /images/About us/2024_Sec_1_Reg.jpg
-      alt: Image alt text
+  - announcements:
+      id: announcements
   - infopic:
       title: Soar at AHS
       button: Curriculum
