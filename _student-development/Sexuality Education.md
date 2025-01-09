@@ -73,16 +73,16 @@ CCE 2024 Theme: Making Choices
 **eTeens Programme:**
 
 <p align="justify">
-8. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.</p>
+8. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
 
 <p align="justify">
-9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
+9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</p>
 
-**At Anglican High School, the eTeens programme will be implemented as follows in 2024:**
+**At ANGLICAN HIGH SCHOOL, the eTeens programme will be implemented as follows in 2025:**
 
 ![eteens](/images/eTeens_Programme.jpg)
 
-#### INFORMATION FOR PARENTS
+##### INFORMATION FOR PARENTS
 
 <p align="justify">
 10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
@@ -90,14 +90,14 @@ CCE 2024 Theme: Making Choices
 <p align="justify">
 11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form.</p>
 
-This form will be distributed to parents at the start of the year and is also downloadable [[here]](/files/Sexual%20Education/GY_Parent_Opt_Out_form_Sec_2024.pdf)  The completed form is to be submitted by 02/02/2024.
+This form will be communicated to parents at the start of the year and is also downloadable [[here]](/files/Sexual%20Education/GY_Parent_Opt_Out_form_Sec_2024.pdf)  The completed form is to be submitted by 03/02/2025.
 
 
 <p align="justify">
-12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 12/07/2024.</p>
+	12. Parents who wish to opt their children out of the <b>Teens programme</b> need to complete an opt-out form. </p>
+	
+This form will be communicated to parents at the start of the year and is also downloadable [[here]](/files/Sexual%20Education/GY_Parent_Opt_Out_form_Sec_2024.pdf) The completed form is to be submitted by 21/07/2025.
 
 <p align="justify">
-13. Parents can contact the school at 62414866 for discussion or to seek clarification about the school's sexuality education programme. </p>
+13. Parents can contact the school at 62414866 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
 
-<p align="justify">
-14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
