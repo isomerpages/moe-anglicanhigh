@@ -66,9 +66,9 @@ CCE 2024 Theme: Making Choices
 ![mc3](/images/2022_S3_Making_Choice.jpg)
 
 SECONDARY 4<br>
-CCE 2024 Theme: Making Choices
 
-![mc4](/images/2022_S4_Making_Choice.jpg)
+
+
 
 **eTeens Programme:**
 
