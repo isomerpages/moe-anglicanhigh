@@ -80,7 +80,7 @@ CCE 2024 Theme: Making Choices
 
 **At ANGLICAN HIGH SCHOOL, the eTeens programme will be implemented as follows in 2025:**
 
-![eteens](/images/eTeens_Programme.jpg)
+.
 
 ##### INFORMATION FOR PARENTS
 
