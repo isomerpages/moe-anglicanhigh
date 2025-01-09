@@ -90,14 +90,13 @@ CCE 2024 Theme: Making Choices
 <p align="justify">
 11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form.</p>
 
-This form will be communicated to parents at the start of the year and is also downloadable [[here]](/files/Sexual%20Education/GY_Parent_Opt_Out_form_Sec_2024.pdf)  The completed form is to be submitted by 03/02/2025.
+This form will be communicated to parents at the start of the year and is also downloadable [[here]](/files/Sexual%20Education/AnnexA_GY_Parent_Opt_Out_form_Sec_2025.pdf)  The completed form is to be submitted by 03/02/2025.
 
 
 <p align="justify">
 	12. Parents who wish to opt their children out of the <b>Teens programme</b> need to complete an opt-out form. </p>
 	
-This form will be communicated to parents at the start of the year and is also downloadable [[here]](/files/Sexual%20Education/GY_Parent_Opt_Out_form_Sec_2024.pdf) The completed form is to be submitted by 21/07/2025.
+This form will be communicated to parents at the start of the year and is also downloadable [[here]](/files/Sexual%20Education/AnnexB_eTeens_Parent_Opt_Out_form_Sec_2025.pdf) The completed form is to be submitted by 21/07/2025.
 
 <p align="justify">
 13. Parents can contact the school at 62414866 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
-
