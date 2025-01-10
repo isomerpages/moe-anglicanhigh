@@ -71,30 +71,30 @@ b. Character and Citizenship Education (CCE)
 
 
 
-**eTeens Programme:**
+**<i>eTeens</i> Programme:**
 <p align="justify">
-8. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
+	8. <i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <i>eTeens</i> is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the <i>eTeens</i> programme is that students are empowered to make wise, informed and sensible decisions.</p>
 
 <p align="justify">
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</p>
 
-**At ANGLICAN HIGH SCHOOL, the eTeens programme will be implemented as follows in 2025:**
+**At ANGLICAN HIGH SCHOOL, the <i>eTeens</i> programme will be implemented as follows in 2025:**
 
 ![](/images/Student%20Development/Sexual%20Education/2025_eTeens_Programme.jpg)
 
 ##### INFORMATION FOR PARENTS
 
 <p align="justify">
-10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+	10. Parents may opt their children out of the Sexuality Education lessons, <i>eTeens</i> and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 
 <p align="justify">
-11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form.</p>
+	11. Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form.</p>
 
 This form will be communicated to parents at the start of the year and is also downloadable [[here]](/files/Sexual%20Education/AnnexA_GY_Parent_Opt_Out_form_Sec_2025.pdf)  The completed form is to be submitted by 03/02/2025.
 
 
 <p align="justify">
-	12. Parents who wish to opt their children out of the <b>Teens programme</b> need to complete an opt-out form. </p>
+	12. Parents who wish to opt their children out of the <b><i>eTeens</i> programme</b> need to complete an opt-out form. </p>
 	
 This form will be communicated to parents at the start of the year and is also downloadable [[here]](/files/Sexual%20Education/AnnexB_eTeens_Parent_Opt_Out_form_Sec_2025.pdf) The completed form is to be submitted by 21/07/2025.
 
