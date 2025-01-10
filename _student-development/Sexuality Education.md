@@ -50,28 +50,28 @@ b. Character and Citizenship Education (CCE)
 
 **At ANGLICAN HIGH SCHOOL, the following Sexuality Education lessons will be taught in 2025:**
 
-SECONDARY 1<br>
-CCE 2024 Theme: Making Choices
+<b>SECONDARY 1</b><br>
+![](/images/Student%20Development/Sexual%20Education/2025_Sexual_Edu_S1a.jpg)
+![](/images/Student%20Development/Sexual%20Education/2025_Sexual_Edu_S1b.jpg)
 
-![mc](/images/2022_S1_Making_Choice.jpg)
 
-SECONDARY 2<br>
-CCE 2024 Theme: Making Choices
+<b>SECONDARY 2</b><br>
+![](/images/Student%20Development/Sexual%20Education/2025_Sexual_Edu_S2a.jpg)
+![](/images/Student%20Development/Sexual%20Education/2025_Sexual_Edu_S2b.jpg)
+![](/images/Student%20Development/Sexual%20Education/2025_Sexual_Edu_S2c.jpg)
 
-![mc2](/images/2022_S2_Making_Choice.jpg)
+<b>SECONDARY 3</b><br>
+![](/images/Student%20Development/Sexual%20Education/2025_Sexual_Edu_S3a.jpg)
+![](/images/Student%20Development/Sexual%20Education/2025_Sexual_Edu_S3b.jpg)
 
-SECONDARY 3<br>
-CCE 2024 Theme: Making Choices
-
-![mc3](/images/2022_S3_Making_Choice.jpg)
-
-SECONDARY 4<br>
-
+<b>SECONDARY 4</b><br>
+![](/images/Student%20Development/Sexual%20Education/2025_Sexual_Edu_S4a.jpg)
+![](/images/Student%20Development/Sexual%20Education/2025_Sexual_Edu_S4b.jpg)
+![](/images/Student%20Development/Sexual%20Education/2025_Sexual_Edu_S4c.jpg)
 
 
 
 **eTeens Programme:**
-
 <p align="justify">
 8. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
 
