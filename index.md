@@ -10,8 +10,8 @@ sections:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
       key_highlights:
-        - title: Release of 2024 GCE O Level Results
-          description: Click here for details
+        - title: National Bilingual Creative Writing Competition 2025
+          description: 2025年全国中小学双语创意写作比赛
           url: /about-us/announcements/
   - infopic:
       title: Soar at AHS
