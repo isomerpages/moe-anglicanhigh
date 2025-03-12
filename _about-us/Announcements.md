@@ -6,6 +6,8 @@ variant: markdown
 ---
 ##### National Bilingualism Writing Competition 2025
 
+![](/images/About%20us/Announcement/2025_National_Bilingual_Creative_Writing_Competition.jpg)
+
 
 
 
