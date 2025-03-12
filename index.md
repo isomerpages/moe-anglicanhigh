@@ -9,10 +9,12 @@ sections:
   - hero:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
-      key_highlights:
-        - title: National Bilingual Creative Writing Competition 2025
-          description: 2025年全国中小学双语创意写作比赛
-          url: /about-us/announcements/
+  - infopic:
+      id: infopic
+      button: Click here for details
+      url: /about-us/announcements/
+      image: /images/About
+        us/Announcement/2025_National_Bilingual_Creative_Writing_Competition.jpg
   - infopic:
       title: Soar at AHS
       button: Curriculum
