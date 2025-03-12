@@ -8,8 +8,8 @@ variant: markdown
 
 ![](/images/About%20us/Announcement/2025_National_Bilingual_Creative_Writing_Competition.jpg)
 ![](/images/About%20us/Announcement/2025_National_Bilingual_Creative_Writing_Competition_2.jpg)
-
 ![](/images/About%20us/Announcement/2025_National_Bilingual_Creative_Writing_Competition_3.jpg)
+[https://go.gov.sg/2025nbcwc](https://go.gov.sg/2025nbcwc)
 ![](/images/About%20us/Announcement/2025_National_Bilingual_Creative_Writing_Competition_4.jpg)
 ![](/images/About%20us/Announcement/2025_National_Bilingual_Creative_Writing_Competition_5.jpg)
 ![](/images/About%20us/Announcement/2025_National_Bilingual_Creative_Writing_Competition_6.jpg)
