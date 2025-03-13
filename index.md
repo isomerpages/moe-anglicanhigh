@@ -13,8 +13,7 @@ sections:
       id: infopic
       button: Click here for details
       url: /about-us/announcements
-      image: /images/About
-        us/Announcement/2025_National_Bilingual_Creative_Writing_Competition.jpg
+      image: /images/About us/Announcement/2025_National_Creative_Writing.jpg
   - infopic:
       title: Soar at AHS
       button: Curriculum
