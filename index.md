@@ -12,13 +12,13 @@ sections:
   - infopic:
       id: infopic
       button: Click here for details
-      url: /about-us/announcements/
+      url: /about-us/announcements
       image: /images/About
         us/Announcement/2025_National_Bilingual_Creative_Writing_Competition.jpg
   - infopic:
       title: Soar at AHS
       button: Curriculum
-      url: /student-development/talent-development
+      url: /curriculum/key-curriculum-approaches
       image: /images/tn1_soar_at_ahs.jpg
       alt: Image alt text
   - infopic:
@@ -30,13 +30,13 @@ sections:
   - infopic:
       title: Serve at AHS
       button: VIA & Student Leadership
-      url: /life-at-ahs/chill-at-ahs
+      url: /student-development/student-leadership
       image: /images/tn3_serve_at_ahs.jpg
       alt: Image alt text
   - infopic:
       title: Culture of Care
       button: Student Well-being
-      url: /student-development/overseas-experience
+      url: /student-development/student-well-beingce
       image: /images/tn4_culture_of_care.jpg
       alt: Image alt text
   - infopic:
