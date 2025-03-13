@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: Soar at AHS
       button: Curriculum
-      url: /student-development/talent-development
+      url: /curriculum/key-curriculum-approaches
       image: /images/tn1_soar_at_ahs.jpg
       alt: Image alt text
   - infopic:
