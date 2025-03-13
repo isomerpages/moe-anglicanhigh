@@ -36,7 +36,7 @@ sections:
   - infopic:
       title: Culture of Care
       button: Student Well-being
-      url: /student-development/overseas-experience
+      url: /student-development/student-well-beingce
       image: /images/tn4_culture_of_care.jpg
       alt: Image alt text
   - infopic:
