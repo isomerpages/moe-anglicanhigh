@@ -30,7 +30,7 @@ sections:
   - infopic:
       title: Serve at AHS
       button: VIA & Student Leadership
-      url: /life-at-ahs/chill-at-ahs
+      url: /student-development/student-leadership
       image: /images/tn3_serve_at_ahs.jpg
       alt: Image alt text
   - infopic:
