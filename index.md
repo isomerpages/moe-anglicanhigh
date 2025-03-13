@@ -16,6 +16,7 @@ sections:
       image: /images/About us/Announcement/2025_National_Creative_Writing.jpg
       alt: Image alt text
       subtitle: 20 May 2025
+      title: National Bilingual Creative Writing Competition
   - infopic:
       title: Soar at AHS
       button: Curriculum
