@@ -12,7 +12,7 @@ sections:
   - infopic:
       id: infopic
       button: Click here for details
-      url: /about-us/announcements/
+      url: /about-us/announcements
       image: /images/About
         us/Announcement/2025_National_Bilingual_Creative_Writing_Competition.jpg
   - infopic:
