@@ -14,7 +14,8 @@ sections:
       button: Click here for details
       url: /about-us/announcements
       image: /images/About us/Announcement/2025_National_Creative_Writing.jpg
-      alt: 20 May 2025
+      alt: "2025"
+      subtitle: 20 May 2025
   - infopic:
       title: Soar at AHS
       button: Curriculum
