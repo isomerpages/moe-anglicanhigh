@@ -35,7 +35,7 @@ All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal. Pros
 
 <b><u>Application Procedures</u></b>
 
-- Online Application Period for 2024 DSA-SEC is through the centralized DSA-Sec Portal. For more details, please refer to MOE DSA website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+- Online Application Period for 2025 DSA-SEC is through the centralized DSA-Sec Portal. For more details, please refer to MOE DSA website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
 - Opens : 7 May 2025, 11am
 - Closes : 3 June 2025, 3pm
