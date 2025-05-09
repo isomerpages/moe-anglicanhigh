@@ -67,7 +67,7 @@ All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal. Pros
 
 |  |  |
 | -------- | -------- | 
-| Online DSA Application (for Sports, Language, Uniformed Groups, Performing Arts and Club) | 7 May 2025 to 3 June 2025     | 
+| Online DSA Application (for Sports, Language, Uniformed Groups, Performing Arts and Club) | 7 May 2025, 11am to 3 June 2025, 3pm     | 
 | Sports, Language, Uniformed Groups, Performing Arts and Club audition and interview | 12 July 2025 to 4 Sep 2025<br>(Only <b><u>shortlisted applicants</u></b> will be notified of the date and time to attend the selection tests/auditions/interviews in person) 
 
 <p align="justify">
