@@ -10,14 +10,6 @@ sections:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
   - infopic:
-      id: infopic
-      button: Click here for details
-      url: /about-us/announcements
-      image: /images/About us/Announcement/2025_National_Creative_Writing.jpg
-      alt: Image alt text
-      subtitle: 20 May 2025
-      title: National Bilingual Creative Writing Competition
-  - infopic:
       title: Soar at AHS
       button: Curriculum
       url: /curriculum/key-curriculum-approaches
