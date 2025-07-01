@@ -129,7 +129,7 @@ variant: markdown
 		</tr><tr>
     <td>Mr Chua Song Guan</td>
     <td>蔡松源</td>
-    <td>SH/ Biculturalism</td>
+    <td>SH/ ICT</td>
   </tr>
 		<tr>
     <td>Ms Haryati Hajar Yusop</td>
