@@ -104,6 +104,11 @@ variant: markdown
     <td>梁景华</td>
     <td>HOD/ NE, VIA and Partnership (Covering)</td>
   </tr>
+		<tr>
+    <td>Mr Wong Wei Long</td>
+    <td>黄伟隆</td>
+    <td>HOD/ SAP</td>
+  </tr>
 		
 </tbody></table>
 
@@ -124,7 +129,7 @@ variant: markdown
 		</tr><tr>
     <td>Mr Chua Song Guan</td>
     <td>蔡松源</td>
-    <td>SH/ Biculturalism</td>
+    <td>SH/ ICT</td>
   </tr>
 		<tr>
     <td>Ms Haryati Hajar Yusop</td>
@@ -155,6 +160,11 @@ variant: markdown
     <td>Ms Tay Keng Wei</td>
     <td>郑欣薇</td>
     <td>SH/ Chemistry (Covering)</td>
+  </tr>
+			<tr>
+    <td>Mrs Perry</td>
+    <td>-</td>
+    <td>SH/  Student Leadership</td>
   </tr>
 	
 </tbody></table>
