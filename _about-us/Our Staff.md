@@ -104,6 +104,11 @@ variant: markdown
     <td>梁景华</td>
     <td>HOD/ NE, VIA and Partnership (Covering)</td>
   </tr>
+		<tr>
+    <td>Mr Wong Wei Long</td>
+    <td>黄伟隆</td>
+    <td>HOD/ SAP</td>
+  </tr>
 		
 </tbody></table>
 
