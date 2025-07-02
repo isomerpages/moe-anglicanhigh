@@ -162,7 +162,7 @@ variant: markdown
     <td>SH/ Chemistry (Covering)</td>
   </tr>
 			<tr>
-    <td>Mrs Perry</td>
+    <td>Mrs Ruth Perry</td>
     <td>-</td>
     <td>SH/  Student Leadership</td>
   </tr>
