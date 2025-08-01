@@ -86,6 +86,8 @@ variant: markdown
 
 3.7 Loss or damage of hostel keys shall be reported to the hostel office within 24 hours or the next working day. The cost of replacing the hostel keys and lock shall be borne by the boarders.
 
+3.8 A surcharge of $15 per calender month will be imposed on having additional appliances such as a mini-refrigerator in the room. Such appliances have to be registered with and approved by the hostel office prior to installation. For such approved installation, boarders shall be responsible for its repair and its removal upon checking-out.
+
 ##### 4 ROOM INSPECTION &amp; REPAIRS  
 
 4.1 The hostel office reserves the right for its authorised representatives to enter and inspect any room in the interests of health, safety of the hostel, or to carry out any cleaning, repair, installation, maintenance, or improvement works without prior notice to the boarder.
