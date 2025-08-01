@@ -32,7 +32,7 @@ Monday - Friday only <br>
 Office is closed on weekends &amp; public holidays<br>
 
 
-**Step 1:** Boarders shall inform the office at least 1 week before the check-out date and timing.
+**Step 1:** Boarders shall inform the office at least one (1) month before the check-out date and timing via our email at admin@anglicanhouse.com
 
 **Step 2:** Prior to the check-out, boarders shall clear all his or her belongings and clean the room. If cleaning is required because the room is not in an acceptable condition, a cleaning fee of $50-100 shall be imposed on the boarder. Boarders are allowed to store up to three cartons of personal items in the hostel storeroom. However, the hostel is not responsible for any loss or damage of the items.
 
