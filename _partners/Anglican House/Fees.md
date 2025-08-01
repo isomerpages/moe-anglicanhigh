@@ -39,4 +39,3 @@ Cheque must be made payable to: Anglican High School Co-op Account<br>
 * Boarders have to pay for the use of air-conditioning in their rooms at the end of every month or before leaving the hostel, at a rate of $0.60 per kilowatt hour. A meter installed outside each room will determine the amount used. Anglican House reserves the right to revise the rate by giving one month’s notice.<br>
 * Charges for photocopying and printing services: $0.20/page for black and white printing and $2-$5 for colour printing.<br>
 * A surcharge of $15/calendar month will be imposed on having additional appliances such as a mini-refrigerator in the room. Such appliances have to be registered with and approved by the hostel office prior to installation. For such approved installation, boarders shall be responsible for its repair and its removal upon checking-out.<br>
-* Request to re-issue of cheque will be charged $50/cheque.<br>
