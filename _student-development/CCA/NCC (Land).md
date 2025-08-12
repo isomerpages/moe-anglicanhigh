@@ -21,5 +21,3 @@ Head of Training
 ![](/images/Student%20Development/CCA/NCC/2024_NCC_01.jpg)
 
 ![](/images/Student%20Development/CCA/NCC/2024_NCC_02.jpg)
-
-![](/images/Student%20Development/CCA/NCC/2024_NCC_03.jpg)
