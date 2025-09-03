@@ -40,7 +40,7 @@ variant: markdown
 
 1.35 Anglican High School boarders are not allowed to return to the hostel during curriculum time including recesses.
 
-1.36 Boarders are strictly prohibited from entering the school compound after school operating hours. This excludes the Friday sports sessions, whereby access to the sporting facilities is allowed.
+1.36 Boarders are strictly prohibited from entering the school compound after school operating hours.
 
 1.37 Boarders who persistently violate the Rules and Regulations of the hostel will be asked to leave the hostel with deposit and balance of hostel fees forfeited.
   
