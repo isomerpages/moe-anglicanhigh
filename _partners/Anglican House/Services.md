@@ -3,6 +3,7 @@ title: Services
 permalink: /partners/Anglican-House/services/
 description: ""
 third_nav_title: Anglican House
+variant: markdown
 ---
 #####  Meal Provision
 
@@ -24,5 +25,5 @@ Meals are only provided to secondary school and JC boarders who are on Long- ter
 *   Only applicable for Secondary School and JC boarders who are on long term- stay.
 *   Laundry service is provided every alternate day, three times per week.
 *   Each boarder is allowed to wash a maximum of 28 pieces per week.
-*   Items that can be washed: shirts, skirts, pants, bed sheets, towels, underwear (for male students only).
-*   Washing machine is available in the hostel but **no boarder is allowed to use it after 11pm**.
+*   Items that can be washed: shirts, skirts, pants, bed sheets, towels.
+*   Washing machine is available in the hostel but&nbsp;**no boarder is allowed to use it after 11pm**.
