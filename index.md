@@ -10,6 +10,16 @@ sections:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
   - infopic:
+      title: AHS Open House
+      subtitle: 22 Nov 2025 9am - 1pm
+      id: infopic
+      description: Click here to visit our Open House site for more information, such
+        as the schedule for Guided Tours, directions to AHS, and other FAQs!
+      button: Click here
+      url: https://go.gov.sg/ahsopenhouse2025
+      image: /images/open_house_2025.jpg
+      alt: Image alt text
+  - infopic:
       title: Soar at AHS
       button: Curriculum
       url: /curriculum/key-curriculum-approaches
