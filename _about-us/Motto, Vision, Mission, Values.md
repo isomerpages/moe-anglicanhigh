@@ -13,7 +13,7 @@ Aspiring towards Holiness And Righteousness
 Every AHS Student a Leader - Leading Honourably, Learning for Life, Creating Value for Others
 
 #### 使命 Mission Statement
-培养学生成为尊重传统并立志实践圣洁公义的人才，使他们富有创意，独立思考，好学不倦，具领导才能。<br>
+培养学生成为尊重传统、立志践行圣洁与公义的人才，使他们具备适应性思维和终身学习的精神，并成为富有同理心的领导者。<br>
 To nurture adaptive thinkers, lifelong learners, and compassionate leaders who uphold tradition and aspire towards holiness and righteousness.<br>
 
 #### 目标 Mission Objectives
