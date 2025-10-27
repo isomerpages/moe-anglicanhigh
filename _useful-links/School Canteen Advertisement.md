@@ -10,8 +10,8 @@ variant: markdown
 
 |Type of Stall|Closing Date|Operational Date|Proposed Menu|
 | -------- | -------- | -------- |-------- |
-| Muslim Food Stall (Rice/Noodles/Snacks)|16 Jul 2025 before 5pm| 15 Sep 2025 (preferably) |<b><u>Rice:</u></b><br>Nasi Briyani, Lontong, Nasi Lemak, Nasi Ayam, Nasi Pattaya, Malay Mixed Rice, Nasi Sambal Goreng <br><b><u>Noodles:</u></b><br>Mee Soto, Mee Goreng, Mee Rebus, Mee Siam, Fried Bee Hoon, Mee Hokkien<br>|
-| Noodle Stall |16 Jul 2025 before 5pm| 15 Sep 2025 (preferably) |Chicken/Pork chop noodles, Wanton Dumpling noodles, Fish Ball noodles, Minced Park noodles, Prawn noodles, Laksa, Hor Fun, Ban Mian <br>|
+| Muslim Food Stall (Rice/Noodles/Snacks)|10 Nov 2025 before 5pm| 02 Jan 2026 (preferably) |<b><u>Rice:</u></b><br>Nasi Briyani, Lontong, Nasi Lemak, Nasi Ayam, Nasi Pattaya, Malay Mixed Rice, Nasi Sambal Goreng <br><b><u>Noodles:</u></b><br>Mee Soto, Mee Goreng, Mee Rebus, Mee Siam, Fried Bee Hoon, Mee Hokkien<br>|
+| Noodle Stall |10 Nov 2025 before 5pm| 02 Jan 2026 (preferably) |Chicken/Pork chop noodles, Wanton Dumpling noodles, Fish Ball noodles, Minced Park noodles, Prawn noodles, Laksa, Hor Fun, Ban Mian <br>|
 
 
 **Requirements**
