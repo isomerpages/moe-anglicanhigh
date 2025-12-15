@@ -230,54 +230,54 @@ variant: markdown
     <td>nur_amalina_noorman@schools.gov.sg</td>
   </tr>
 	<tr>
-    <td>Mr Thomas Goh</td>
+    <td>Ms Loe Zi Ying</td>
     <td>1A</td>
-    <td>goh_wee_hong_thomas@schools.gov.sg</td>
+    <td>loe_zi_ying@schools.gov.sg</td>
   </tr>
  <tr>
-    <td>Mdm Lur Bee Cheng</td>
+    <td>Ms Michelle Lim</td>
     <td>1B</td>
-    <td>lur_bee_cheng@schools.gov.sg</td>
+    <td>lim_mei_yu_michelle@schools.gov.sg</td>
   </tr>
 	<tr>
-    <td>Mrs Shirley Koh</td>
+    <td>Mr Chua Song Guan</td>
     <td>1B</td>
-    <td>koh_shieh_ping_shirley@schools.gov.sg</td>
+    <td>chua_song_guan@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Ms Zahira</td>
+    <td>Ms Koh Jia Feng</td>
     <td>1C</td>
-    <td>nur_zahira_a@schools.gov.sg</td>
+    <td>jia_feng_koh@schools.gov.sg</td>
   </tr>
 	<tr>
-    <td>Ms Foong Shin Ann</td>
+    <td>Ms Lim Geok Lian</td>
     <td>1C</td>
-    <td>foong_shin_ann@schools.gov.sg</td>
-  </tr>
-	 <tr>
-    <td>Mr Poh Seng Kiat</td>
-    <td>1D</td>
-    <td>poh_seng_kiat@schools.gov.sg</td>
-  </tr>
-	<tr>
-    <td>Ms Sharon Tan</td>
-    <td>1D</td>
-    <td>tan_li_ern_sharon@schools.gov.sg</td>
+    <td>lim_geok_lian_a@schools.gov.sg</td>
   </tr>
 	 <tr>
     <td>Ms Trina Lin</td>
-    <td>1E</td>
+    <td>1D</td>
     <td>trina_lin@schools.gov.sg</td>
   </tr>
 	<tr>
-    <td>Mr Azmi</td>
-    <td>1E</td>
-    <td>azmi_a_rashid@schools.gov.sg</td>
+    <td>Mr Ben Cheah</td>
+    <td>1D</td>
+    <td>cheah_chien_lead@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Grace Cheng</td>
+    <td>Ms Sharon Tan</td>
+    <td>1E</td>
+    <td>tan_hwee_ling_sharon@schools.gov.sg</td>
+  </tr>
+	<tr>
+    <td>Mr Gavin Goh</td>
+    <td>1E</td>
+    <td>gavin_goh_cheng_eng@schools.gov.sg</td>
+  </tr>
+	 <tr>
+    <td>Ms Joanne Tan</td>
     <td>1F</td>
-    <td>cheng_leng_tuan_grace@schools.gov.sg</td>
+    <td>joanne_tan_mei_jing@schools.gov.sg</td>
   </tr>
 	 <tr>
     <td>Mdm Vera Chng</td>
@@ -285,34 +285,34 @@ variant: markdown
     <td>vera_chng@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Ms Stephanie Tan</td>
+    <td>Ms Tay Hui Xin</td>
     <td>1G</td>
-    <td>tan_jing_jing_stephanie@schools.gov.sg</td>
+    <td>tay_hui_xin@schools.gov.sg</td>
   </tr>
 	<tr>
-    <td>Mdm Lee Yilian</td>
+    <td>Mdm Neeta</td>
     <td>1G</td>
-    <td>lee_yilian@schools.gov.sg</td>
+    <td>neeta_ishwardas_rajwani@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Ms Koh Jia Feng</td>
+    <td>Mdm Esther</td>
     <td>1H</td>
-    <td>jia_feng_koh@schools.gov.sg</td>
+    <td>esther_jaichandar@schools.gov.sg</td>
   </tr>
 	<tr>
-    <td>Mr Yeo Meng Han</td>
+    <td>Mr Eric Bay</td>
     <td>1H</td>
-    <td>yeo_meng_han@schools.gov.sg</td>
+    <td>bay_ghim_cheong@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Norliza</td>
+    <td>Mdm Goh Yu Jie</td>
     <td>1J</td>
-    <td>norliza_adnan@schools.gov.sg</td>
+    <td>goh_yu_jie@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Ms Michelle Lim</td>
+    <td>Ms Wang Fang</td>
     <td>1J</td>
-    <td>lim_mei_yu_michelle@schools.gov.sg</td>
+    <td>wang_fang@schools.gov.sg</td>
   </tr>
 	
 </tbody></table>
