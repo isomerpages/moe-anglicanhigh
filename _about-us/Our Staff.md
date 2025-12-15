@@ -446,94 +446,74 @@ variant: markdown
 <table style="width:100%">
  
   <tbody><tr>
-    <td>Ms Loe Zi Ying</td>
+    <td>Ms Estee Chua</td>
     <td>4A</td>
-    <td>loe_zi_ying@schools.gov.sg</td>
+    <td>chua_ke_xin_estee@schools.gov.sg</td>
   </tr>
 	<tr>
-    <td>Mr Song Yong Hui</td>
+    <td>Mdm Hidayah</td>
     <td>4A</td>
-    <td>song_yonghui@schools.gov.sg</td>
+    <td>nur_hidayah_mohd_ismail@schools.gov.sg</td>
   </tr>
  <tr>
-    <td>Mr Tan Wei Li</td>
+    <td>Mdm Tay Keng Wei</td>
     <td>4B</td>
-    <td>tan_wei_li_a@schools.gov.sg</td>
+    <td>tay_keng_wei@schools.gov.sg</td>
   </tr>
 	<tr>
-    <td>Ms Wang Fang</td>
+    <td>Mr Chen Ze Hou</td>
     <td>4B</td>
-    <td>wang_fang@schools.gov.sg</td>
+    <td>chen_ze_hou@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Farahdilla</td>
+    <td>Mdm Sin Oi Leng</td>
     <td>4C</td>
-    <td>farahdilla_mohd_ariff@schools.gov.sg</td>
-  </tr>
-	<tr>
-    <td>Mr Luke Tan</td>
-    <td>4C</td>
-    <td>tan_xiu_quan_luke@schools.gov.sg</td>
-  </tr>
-	 <tr>
-    <td>Ms Sharon Tan Hwee Ling</td>
-    <td>4D</td>
-    <td>tan_hwee_ling_sharon@schools.gov.sg</td>
-  </tr>
-	<tr>
-    <td>Mr Clement Xiao</td>
-    <td>4D</td>
-    <td>xiao_yongda_clement@schools.gov.sg</td>
-  </tr>
-	 <tr>
-    <td>Ms Cheryl Tan</td>
-    <td>4E</td>
-    <td>jie_ning_tan@schools.gov.sg</td>
-  </tr>
-	<tr>
-    <td>Mr Chua Song Guan</td>
-    <td>4E</td>
-    <td>chua_song_guan@schools.gov.sg</td>
-  </tr>
-	 <tr>
-    <td>Mr Lim Ee Chiew</td>
-    <td>4F</td>
-    <td>lim_ee_chiew@schools.gov.sg</td>
-  </tr>
-	<tr>
-    <td>Ms Kok Ker Wei</td>
-    <td>4F</td>
-    <td>kok_ker_wei@schools.gov.sg</td>
-  </tr>
-	 <tr>
-    <td>Mr Richard Teo</td>
-    <td>4G</td>
-    <td>teo_seok_thian@schools.gov.sg</td>
-  </tr>
-	<tr>
-    <td>Mdm Chia Cher Eng</td>
-    <td>4G</td>
-    <td>chia_cher_eng@schools.gov.sg</td>
-  </tr>
-	 <tr>
-    <td>Mr David Khoo</td>
-    <td>4H</td>
-    <td>khoo_sheng_li_david@schools.gov.sg</td>
-  </tr>
-	<tr>
-    <td>Mdm Nurhidaya</td>
-    <td>4H</td>
-    <td>nurhidaya_omar@schools.gov.sg</td>
-  </tr>
-	 <tr>
-    <td>Mr Stanley Tan</td>
-    <td>4J</td>
-    <td>tan_eng_soon_stanley@schools.gov.sg</td>
+    <td>sin_oi_leng@schools.gov.sg</td>
   </tr>
 	<tr>
     <td>Mr Alaric Leong</td>
-    <td>4J</td>
+    <td>4C</td>
     <td>leong_keng_wah_alaric@schools.gov.sg</td>
+  </tr>
+	 <tr>
+    <td>Mr Shahid</td>
+    <td>4D</td>
+    <td>noor_shahid_noorahman@schools.gov.sg</td>
+  </tr>
+	<tr>
+    <td>Mdm Zahra</td>
+    <td>4D</td>
+    <td>sharifa_fatimatuzahra_a_r_a@schools.gov.sg</td>
+  </tr>
+	 <tr>
+    <td>Mdm Jocelyn Chew</td>
+    <td>4E</td>
+    <td>chew_li_ling_jocelyn@schools.gov.sg</td>
+  </tr>
+	<tr>
+    <td>Mr Tan Wei Li</td>
+    <td>4E</td>
+    <td>tan_wei_li_a@schools.gov.sg</td>
+  </tr>
+	 <tr>
+    <td>Mdm Song Ju Mei</td>
+    <td>4F</td>
+    <td>song_ju_mei@schools.gov.sg</td>
+  </tr>
+	 <tr>
+    <td>Mr Sylvester Chan</td>
+    <td>4G</td>
+    <td>sylvester_chan_chee_choong@schools.gov.sg</td>
+  </tr>
+	 <tr>
+    <td>Ms Sharon Tan</td>
+    <td>4H</td>
+    <td>tan_li_ern_sharon@schools.gov.sg</td>
+  </tr>
+	 <tr>
+    <td>Mr Teo Guang Long</td>
+    <td>4J</td>
+    <td>teo_guang_long@schools.gov.sg</td>
   </tr>
 	
 </tbody></table>
