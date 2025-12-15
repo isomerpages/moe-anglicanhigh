@@ -173,11 +173,7 @@ variant: markdown
 
 <table style="width:100%">
  
-  <tbody><tr>
-    <td>Mrs Chua Shu-Hui Audrey</td>
-    <td>陈淑慧</td>
-    <td>LT/ Chemistry</td>
-  </tr>
+  <tbody>
 	<tr>
     <td>Mdm Noriff Elyn Mohd Ariffin</td>
     <td>-</td>
@@ -195,7 +191,7 @@ variant: markdown
   </tr>
 		<tr>
     <td>Mr Philemon Foo</td>
-    <td></td>
+    <td>符之亮</td>
     <td>ST/ Learning Needs</td>
   </tr>
 	
