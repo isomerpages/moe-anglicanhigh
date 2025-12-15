@@ -374,79 +374,69 @@ variant: markdown
 <table style="width:100%">
  
   <tbody><tr>
-    <td>Mr Ben Cheah</td>
+    <td>Mdm Nurhidaya</td>
     <td>3A</td>
-    <td>cheah_chien_lead@schools.gov.sg</td>
+    <td>nurhidaya_omar@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Ms Estee Chua</td>
+    <td>Mdm Justine Ang</td>
     <td>3A</td>
-    <td>chua_ke_xin_estee@schools.gov.sg</td>
+    <td>ang_siok_eng_justine@schools.gov.sg</td>
   </tr>
  <tr>
-    <td>Ms Tay Keng Wei</td>
+    <td>Mdm Chia Cher Eng</td>
     <td>3B</td>
-    <td>tay_keng_wei@schools.gov.sg</td>
-  </tr>
-	<tr>
-    <td>Mr Chen Zehou</td>
-    <td>3B</td>
-    <td>chen_ze_hou@schools.gov.sg</td>
+    <td>chia_cher_eng@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Mr Paul Yuen</td>
+    <td>Mr Lim Ee Chiew</td>
     <td>3C</td>
-    <td>yuen_weiwen_paul@schools.gov.sg</td>
+    <td>lim_ee_chiew@schools.gov.sg</td>
   </tr>
 	<tr>
-    <td>Mdm Sin Oi Leng</td>
+    <td>Ms Raihan</td>
     <td>3C</td>
-    <td>sin_oi_leng@schools.gov.sg</td>
+    <td>raihan_mohamed_yusoff@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Mr Shahid</td>
+    <td>Mr Richard Teo</td>
     <td>3D</td>
-    <td>noor_shahid_noorahman@schools.gov.sg</td>
+    <td>teo_seok_thian@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Jocelyn Chew</td>
+    <td>Mr Luke Tan</td>
     <td>3E</td>
-    <td>chew_li_ling_jocelyn@schools.gov.sg</td>
+    <td>tan_xiu_quan_luke@schools.gov.sg</td>
   </tr>
 <tr>
- <td>Mr Gan Chin Koon</td>
+ <td>Mr Philemon Foo</td>
  <td>3F</td>
- <td>gan_chin_koon@schools.gov.sg</td>
+ <td>foo_tze_liang@schools.gov.sg</td>
  </tr>
 <tr>
-    <td>Mdm Song Jumei</td>
-    <td>3F</td>
-    <td>song_ju_mei@schools.gov.sg</td>
-</tr>
-<tr>
-    <td>Mr Philemon Foo</td>
+    <td>Mr Paul Yuen</td>
     <td>3G</td>
-    <td>foo_tze_liang@schools.gov.sg</td>
+    <td>yuen_weiwen_paul@schools.gov.sg</td>
 </tr>
 <tr>
-    <td>Ms Priyanka</td>
-    <td>3H</td>
-    <td>basu_roy_priyanka@schools.gov.sg</td>
+    <td>Mr Song Yonghui</td>
+    <td>3G</td>
+    <td>song_yonghui@schools.gov.sg</td>
   </tr>
 	<tr>
-    <td>Mr Kwek Jun Song</td>
+    <td>Ms Farahdilla</td>
     <td>3H</td>
-    <td>kwek_jun_song@schools.gov.sg</td>
+    <td>farahdilla_mohd_ariff@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Mr Teo Guang Long</td>
+    <td>Mr Timothy Liew</td>
     <td>3J</td>
-    <td>teo_guang_long@schools.gov.sg</td>
+    <td>liew_zherui_timothy@schools.gov.sg</td>
   </tr>
 	 <tr>
-    <td>Mdm Peng Li Rui</td>
-    <td>3J</td>
-    <td>peng_li_rui@schools.gov.sg</td>
+    <td>Mr David Khoo</td>
+    <td>3K</td>
+    <td>khoo_sheng_li_david@schools.gov.sg</td>
   </tr>
 	
 </tbody></table>
