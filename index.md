@@ -16,7 +16,7 @@ sections:
       description: Click here to visit our Sec 1 Registration site for more information.
       button: Click here
       url: https://sites.google.com/moe.edu.sg/ahs-secondary-one-registration
-      image: /images/About us/2025_Sec_1_Reg.jpg
+      image: /images/About us/2025_Sec1_Reg.jpg
       alt: Image alt text
   - infopic:
       title: Soar at AHS
