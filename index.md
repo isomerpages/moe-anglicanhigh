@@ -10,14 +10,13 @@ sections:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
   - infopic:
-      title: AHS Open House
-      subtitle: 22 Nov 2025 9am - 1pm
+      title: Sec 1 Registration
+      subtitle: 19 Dec 2025
       id: infopic
-      description: Click here to visit our Open House site for more information, such
-        as the schedule for Guided Tours, directions to AHS, and other FAQs!
+      description: Click here to visit our Sec 1 Registration site for more information.
       button: Click here
-      url: https://go.gov.sg/ahsopenhouse2025
-      image: /images/open_house_2025.jpg
+      url: https://sites.google.com/moe.edu.sg/ahs-secondary-one-registration
+      image: /images/About us/2025_Sec1_Reg.jpg
       alt: Image alt text
   - infopic:
       title: Soar at AHS
