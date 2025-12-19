@@ -13,7 +13,8 @@ sections:
       title: Sec 1 Registration
       subtitle: 19 Dec 2025
       id: infopic
-      description: Click here to visit our Sec 1 Registration site for more information.
+      description: Please refer to the Sec 1 Registration Site for appeals. Our COP is
+        12 for 2026 Sec One Cohort.
       button: Click here
       url: https://sites.google.com/moe.edu.sg/ahs-secondary-one-registration
       image: /images/About us/2025_Sec1_Reg.jpg
