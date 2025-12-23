@@ -24,7 +24,7 @@ variant: markdown
 1.17 Boarders are to be appropriately attired when in the common areas.
 
   
-1.2 Boarders shall be in study room from 7.45pm to 9.30pm from Sunday to Thursday.
+1.2 Boarders shall be in study room from 7.30pm to 9.00pm from Sunday to Thursday.
 
 1.21 Boarders shall attend all briefings and meetings when notified by the hostel office.
 
