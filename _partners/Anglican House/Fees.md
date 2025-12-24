@@ -11,7 +11,7 @@ variant: markdown
 
 ![](/images/Partners/Anglican%20House/2024_AnglicanHouse_Fee_1.jpg)
 
-![](/images/Partners/Anglican%20House/2025_AnglicanHouse_Fee_2.jpg)
+![](/images/Partners/Anglican%20House/2025_AnglicanHouse_Fee2.jpg)
 
 
 
