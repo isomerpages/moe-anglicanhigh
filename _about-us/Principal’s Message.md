@@ -6,7 +6,7 @@ variant: markdown
 ---
 <p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Principal" src="/images/About us/P_Mr_Alvin_2024.jpg"></div><p></p>
 
-<b>AHS70: Celebrate with Gratitude</b><br>
+<b><u>AHS70: Celebrate with Gratitude</u></b><br>
 
 <p align="justify">
 As Anglican High School looks ahead to its 70th anniversary in 2026, we do so with hearts filled with gratitude. The theme we have chosen, “Celebrate with Gratitude,” aptly reflects both the significance of this milestone and the posture of thanksgiving with which we approach it. By God’s grace, the school has grown from strength to strength within Singapore’s education landscape, nurturing generations of young men and women of character. These are individuals shaped by Anglican High School’s distinctive holistic education—one that integrates traditional Chinese community-centred values with a strong Christian ethos of love, service, and excellence.</p>
@@ -22,7 +22,7 @@ Finally, our celebration of Anglican High School’s journey is not for self-glo
 As we “Celebrate with Gratitude,” may our hearts be encouraged and our praises resound. The journey towards holiness and righteousness is ongoing, yet it is through this journey that character is shaped and community is built. All glory be to God alone.</p>
 
 
-<b>圣中七十：感恩欢庆</b><br>
+<b><u>圣中七十：感恩欢庆</u></b><br>
 
 <p align="justify">
 2026年，圣公会中学即将迎来七十周年校庆，为此，我们心存感恩。此次校庆的主题 —— 感恩欢庆，不仅充分体现了这个里程碑的重大意义，也凸显了我们心中无限的感恩。蒙神的恩典，我校多年来立足于本地教育界，并茁壮成长，力上加力，培育出一代代品学兼优的莘莘学子。他们都深受圣中独有的全面教育的熏陶 —— 一个融合了以群体为中心的传统华族价值观与以爱、奉献、卓越为核心的基督教精神的教育理念。</p>
