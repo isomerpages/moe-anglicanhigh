@@ -1,5 +1,5 @@
 ---
-title: Good Stories
+title: Media Features
 permalink: /achievements/good-stories/
 description: ""
 variant: markdown
