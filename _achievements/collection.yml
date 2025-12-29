@@ -2,6 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Good Stories.md
+      - Media Features.md
       - Academic Achievements.md
       - CCA Achievements.md
