@@ -74,13 +74,7 @@ variant: markdown
     <td>谭健雯</td>
     <td>HOD/ Humanities</td>
   </tr>
-	<tr>
-    <td>Mr Tay Kian Leng Patrick</td>
-    <td>郑健龙</td>
-    <td>HOD/ Information Communication Technology</td>
-  </tr>
- <tr>
-    <td>Mr William Tong</td>
+    <tr><td>Mr William Tong</td>
     <td>董俊永</td>
     <td>HOD/ PE &amp; CCA</td>
   </tr>
