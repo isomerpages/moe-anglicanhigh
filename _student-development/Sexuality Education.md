@@ -27,7 +27,7 @@ variant: markdown
 	
 You may [click here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-##### Overview Of Anglican High School’s Sexuality Education Programme For 2025
+##### Overview Of Anglican High School’s Sexuality Education Programme For 2026
 
 <p align="justify">
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.</p>
@@ -48,7 +48,7 @@ b. Character and Citizenship Education (CCE)
 <p align="justify">
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p>
 
-**At ANGLICAN HIGH SCHOOL, the following Sexuality Education lessons will be taught in 2025:**
+**At ANGLICAN HIGH SCHOOL, the following Sexuality Education lessons will be taught in 2026:**
 
 <b>SECONDARY 1</b><br>
 ![](/images/Student%20Development/Sexual%20Education/2025_Sexual_Edu_S1a.jpg)
@@ -78,7 +78,7 @@ b. Character and Citizenship Education (CCE)
 <p align="justify">
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</p>
 
-**At ANGLICAN HIGH SCHOOL, the <i>eTeens</i> programme will be implemented as follows in 2025:**
+**At ANGLICAN HIGH SCHOOL, the <i>eTeens</i> programme will be implemented as follows in 2026:**
 
 ![](/images/Student%20Development/Sexual%20Education/2025_eTeens_Programme.jpg)
 
@@ -90,13 +90,13 @@ b. Character and Citizenship Education (CCE)
 <p align="justify">
 	11. Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form.</p>
 
-This form will be communicated to parents at the start of the year and is also downloadable [[here]](/files/Sexual%20Education/AnnexA_GY_Parent_Opt_Out_form_Sec_2025.pdf)  The completed form is to be submitted by 03/02/2025.
+This form will be communicated to parents at the start of the year and is also downloadable [[here]](/files/Sexual%20Education/AnnexA_Parent_Opt_Out_form_Sec_2026.pdf)  The completed form is to be submitted by 04/02/2026.
 
 
 <p align="justify">
 	12. Parents who wish to opt their children out of the <b><i>eTeens</i> programme</b> need to complete an opt-out form. </p>
 	
-This form will be communicated to parents at the start of the year and is also downloadable [[here]](/files/Sexual%20Education/AnnexB_eTeens_Parent_Opt_Out_form_Sec_2025.pdf) The completed form is to be submitted by 21/07/2025.
+This form will be communicated to parents at the start of the year and is also downloadable [[here]](/files/Sexual%20Education/AnnexB_eTeens_Parent_Opt_Out_form_Sec_2026.pdf) The completed form is to be submitted by 22/07/2026.
 
 <p align="justify">
 13. Parents can contact the school at 62414866 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
