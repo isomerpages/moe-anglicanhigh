@@ -21,7 +21,7 @@ iCON)</p>
 <p>-&nbsp;Artificial Intelligence (AI) tools and applications</p>
 <p>For more information, please refer to:</p>
 <p>Student Kit on Cyber Wellness and Learning with a Personal Learning Device
-(Secondary) – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkit</a>
+(Secondary) - <a href="https://go.gov.sg/cw-studentkit" rel="noopener nofollow" target="_blank">https://go.gov.sg/cw-studentkit</a>
 </p>
 <p></p>
 <p><strong>General</strong>
