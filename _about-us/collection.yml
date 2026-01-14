@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Acceptable Use Policy.md
       - Principal’s Message.md
       - Motto, Vision, Mission, Values.md
       - School Crest & Song, Eagles Creed.md
@@ -18,6 +17,7 @@ collections:
       - AHS Newsletter.md
       - Basic Non Financial Information.md
       - FAQs.md
+      - Acceptable Use Policy.md
       - Announcements.md
       - Contact Us.md
       - School Corporate Video.md
