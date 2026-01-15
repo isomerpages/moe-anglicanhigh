@@ -10,7 +10,7 @@ variant: markdown
 
 |Type of Stall|Closing Date|Operational Date|Proposed Menu|
 | -------- | -------- | -------- |-------- |
-| Muslim Food Stall (Rice/Noodles/Snacks)|NA| NA |<b><u>Rice:</u></b><br>Nasi Briyani, Nasi Lemak, Nasi Ayam, Nasi Pattaya, Nasi Sambal Goreng, Rice with dishes, Lontong, etc <br><b><u>Noodles:</u></b><br>Mee Soto, Mee Goreng, Mee Rebus, Mee Siam, Bee Hoon Goreng, Mee Hokkien, etc<br>|
+| NA|NA| NA |<b><u>Rice:</u></b><br>Nasi Briyani, Nasi Lemak, Nasi Ayam, Nasi Pattaya, Nasi Sambal Goreng, Rice with dishes, Lontong, etc <br><b><u>Noodles:</u></b><br>Mee Soto, Mee Goreng, Mee Rebus, Mee Siam, Bee Hoon Goreng, Mee Hokkien, etc<br>|
 | Chinese Noodle Stall |30 Jan 2026 before 5pm| 02 Mar 2026 (preferably) |Chicken/Pork noodles, Wanton/Dumpling noodles, Fish Ball noodles, Minced Park noodles, Prawn noodles, Laksa, Hor Fun, Ban Mian <br>|
 
 
