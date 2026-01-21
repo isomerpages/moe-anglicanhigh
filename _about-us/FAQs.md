@@ -23,7 +23,7 @@ A:	Anglican High School is served by a number of bus services. They are 2, 9, 12
 
 **Q:	What is the cut-off point for Anglican High School?**
 
-A: The cut-off point varies from year to year. The PSLE score range is 4 to 12. 
+A: The cut-off point varies from year to year. The PSLE score range is 4 to 12 for the 2026 Sec 1 cohort. 
  	 
 **Q:	Do students taking Higher Chinese Language (HCL) have priority for admission to Anglican High School during posting?**
 
