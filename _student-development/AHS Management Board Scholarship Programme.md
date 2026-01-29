@@ -28,7 +28,6 @@ The AHSMB Scholarship is awarded to students who demonstrate both strong potenti
 </p>
 
 
-
 | Thinking Critically and Adaptively | Interacting with Others | Future-Readiness |
 | -------- | -------- | -------- |
 | Creative Thinking     | Communication     | Self-management     |
@@ -38,34 +37,24 @@ The AHSMB Scholarship is awarded to students who demonstrate both strong potenti
 |Decision-Making | | |
 |Sense Making | | |
 
+##### Eligibility and Shortlisting Considerations
+In shortlisting students for the selection interview, the following considerations are taken into account (in no order of priority):
+
+* Consistently demonstrated good character and values, including 21CC competencies, evidenced through teachers’ observations and feedback
+* Evidence of strong leadership potential within the class or CCA, or prior leadership experience in primary school
+* Academic performance (within the top 10% of the cohort, based on overall school results)
 
 
-
-
-##### Eligibility Criteria
-Students must satisfy the following eligibility criteria before they can be considered for AHSMB Scholarships:
-
-(a) Applicants must be enrolled in Secondary 1 in Anglican High School;<br>
-(b) Applicants must be among top 10% of the Secondary 1 cohort in terms of academic excellence (based on PSLE results);
-<br>
-(c) Applicants must attain a conduct grade of very good or better;<br>
-(d) Applicants must, on a consistent basis, demonstrate good character and values; and<br>
-(e) Applicants should demonstrate leadership skills within class or CCA, or have assumed leadership appointments in primary school.<br>
-
-##### Application
-
+##### Approval and Notification
 <p align="justify">
-Application for the Scholarship opens at the end of Secondary 1 Term 1, and closes two weeks after. Application forms and links will be communicated via Parents Gateway.</p>
-
-##### Approval and Notification of applicants
-<p align="justify">
-Short-listed applicants will be notified to come for an interview. Successful applicants will be informed in writing and the decision of the Committee is final.</p>
+Shortlisted applicants will be invited for an interview. Successful candidates will be notified in writing and the decision of the Committee is final.</p>
 
 ##### Scholarship Renewal
-Renewal of the scholarship at the end of Year 1, 2 and 3 will be subjected to the following conditions.<br>
-*    All scholars are expected to display exemplary conduct and maintain good CCA records.<br>
-*    All scholars must be among top 20% in their overall academic results. Recipients should preferably score distinctions for both English Language and Chinese Language.<br>
+Renewal of the scholarship will be subject to the following conditions:<br>
+* Attendance at all Milestone Programmes
+* Very good conduct and CCA records
+* Strong overall academic performance 
+
 
 ##### Others
-*  The AHSMB Scholarships Committee reserves the right to amend the Rules and Regulations pertaining to these scholarships whenever necessary.<br>
-*  Recipients are responsible for notifying the Committee in writing regarding any change in their personal particulars.<br>
+The AHSMB Scholarship Committee reserves the right to amend the rules and regulations pertaining to these scholarships whenever necessary. 
