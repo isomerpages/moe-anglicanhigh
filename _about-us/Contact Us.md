@@ -23,7 +23,7 @@ Fax: (65) 6441 4690 <br>
 Nearest MRT station: Tanah Merah MRT<br>
 Buses : 2, 9, 12, 14, 24, 25, 31, 35, 38, 45, 46, 47, 48, 222 and 506<br>
 
-Drop-off Points at AHS
+
 ![](/images/About%20us/Contact%20Us/ahs_drop_off_point.jpg)
 
 <b>Gate Opening/Closing Information</b><br>
@@ -36,5 +36,3 @@ Friday (Late Start &amp; HBL Morning)<br>
 HBL Friday for CCA students (Afternoon)<br>
 1.30pm to 2.45pm<br>
 After 2.45pm (exit only)<br>
-
-
