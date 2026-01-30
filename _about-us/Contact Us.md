@@ -26,13 +26,13 @@ Buses : 2, 9, 12, 14, 24, 25, 31, 35, 38, 45, 46, 47, 48, 222 and 506<br>
 
 ![](/images/About%20us/Contact%20Us/ahs_drop_off_point.jpg)
 
-<b>Gate Opening/Closing Information</b><br>
-Monday to Thursday<br>
-6.30am to 7.45am<br>
-1.30pm onward (exit only) <br><br>
-Friday (Late Start &amp; HBL Morning)<br>
-6.30am to 8.55am<br>
-1.30pm (exit only)<br><br>
-HBL Friday for CCA students (Afternoon)<br>
-1.30pm to 2.45pm<br>
+<b>Gate Opening Information</b><br>
+<u>Monday to Thursday</u><br>
+6.30am to 7.45am (entry and exit)<br>
+After 1.30pm (exit only) <br><br>
+<u>Friday (Late Start &amp; HBL Morning)</u><br>
+6.30am to 8.55am (entry and exit)<br>
+After 1.30pm (exit only)<br><br>
+<u>HBL Friday for CCA students (Afternoon)</u><br>
+1.30pm to 2.45pm (entry and exit)<br>
 After 2.45pm (exit only)<br>
