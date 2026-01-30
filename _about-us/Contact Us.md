@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /about-us/contact-us/
 description: ""
+variant: markdown
 ---
 ##### Address
 
@@ -21,3 +22,18 @@ Fax: (65) 6441 4690 <br>
 	
 Nearest MRT station: Tanah Merah MRT<br>
 Buses : 2, 9, 12, 14, 24, 25, 31, 35, 38, 45, 46, 47, 48, 222 and 506<br>
+
+
+![](/images/About%20us/Contact%20Us/ahs_drop_off_point.jpg)
+
+<b>Gate Opening Information</b><br>
+<u>Monday to Thursday</u><br>
+6.30am to 7.45am (entry and exit)<br>
+After 1.30pm (exit only) <br><br>
+<u>Late-Start Friday </u><br>
+6.30am to 8.55am (entry and exit)<br>
+After 1.30pm (exit only)<br><br>
+<u>HBL Friday</u><br>
+6.30am to 8.55am (entry and exit)<br>
+1.30pm to 2.45pm (entry and exit)<br>
+After 2.45pm (exit only)<br>
