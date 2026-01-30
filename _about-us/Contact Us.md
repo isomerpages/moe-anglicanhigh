@@ -30,9 +30,10 @@ Buses : 2, 9, 12, 14, 24, 25, 31, 35, 38, 45, 46, 47, 48, 222 and 506<br>
 <u>Monday to Thursday</u><br>
 6.30am to 7.45am (entry and exit)<br>
 After 1.30pm (exit only) <br><br>
-<u>Friday (Late Start &amp; HBL Morning)</u><br>
+<u>Late-Start Friday </u><br>
 6.30am to 8.55am (entry and exit)<br>
 After 1.30pm (exit only)<br><br>
-<u>HBL Friday for CCA students (Afternoon)</u><br>
+<u>HBL Friday</u><br>
+6.30am to 8.55am (entry and exit)<br>
 1.30pm to 2.45pm (entry and exit)<br>
 After 2.45pm (exit only)<br>
