@@ -9,10 +9,16 @@ sections:
   - hero:
       background: /images/ahshero.gif
       title: Every  AHS  Student                   A Leader
-      key_highlights:
-        - title: Release of 2025 GCE O Level Results
-          description: Click here for details
-          url: /about-us/announcements/
+  - infopic:
+      title: Open House 2026
+      subtitle: 18 April 2026
+      id: infopic
+      description: Visit our Open House site for more information on the programme
+        outline, performance schedules and guided tours.
+      button: Click here for more information
+      url: http://go.gov.sg/ahsopenhouse2026
+      image: /images/open_house_2026.jpg
+      alt: Image alt text
   - infopic:
       title: Soar at AHS
       button: Curriculum
