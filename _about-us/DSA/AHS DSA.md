@@ -5,12 +5,12 @@ description: ""
 third_nav_title: DSA
 variant: markdown
 ---
-##### Direct School Admission 2025
+##### Direct School Admission 2026
 
 <p align="justify">
 Anglican High School (AHS) is a Mission, Special Assistance Plan (SAP) and Autonomous school guided by its core values: Holiness, Righteousness, Respect, Loyalty, Responsibility &amp; Perseverance. It is the school’s vision to be a vibrant learning community where we endeavor to develop <b>Every AHS Student to be a Leader – Leading Honourably, Learning for Life, Creating Values for Others.</b><br></p>
 
-For DSA 2025, Anglican High School will offer these talents for Primary 6 students.
+For DSA 2026, Anglican High School will offer these talents for Primary 6 students.
 
 
 | S/N | DSA Main Category | DSA Talent Area |
@@ -35,22 +35,22 @@ All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal. Pros
 
 <b><u>Application Procedures</u></b>
 
-- Online Application Period for 2025 DSA-SEC is through the centralized DSA-Sec Portal. For more details, please refer to MOE DSA website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+- Online Application Period for 2026 DSA-SEC is through the centralized DSA-Sec Portal. For more details, please refer to MOE DSA website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
-- Opens : 7 May 2025, 11am
-- Closes : 3 June 2025, 3pm
+- Opens : 6 May 2026, 11am
+- Closes : 2 June 2026, 4.30pm
 
-- For applicants studying in MOE mainstream primary schools: Only one parent’s SingPass is needed to log in. If parent/guardian is unable to apply online, they can approach the child’s primary school for assistance.
+- <b>Students from MOE mainstream primary schools</b>: Parents may log in directly to DSA-Sec Portal. Only one parent’s SingPass is required. Parents who are unable to apply online can approach their child’s primary school for assistance.
 
-- Students who are not studying in MOE mainstream primary schools have to obtain a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Schools may refer them to MOE website at: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
+- <b>Non-mainstream students</b> (i.e., not studying in MOE mainstream primary schools). Students will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to  MOE website at: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application) for more information.
 
-- An applicant can indicate <u>up to three choices.</u> Each choice consists of a secondary school and a talent area offered by that secondary school. Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
+- <b>Choices</b>. An applicant can indicate <u>up to three choices.</u> Each choice consists of a secondary school and a talent area offered by that secondary school. Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
 
 - Anglican High School is a Special-Assistance Plan (SAP) school. All students enrolled must offer Higher Chinese# / Chinese as their Mother Tongue Language. <i>(#Note - Only students who receives MOE letter may opt to offer Higher Chinese.)</i>
 - Anglican High School only offers <u>Posting Group 3</u> for student enrolment.
 
 <p align="justify">
-	Shortlisted students will be notified through <u>email latest by <b>4 July 2025</b></u> of the date and time to attend the selection tests/auditions/interviews held in Anglican High School. These tests/auditions/interviews will be conducted from 12 July to 4 September. The DSA-Sec schools will be conducting in-person selection for all DSA talent areas for 2025 DSA-Sec.</p>
+	Shortlisted students will be notified through <u>email latest by <b>4 July 2026</b></u> of the date and time to attend the selection tests/auditions/interviews held in Anglican High School. These tests/auditions/interviews will be conducted from 11 July to 28 August. The DSA-Sec schools will be conducting in-person selection for all DSA talent areas for 2026 DSA-Sec.</p>
 
 - Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
@@ -58,7 +58,7 @@ All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal. Pros
 
 <b><u>Notification of Results</u></b>
 
-- Emails informing applicants on the outcome <u>(Confirmed/Waiting/Unsuccessful)</u> of the application will be issued betwen <u>25 August and 4 September 2025</u>.
+- Emails informing applicants on the outcome <u>(Confirmed/Waiting/Unsuccessful)</u> of the application will be issued betwen <u>17 - 28 August 2026</u>.
 
 - No information will be released over the telephone.
 
@@ -67,8 +67,8 @@ All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal. Pros
 
 |  |  |
 | -------- | -------- | 
-| Online DSA Application (for Sports, Language, Uniformed Groups, Performing Arts and Club) | 7 May 2025, 11am to 3 June 2025, 3pm     | 
-| Sports, Language, Uniformed Groups, Performing Arts and Club audition and interview | 12 July 2025 to 4 Sep 2025<br>(Only <b><u>shortlisted applicants</u></b> will be notified of the date and time to attend the selection tests/auditions/interviews in person) 
+| Online DSA Application (for Sports, Language, Uniformed Groups, Performing Arts and Club) | 6 May 2026, 11am to 2 June 2026, 4.30pm     | 
+| Sports, Language, Uniformed Groups, Performing Arts and Club audition and interview | 11 July 2026 to 28 Aug 2026<br>(Only <b><u>shortlisted applicants</u></b> will be notified of the date and time to attend the selection tests/auditions/interviews in person) 
 
 <p align="justify">
 Students who are interested to apply for Direct School Admission to Anglican High School, please refer to the <b><u>different Domain tabs</u></b> for more information.</p>
