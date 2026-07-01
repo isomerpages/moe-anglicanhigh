@@ -264,8 +264,8 @@ variant: markdown
     <td></td>
   </tr>
 	 <tr>
-    <td>Ms Sharon Tan</td>
-    <td>1E</td>
+    <td></td>
+    <td></td>
     <td></td>
   </tr>
 	<tr>
