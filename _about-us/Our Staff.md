@@ -264,8 +264,8 @@ variant: markdown
     <td></td>
   </tr>
 	 <tr>
-    <td>Ms Sharon Tan</td>
-    <td>1E</td>
+    <td></td>
+    <td></td>
     <td></td>
   </tr>
 	<tr>
@@ -490,8 +490,8 @@ variant: markdown
     <td></td>
   </tr>
 	<tr>
-    <td>Mr Tan Wei Li</td>
-    <td>4E</td>
+    <td></td>
+    <td></td>
     <td></td>
   </tr>
 	 <tr>
